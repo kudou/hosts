@@ -23464,7 +23464,7 @@
 180.97.220.33
 80.82.64.133
 199.180.133.145
-# ##### start block list from badips.com -- DO NOT EDIT #####
+# ##### start block list -- DO NOT EDIT #####
 ALL: 118.244.181.33
 ALL: 180.151.58.244
 ALL: 60.191.232.54
@@ -46931,4 +46931,4 @@ ALL: 198.154.63.79
 ALL: 180.97.220.33
 ALL: 80.82.64.133
 ALL: 199.180.133.145
-# ##### end block list from badips.com #####
+# ##### end  block list #####
