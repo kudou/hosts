@@ -7156,11 +7156,8 @@
 
 0.0.0.0	inscreen.widespace.com
 
-0.0.0.0	zeroredirect1.com
 
-0.0.0.0	zs1.zeroredirect1.com
 
-0.0.0.0	za2.zeroredirect8.com
 
 0.0.0.0	t.zqtk.net
 
@@ -7376,7 +7373,6 @@
 
 0.0.0.0	app.yieldify.com
 
-0.0.0.0	zm1.zeroredirect5.com
 
 
 
@@ -8152,15 +8148,10 @@
 
 0.0.0.0	a3.websitealive.com
 
-0.0.0.0	zb.zeroredirect1.com
 
-0.0.0.0	zc.zeroredirect1.com
 
-0.0.0.0	zd1.zeroredirect6.com
 
-0.0.0.0	ze1.zeroredirect1.com
 
-0.0.0.0	zh1.zeroredirect11.com
 
 
 
@@ -19636,7 +19627,6 @@
 
 0.0.0.0	uoljunocom2.112.2o7.net
 
-0.0.0.0	uolnetzeronet2.112.2o7.net
 
 0.0.0.0	uolphotosite.112.2o7.net
 
@@ -22324,7 +22314,6 @@
 
 0.0.0.0	pipedream.wistia.com
 
-0.0.0.0	click.zeroclickdirect.com
 
 
 
