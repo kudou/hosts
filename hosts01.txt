@@ -3496,9 +3496,7 @@
 
 0.0.0.0	a.zepozipo.com
 
-0.0.0.0	a.zeroredirect.com
 
-0.0.0.0	a.zeroredirect1.com
 
 0.0.0.0	a.zinovila.com
 
@@ -39586,9 +39584,7 @@
 
 0.0.0.0	b.zedo.com
 
-0.0.0.0	b.zeroredirect.com
 
-0.0.0.0	b.zeroredirect1.com
 
 0.0.0.0	b0bsi.voluumtrk.com
 
@@ -45188,7 +45184,6 @@
 
 0.0.0.0	c.xbox.com
 
-0.0.0.0	c.zeroredirect1.com
 
 0.0.0.0	c01.brickoffers.com
 
@@ -51156,9 +51151,7 @@
 
 0.0.0.0	d.yimg.com
 
-0.0.0.0	d.zeroredirect.com
 
-0.0.0.0	d.zeroredirect1.com
 
 0.0.0.0	d00.sina.com.cn
 
@@ -52992,9 +52985,7 @@
 
 0.0.0.0	e.zedo.com
 
-0.0.0.0	e.zeroredirect.com
 
-0.0.0.0	e.zeroredirect1.com
 
 0.0.0.0	e0.extreme-dm.com
 
@@ -54332,9 +54323,7 @@
 
 0.0.0.0	f.tracking.goodgamestudios.com
 
-0.0.0.0	f.zeroredirect.com
 
-0.0.0.0	f.zeroredirect1.com
 
 0.0.0.0	f0nuq.voluumtrk.com
 
@@ -56290,11 +56279,8 @@
 
 0.0.0.0	g.zedo.com
 
-0.0.0.0	g.zeroredirect.com
 
-0.0.0.0	g.zeroredirect1.com
 
-0.0.0.0	g.zeroredirect2.com
 
 0.0.0.0	g0ffs.voluumtrk.com
 
@@ -57612,11 +57598,8 @@
 
 0.0.0.0	h.zedo.com
 
-0.0.0.0	h.zeroredirect.com
 
-0.0.0.0	h.zeroredirect1.com
 
-0.0.0.0	h.zeroredirect2.com
 
 0.0.0.0	h1.flashvortex.com
 
@@ -58448,11 +58431,8 @@
 
 0.0.0.0	i.xx.openx.com
 
-0.0.0.0	i.zeroredirect.com
 
-0.0.0.0	i.zeroredirect1.com
 
-0.0.0.0	i.zeroredirect2.com
 
 0.0.0.0	i1-j1-18-7-1-13335-2395654547-i.init.cedexis-radar.net
 
@@ -59972,11 +59952,8 @@
 
 0.0.0.0	j.sahcdn.com
 
-0.0.0.0	j.zeroredirect.com
 
-0.0.0.0	j.zeroredirect1.com
 
-0.0.0.0	j.zeroredirect2.com
 
 0.0.0.0	j0q3w.voluumtrk.com
 
@@ -60438,11 +60415,8 @@
 
 0.0.0.0	k.ilius.net
 
-0.0.0.0	k.zeroredirect.com
 
-0.0.0.0	k.zeroredirect1.com
 
-0.0.0.0	k.zeroredirect2.com
 
 0.0.0.0	k30mn.voluumtrk.com
 
@@ -60806,11 +60780,8 @@
 
 0.0.0.0	l.sharethis.com
 
-0.0.0.0	l.zeroredirect.com
 
-0.0.0.0	l.zeroredirect1.com
 
-0.0.0.0	l.zeroredirect2.com
 
 0.0.0.0	l1.zedo.com
 
@@ -61996,11 +61967,8 @@
 
 0.0.0.0	m.xvideos.fr
 
-0.0.0.0	m.zeroredirect.com
 
-0.0.0.0	m.zeroredirect1.com
 
-0.0.0.0	m.zeroredirect2.com
 
 0.0.0.0	m08hh.voluumtrk.com
 
@@ -63786,11 +63754,8 @@
 
 0.0.0.0	n.targetdtracker.com
 
-0.0.0.0	n.zeroredirect.com
 
-0.0.0.0	n.zeroredirect1.com
 
-0.0.0.0	n.zeroredirect2.com
 
 0.0.0.0	n0cgi.distributed.net
 
@@ -64610,11 +64575,8 @@
 
 0.0.0.0	o.zedo.com
 
-0.0.0.0	o.zeroredirect.com
 
-0.0.0.0	o.zeroredirect1.com
 
-0.0.0.0	o.zeroredirect2.com
 
 0.0.0.0	o0.winfuture.de
 
@@ -65770,11 +65732,8 @@
 
 0.0.0.0	p.yigao.com
 
-0.0.0.0	p.zeroredirect.com
 
-0.0.0.0	p.zeroredirect1.com
 
-0.0.0.0	p.zeroredirect2.com
 
 0.0.0.0	p1.tcr111.tynt.com
 
@@ -67712,11 +67671,8 @@
 
 0.0.0.0	q.stripe.com
 
-0.0.0.0	q.zeroredirect.com
 
-0.0.0.0	q.zeroredirect1.com
 
-0.0.0.0	q.zeroredirect2.com
 
 0.0.0.0	q1blk.voluumtrk.com
 
@@ -67976,11 +67932,8 @@
 
 0.0.0.0	r.yieldkit.com
 
-0.0.0.0	r.zeroredirect.com
 
-0.0.0.0	r.zeroredirect1.com
 
-0.0.0.0	r.zeroredirect2.com
 
 0.0.0.0	r0d2x.voluumtrk.com
 
@@ -69168,11 +69121,8 @@
 
 0.0.0.0	s.yjtag.jp
 
-0.0.0.0	s.zeroredirect.com
 
-0.0.0.0	s.zeroredirect1.com
 
-0.0.0.0	s.zeroredirect2.com
 
 0.0.0.0	s.zkcdn.net
 
@@ -72648,11 +72598,8 @@
 
 0.0.0.0	t.zedo.com
 
-0.0.0.0	t.zeroredirect.com
 
-0.0.0.0	t.zeroredirect1.com
 
-0.0.0.0	t.zeroredirect2.com
 
 0.0.0.0	t0.c.appier.net
 
@@ -73124,7 +73071,6 @@
 
 0.0.0.0	tennessean.us.intellitxt.com
 
-0.0.0.0	tenzero.com
 
 0.0.0.0	tenzing.fmpub.net
 
@@ -73862,7 +73808,6 @@
 
 0.0.0.0	track.netshelter.net
 
-0.0.0.0	track.netzero.net
 
 0.0.0.0	track.ning.com
 
@@ -74950,11 +74895,8 @@
 
 0.0.0.0	u.outbrain.com
 
-0.0.0.0	u.zeroredirect.com
 
-0.0.0.0	u.zeroredirect1.com
 
-0.0.0.0	u.zeroredirect2.com
 
 0.0.0.0	u0.extreme-dm.com
 
@@ -75996,11 +75938,8 @@
 
 0.0.0.0	v.zedo.com
 
-0.0.0.0	v.zeroredirect.com
 
-0.0.0.0	v.zeroredirect1.com
 
-0.0.0.0	v.zeroredirect2.com
 
 0.0.0.0	v0.extreme-dm.com
 
@@ -83512,11 +83451,8 @@
 
 0.0.0.0	w.usabilla.com
 
-0.0.0.0	w.zeroredirect.com
 
-0.0.0.0	w.zeroredirect1.com
 
-0.0.0.0	w.zeroredirect2.com
 
 0.0.0.0	w0.extreme-dm.com
 
@@ -89504,7 +89440,6 @@
 
 0.0.0.0	www.tenantrymishdg.download
 
-0.0.0.0	www.tenzero.com
 
 0.0.0.0	www.terraads.net
 
@@ -90242,7 +90177,6 @@
 
 0.0.0.0	www.zergnet.com
 
-0.0.0.0	www.zeroredirect1.com
 
 0.0.0.0	www.zetatrk.com
 
@@ -90568,11 +90502,8 @@
 
 0.0.0.0	x.zedo.com
 
-0.0.0.0	x.zeroredirect.com
 
-0.0.0.0	x.zeroredirect1.com
 
-0.0.0.0	x.zeroredirect2.com
 
 0.0.0.0	x1.ifdef.jp
 
@@ -90972,11 +90903,8 @@
 
 0.0.0.0	y.zedo.com
 
-0.0.0.0	y.zeroredirect.com
 
-0.0.0.0	y.zeroredirect1.com
 
-0.0.0.0	y.zeroredirect2.com
 
 0.0.0.0	y0.extreme-dm.com
 
@@ -91164,11 +91092,8 @@
 
 0.0.0.0	z.zedo.com
 
-0.0.0.0	z.zeroredirect.com
 
-0.0.0.0	z.zeroredirect1.com
 
-0.0.0.0	z.zeroredirect2.com
 
 0.0.0.0	z0.extreme-dm.com
 
@@ -91176,31 +91101,21 @@
 
 0.0.0.0	z1.zedo.com
 
-0.0.0.0	z1.zeroredirect1.com
 
-0.0.0.0	z2.zeroredirect1.com
 
-0.0.0.0	z3.zeroredirect1.com
 
-0.0.0.0	z4.zeroredirect1.com
 
-0.0.0.0	z5.zeroredirect1.com
 
 0.0.0.0	z5x.net
 
-0.0.0.0	z6.zeroredirect1.com
 
-0.0.0.0	z7.zeroredirect1.com
 
 0.0.0.0	z7ale.go2cloud.org
 
-0.0.0.0	z8.zeroredirect1.com
 
-0.0.0.0	z9.zeroredirect1.com
 
 0.0.0.0	za.delta-boa.com
 
-0.0.0.0	za.zeroredirect1.com
 
 0.0.0.0	za1.delta-boa.com
 
@@ -91232,15 +91147,11 @@
 
 0.0.0.0	zapads.zapak.com
 
-0.0.0.0	zb.zeroredirect1.com
 
-0.0.0.0	zc.zeroredirect1.com
 
-0.0.0.0	zc.zeroredirect2.com
 
 0.0.0.0	zc2.quebec-bin.com
 
-0.0.0.0	zd.zeroredirect1.com
 
 0.0.0.0	zdau-builder.122.2o7.net
 
@@ -91254,7 +91165,6 @@
 
 0.0.0.0	zdorovayaspina.justclick.ru
 
-0.0.0.0	ze.zeroredirect1.com
 
 0.0.0.0	zeads.com
 
@@ -91282,9 +91192,7 @@
 
 0.0.0.0	zerezas.com
 
-0.0.0.0	zeroredirect.com
 
-0.0.0.0	zeroredirect1.com
 
 0.0.0.0	zetatrk.com
 
@@ -91294,11 +91202,8 @@
 
 0.0.0.0	zeuscpa.go2cloud.org
 
-0.0.0.0	zf.zeroredirect1.com
 
-0.0.0.0	zg.zeroredirect1.com
 
-0.0.0.0	zh.zeroredirect1.com
 
 0.0.0.0	zhanzhang.net
 
@@ -91306,7 +91211,6 @@
 
 0.0.0.0	zhurqeyscbidet.review
 
-0.0.0.0	zi.zeroredirect1.com
 
 0.0.0.0	ziffdavisglobal.112.2o7.net
 
@@ -91332,37 +91236,22 @@
 
 0.0.0.0	zj.dcys.ksmobile.com
 
-0.0.0.0	zj.zeroredirect1.com
 
-0.0.0.0	zk.zeroredirect1.com
 
-0.0.0.0	zk1.zeroredirect1.com
 
-0.0.0.0	zk10.zeroredirect1.com
 
-0.0.0.0	zk2.zeroredirect1.com
 
-0.0.0.0	zk3.zeroredirect1.com
 
-0.0.0.0	zk4.zeroredirect1.com
 
-0.0.0.0	zk5.zeroredirect1.com
 
-0.0.0.0	zk6.zeroredirect1.com
 
-0.0.0.0	zk7.zeroredirect1.com
 
-0.0.0.0	zk8.zeroredirect1.com
 
-0.0.0.0	zk9.zeroredirect1.com
 
-0.0.0.0	zl.zeroredirect1.com
 
-0.0.0.0	zm.zeroredirect1.com
 
 0.0.0.0	zmedia.com
 
-0.0.0.0	zn.zeroredirect1.com
 
 0.0.0.0	zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
 
@@ -91376,7 +91265,6 @@
 
 0.0.0.0	zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com
 
-0.0.0.0	zo.zeroredirect1.com
 
 0.0.0.0	zokidif.com
 
@@ -91398,25 +91286,20 @@
 
 0.0.0.0	zortinah.com
 
-0.0.0.0	zp.zeroredirect1.com
 
-0.0.0.0	zq.zeroredirect1.com
 
 0.0.0.0	zqojpysorkiddiewink.review
 
-0.0.0.0	zr.zeroredirect1.com
 
 0.0.0.0	zs.dhl.de
 
 0.0.0.0	zs.ffshrine.org
 
-0.0.0.0	zs.zeroredirect1.com
 
 0.0.0.0	zs0s5xfe.com
 
 0.0.0.0	zt.1rx.io
 
-0.0.0.0	zt.zeroredirect1.com
 
 0.0.0.0	ztapobanefuller.review
 
@@ -91424,25 +91307,20 @@
 
 0.0.0.0	ztrack.pw
 
-0.0.0.0	zu.zeroredirect1.com
 
 0.0.0.0	zulu.go2cloud.org
 
 0.0.0.0	zulumob.go2cloud.org
 
-0.0.0.0	zv.zeroredirect1.com
 
-0.0.0.0	zw.zeroredirect1.com
 
 0.0.0.0	zww.ero-advertising.com
 
-0.0.0.0	zx.zeroredirect1.com
 
 0.0.0.0	zxtrace.com
 
 0.0.0.0	zxypenguin.people-group.su
 
-0.0.0.0	zy.zeroredirect1.com
 
 0.0.0.0	zyiztazhfprochain.review
 
@@ -91450,7 +91328,6 @@
 
 0.0.0.0	zz.cqcounter.com
 
-0.0.0.0	zz.zeroredirect1.com
 
 0.0.0.0	zzptzdhugavot.review
 
