@@ -1925,7 +1925,6 @@
 
 0.0.0.0	5.estasiatica.com
 
-0.0.0.0	5.eventiduepuntozero.com
 
 0.0.0.0	5.googlenews.xorg.pl
 
@@ -2409,11 +2408,8 @@
 
 0.0.0.0	a.zdbb.net
 
-0.0.0.0	a.zeroredirect.com
 
-0.0.0.0	a.zeroredirect1.com
 
-0.0.0.0	a.zeroredirect2.com
 
 0.0.0.0	a.zoot.ro
 
@@ -10193,11 +10189,8 @@
 
 0.0.0.0	b.zedo.com
 
-0.0.0.0	b.zeroredirect.com
 
-0.0.0.0	b.zeroredirect1.com
 
-0.0.0.0	b.zeroredirect2.com
 
 0.0.0.0	b.zog.link
 
@@ -12517,11 +12510,8 @@
 
 0.0.0.0	c.yieldmanager.net
 
-0.0.0.0	c.zeroredirect.com
 
-0.0.0.0	c.zeroredirect1.com
 
-0.0.0.0	c.zeroredirect2.com
 
 0.0.0.0	c0.amazingcounters.com
 
@@ -14657,7 +14647,6 @@
 
 0.0.0.0	click.watchjmp.com
 
-0.0.0.0	click.zeroclickdirect.com
 
 0.0.0.0	click.zipcodez.com
 
@@ -16845,9 +16834,7 @@
 
 0.0.0.0	d.yimg.com
 
-0.0.0.0	d.zeroredirect.com
 
-0.0.0.0	d.zeroredirect2.com
 
 0.0.0.0	d06915f22873285e84a9-9954fed71f1f51f77e6d1b38cb5af421.r69.cf2.rackcdn.com
 
@@ -18819,9 +18806,7 @@
 
 0.0.0.0	e.zedo.com
 
-0.0.0.0	e.zeroredirect.com
 
-0.0.0.0	e.zeroredirect2.com
 
 0.0.0.0	e0.extreme-dm.com
 
@@ -20315,9 +20300,7 @@
 
 0.0.0.0	f.yieldmanager.net
 
-0.0.0.0	f.zeroredirect.com
 
-0.0.0.0	f.zeroredirect2.com
 
 0.0.0.0	f5mtrack.com
 
@@ -21895,7 +21878,6 @@
 
 0.0.0.0	g.zedo.com
 
-0.0.0.0	g.zeroredirect.com
 
 0.0.0.0	g01.a.alicdn.com
 
@@ -23571,7 +23553,6 @@
 
 0.0.0.0	h.zedo.com
 
-0.0.0.0	h.zeroredirect.com
 
 0.0.0.0	h06.hotrank.com.tw
 
@@ -24773,7 +24754,6 @@
 
 0.0.0.0	i.yldbt.com
 
-0.0.0.0	i.zeroredirect.com
 
 0.0.0.0	i18n.adition.com
 
@@ -26345,7 +26325,6 @@
 
 0.0.0.0	j.traffichunt.com
 
-0.0.0.0	j.zeroredirect.com
 
 0.0.0.0	j1.pcunleashed.revenuewire.net
 
@@ -26953,7 +26932,6 @@
 
 0.0.0.0	k.streamrail.com
 
-0.0.0.0	k.zeroredirect.com
 
 0.0.0.0	k1s.nl
 
@@ -27295,7 +27273,6 @@
 
 0.0.0.0	l.yieldmanager.net
 
-0.0.0.0	l.zeroredirect.com
 
 0.0.0.0	l1.cdn.qnsr.com
 
@@ -29151,7 +29128,6 @@
 
 0.0.0.0	m.yobt.com
 
-0.0.0.0	m.zeroredirect.com
 
 0.0.0.0	m0002.gamecopyworld.com
 
@@ -31739,7 +31715,6 @@
 
 0.0.0.0	n.targetctracker.com
 
-0.0.0.0	n.zeroredirect.com
 
 0.0.0.0	n149adserv.com
 
@@ -32699,7 +32674,6 @@
 
 0.0.0.0	o.zedo.com
 
-0.0.0.0	o.zeroredirect.com
 
 0.0.0.0	o1.inviziads.com
 
@@ -34351,7 +34325,6 @@
 
 0.0.0.0	p.videosz.com
 
-0.0.0.0	p.zeroredirect.com
 
 0.0.0.0	p0.raasnet.com
 
@@ -36797,7 +36770,6 @@
 
 0.0.0.0	q.serving-sys.com
 
-0.0.0.0	q.zeroredirect.com
 
 0.0.0.0	q1.checkm8.com
 
@@ -36991,7 +36963,6 @@
 
 0.0.0.0	r.yieldkit.com
 
-0.0.0.0	r.zeroredirect.com
 
 0.0.0.0	r01.ibg.bg
 
@@ -38691,7 +38662,6 @@
 
 0.0.0.0	s.youtube.com
 
-0.0.0.0	s.zeroredirect.com
 
 0.0.0.0	s.zkcdn.net
 
@@ -39487,7 +39457,6 @@
 
 0.0.0.0	scomcluster.cxense.com
 
-0.0.0.0	score.zeroclickfraud.com
 
 0.0.0.0	scorecard.wspisp.net
 
@@ -43645,7 +43614,6 @@
 
 0.0.0.0	t.zedo.com
 
-0.0.0.0	t.zeroredirect.com
 
 0.0.0.0	t.zqtk.net
 
@@ -46859,7 +46827,6 @@
 
 0.0.0.0	u.outbrain.com
 
-0.0.0.0	u.zeroredirect.com
 
 0.0.0.0	u0.extreme-dm.com
 
@@ -47479,7 +47446,6 @@
 
 0.0.0.0	v.zedo.com
 
-0.0.0.0	v.zeroredirect.com
 
 0.0.0.0	v0.extreme-dm.com
 
@@ -48437,7 +48403,6 @@
 
 0.0.0.0	w.visualdna.com
 
-0.0.0.0	w.zeroredirect.com
 
 0.0.0.0	w0.extreme-dm.com
 
@@ -50195,7 +50160,6 @@
 
 0.0.0.0	x.zedo.com
 
-0.0.0.0	x.zeroredirect.com
 
 0.0.0.0	x0.nl
 
@@ -50555,7 +50519,6 @@
 
 0.0.0.0	y.zedo.com
 
-0.0.0.0	y.zeroredirect.com
 
 0.0.0.0	y0.extreme-dm.com
 
@@ -50853,7 +50816,6 @@
 
 0.0.0.0	z.zedo.com
 
-0.0.0.0	z.zeroredirect.com
 
 0.0.0.0	z0.extreme-dm.com
 
@@ -50873,9 +50835,7 @@
 
 0.0.0.0	za-ssl.effectivemeasure.net
 
-0.0.0.0	za.zeroredirect1.com
 
-0.0.0.0	za2.zeroredirect8.com
 
 0.0.0.0	zafiti01.webtrekk-us.net
 
@@ -50915,7 +50875,6 @@
 
 0.0.0.0	zatznotfunny.us.intellitxt.com
 
-0.0.0.0	zb.zeroredirect1.com
 
 0.0.0.0	zbest.in
 
@@ -50925,15 +50884,10 @@
 
 0.0.0.0	www.zbiornik.com
 
-0.0.0.0	zc.zeroredirect1.com
 
-0.0.0.0	zd.zeroredirect1.com
 
-0.0.0.0	zd.zeroredirect2.com
 
-0.0.0.0	zd1.zeroredirect1.com
 
-0.0.0.0	zd1.zeroredirect6.com
 
 0.0.0.0	zdbb.net
 
@@ -50943,11 +50897,8 @@
 
 0.0.0.0	zdnet.be.intellitxt.com
 
-0.0.0.0	ze.zeroredirect1.com
 
-0.0.0.0	ze.zeroredirect2.com
 
-0.0.0.0	ze1.zeroredirect1.com
 
 0.0.0.0	zealotnetworks-d.openx.net
 
@@ -50973,25 +50924,17 @@
 
 0.0.0.0	www.zergnet.com
 
-0.0.0.0	zero.kz
 
-0.0.0.0	www.zero.kz
 
-0.0.0.0	zeroipio.notlong.com
 
-0.0.0.0	zeroredirect2.com
 
-0.0.0.0	www.zeroredirect2.com
 
-0.0.0.0	zf.zeroredirect1.com
 
 0.0.0.0	zf1.quebec-bin.com
 
-0.0.0.0	zf1.zeroredirect11.com
 
 0.0.0.0	zfhg.digitaldesire.com
 
-0.0.0.0	zh1.zeroredirect11.com
 
 0.0.0.0	zh_cn.statcounter.com
 
@@ -51015,17 +50958,13 @@
 
 0.0.0.0	www.ziyu.net
 
-0.0.0.0	zj.zeroredirect1.com
 
-0.0.0.0	zj1.zeroredirect1.com
 
-0.0.0.0	zk.zeroredirect1.com
 
 0.0.0.0	zloeradio.net
 
 0.0.0.0	www.zloeradio.net
 
-0.0.0.0	zm1.zeroredirect5.com
 
 0.0.0.0	zmature.com
 
@@ -51111,11 +51050,9 @@
 
 0.0.0.0	www.zr0.net
 
-0.0.0.0	zr1.zeroredirect11.com
 
 0.0.0.0	zs.dhl.de
 
-0.0.0.0	zs1.zeroredirect1.com
 
 0.0.0.0	zs11.cnzz.com
 
