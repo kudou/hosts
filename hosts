@@ -1,11 +1,6 @@
 
-#
-# --- Essential List start --- 
-#
-# 自定义部分,不参与过滤
 127.0.0.1  localhost
 
-# The  following  lines  are  desirable  for  IPv6  capable  hosts
 ::1  ip6-localhost
 ::1  localhost
 ::1  ip6-loopback
@@ -14,13 +9,7 @@ ff00::0  ip6-mcastprefix
 ff02::1  ip6-allnodes
 ff02::2  ip6-allrouters
 
-#
-# --- Essential List start --- 
-#
 
-#
-# --- Whitelist start --- 
-#
 
 
 
@@ -15552,14 +15541,8 @@ ff02::2  ip6-allrouters
 
 
 
-#
-# --- Whitelist end --- 
-#
 
-#
-# --- Blacklist start --- 
-#
-2018-06-24_23:15:50
+2018-06-25_09:33:50
 
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
@@ -105063,6 +105046,3 @@ ff02::2  ip6-allrouters
 0.0.0.0	zzzrtrcm2.com
 0.0.0.0	zzzzz4.52896368.com
 
-#
-# --- Blacklist end --- 
-#
