@@ -56368,6 +56368,8 @@
 
 0.0.0.0	garbo.2cnt.net
 
+0.0.0.0	garlanca.com
+
 0.0.0.0	garnishersqcltox.download
 
 0.0.0.0	garrigueatcuw.download
@@ -74845,8 +74847,6 @@
 
 0.0.0.0	twitter-badges.s3.amazonaws.com
 
-0.0.0.0	twoclickdeal.com
-
 0.0.0.0	twqlnorqcmesquite.review
 
 0.0.0.0	twsg21x6-22dcca05c0915aa0dad0a07273e7a3c5015ddc6d-am1.d.aa.online-metrix.net
@@ -91029,8 +91029,6 @@
 0.0.0.0	your.365advert.com
 
 0.0.0.0	youradexchange.com
-
-0.0.0.0	yourappmarket.com
 
 0.0.0.0	yourcartoons.com
 
