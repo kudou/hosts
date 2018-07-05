@@ -28802,6 +28802,8 @@
 
 0.0.0.0	ad.gt.doubleclick.net
 
+0.0.0.0	ad.highsearch.co.kr
+
 0.0.0.0	ad.hk.doubleclick.net
 
 0.0.0.0	ad.hodomobile.com
@@ -29035,6 +29037,8 @@
 0.0.0.0	ad.pixnet.net
 
 0.0.0.0	ad.pl.doubleclick.net
+
+0.0.0.0	ad.planclick.co.kr
 
 0.0.0.0	ad.preferances.com
 
@@ -31685,6 +31689,8 @@
 0.0.0.0	adaos-ads.net
 
 0.0.0.0	adap.tv
+
+0.0.0.0	adapi.inlcorp.com
 
 0.0.0.0	adaroo.go2cloud.org
 
@@ -58316,6 +58322,8 @@
 0.0.0.0	hxpwl.voluumtrk.com
 
 0.0.0.0	hybl9bazbc35.pflexads.com
+
+0.0.0.0	hybridview.co.kr
 
 0.0.0.0	hybtq.voluumtrk.com
 
@@ -87307,6 +87315,8 @@
 0.0.0.0	www.hvaevqkprtumorous.review
 
 0.0.0.0	www.hyalinizeslskzyp.download
+
+0.0.0.0	www.hybridview.co.kr
 
 0.0.0.0	www.hyperbanner.net
 
