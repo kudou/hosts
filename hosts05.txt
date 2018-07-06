@@ -41512,6 +41512,8 @@
 
 0.0.0.0	bargainpda.us.intellitxt.com
 
+0.0.0.0	bariebenefit.com
+
 0.0.0.0	barium.cheezdev.com
 
 0.0.0.0	barnyardszjvrvndj.download
@@ -45586,6 +45588,8 @@
 0.0.0.0	canwest.112.2o7.net
 
 0.0.0.0	canwestdose.112.2o7.net
+
+0.0.0.0	capquestglobal.com
 
 0.0.0.0	caprewards.go2cloud.org
 
@@ -52724,6 +52728,8 @@
 0.0.0.0	drogomet.com
 
 0.0.0.0	droguevnmkkti.download
+
+0.0.0.0	drosstik.com
 
 0.0.0.0	drp60gfj3y9kn.cloudfront.net
 
@@ -60461,6 +60467,8 @@
 0.0.0.0	kalstats.kaltura.com
 
 0.0.0.0	kanoodle.com
+
+0.0.0.0	kaponetwo.com
 
 0.0.0.0	kargo.com
 
@@ -69397,6 +69405,8 @@
 0.0.0.0	sad1.adriver.ru
 
 0.0.0.0	sadv.dadapro.com
+
+0.0.0.0	safe.net-az83.stream
 
 0.0.0.0	safelinking.net
 
