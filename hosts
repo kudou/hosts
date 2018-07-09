@@ -9,6 +9,13 @@ ff00::0  ip6-mcastprefix
 ff02::1  ip6-allnodes
 ff02::2  ip6-allrouters
 
+0.0.0.0 uaswitcher.org
+0.0.0.0 the-extension.com
+0.0.0.0 api.data-monitor.info
+0.0.0.0 similarweb.com
+0.0.0.0 comingmail.com
+0.0.0.0 xvp.cn
+
 
 
 
@@ -250,9 +257,9 @@ ff02::2  ip6-allrouters
 13.210.167.213	ac.duckduckgo.com
 13.210.167.213	start.duckduckgo.com
 13.210.167.213	help.duckduckgo.com
-13.210.184.136	icons.duckduckgo.com
-13.210.184.136	proxy.duckduckgo.com
-13.210.184.136	images.duckduckgo.com
+23.21.193.169	icons.duckduckgo.com
+23.21.193.169	proxy.duckduckgo.com
+23.21.193.169	images.duckduckgo.com
 
 
 
@@ -3237,7 +3244,7 @@ ff02::2  ip6-allrouters
 
 223.119.217.234	steamcommunity.com
 173.223.87.13	help.steampowered.com
-23.50.18.229	store.steampowered.com
+23.37.147.226	store.steampowered.com
 23.4.240.26	steamcommunity-a.akamaihd.net
 184.28.218.74	steamuserimages-a.akamaihd.net
 184.25.205.16	steamcdn-a.akamaihd.net
@@ -3383,9 +3390,9 @@ ff02::2  ip6-allrouters
 
 
 
-157.240.15.53	www-cdn.whatsapp.net
-157.240.15.53	faq.whatsapp.com
-157.240.15.53	crashlogs.whatsapp.net
+158.85.5.203	www-cdn.whatsapp.net
+158.85.5.203	faq.whatsapp.com
+158.85.5.203	crashlogs.whatsapp.net
 157.240.2.53	mmg-fna.whatsapp.net
 157.240.2.53	mmh.whatsapp.net
 169.44.82.102	whatsapp.com
@@ -15542,7 +15549,7 @@ ff02::2  ip6-allrouters
 
 
 
-2018-07-06_09:30:49
+2018-07-09_09:31:11
 
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
@@ -18682,7 +18689,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	a.current.tv
 0.0.0.0	acustat.com
 0.0.0.0	a.custompc.co.uk
-0.0.0.0	acuty1adsrv.com
 0.0.0.0	acvs.mediaonenetwork.net
 0.0.0.0	acvsrv.mediaonenetwork.net
 0.0.0.0	acwimvijugg.site50.net
@@ -35009,6 +35015,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	adremote.pathfinder.com
 0.0.0.0	adremote.timeinc.aol.com
 0.0.0.0	adremote.timeinc.net
+0.0.0.0	adremover.org
 0.0.0.0	adrenaline.deluxepass.com
 0.0.0.0	adrent.net
 0.0.0.0	adreporting.com
@@ -39617,7 +39624,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	adtrade.net
 0.0.0.0	adtrader.com
 0.0.0.0	adtrade.ro
-0.0.0.0	adtrading.de
 0.0.0.0	adtradradservices.com
 0.0.0.0	adtradr.com
 0.0.0.0	adtraff.com
@@ -42877,6 +42883,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	api.tns-cs.net
 0.0.0.0	api.tongji.today
 0.0.0.0	api.trackuity.com
+0.0.0.0	api.traversedlp.com
 0.0.0.0	api.tr.blismedia.com
 0.0.0.0	api.tuisong.baidu.com
 0.0.0.0	api.tumra.com
@@ -43941,7 +43948,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	a.vserv.mobi
 0.0.0.0	avskype.com
 0.0.0.0	avt.hit.gemius.pl
-0.0.0.0	avzadsrv.com
 0.0.0.0	a.waczt.cn
 0.0.0.0	a.wakapita.com
 0.0.0.0	a.walla.co.il
@@ -45817,7 +45823,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	benderswaojb.download
 0.0.0.0	be.nedstat.net
 0.0.0.0	benefique-shiseido.b.appier.net
-0.0.0.0	b.engadget.com
 0.0.0.0	bengilani.com
 0.0.0.0	benhancement.gohip.com
 0.0.0.0	benimreklam.com
@@ -46267,6 +46272,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	blekko.com
 0.0.0.0	blenz-me.net
 0.0.0.0	blethenmaine.112.2o7.net
+0.0.0.0	bleua.ecefibwja.xyz
 0.0.0.0	blickonl.wemfbox.ch
 0.0.0.0	bliga.oewabox.at
 0.0.0.0	blindferret.clickmeter.com
@@ -51176,6 +51182,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	charmedno1.com
 0.0.0.0	charmflirt.com
 0.0.0.0	charming-angels.net
+0.0.0.0	charmour.club
 0.0.0.0	charmstroy.info
 0.0.0.0	chartaca.com.s3.amazonaws.com
 0.0.0.0	chart.advinion.com
@@ -54567,6 +54574,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cpanel.nativeads.com
 0.0.0.0	c.panqis.cn
 0.0.0.0	c.panqishu.com
+0.0.0.0	cpapointer.com
 0.0.0.0	cpaprohits.com
 0.0.0.0	cparevenue.go2cloud.org
 0.0.0.0	c.parkingcrew.net
@@ -57586,6 +57594,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	easyweb.tdcanadatrust.secureserver.host1.customer-identification-process.b88600d8.com
 0.0.0.0	eatingwell.us.intellitxt.com
 0.0.0.0	eatps.web.aol.com
+0.0.0.0	eatthis.com
 0.0.0.0	eat-travel.apx.appier.net
 0.0.0.0	ea.zebestof.com
 0.0.0.0	eb0ej.voluumtrk.com
@@ -58545,6 +58554,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	eriuc.notlong.com
 0.0.0.0	erjbe.voluumtrk.com
 0.0.0.0	e.rmgserving.com
+0.0.0.0	e.rmwdn.com
 0.0.0.0	ernst-young.netmining.com
 0.0.0.0	ero-adverising.com.ero-advertising.com
 0.0.0.0	ero-advertising.biz
@@ -58742,6 +58752,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	et.twyn.com
 0.0.0.0	et.twyn-group.com
 0.0.0.0	etui.fs.ml.com
+0.0.0.0	e.tuoaa.com
 0.0.0.0	etvsg.voluumtrk.com
 0.0.0.0	et.w.inmobi.com
 0.0.0.0	e.txtxr.com
@@ -62124,6 +62135,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.digital.exponential.com
 0.0.0.0	godloveme.cn
+0.0.0.0	go.doupat.xyz
 0.0.0.0	godrejproperties-com.b.appier.net
 0.0.0.0	go.ensighten.com
 0.0.0.0	goetheinstitut01.webtrekk.net
@@ -62210,6 +62222,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	goodbookbook.com
 0.0.0.0	gooddata.com
 0.0.0.0	goodiemob.com
+0.0.0.0	goodsavingtips.com
 0.0.0.0	goodsblock.marketgid.com
 0.0.0.0	good.ta80.com
 0.0.0.0	goodtraffic.net
@@ -65496,6 +65509,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	i.plug.it
 0.0.0.0	ipm.atm.cp31.ott.cibntv.net
 0.0.0.0	ipm.atm.youku.com
+0.0.0.0	ipm-provider.ff.avast.com
 0.0.0.0	ip.nuggad.net
 0.0.0.0	i.po.st
 0.0.0.0	ipqualityscore.com
@@ -69466,6 +69480,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	md.sh5e.com
 0.0.0.0	mdstaugustine.112.2o7.net
 0.0.0.0	mdtopeka.112.2o7.net
+0.0.0.0	m.du1du.org
 0.0.0.0	m.duba.net
 0.0.0.0	mdwardmore.112.2o7.net
 0.0.0.0	mdwathens.112.2o7.net
@@ -70351,6 +70366,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.flurry.com
 0.0.0.0	mfm.video.qq.com
 0.0.0.0	m.focuscat.com
+0.0.0.0	m.foumm.com
 0.0.0.0	mfp.deliver.ifeng.com
 0.0.0.0	m.fr.2mdn.net
 0.0.0.0	m.fr.a2dfp.net
@@ -71271,6 +71287,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mrjeweller.us
 0.0.0.0	mrktrecord3.com
 0.0.0.0	m.rmuqvq.cn
+0.0.0.0	m.rmwdn.com
 0.0.0.0	m.romgv.com
 0.0.0.0	mrp.rubiconproject.com
 0.0.0.0	mr-rank.de
@@ -71871,6 +71888,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mzadx.go2affise.com
 0.0.0.0	mzbcdn.net
 0.0.0.0	m.zcdor.com
+0.0.0.0	m.zeiaa.com
 0.0.0.0	m.zenffs.cn
 0.0.0.0	m.zenwq.com
 0.0.0.0	m.zgjjkk.com
@@ -75079,6 +75097,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	pcookie.tanx.com
 0.0.0.0	pcookie.taobao.com
 0.0.0.0	pc.openx.com
+0.0.0.0	p.cpaoa.org
 0.0.0.0	pcper.us.intellitxt.com
 0.0.0.0	pcpitstop.com
 0.0.0.0	pcppu.voluumtrk.com
@@ -77615,6 +77634,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	rantsports.us.intellitxt.com
 0.0.0.0	r.aol.com
 0.0.0.0	rapdirt.us.intellitxt.com
+0.0.0.0	rapid-cdn.com
 0.0.0.0	rapidcounter.com
 0.0.0.0	rapidlyserv.com
 0.0.0.0	rapidresponse.directtrack.com
@@ -80889,7 +80909,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	sexyoilwrestling.com
 0.0.0.0	sexyshemalewebcams.tumblr.com
 0.0.0.0	sexy.softonic.fr
-0.0.0.0	sexystat.com
 0.0.0.0	sexyster.tk
 0.0.0.0	sexytout.com
 0.0.0.0	sexyxxxwebcams.com
@@ -81624,6 +81643,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	smetrics.payback.de
 0.0.0.0	smetrics.southwest.com
 0.0.0.0	smetrics.starwoodhotels.com
+0.0.0.0	smetrics.tesco.com
 0.0.0.0	smetrics.timeinc.com
 0.0.0.0	smetrics.toptenreviews.com
 0.0.0.0	smetrics.walgreens.com
@@ -95083,6 +95103,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.adreadytractions.com
 0.0.0.0	www.adreap.com
 0.0.0.0	www.adregistry.com
+0.0.0.0	www.adremover.org
 0.0.0.0	www.adreporting.com
 0.0.0.0	www.adrevenuerescue.com
 0.0.0.0	www.adrevmedia.com
@@ -97003,6 +97024,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.cpalead.com
 0.0.0.0	www.cpalist.com
 0.0.0.0	www.cpa.ly
+0.0.0.0	www.cpapointer.com
 0.0.0.0	www.cpatrac.com
 0.0.0.0	www.cpatrackr.com
 0.0.0.0	www.cpayard.com
@@ -97453,6 +97475,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.easysexdate.com
 0.0.0.0	www.easysitehits.com
 0.0.0.0	www.easyspywarescanner.com
+0.0.0.0	www.eatthis.com
 0.0.0.0	www.ebannertraffic.com
 0.0.0.0	www.e-bannerx.com
 0.0.0.0	www.ebayadvertising.com
@@ -97888,6 +97911,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.finance-offer.com
 0.0.0.0	www.financial-advice-books.com
 0.0.0.0	www.finanzmarkt2004.de
+0.0.0.0	www.findalgorithm.com
 0.0.0.0	www.findalternate.com
 0.0.0.0	www.finder.cox.net
 0.0.0.0	www.findfavour.com
@@ -98460,6 +98484,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.gontijoamaral.hpg.com.br
 0.0.0.0	www.gonzo.im
 0.0.0.0	www.gooddata.com
+0.0.0.0	www.goodsavingtips.com
 0.0.0.0	www.goodtraffic.net
 0.0.0.0	www.goody-garage.com
 0.0.0.0	www.googkle.com
@@ -104652,6 +104677,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	yoggrt.com
 0.0.0.0	yojxoefvnyrc.com
 0.0.0.0	yoo.yiiyoo.net
+0.0.0.0	yostatic.net
 0.0.0.0	yotefiles.com
 0.0.0.0	yottos.com
 0.0.0.0	yotube.com

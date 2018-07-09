@@ -32788,6 +32788,8 @@
 
 0.0.0.0	adreadytractions.com
 
+0.0.0.0	adremover.org
+
 0.0.0.0	adrent.net
 
 0.0.0.0	adrepo.singlehop.com
@@ -38580,6 +38582,8 @@
 
 0.0.0.0	api.thetrafficstat.net
 
+0.0.0.0	api.traversedlp.com
+
 0.0.0.0	api.tweetmeme.com
 
 0.0.0.0	api.umbel.com
@@ -41947,6 +41951,8 @@
 0.0.0.0	blazedlvlwzwt.download
 
 0.0.0.0	bleepingcomputer.us.intellitxt.com
+
+0.0.0.0	bleua.ecefibwja.xyz
 
 0.0.0.0	blindferretmedia.go2cloud.org
 
@@ -46569,6 +46575,8 @@
 
 0.0.0.0	chapdyn.bidsystem.com
 
+0.0.0.0	charmour.club
+
 0.0.0.0	chart.superstats.com
 
 0.0.0.0	chartaca.com.s3.amazonaws.com
@@ -50605,6 +50613,8 @@
 
 0.0.0.0	cpanel.nativeads.com
 
+0.0.0.0	cpapointer.com
+
 0.0.0.0	cpaprohits.com
 
 0.0.0.0	cparevenue.go2cloud.org
@@ -53080,6 +53090,8 @@
 0.0.0.0	easyspace.com
 
 0.0.0.0	eat-travel.apx.appier.net
+
+0.0.0.0	eatthis.com
 
 0.0.0.0	eb0ej.voluumtrk.com
 
@@ -56982,6 +56994,8 @@
 
 0.0.0.0	go.deliverymodo.com
 
+0.0.0.0	go.doupat.xyz
+
 0.0.0.0	go.feedxfeed.com
 
 0.0.0.0	go.goroost.com
@@ -57139,6 +57153,8 @@
 0.0.0.0	gooddata.com
 
 0.0.0.0	goodiemob.com
+
+0.0.0.0	goodsavingtips.com
 
 0.0.0.0	goodtraffic.net
 
@@ -65706,6 +65722,8 @@
 
 0.0.0.0	p.chartboost.com
 
+0.0.0.0	p.cpaoa.org
+
 0.0.0.0	p.cpx.to
 
 0.0.0.0	p.cpxinteractive.com
@@ -68074,6 +68092,8 @@
 0.0.0.0	rankyou.com
 
 0.0.0.0	rapdirt.us.intellitxt.com
+
+0.0.0.0	rapid-cdn.com
 
 0.0.0.0	rapleaf.com
 
@@ -85070,6 +85090,8 @@
 
 0.0.0.0	www.adreadytractions.com
 
+0.0.0.0	www.adremover.org
+
 0.0.0.0	www.adrevmedia.com
 
 0.0.0.0	www.adroz.com
@@ -86208,6 +86230,8 @@
 
 0.0.0.0	www.cpagrip.com
 
+0.0.0.0	www.cpapointer.com
+
 0.0.0.0	www.cpatrac.com
 
 0.0.0.0	www.cpatrackr.com
@@ -86517,6 +86541,8 @@
 0.0.0.0	www.easyhitcounters.com
 
 0.0.0.0	www.easyhits4u.com
+
+0.0.0.0	www.eatthis.com
 
 0.0.0.0	www.ebtmarketing.com
 
@@ -87051,6 +87077,8 @@
 0.0.0.0	www.golfcountryhomes.com
 
 0.0.0.0	www.gooddata.com
+
+0.0.0.0	www.goodsavingtips.com
 
 0.0.0.0	www.goodtraffic.net
 
@@ -91035,6 +91063,8 @@
 0.0.0.0	yoc-performance.com
 
 0.0.0.0	yoclub.waphall.com
+
+0.0.0.0	yostatic.net
 
 0.0.0.0	yotefiles.com
 
