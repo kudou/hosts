@@ -46665,6 +46665,8 @@
 
 0.0.0.0	choice.microsoft.com
 
+0.0.0.0	choices.trustarc.com
+
 0.0.0.0	choices.truste.com
 
 0.0.0.0	chokoladsrv.net

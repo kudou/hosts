@@ -1808,6 +1808,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	us.cqcounter.com
 0.0.0.0	v1.nedstatbasic.net
 0.0.0.0	v7.stats.load.com
+0.0.0.0	v8.analytics.pinsightmedia.com
+0.0.0.0	v8engine.pinsightmedia.com
+0.0.0.0	v8push.pinsightmedia.com
 0.0.0.0	valueclick.com
 0.0.0.0	valueclick.net
 0.0.0.0	velocecdn.com
