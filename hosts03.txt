@@ -130,6 +130,8 @@
 
 0.0.0.0	www.adclick.lv
 
+0.0.0.0	adclicks.io
+
 0.0.0.0	servedby.adcombination.com
 
 0.0.0.0	adcomplete.com
@@ -5816,7 +5818,7 @@
 
 0.0.0.0	ads2.msads.net
 
-0.0.0.0	cdn.mxpnl.com
+
 
 0.0.0.0	rainbow-nl.mythings.com
 
@@ -6792,6 +6794,8 @@
 
 0.0.0.0	api.circularhub.com
 
+0.0.0.0	mscom.demdex.net
+
 0.0.0.0	schwab.demdex.net
 
 0.0.0.0	geo.qualaroo.com
@@ -7584,7 +7588,7 @@
 
 0.0.0.0	z2.zedo.com
 
-0.0.0.0	segment-data.zqtk.net
+
 
 
 
@@ -8059,6 +8063,8 @@
 0.0.0.0	tracking.sokrati.com
 
 0.0.0.0	traffic-offers.com
+
+0.0.0.0	collector-2398.tvsquared.com
 
 0.0.0.0	konnect.videoplaza.tv
 
@@ -8824,6 +8830,8 @@
 0.0.0.0	mob.adnxs.com
 
 0.0.0.0	nym1.ib.adnxs.com
+
+0.0.0.0	nym1-ib.adnxs.com
 
 0.0.0.0	sin1.g.adnxs.com
 
@@ -23553,7 +23561,7 @@
 
 0.0.0.0	clkoffers.com
 
-0.0.0.0	realtime.services.disqus.com
+
 
 0.0.0.0	tempest.services.disqus.com
 
