@@ -2287,6 +2287,13 @@
 0.0.0.0	zzjs2.firefang.cn
 0.0.0.0	1.xilu.com
 0.0.0.0	newspage.xilu.com
+0.0.0.0	code1fa.m.shushu8.com
+0.0.0.0	dcw.hdswgc.com
+0.0.0.0	e.deimm.com
+0.0.0.0	e.zunss.com
+0.0.0.0	m.pieaa.com
+0.0.0.0	m.zaoss.com
+0.0.0.0	www.bewaycare.com
 0.0.0.0	c.zxyywdj.org
 0.0.0.0	e.dunmm.com
 0.0.0.0	e.pwjhg.com

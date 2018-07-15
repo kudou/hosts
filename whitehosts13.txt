@@ -194,6 +194,14 @@
 96.7.54.198	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
 151.101.26.49	a.disquscdn.com
+104.16.58.5	discordapp.com
+104.16.59.37	discord.gg
+104.16.174.189	discord.media
+104.16.251.144	media.discordapp.net
+104.16.10.231	status.discordapp.com
+104.16.250.144	images-ext-1.discordapp.net
+104.16.251.144	images-ext-2.discordapp.net
+104.16.10.231	cdn.discordapp.com
 157.240.7.35	www.facebook.com
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
