@@ -12,6 +12,8 @@ ff02::2  ip6-allrouters
 0.0.0.0 similarweb.com
 0.0.0.0 comingmail.com
 0.0.0.0 xvp.cn
+104.28.2.6 doub.io
+151.101.32.133 raw.githubusercontent.com
 23.95.9.4	23-95-9-4.googlehosts.org
 23.95.9.4	tg-1.googlehosts.org
 185.200.34.198	185-200-34-198.googlehosts.org
@@ -216,6 +218,7 @@ ff02::2  ip6-allrouters
 104.16.251.144	media.discordapp.net
 104.16.10.231	status.discordapp.com
 104.16.250.144	images-ext-1.discordapp.net
+104.16.250.144	dl.discordapp.net
 104.16.251.144	images-ext-2.discordapp.net
 104.16.10.231	cdn.discordapp.com
 157.240.7.35	www.facebook.com
@@ -15200,7 +15203,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-07-18_09:33:19
+2018-07-18_20:44:58
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -17024,6 +17027,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	699.stats.misstrends.com
 0.0.0.0	69ba-95af-a923-8c02.reporo.net
 0.0.0.0	6a036421edec9693c962-4d1f758fa5668c904b9cd6e76bdc0d97.r71.cf2.rackcdn.com
+0.0.0.0	6a4cc.leiuc.com
 0.0.0.0	6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0	6ae6-f579-2f31-2cce.reporo.net
 0.0.0.0	6aemj.voluumtrk.com
@@ -17178,7 +17182,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	7x7.ruwe.net
 0.0.0.0	7xc4n.com
 0.0.0.0	7x.cc
-0.0.0.0	7xkfic.com2.z0.glb.qiniucdn.com
 0.0.0.0	7y7.us
 0.0.0.0	7yt26.voluumtrk.com
 0.0.0.0	800chat.com
@@ -17521,6 +17524,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	a6.codejumps.com
 0.0.0.0	a6s.1cakeclub.com
 0.0.0.0	a6shd.realshieldlinked.com
+0.0.0.0	a6s.ruyiqufu.com
 0.0.0.0	a6.taobanapp.com
 0.0.0.0	a71tb.voluumtrk.com
 0.0.0.0	a722-a332-7273-9e88.reporo.net
@@ -17763,6 +17767,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	abs.beweb.com
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
+0.0.0.0	a.bshu.com
 0.0.0.0	absl.thebiggestand.com
 0.0.0.0	absolstats.co.za
 0.0.0.0	absoluteclickscom.com
@@ -48701,6 +48706,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cd.bendibao.com
 0.0.0.0	cdb.hitbox.com
 0.0.0.0	c.de.msn.com
+0.0.0.0	cdhoc.piyaji.cn
 0.0.0.0	c.dk.msn.com
 0.0.0.0	cd-ladsp-com.s3.amazonaws.com
 0.0.0.0	cdlqzpenearer.review
@@ -49118,6 +49124,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cdn.jiuzhilan.com
 0.0.0.0	cdn.jllstudio.com
 0.0.0.0	cdn.jquery-uim.download
+0.0.0.0	cdn.jsdelivr.net
 0.0.0.0	cdn.justonecookbook.com
 0.0.0.0	cdnke.voluumtrk.com
 0.0.0.0	cdn.komentary.aol.com
@@ -49150,6 +49157,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cdn.merchenta.com
 0.0.0.0	cdn.mgid.com
 0.0.0.0	cdn.millennialmedia.com
+0.0.0.0	cdn.mingmingtehui.com
 0.0.0.0	cdn.mirageads.net
 0.0.0.0	cdn.mobicow.com
 0.0.0.0	cdn.mobidea.com
@@ -49164,6 +49172,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cdn.ndparking.com
 0.0.0.0	cdn.nearbyad.com
 0.0.0.0	cdn.neblotech.com
+0.0.0.0	cdn.newapi.com
 0.0.0.0	cdn.niche.videosz.com
 0.0.0.0	cdn.nsimg.net
 0.0.0.0	cdn.o333o.com
@@ -53122,6 +53131,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	c.velaro.com
 0.0.0.0	c.viewsecure.net
 0.0.0.0	c.vindicosuite.com
+0.0.0.0	c.vip97.net
 0.0.0.0	c.vrvm.com
 0.0.0.0	c.vserv.mobi
 0.0.0.0	cvt.mydas.mobi
@@ -59774,6 +59784,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	h2.18sd.cn
 0.0.0.0	h2.msn.com
 0.0.0.0	h5.holalauncher.com
+0.0.0.0	h5.super-dreamers.com
 0.0.0.0	h5.taihao.cc
 0.0.0.0	h6.msn.com
 0.0.0.0	h8lku.voluumtrk.com
@@ -62440,6 +62451,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jc.revolvermaps.com
 0.0.0.0	jcrew.tt.omtrdc.net
 0.0.0.0	jct.maptu.cn
+0.0.0.0	jc.xuqinqi.cn
 0.0.0.0	jd2yj.voluumtrk.com
 0.0.0.0	jdb.jiudingcapital.cn
 0.0.0.0	jdb.jiudingcapital.com
@@ -62547,6 +62559,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jgoyk.cjt1.net
 0.0.0.0	jg.revolvermaps.com
 0.0.0.0	jh4ne.voluumtrk.com
+0.0.0.0	j.hbwcl.com
 0.0.0.0	jhojr.voluumtrk.com
 0.0.0.0	j.hongyangpai.com
 0.0.0.0	jh.revolvermaps.com
@@ -63326,6 +63339,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	kn.chgdf.cn
 0.0.0.0	knc.lv
 0.0.0.0	kn.czzdf.com
+0.0.0.0	kn.dyscsm.cn
 0.0.0.0	kn.gzcce.cn
 0.0.0.0	kn.hnhqsc.com
 0.0.0.0	knigge.webtrekk.net
@@ -64033,6 +64047,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	lmjgo.voluumtrk.com
 0.0.0.0	lm.licenses.adobe.com
 0.0.0.0	lmlicenses.wip4.adobe.com
+0.0.0.0	lml.jfjsp.com
 0.0.0.0	lm.logicalmedia.com
 0.0.0.0	lmlttrack.com
 0.0.0.0	l.mnjkw.cn
@@ -64336,6 +64351,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	logs.libuv.org
 0.0.0.0	logs.loggly.com
 0.0.0.0	logs.naukri.com
+0.0.0.0	logs.newapi.com
 0.0.0.0	logs.nodejs.org
 0.0.0.0	logs.ovh.net
 0.0.0.0	log.spotify.com
@@ -65471,6 +65487,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.cuoss.com
 0.0.0.0	mc.yandex.ru
 0.0.0.0	m.czlhgz.com
+0.0.0.0	md.1drj.com
 0.0.0.0	md.5.p2l.info
 0.0.0.0	m.daishuxy.com
 0.0.0.0	mdamarillo.112.2o7.net
@@ -66295,6 +66312,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mf.advantage.as
 0.0.0.0	m.farwx.com
 0.0.0.0	mf.atm.youku.com
+0.0.0.0	m.fecjf.cn
 0.0.0.0	mfeed.newzfind.com
 0.0.0.0	m.fengwanwl.com
 0.0.0.0	m.fhxsw.org
@@ -66740,6 +66758,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.nmtouzi.com
 0.0.0.0	m.nnfiy.com
 0.0.0.0	mno.tns-cs.net
+0.0.0.0	m.nouaa.com
 0.0.0.0	m.nthtcs.com
 0.0.0.0	mntr.babcdn.com
 0.0.0.0	m.nwxzs.com
@@ -67070,6 +67089,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mpsnare.iesnare.co.uk
 0.0.0.0	mpstat.us
 0.0.0.0	mp-success.com
+0.0.0.0	mps.weekslw.com
 0.0.0.0	m.ptrvc.com
 0.0.0.0	mp.tscapeplay.com
 0.0.0.0	mp.twitch.tv
@@ -67170,6 +67190,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.shenyunkeji.com
 0.0.0.0	m.shopathome.com
 0.0.0.0	mshow.fang.com
+0.0.0.0	ms.ienkdaccessible.cn
 0.0.0.0	m.simba.taobao.com
 0.0.0.0	msimg.com
 0.0.0.0	msite.baidu.com
@@ -70782,7 +70803,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	pic183025.images9999.com
 0.0.0.0	pic1.onetad.com
 0.0.0.0	pic2016.5442.com
-0.0.0.0	pic2016.ytqmx.com
 0.0.0.0	pic2.bloggerads.net
 0.0.0.0	pic2.onetad.com
 0.0.0.0	pic3.onetad.com
@@ -71475,6 +71495,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	p.pxl2015x1.com
 0.0.0.0	pq-direct.revsci.net
 0.0.0.0	p.qiailm.com
+0.0.0.0	p.qijijs.top
 0.0.0.0	pq.stat.ku6.com
 0.0.0.0	pqwaker.altervista.org
 0.0.0.0	pr.20min.es
@@ -72190,6 +72211,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	purgrobi.com
 0.0.0.0	purredheanb.online
 0.0.0.0	purryowl.com
+0.0.0.0	push.5z5zw.com
 0.0.0.0	push-ad.com
 0.0.0.0	push-android.myzaker.com
 0.0.0.0	pushapi.lenovomm.com
@@ -73221,6 +73243,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	return.domainnamesales.com
 0.0.0.0	return.to
 0.0.0.0	return.uk.domainnamesales.com
+0.0.0.0	ret.xinlongrubber.com
 0.0.0.0	reunioncom.112.2o7.net
 0.0.0.0	reunion.tt.omtrdc.net
 0.0.0.0	reuters-d.openx.net
@@ -73924,11 +73947,13 @@ ff02::2  ip6-allrouters
 0.0.0.0	s1.keytui.com
 0.0.0.0	s1.kutongji.com
 0.0.0.0	s1.listrakbi.com
+0.0.0.0	s1.mingmingtehui.com
 0.0.0.0	s1.mobile-tracking.gfsrv.net
 0.0.0.0	s1.mqsyz.com
 0.0.0.0	s1.my.adocean.pl
 0.0.0.0	s1.myao.adocean.pl
 0.0.0.0	s1.pracuj.adocean.pl
+0.0.0.0	s1.qiqutt.cn
 0.0.0.0	s1.rotaban.ru
 0.0.0.0	s1.s8tu.com
 0.0.0.0	s1.shinystat.com
@@ -73992,6 +74017,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	s2.ipicture.ru
 0.0.0.0	s2.kuaibaopay.com
 0.0.0.0	s2.mdpcdn.com
+0.0.0.0	s2.mingmingtehui.com
 0.0.0.0	s2.rotaban.ru
 0.0.0.0	s2s.go2affise.com
 0.0.0.0	s2.shinystat.com
@@ -75629,6 +75655,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	signready.com
 0.0.0.0	signup.advance.net
 0.0.0.0	signup.clicksor.com
+0.0.0.0	sigo99.com
 0.0.0.0	si.hit.gemius.pl
 0.0.0.0	siliconaction.com
 0.0.0.0	siliconera.us.intellitxt.com
@@ -90241,6 +90268,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.gbcash.com
 0.0.0.0	www.gbotvisit.com
 0.0.0.0	www.gcmadvertising.com
+0.0.0.0	www.gcs1.cn
 0.0.0.0	www.gcumuobqjbullfight.review
 0.0.0.0	www.gebr-wachs.de
 0.0.0.0	www.geegawmpuvidd.download
@@ -90875,6 +90903,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.jinshagt222.com
 0.0.0.0	www.jirkinetsaxjjdegyp.download
 0.0.0.0	www.jisucn.com
+0.0.0.0	www.jiubuhua.com
 0.0.0.0	www.jivox.com
 0.0.0.0	www.jiztini.com
 0.0.0.0	www.jizzads.com
@@ -91036,6 +91065,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.ksqoglpledgeable.review
 0.0.0.0	www.kstmnfmdaphilologue.review
 0.0.0.0	www.ktxtkvolitient.review
+0.0.0.0	www.kudifish.com
 0.0.0.0	www.kuguopush.com
 0.0.0.0	www.kuhdi.com
 0.0.0.0	www.kvr-systems.de
@@ -91690,6 +91720,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.ninjadollars.com
 0.0.0.0	www.nitratedffwtprxdo.download
 0.0.0.0	www.nitronetads.com
+0.0.0.0	www.njmpacc.com
 0.0.0.0	www.njyshuopawas.review
 0.0.0.0	www.nlbanner.nl
 0.0.0.0	www.nlrbucstales.review
@@ -93843,6 +93874,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.yvmads.com
 0.0.0.0	www.ywvcomputerprocess.info
 0.0.0.0	www.yyep.com
+0.0.0.0	www.yzaosite.com
 0.0.0.0	www.yzpvcwaelunker.review
 0.0.0.0	www.z5x.net
 0.0.0.0	www.za-ads.de
@@ -94009,6 +94041,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	xbs.mtree.com
 0.0.0.0	xbs.pao.mtree.com
 0.0.0.0	xbs.sea.mtree.com
+0.0.0.0	xc.08an.com
 0.0.0.0	xcar.adsame.com
 0.0.0.0	x.castanet.net
 0.0.0.0	x.cb.kount.com
@@ -94260,6 +94293,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	xrevtrk.com
 0.0.0.0	xr.h4ck.la
 0.0.0.0	x-road.co.kr
+0.0.0.0	xs.1drj.com
 0.0.0.0	xs.he9630.com
 0.0.0.0	xs.houyi.baofeng.net
 0.0.0.0	x.skimresources.com
@@ -94645,6 +94679,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zc2.quebec-bin.com
 0.0.0.0	zc.adpush.cn
 0.0.0.0	z.ceotrk.com
+0.0.0.0	z.clickvip.shop
 0.0.0.0	zdads.e-media.com
 0.0.0.0	zdau-builder.122.2o7.net
 0.0.0.0	zdau-zdnetau.122.2o7.net
