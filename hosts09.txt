@@ -33,7 +33,6 @@
 0.0.0.0	img3.126.net
 0.0.0.0	pimg1.126.net
 0.0.0.0	acstatic-dun.126.net
-0.0.0.0	static.ws.126.net
 0.0.0.0	webstat.ws.126.net
 0.0.0.0	analytics.163.com
 0.0.0.0	e-p4p.163.com
@@ -48,9 +47,6 @@
 0.0.0.0	impservice.dictapp.youdao.com
 0.0.0.0	log.yex.youdao.com
 0.0.0.0	ydpushserver.youdao.com
-0.0.0.0	img4.cache.netease.com
-0.0.0.0	img6.cache.netease.com
-0.0.0.0	img5.cache.netease.com
 0.0.0.0	api.so.lianmeng.360.cn
 0.0.0.0	cm.lianmeng.360.cn
 0.0.0.0	s.lianmeng.360.cn
@@ -2287,6 +2283,17 @@
 0.0.0.0	zzjs2.firefang.cn
 0.0.0.0	1.xilu.com
 0.0.0.0	newspage.xilu.com
+0.0.0.0	e.cuomm.com
+0.0.0.0	e.wonwg.com
+0.0.0.0	e.xeihy.com
+0.0.0.0	m.cuoss.com
+0.0.0.0	m.mouaa.com
+0.0.0.0	m.wonwg.com
+0.0.0.0	m.xeihy.com
+0.0.0.0	qj.borsendental.com
+0.0.0.0	ssh.yezijizhang.com
+0.0.0.0	www.fccxgjg.com
+0.0.0.0	www.ydqzkj.com
 0.0.0.0	code1fa.m.shushu8.com
 0.0.0.0	dcw.hdswgc.com
 0.0.0.0	e.deimm.com
