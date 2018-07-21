@@ -1,3 +1,20 @@
+127.0.0.1  localhost
+::1  ip6-localhost
+::1  localhost
+::1  ip6-loopback
+fe00::0  ip6-localnet
+ff00::0  ip6-mcastprefix
+ff02::1  ip6-allnodes
+ff02::2  ip6-allrouters
+0.0.0.0 uaswitcher.org
+0.0.0.0 the-extension.com
+0.0.0.0 api.data-monitor.info
+0.0.0.0 similarweb.com
+0.0.0.0 comingmail.com
+0.0.0.0 xvp.cn
+104.28.2.6 doub.io
+151.101.32.133 raw.githubusercontent.com
+172.217.197.108 smtp.gmail.com
 23.95.9.4	23-95-9-4.googlehosts.org
 23.95.9.4	tg-1.googlehosts.org
 185.200.34.198	185-200-34-198.googlehosts.org
@@ -15187,7 +15204,7 @@
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-07-20_10:13:53
+2018-07-21_09:30:46
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -33232,7 +33249,6 @@
 0.0.0.0	ad.extrabanner.com
 0.0.0.0	ad.ezcybersearch.com
 0.0.0.0	ad.ezmob.com
-0.0.0.0	ad.f1cd.ru
 0.0.0.0	adfacten.go2cloud.org
 0.0.0.0	adfactor.nl
 0.0.0.0	adfactory88.com
@@ -38940,7 +38956,6 @@
 0.0.0.0	adtrade.net
 0.0.0.0	adtrader.com
 0.0.0.0	adtrade.ro
-0.0.0.0	adtrading.de
 0.0.0.0	adtradradservices.com
 0.0.0.0	adtradr.com
 0.0.0.0	adtraff.com
@@ -74036,6 +74051,7 @@
 0.0.0.0	sa.entireweb.com
 0.0.0.0	safaribooks.112.2o7.net
 0.0.0.0	safari-critical-alert.com
+0.0.0.0	safarids.com
 0.0.0.0	safe-aisle.jointreport-switch.com
 0.0.0.0	safe.bestapps.com-protection.info
 0.0.0.0	safebrowse.com
@@ -94588,20 +94604,3 @@
 0.0.0.0	zzz.clickbank.net
 0.0.0.0	zzzrtrcm2.com
 0.0.0.0	zzzzz4.52896368.com
-127.0.0.1  localhost
-::1  ip6-localhost
-::1  localhost
-::1  ip6-loopback
-fe00::0  ip6-localnet
-ff00::0  ip6-mcastprefix
-ff02::1  ip6-allnodes
-ff02::2  ip6-allrouters
-0.0.0.0 uaswitcher.org
-0.0.0.0 the-extension.com
-0.0.0.0 api.data-monitor.info
-0.0.0.0 similarweb.com
-0.0.0.0 comingmail.com
-0.0.0.0 xvp.cn
-104.28.2.6 doub.io
-151.101.32.133 raw.githubusercontent.com
-172.217.197.108 smtp.gmail.com

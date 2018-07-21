@@ -34679,6 +34679,7 @@
 0.0.0.0	sact.atdmt.com
 0.0.0.0	sad1.adriver.ru
 0.0.0.0	sadv.dadapro.com
+0.0.0.0	safarids.com
 0.0.0.0	safe.net-az83.stream
 0.0.0.0	safelinking.net
 0.0.0.0	safelinktracker.com
