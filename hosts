@@ -121,6 +121,30 @@ ff02::2  ip6-allrouters
 192.229.173.251	quests.armorgames.com
 27.133.136.8	app.arukas.io
 104.20.6.63	bandwagonhost.com
+151.101.8.81	www.bbc.com
+151.101.40.81	fig.bbc.co.uk
+212.58.246.92	www.bbc.co.uk
+104.118.112.225	static.bbci.co.uk
+23.199.11.116	static.bbc.co.uk
+104.76.83.32	nav.files.bbci.co.uk
+23.50.99.110	ichef.bbci.co.uk
+23.73.186.251	m.files.bbci.co.uk
+172.227.98.43	feeds.bbci.co.uk
+23.13.157.61	mybbc.files.bbci.co.uk
+23.66.206.133	polling.bbc.co.uk
+23.33.70.13	search.files.bbci.co.uk
+95.101.92.111	a.files.bbci.co.uk
+95.101.15.42	gel.files.bbci.co.uk
+104.103.150.125	emp.bbc.com
+23.53.213.148	news.bbcimg.co.uk
+23.201.173.230	mybbc-analytics.files.bbci.co.uk
+212.58.246.212	ssl.bbc.co.uk
+54.72.23.188	push.api.bbci.co.uk
+34.251.9.18	search-suggest.api.bbci.co.uk
+34.253.116.138	ess.api.bbci.co.uk
+212.58.246.124	session.bbc.com
+212.58.249.134	account.bbc.com
+212.58.244.78	open.live.bbc.co.uk
 107.152.25.196	box.com
 107.152.24.198	app.box.com
 107.152.24.197	account.box.com
@@ -15204,7 +15228,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-07-21_09:30:46
+2018-07-22_09:32:43
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -40981,6 +41005,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	amer.rel.msn.com
 0.0.0.0	a.mgid.com
 0.0.0.0	am.g.ireader.com
+0.0.0.0	a.m.gxwztv.com
 0.0.0.0	amhen.com.ru
 0.0.0.0	a.mibbit.com
 0.0.0.0	amidmostewbvqcji.download
@@ -42822,6 +42847,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	awjul8.radar11ab.co.uk
 0.0.0.0	awjul9.radar11ab.co.uk
 0.0.0.0	aw.kejet.net
+0.0.0.0	a.wlfnb.com
 0.0.0.0	aw.masterstats.com
 0.0.0.0	awm-dream.com
 0.0.0.0	a.wodizapt.com
@@ -49475,6 +49501,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	c.gr.msn.com
 0.0.0.0	c.guangtui1999.com
 0.0.0.0	c.gumgum.com
+0.0.0.0	c.gzsanxiaomingshi.cn
 0.0.0.0	cgzudintercom.review
 0.0.0.0	ch2lb.checkm8.com
 0.0.0.0	chacha.112.2o7.net
@@ -50716,6 +50743,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	code.ttpaper.com
 0.0.0.0	code.vihub.ru
 0.0.0.0	code.visitor-track.com
+0.0.0.0	code.wantaico.com
 0.0.0.0	code.xidx.org
 0.0.0.0	codicebusiness.shinystat.com
 0.0.0.0	codicefl.shinystat.com
@@ -54838,6 +54866,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	drb34.voluumtrk.com
 0.0.0.0	drc-group.net
 0.0.0.0	drd.hauchi.com.tw
+0.0.0.0	drdj.m.gxwztv.com
 0.0.0.0	drdobbs.us.intellitxt.com
 0.0.0.0	dreamad.org
 0.0.0.0	dreamhome.112.2o7.net
@@ -54875,6 +54904,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	drrey.voluumtrk.com
 0.0.0.0	drs2.veinteractive.com
 0.0.0.0	dr.soso.com
+0.0.0.0	drsw.m.yuyouge.com
 0.0.0.0	drtserver.com
 0.0.0.0	drugdetox.shengen.ru
 0.0.0.0	drugnoprescription.com
@@ -55764,6 +55794,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	eiv.baidu.com
 0.0.0.0	ejbgr.voluumtrk.com
 0.0.0.0	e.jgkto.com
+0.0.0.0	e.jiaas.com
 0.0.0.0	e.jiirz.com
 0.0.0.0	e.jlkja.com
 0.0.0.0	e.jltdbyq.com
@@ -56118,6 +56149,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	e.qiyunmuye.com
 0.0.0.0	eqlhpcyzarosolios.review
 0.0.0.0	e.qq.com
+0.0.0.0	e.qsove.com
 0.0.0.0	eqs-redserver.appspot.com
 0.0.0.0	equantum.com
 0.0.0.0	equitymarketingsolutions.com
@@ -56435,6 +56467,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ewebcounter.com
 0.0.0.0	eweek.us.intellitxt.com
 0.0.0.0	e.wikigifth.com
+0.0.0.0	e.wjhehaofc.com
 0.0.0.0	e.wkjhd.com
 0.0.0.0	e.wnxcg.com
 0.0.0.0	e.wonwg.com
@@ -56605,6 +56638,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	extzbxocracknels.review
 0.0.0.0	ex.umengcloud.com
 0.0.0.0	ey4uh.voluumtrk.com
+0.0.0.0	e.yageben.com
 0.0.0.0	e.yangjingbang.net
 0.0.0.0	eyaxf.voluumtrk.com
 0.0.0.0	ey.c.appier.net
@@ -56641,6 +56675,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	e.zhuyuanp.club
 0.0.0.0	e.zhuyuanp.shop
 0.0.0.0	e.zhuyuanp.top
+0.0.0.0	e.zjkdaikuan.com
 0.0.0.0	ez-polls.superstats.com
 0.0.0.0	ezpolls.superstats.com
 0.0.0.0	ez-poll.superstats.com
@@ -57016,6 +57051,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	femalewrestlingnow.com
 0.0.0.0	femeedia.com
 0.0.0.0	femi9.voluumtrk.com
+0.0.0.0	fen.dkdlsj.com
 0.0.0.0	fengche.cpv6.com
 0.0.0.0	fengfengtie.com.cn
 0.0.0.0	fengfengtiecrv.com.cn
@@ -59179,6 +59215,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	go-free-gifts.com
 0.0.0.0	gofreegifts.com
 0.0.0.0	gofugyourself.us.intellitxt.com
+0.0.0.0	gog9.qzdfc.com
 0.0.0.0	go.gba.bbelements.com
 0.0.0.0	gogetgorgeous.com
 0.0.0.0	goggle.com
@@ -59917,6 +59954,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	helpmymacfaster.club
 0.0.0.0	help.mysearch.com
 0.0.0.0	help.qualaroo.com
+0.0.0.0	help.yunaq.com
 0.0.0.0	henbaneypgvxgt.download
 0.0.0.0	hentaicounter.com
 0.0.0.0	herbalaffiliateprogram.com
@@ -60480,8 +60518,10 @@ ff02::2  ip6-allrouters
 0.0.0.0	html.knbc.com
 0.0.0.0	html.nbc10.com
 0.0.0.0	html.overture.com
+0.0.0.0	html.sunday8.com
 0.0.0.0	html.wnbc.com
 0.0.0.0	htmlwww.youfck.com
+0.0.0.0	html.yuntzs.com
 0.0.0.0	htmonster.com
 0.0.0.0	ht.pornhub.com
 0.0.0.0	ht.redtube.com
@@ -61759,6 +61799,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ing-district.clicktale.net
 0.0.0.0	in.getclicky.com
 0.0.0.0	ingluvialqsbjgerp.download
+0.0.0.0	in.gyeet.com
 0.0.0.0	ini.litingxin.cn
 0.0.0.0	inimage.tr553.com
 0.0.0.0	initgroup.com
@@ -61771,6 +61812,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	in.jghcy.com
 0.0.0.0	in.joinourwebsite.com
 0.0.0.0	i.n.jwpltx.com
+0.0.0.0	in.jxhcyc.com
 0.0.0.0	inklineglobal.com
 0.0.0.0	inkshare.com
 0.0.0.0	inl.adbureau.net
@@ -61778,6 +61820,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	inline.admedia.com
 0.0.0.0	inm.affinitymatrix.com
 0.0.0.0	in.mainentrypoint.com
+0.0.0.0	in.mengpr.com
 0.0.0.0	inm.go2cloud.org
 0.0.0.0	in.mgwcn.com
 0.0.0.0	in.ml314.com
@@ -62630,6 +62673,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	js1.nend.net
 0.0.0.0	js-1.pchome.net
 0.0.0.0	js.2011.8684.com
+0.0.0.0	js205.dupinpu.com
 0.0.0.0	js2254.hfxcsl.cn
 0.0.0.0	js2553.xjzyq.com
 0.0.0.0	js257.0937jyg.com
@@ -62963,6 +63007,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jyc.njxczy.com
 0.0.0.0	jyhfuqoh.info
 0.0.0.0	j.yljiaoluo.com
+0.0.0.0	j.ytbt.cc
 0.0.0.0	jzclick.soso.com
 0.0.0.0	jzgng.voluumtrk.com
 0.0.0.0	jzigsobgsmxdmr.bid
@@ -63326,6 +63371,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0	kundenserver.de
 0.0.0.0	kustusch.com
+0.0.0.0	kuyic.m.gxwztv.com
 0.0.0.0	kuzai.cooguo.com
 0.0.0.0	kvjwu.voluumtrk.com
 0.0.0.0	kvors.com
@@ -63882,6 +63928,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ljujm.voluumtrk.com
 0.0.0.0	l.kavanga.ru
 0.0.0.0	lk.brand.sogou.com
+0.0.0.0	lkf1.m.sanhao3.com
 0.0.0.0	lkme.cc
 0.0.0.0	lkqd.net
 0.0.0.0	lladinserts.us.publicus.com
@@ -64298,6 +64345,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	lolfun.com
 0.0.0.0	lolhello.com
 0.0.0.0	lo.ljkeefeco.com
+0.0.0.0	lol.pnhfc.com
 0.0.0.0	lolshock.com
 0.0.0.0	lol.to
 0.0.0.0	loltrain.com
@@ -66186,6 +66234,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mgallery.megapornbucks.com
 0.0.0.0	m.game.weibo.cn
 0.0.0.0	m.gameyun907.net
+0.0.0.0	m.ganrs.com
 0.0.0.0	mgbhr.voluumtrk.com
 0.0.0.0	mgcash.com
 0.0.0.0	mgcashgate.com
@@ -66211,6 +66260,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mgtimesdispatch.112.2o7.net
 0.0.0.0	m.gtiou.com
 0.0.0.0	m.gtnde.com
+0.0.0.0	m.guaas.com
 0.0.0.0	m.guanren11.com
 0.0.0.0	m.guanren5.com
 0.0.0.0	m.guanren6.com
@@ -66436,6 +66486,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mixrank.go2cloud.org
 0.0.0.0	mix-test.uts.ngdata.com
 0.0.0.0	mixtraffic.com
+0.0.0.0	mj70.cn
 0.0.0.0	m.jcwwxn.com
 0.0.0.0	m.jgkto.com
 0.0.0.0	mjgxsidsixes.review
@@ -66448,6 +66499,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.jltdbyq.com
 0.0.0.0	mjov7.voluumtrk.com
 0.0.0.0	m.joyxv.com
+0.0.0.0	mjs.csyymp4.com
 0.0.0.0	m.juyzr.com
 0.0.0.0	mjvns.voluumtrk.com
 0.0.0.0	m.jwiyr.com
@@ -67253,6 +67305,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.wervp.com
 0.0.0.0	m.wgewj.cn
 0.0.0.0	m.wikigifth.com
+0.0.0.0	m.wjhehaofc.com
 0.0.0.0	m.wkjhd.com
 0.0.0.0	m.wnxcg.com
 0.0.0.0	m.wonwg.com
@@ -72529,6 +72582,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	rce.veeseo.com
 0.0.0.0	rc.fthcz.com
 0.0.0.0	rcgi.video.qq.com
+0.0.0.0	rc.haodongkeji.cn
 0.0.0.0	rc.himedia.individuad.net
 0.0.0.0	r.chip.de
 0.0.0.0	r.chitika.net
@@ -74218,6 +74272,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	sbdhealth.go2cloud.org
 0.0.0.0	sbeacon.sina.com.cn
 0.0.0.0	sb.freeskreen.com
+0.0.0.0	s.bmgan.com
 0.0.0.0	sb.monetate.net
 0.0.0.0	sbnationbidder-d.openx.net
 0.0.0.0	sbnc.hak.su
@@ -74525,6 +74580,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	sdsbucket.s3.amazonaws.com
 0.0.0.0	sdscdn.userreport.com
 0.0.0.0	sd.sharethis.com
+0.0.0.0	s.dsjcfw.com
 0.0.0.0	sdsp.ipinyou.com
 0.0.0.0	sdtimes.us.intellitxt.com
 0.0.0.0	sdu.adwo.com
@@ -75931,6 +75987,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	soft4update.forfreeupgrades.org
 0.0.0.0	softads.50webs.com
 0.0.0.0	softcash.biz
+0.0.0.0	soft.chaomeng8.com
 0.0.0.0	softclick.com.br
 0.0.0.0	softcore.xxxcounter.com
 0.0.0.0	softlayer.d1.sc.omtrdc.net
@@ -81602,6 +81659,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	utrade.com
 0.0.0.0	utraffic.engine.adglare.net
 0.0.0.0	utsdpp.persgroep.net
+0.0.0.0	uu.85655095.com
 0.0.0.0	u.uc123.com
 0.0.0.0	u.ucfly.com
 0.0.0.0	uucome.com
@@ -87591,6 +87649,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www60.valueclick.com
 0.0.0.0	www61.overture.com
 0.0.0.0	www.649558.com
+0.0.0.0	www.64si.com
 0.0.0.0	www.6615338.cn
 0.0.0.0	www.6666349.com
 0.0.0.0	www.66992949.com
@@ -90288,6 +90347,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.hkjhwrhogwash.review
 0.0.0.0	www.hldwmly.com
 0.0.0.0	www.hlserve.com
+0.0.0.0	www.hndiyikj.com
 0.0.0.0	www.hobwelt.com
 0.0.0.0	www.holiday-gift-offers.com
 0.0.0.0	www.holidayproductpromo.com
@@ -93675,6 +93735,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	wykop.hit.gemius.pl
 0.0.0.0	w.ymapp.com
 0.0.0.0	wytpxpnhflavin.review
+0.0.0.0	wyt.wwetjy.com
 0.0.0.0	wytypowana-osoba-wygrywajaca.pl
 0.0.0.0	wytypowany-zwyciezca.com
 0.0.0.0	wytypowany-zwyciezca.pl
