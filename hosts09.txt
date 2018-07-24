@@ -728,6 +728,7 @@
 0.0.0.0	d.gdt.qq.com
 0.0.0.0	i.gdt.qq.com
 0.0.0.0	mi.gdt.qq.com
+0.0.0.0	nc.gdt.qq.com
 0.0.0.0	q.i.gdt.qq.com
 0.0.0.0	rm.gdt.qq.com
 0.0.0.0	t.gdt.qq.com
@@ -740,6 +741,7 @@
 0.0.0.0	ra.gtimg.com
 0.0.0.0	wa.gtimg.com
 0.0.0.0	wb.gtimg.com
+0.0.0.0	pgdt.ugdtimg.com
 0.0.0.0	bs.l.qq.com
 0.0.0.0	c2.l.qq.com
 0.0.0.0	cb.l.qq.com
@@ -1668,6 +1670,7 @@
 0.0.0.0	i.haloapps.com
 0.0.0.0	mo.test.haloapps.com
 0.0.0.0	mo.haloapps.cn
+0.0.0.0	ads1.lfengmobile.com
 0.0.0.0	shrek.6.cn
 0.0.0.0	sclick.6rooms.com
 0.0.0.0	ad.huajiao.com
@@ -1894,6 +1897,9 @@
 0.0.0.0	cdn2.moji002.com
 0.0.0.0	ad.zuimeitianqi.com
 0.0.0.0	stat.zuimeitianqi.com
+0.0.0.0	business.inveno.com
+0.0.0.0	zuimeitianqi.inveno.com
+0.0.0.0	update.coolyun.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -2205,6 +2211,12 @@
 0.0.0.0	zzjs2.firefang.cn
 0.0.0.0	1.xilu.com
 0.0.0.0	newspage.xilu.com
+0.0.0.0	hdggcdn.bayimob.com
+0.0.0.0	interaction.bayimob.com
+0.0.0.0	zxcs.ggwan.com
+0.0.0.0	h5.pk1179.com
+0.0.0.0	game.baichuanhd.cn
+0.0.0.0	activity.tuifish.com
 0.0.0.0	1.1010pic.com
 0.0.0.0	1.21shebao.com
 0.0.0.0	1.chcx.cn
@@ -2415,6 +2427,7 @@
 0.0.0.0	c.ynlysg.com
 0.0.0.0	c.zgnm.cc
 0.0.0.0	c.zlongad.com
+0.0.0.0	c.zmjuan.org
 0.0.0.0	c.zxyywdj.org
 0.0.0.0	c1.popads.net
 0.0.0.0	c2.popads.net
@@ -2704,8 +2717,10 @@
 0.0.0.0	e.yerpt.com
 0.0.0.0	e.yicang8.com
 0.0.0.0	e.yingchengtou.com
+0.0.0.0	e.yoiur.com
 0.0.0.0	e.youweiprint.com
 0.0.0.0	e.ysdangan.com
+0.0.0.0	e.ysdhe.com
 0.0.0.0	e.yuxyz.com
 0.0.0.0	e.ywbwsm.com
 0.0.0.0	e.yyeks.com
@@ -3090,11 +3105,13 @@
 0.0.0.0	m.erocw.com
 0.0.0.0	m.fecjf.cn
 0.0.0.0	m.fengwanwl.com
+0.0.0.0	m.fenrs.com
 0.0.0.0	m.fhxsw.org
 0.0.0.0	m.fimky.com
 0.0.0.0	m.fkkse.com
 0.0.0.0	m.fkogs.com
 0.0.0.0	m.focuscat.com
+0.0.0.0	m.fouas.com
 0.0.0.0	m.foumm.com
 0.0.0.0	m.fstaw.com
 0.0.0.0	m.fxbga.com
@@ -3263,8 +3280,10 @@
 0.0.0.0	m.ycioo.com
 0.0.0.0	m.yicang8.com
 0.0.0.0	m.yingchengtou.com
+0.0.0.0	m.yoiur.com
 0.0.0.0	m.yooli.com
 0.0.0.0	m.youweiprint.com
+0.0.0.0	m.ysdhe.com
 0.0.0.0	m.yuandajiayuan.com
 0.0.0.0	m.yuxyz.com
 0.0.0.0	m.ywbwsm.com
@@ -3683,6 +3702,7 @@
 0.0.0.0	w.1lib.cn
 0.0.0.0	w.bobocn.cn
 0.0.0.0	w.cube3d.cn
+0.0.0.0	w.waacorp.com
 0.0.0.0	w.werpig.com
 0.0.0.0	w.xiaopiaoyou.com
 0.0.0.0	w.yamaidei.cn
