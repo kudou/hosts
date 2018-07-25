@@ -1661,6 +1661,8 @@
 0.0.0.0	s.de123.net
 0.0.0.0	dc.vmoters.com
 0.0.0.0	pat.farvd.com
+0.0.0.0	ms.ienkdaccessible.cn
+0.0.0.0	ms.continuedsys.cn
 0.0.0.0	service.ad.adesk.com
 0.0.0.0	h5.holalauncher.com
 0.0.0.0	i.holalauncher.com
@@ -2211,12 +2213,14 @@
 0.0.0.0	zzjs2.firefang.cn
 0.0.0.0	1.xilu.com
 0.0.0.0	newspage.xilu.com
+0.0.0.0	baidu.cybcyw.com
 0.0.0.0	hdggcdn.bayimob.com
 0.0.0.0	interaction.bayimob.com
 0.0.0.0	zxcs.ggwan.com
 0.0.0.0	h5.pk1179.com
 0.0.0.0	game.baichuanhd.cn
 0.0.0.0	activity.tuifish.com
+0.0.0.0	w.waacorp.com
 0.0.0.0	1.1010pic.com
 0.0.0.0	1.21shebao.com
 0.0.0.0	1.chcx.cn
@@ -3702,7 +3706,6 @@
 0.0.0.0	w.1lib.cn
 0.0.0.0	w.bobocn.cn
 0.0.0.0	w.cube3d.cn
-0.0.0.0	w.waacorp.com
 0.0.0.0	w.werpig.com
 0.0.0.0	w.xiaopiaoyou.com
 0.0.0.0	w.yamaidei.cn
