@@ -912,6 +912,7 @@
 0.0.0.0	annonser.dagbladet.no
 0.0.0.0	anxiousapples.com
 0.0.0.0	api.intensifier.de
+0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	app.pendo.io
 0.0.0.0	appsflyer.com
 0.0.0.0	aps.hearstnp.com
@@ -2163,6 +2164,7 @@
 0.0.0.0	samsungads.com
 0.0.0.0	saysidewalk.com
 0.0.0.0	sbx.pagesjaunes.fr
+0.0.0.0	sc-analytics.appspot.com
 0.0.0.0	scambiobanner.aruba.it
 0.0.0.0	scanscout.com
 0.0.0.0	scarcestream.com

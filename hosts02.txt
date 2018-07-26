@@ -272,6 +272,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.redshell.io
 0.0.0.0	apis.murdoog.com
 0.0.0.0	api.tumra.com
+0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	apple.com-onlinesupport.host
 0.0.0.0	apprep.smartscreen.microsoft.com
 0.0.0.0	app.yesware.com
@@ -1104,6 +1105,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	s4.shinystat.com
 0.0.0.0	sact.atdmt.com
 0.0.0.0	sa.jumptap.com
+0.0.0.0	sc-analytics.appspot.com
 0.0.0.0	s.clickability.com
 0.0.0.0	sclk.org
 0.0.0.0	scorecardresearch.com
@@ -6817,6 +6819,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	BRApolice.com
 0.0.0.0	bravo.israelinfo.ru
 0.0.0.0	bravospots.com	
+0.0.0.0	b.recwwcc5.info
 0.0.0.0	brittlefilet.com
 0.0.0.0	br.naked.com
 0.0.0.0	broadcast.piximedia.fr
@@ -6916,6 +6919,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cashback.co.uk
 0.0.0.0	cashbackwow.co.uk
 0.0.0.0	cashflowmarketing.com
+0.0.0.0	cashreportz.com
 0.0.0.0	casino770.com
 0.0.0.0	caslemedia.com
 0.0.0.0	casting.openv.com
@@ -7181,6 +7185,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	closeoutproductsreview.com
 0.0.0.0	cloudcrown.com
 0.0.0.0	c.l.qq.com
+0.0.0.0	clubwinnerz.com
 0.0.0.0	cluster3.adultadworld.com
 0.0.0.0	cluster.adultadworld.com
 0.0.0.0	cm1359.com
@@ -7339,6 +7344,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.ru.msn.com
 0.0.0.0	crux.songline.com
 0.0.0.0	crwdcntrl.net
+0.0.0.0	cryptolabpro.com
 0.0.0.0	cs.adxpansion.com
 0.0.0.0	c.se.msn.com
 0.0.0.0	cserver.mii.instacontent.net
@@ -7625,6 +7631,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	europe.adserver.yahoo.com
 0.0.0.0	eu-sonar.sociomantic.com
 0.0.0.0	eu.track.digitaladsystems.com
+0.0.0.0	euw.adserver.snapads.com
 0.0.0.0	eu.xtms.net
 0.0.0.0	eveley.club
 0.0.0.0	event-log.videe.tv
@@ -8796,6 +8803,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	msn.wrating.com
 0.0.0.0	ms.yandex.ru
 0.0.0.0	mt58.mtree.com
+0.0.0.0	m.tidebuy.com
 0.0.0.0	m.tribalfusion.com
 0.0.0.0	mttwtrack.com
 0.0.0.0	mtvbrazil-services.vimn.com
@@ -9304,6 +9312,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	preligions.com
 0.0.0.0	premium.ascensionweb.com
 0.0.0.0	premiumholidayoffers.com
+0.0.0.0	premium-offers.space
 0.0.0.0	premiumproductsonline.com
 0.0.0.0	premium-reward-club.com
 0.0.0.0	prestoris.com
@@ -10249,6 +10258,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	this.content.served.by.adshuffle.com
 0.0.0.0	thoughtfully-free.com
 0.0.0.0	thruport.com
+0.0.0.0	tidebuy.com
 0.0.0.0	timelywebsitehostesses.com
 0.0.0.0	titan-gel-extra.com
 0.0.0.0	tk.baidu.com
@@ -10460,6 +10470,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	usatoday.app.ur.gcion.com
 0.0.0.0	usatravel-specials.com
 0.0.0.0	usatravel-specials.net
+0.0.0.0	usc.adserver.snapads.com
 0.0.0.0	us-choicevalue.com
 0.0.0.0	usd.sierra-boa.com
 0.0.0.0	usemax.de
@@ -11766,6 +11777,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.youripad4free.com
 0.0.0.0	www.yourrewardzone.com
 0.0.0.0	www.yoursmartrewards.com
+0.0.0.0	www.zabavazaodrasle.com
 0.0.0.0	www.zbippirad.info
 0.0.0.0	www.zemgo.com
 0.0.0.0	www.zevents.com
@@ -11843,6 +11855,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	yx-in-f108.1e100.net
 0.0.0.0	z1.adserver.com
 0.0.0.0	za1.sierra-fox.com
+0.0.0.0	zabavazaodrasle.com
 0.0.0.0	z.admob.com
 0.0.0.0	zads.zedo.com
 0.0.0.0	zapadserver1.com
