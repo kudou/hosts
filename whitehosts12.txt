@@ -775,7 +775,7 @@
 216.239.34.21	blog.google
 216.239.38.21	environment.google
 172.217.161.182	domains.google
-74.125.206.210	domains.google.com
+64.15.126.100	domains.google.com
 74.125.206.210	aboutme.google.com
 74.125.206.210	ads.google.com
 74.125.206.210	abc.xyz
@@ -2193,8 +2193,8 @@
 108.177.119.132	doc-10-cs-docs.googleusercontent.com
 108.177.119.132	doc-14-cs-docs.googleusercontent.com
 172.217.31.103	browserchannel-docs.l.google.com
-74.125.202.162	golang.org
-74.125.202.162	golang-consa.l.google.com
+216.239.37.1	golang.org
+216.239.37.1	golang-consa.l.google.com
 172.217.14.150	play.google.com
 74.125.204.100	android.clients.google.com
 108.177.121.201	play.googleapis.com

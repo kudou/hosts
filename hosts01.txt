@@ -16689,6 +16689,7 @@
 0.0.0.0	ads.exactdrive.com
 0.0.0.0	ads.examiner.net
 0.0.0.0	ads.exchange-it.com
+0.0.0.0	ads.exdynsrv.com
 0.0.0.0	ads.exoclick.com
 0.0.0.0	ads.expatinbulgaria.com
 0.0.0.0	ads.expedia.com
@@ -36711,7 +36712,6 @@
 0.0.0.0	tools.bongacash.com
 0.0.0.0	tools.gfcash.com
 0.0.0.0	tools.hitbox.com
-0.0.0.0	tools.ip2location.com
 0.0.0.0	tools.kissmetrics.com
 0.0.0.0	tools.mobpartner.mobi
 0.0.0.0	tools.quicksprout.com
