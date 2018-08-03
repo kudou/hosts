@@ -2942,6 +2942,7 @@
 122.208.114.218	blog.pixiv.net
 210.129.120.43	embed.pixiv.net
 210.129.120.44	comic-api.pixiv.net
+210.129.120.56	pay.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv

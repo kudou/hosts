@@ -2961,6 +2961,7 @@ ff02::2  ip6-allrouters
 122.208.114.218	blog.pixiv.net
 210.129.120.43	embed.pixiv.net
 210.129.120.44	comic-api.pixiv.net
+210.129.120.56	pay.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
 35.160.65.192	channels.pscp.tv
@@ -15265,7 +15266,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-08-02_09:31:04
+2018-08-03_09:31:49
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -17090,6 +17091,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	69ba-95af-a923-8c02.reporo.net
 0.0.0.0	6a036421edec9693c962-4d1f758fa5668c904b9cd6e76bdc0d97.r71.cf2.rackcdn.com
 0.0.0.0	6a4cc.leiuc.com
+0.0.0.0	6a4cc.leygv.com
 0.0.0.0	6a802238f18629454f48-5fd47577f4847dded97d514126394433.r3.cf2.rackcdn.com
 0.0.0.0	6ae6-f579-2f31-2cce.reporo.net
 0.0.0.0	6aemj.voluumtrk.com
@@ -41864,6 +41866,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	api.rees46.com
 0.0.0.0	api.revcontent.com
 0.0.0.0	api.revmob.com
+0.0.0.0	api.rideraid.net
 0.0.0.0	api.sagent.io
 0.0.0.0	api.segment.io
 0.0.0.0	apiservices.krxd.net
@@ -43094,6 +43097,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	badv.wp.pl
 0.0.0.0	bafflesitfjtxan.download
 0.0.0.0	bafn.trafficrevmaster.com
+0.0.0.0	ba.fqzds.com
 0.0.0.0	bagslap.com
 0.0.0.0	bahuvrihisjcdqhbfv.download
 0.0.0.0	bai3.gushiwen.org
@@ -55515,6 +55519,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	edaa.eu
 0.0.0.0	ed.aijielang.cn
 0.0.0.0	e.daishuxy.com
+0.0.0.0	e.danrs.com
 0.0.0.0	ed.at.is13.de
 0.0.0.0	ed.at.thamaster.de
 0.0.0.0	eddamedia.linkpulse.com
@@ -55854,6 +55859,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	e-hpaces.ero-advertising.com
 0.0.0.0	e.htper.com
 0.0.0.0	ehttp.cc
+0.0.0.0	e.huaas.com
 0.0.0.0	e.hunpp.com
 0.0.0.0	e.huoas.com
 0.0.0.0	e.hurnt.com
@@ -56610,6 +56616,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	e.x.cn.miaozhen.com
 0.0.0.0	e.x.cn.xtgreat.com
 0.0.0.0	exct.net
+0.0.0.0	e.xdkje.com
 0.0.0.0	execulink.112.2o7.net
 0.0.0.0	executivecoaching.co.il
 0.0.0.0	e.xeihy.com
@@ -56739,6 +56746,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	eyeviewads.com
 0.0.0.0	eyewonder.com
 0.0.0.0	e.yicang8.com
+0.0.0.0	e.yidulive.net
 0.0.0.0	e.yieldmanager.net
 0.0.0.0	e.yingchengtou.com
 0.0.0.0	eyjs.b7nkd.cn
@@ -58383,6 +58391,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	fyhjs.voluumtrk.com
 0.0.0.0	f.yijikm.com
 0.0.0.0	fynskemedieradmin.adservinginternational.com
+0.0.0.0	f.yueyetiyu.com
 0.0.0.0	fyvzz.survey7.adsservingtwig.xyz
 0.0.0.0	fywwy.voluumtrk.com
 0.0.0.0	fz6wh.voluumtrk.com
@@ -59601,6 +59610,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	gpkjxgsginfallible.review
 0.0.0.0	g.p.mybuys.com
 0.0.0.0	g.promosrv.com
+0.0.0.0	gpydym.cn
 0.0.0.0	gqe0d.voluumtrk.com
 0.0.0.0	gqfysspiracles.review
 0.0.0.0	gqgng.voluumtrk.com
@@ -62131,6 +62141,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ioads.ero-advertising.com
 0.0.0.0	ioam.de
 0.0.0.0	iocdn.coremetrics.com
+0.0.0.0	ioc.mmakd.top
 0.0.0.0	i.offerx.co.uk
 0.0.0.0	ioit.iovation.com
 0.0.0.0	ionamin.1.p2l.info
@@ -63789,6 +63800,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	lhg.alisinak.com
 0.0.0.0	lhgqc.voluumtrk.com
 0.0.0.0	lhs-mhs.org
+0.0.0.0	li.anyysz.com
 0.0.0.0	liapentruromania.ro
 0.0.0.0	lib1.libstat.com
 0.0.0.0	lib4.libstat.com
@@ -65462,6 +65474,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mcclatchy.112.2o7.net
 0.0.0.0	m.cdfzcz.com
 0.0.0.0	mcd-su-2.mos.ru
+0.0.0.0	m.cenrs.com
 0.0.0.0	mcfg.sandai.net
 0.0.0.0	m.chartbeat.com
 0.0.0.0	m.chenhuia.com
@@ -65482,6 +65495,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.codlw.com
 0.0.0.0	MCOpolice.com
 0.0.0.0	mcore.vcgame.cn
+0.0.0.0	m.couas.com
 0.0.0.0	mcp8f.voluumtrk.com
 0.0.0.0	mcpaz.voluumtrk.com
 0.0.0.0	mcpvkhoven.review
@@ -74421,6 +74435,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	sc10.net
 0.0.0.0	sc1.admob.com
 0.0.0.0	sc2bg.voluumtrk.com
+0.0.0.0	sc.58mingtian.cn
 0.0.0.0	sc.5.p2l.info
 0.0.0.0	sc5pr.voluumtrk.com
 0.0.0.0	sc9.admob.com
@@ -76569,6 +76584,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ssl-geizhals.oewabox.at
 0.0.0.0	ssl.google-analytics.com
 0.0.0.0	ssl-helpgvat.oewabox.at
+0.0.0.0	ssl.hyhzy.cn
 0.0.0.0	ssl-i.2cnt.net
 0.0.0.0	ss.linksynergy.com
 0.0.0.0	ssljscdn.airbrake.io
@@ -89979,6 +89995,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.fixin.de
 0.0.0.0	www.fix-my-pc.org
 0.0.0.0	www.fix-registry-here.com
+0.0.0.0	www.fjlqqc.com
 0.0.0.0	www.fkref.com
 0.0.0.0	www.flagads.net
 0.0.0.0	www.flagcounter.com
@@ -90610,6 +90627,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.hzvtbypisdeejays.review
 0.0.0.0	www.hzwurfzsmouches.review
 0.0.0.0	www.hzxfmc.com
+0.0.0.0	www.hzyuw.com
 0.0.0.0	www.i1236.net
 0.0.0.0	www.iads.com.np
 0.0.0.0	www.iagsgypeavy.review
@@ -94152,6 +94170,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	x.infzm.com
 0.0.0.0	xinhuanet.adsame.com
 0.0.0.0	x.interia.pl
+0.0.0.0	xin.ygqczh.com
 0.0.0.0	xiti.com
 0.0.0.0	xit.sexlist.com
 0.0.0.0	xivphnipressings.review
@@ -94535,6 +94554,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	yuilop.com
 0.0.0.0	yuituityula.com
 0.0.0.0	yukoyuko.112.2o7.net
+0.0.0.0	yumcs.xiaohuau.xyz
 0.0.0.0	yume.com
 0.0.0.0	yumekin.com
 0.0.0.0	yumenetworks.com
@@ -94804,6 +94824,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zvs1.cnzz.com
 0.0.0.0	zvs2.cnzz.com
 0.0.0.0	zww.ero-advertising.com
+0.0.0.0	zx.baosmx.com
 0.0.0.0	zxcs.ggwan.com
 0.0.0.0	zxcs.linghit.com
 0.0.0.0	zxr.fzxrjx.com
