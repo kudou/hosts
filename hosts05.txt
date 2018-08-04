@@ -23742,6 +23742,7 @@
 0.0.0.0	cmn1lsm2.beliefnet.com
 0.0.0.0	cmn1lsm3.beliefnet.com
 0.0.0.0	cmn1lsm4.beliefnet.com
+0.0.0.0	cmp.entertainmentcrave.com
 0.0.0.0	cmp.us.intellitxt.com
 0.0.0.0	cmpdotnetjunkiescom.112.2o7.net
 0.0.0.0	cmpglobalvista.112.2o7.net
@@ -27327,6 +27328,7 @@
 0.0.0.0	fillymedia.go2affise.com
 0.0.0.0	filmboxlive.go2cloud.org
 0.0.0.0	filmforcedvd.ign.us.intellitxt.com
+0.0.0.0	filter.adexchangemedia.xyz
 0.0.0.0	filter.online-adnetwork.com
 0.0.0.0	filter.onwardclick.com
 0.0.0.0	filtertest.2cnt.net
