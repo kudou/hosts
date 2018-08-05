@@ -10423,6 +10423,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	trafficnetworkads24.com
 0.0.0.0	traffic.outbrain.com
 0.0.0.0	trafficrevenue.net
+0.0.0.0	trafficsan.com
 0.0.0.0	traffictraders.com
 0.0.0.0	traffprofit.com
 0.0.0.0	trafmag.com
