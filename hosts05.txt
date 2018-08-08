@@ -19094,6 +19094,7 @@
 0.0.0.0	analytics.supplyframe.com
 0.0.0.0	analytics.teespring.com
 0.0.0.0	analytics.themarketiq.com
+0.0.0.0	analytics.theminersunion.com
 0.0.0.0	analytics.thingx.tv
 0.0.0.0	analytics.traidnt.net
 0.0.0.0	analytics.traviangames.com
@@ -42651,6 +42652,7 @@
 0.0.0.0	www.amidmostewbvqcji.download
 0.0.0.0	www.amusive.com
 0.0.0.0	www.amylaseyaxvh.download
+0.0.0.0	www.analytics.theminersunion.com
 0.0.0.0	www.anapaestsgekcc.download
 0.0.0.0	www.anatomiseddybglcuku.download
 0.0.0.0	www.androtify.com
