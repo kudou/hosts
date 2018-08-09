@@ -2028,6 +2028,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	b.webwise.com
 0.0.0.0	b.webwise.net
 0.0.0.0	b.webwise.org
+0.0.0.0	ca8g5.win
 0.0.0.0	cablyshaw.com
 0.0.0.0	cafecoc.com
 0.0.0.0	cahoots.com
@@ -2093,6 +2094,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dietpharmacyrx.net
 0.0.0.0	dkspqpprnsmmte.com
 0.0.0.0	dl.newflashenter.review
+0.0.0.0	dl.provesoftware.review
 0.0.0.0	dmn2.bjpeu.edu.cn
 0.0.0.0	dns2.net1.it
 0.0.0.0	documents-signature.com
@@ -2731,6 +2733,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.fictioncinema.com
 0.0.0.0	www.findalgorithm.com
 0.0.0.0	www.fischereszter.hu
+0.0.0.0	www.flexibleadmin.com
 0.0.0.0	www.freecontent.bid
 0.0.0.0	www.freedailydownload.com
 0.0.0.0	www.froling.bee.pl
