@@ -975,6 +975,7 @@
 0.0.0.0	www.shuzilm.cn
 255.255.255.255	broadcasthost
 0.0.0.0	XiaoQiang
+0.0.0.0	geo2.adobe.com
 0.0.0.0	flash.2144.com
 0.0.0.0	www.2144.cn
 0.0.0.0	iadctest.qwapi.com
@@ -2218,6 +2219,16 @@
 0.0.0.0	zzjs2.firefang.cn
 0.0.0.0	1.xilu.com
 0.0.0.0	newspage.xilu.com
+0.0.0.0	c.xianguonongchang.org
+0.0.0.0	e.oyrim.com
+0.0.0.0	e.vouky.com
+0.0.0.0	images.tyyjzs.cn
+0.0.0.0	m.gxkyl.com
+0.0.0.0	m.hkmqp.com
+0.0.0.0	m.hpfjy.com
+0.0.0.0	m.oyrim.com
+0.0.0.0	m.vouky.com
+0.0.0.0	nfh.cnshef.com
 0.0.0.0	1.1010pic.com
 0.0.0.0	1.21shebao.com
 0.0.0.0	1.chcx.cn
