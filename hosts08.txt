@@ -28,6 +28,7 @@
 0.0.0.0	7search.com
 0.0.0.0	99count.com
 0.0.0.0	a-ads.com
+0.0.0.0	a-counter.kiev.ua
 0.0.0.0	a.0day.kiev.ua
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	a.consumer.net
@@ -545,7 +546,6 @@
 0.0.0.0	ads.outpersonals.com
 0.0.0.0	ads.passion.com
 0.0.0.0	ads.pennet.com
-0.0.0.0	ads.penny-arcade.com
 0.0.0.0	ads.phpclasses.org
 0.0.0.0	ads.planet.nl
 0.0.0.0	ads.pni.com
@@ -1082,7 +1082,6 @@
 0.0.0.0	bn.bfast.com
 0.0.0.0	boersego-ads.de
 0.0.0.0	boilingbeetle.com
-0.0.0.0	boom.ro
 0.0.0.0	boomads.com
 0.0.0.0	boost-my-pr.de
 0.0.0.0	boudja.com
@@ -1468,6 +1467,7 @@
 0.0.0.0	freestats.com
 0.0.0.0	freestats.tv
 0.0.0.0	freewebcounter.com
+0.0.0.0	freshmarketer.com
 0.0.0.0	frtyj.com
 0.0.0.0	fullstory.com
 0.0.0.0	functionalclam.com
@@ -1592,6 +1592,7 @@
 0.0.0.0	impressionmedia.cz
 0.0.0.0	impressionz.co.uk
 0.0.0.0	imrworldwide.com
+0.0.0.0	inaccused.com
 0.0.0.0	inboxdollars.com
 0.0.0.0	incentaclick.com
 0.0.0.0	incognitosearches.com

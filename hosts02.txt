@@ -622,7 +622,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	dkb01.webtrekk.net
 0.0.0.0	dotcomsecrets.com
 0.0.0.0	dpbolvw.net
-0.0.0.0	dpm.demdex.net
 0.0.0.0	dra.iesnare.com
 0.0.0.0	ds.247realmedia.com
 0.0.0.0	ds.amateurmatch.com
@@ -920,7 +919,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.elle.com
 0.0.0.0	metrics.experts-exchange.com
 0.0.0.0	metrics.fandome.com
-0.0.0.0	metrics.foxnews.com
 0.0.0.0	metrics.gap.com
 0.0.0.0	metrics.health.com
 0.0.0.0	metrics.hrblock.com
@@ -1962,6 +1960,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.inwemo.com
 0.0.0.0	app2.letslowbefast.life
 0.0.0.0	app4com.bestgrade4update.trade
+0.0.0.0	app4.greatmacsoft.tech
 0.0.0.0	apple.com-analysis-safety-antimalware-support.accountant
 0.0.0.0	apple.com-onlinesupport.site
 0.0.0.0	apple.com-safetyalert.com
