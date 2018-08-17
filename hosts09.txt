@@ -267,6 +267,7 @@
 0.0.0.0	textlink.simba.taobao.com
 0.0.0.0	alog.umeng.com
 0.0.0.0	api.wsq.umeng.com
+0.0.0.0	ar.umeng.com
 0.0.0.0	at.umeng.com
 0.0.0.0	dev.umeng.com
 0.0.0.0	oc.umeng.com
@@ -1781,6 +1782,7 @@
 0.0.0.0	c1.ifengimg.com
 0.0.0.0	js.51taifu.com
 0.0.0.0	wl.51taifu.com
+0.0.0.0	sensorsdata.ruguoapp.com
 0.0.0.0	api.itaoxiaoshuo.com
 0.0.0.0	itaoxiaoshuo.com
 0.0.0.0	rpnews.itaoxiaoshuo.com
@@ -1919,9 +1921,12 @@
 0.0.0.0	m.ienkdaged.cn
 0.0.0.0	p.mendoc.cn
 0.0.0.0	qeoa.hawbfa.com
+0.0.0.0	s.dpcq1.net
 0.0.0.0	sqd.jstdjq.com
 0.0.0.0	www.aodongjiaosu.com
+0.0.0.0	www.qiaopiguniang.com
 0.0.0.0	www.xszqapp.com
+0.0.0.0	xiaoshuo.kp53.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -5754,6 +5759,7 @@
 0.0.0.0	adt.xdrig.com
 0.0.0.0	app.xdrig.com
 0.0.0.0	av1.xdrig.com
+0.0.0.0	cloud.xdrig.com
 0.0.0.0	me.xdrig.com
 0.0.0.0	pg.xdrig.com
 0.0.0.0	xdrig.com
