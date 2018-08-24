@@ -25982,6 +25982,7 @@
 0.0.0.0	delivery.optimatic.com
 0.0.0.0	delivery.preprod.trafficjunky.net
 0.0.0.0	delivery.swid.switchads.com
+0.0.0.0	delivery.switchadhub.com
 0.0.0.0	delivery.trafficbroker.com
 0.0.0.0	delivery.trafficforce.com
 0.0.0.0	delivery.trafficjunky.net

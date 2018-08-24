@@ -1143,6 +1143,7 @@
 0.0.0.0	chameleon.ad
 0.0.0.0	channel1vids.com
 0.0.0.0	channelintelligence.com
+0.0.0.0	chardwardse.club
 0.0.0.0	chart.dk
 0.0.0.0	chartbeat.com
 0.0.0.0	chartbeat.net
@@ -2118,6 +2119,7 @@
 0.0.0.0	relevanz10.de
 0.0.0.0	relmaxtop.com
 0.0.0.0	remarketingpixel.com
+0.0.0.0	remistrainew.club
 0.0.0.0	remotead.cnet.com
 0.0.0.0	remox.com
 0.0.0.0	republika.onet.pl
