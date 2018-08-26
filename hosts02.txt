@@ -9719,7 +9719,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rotumal.com
 0.0.0.0	router.adlure.net
 0.0.0.0	rovion.com
-0.0.0.0	row-advil.waze.com
 0.0.0.0	rpc-php.trafficfactory.biz
 0.0.0.0	rpc.trafficfactory.biz
 0.0.0.0	rp.hit.gemius.pl
