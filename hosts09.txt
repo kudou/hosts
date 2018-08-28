@@ -327,6 +327,7 @@
 0.0.0.0	s.cpro.baidu.com
 0.0.0.0	wangmeng.baidu.com
 0.0.0.0	wn.pos.baidu.com
+0.0.0.0	yingxiao.baidu.com
 0.0.0.0	ecma.bdimg.com
 0.0.0.0	ecmb.bdimg.com
 0.0.0.0	ecmc.bdimg.com
@@ -1957,6 +1958,11 @@
 0.0.0.0	vwkhdi.cn
 0.0.0.0	wzj.ywrjgzs.com
 0.0.0.0	yao.zzsdjq.com
+0.0.0.0	1.bashenghuo.com
+0.0.0.0	2.bashenghuo.com
+0.0.0.0	1.hslyqs.com
+0.0.0.0	01daa.luvbr.com
+0.0.0.0	6a4cc.luvbr.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
