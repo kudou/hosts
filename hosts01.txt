@@ -18092,7 +18092,6 @@
 0.0.0.0	adserving.hugecpm.com
 0.0.0.0	adserving.localpages.com
 0.0.0.0	adserving.mediatrafficreports.com
-0.0.0.0	adserving.pro
 0.0.0.0	adserving.supreme.clicksor.com
 0.0.0.0	adserving.uniquetrafficgroup.com
 0.0.0.0	adservinginternational.com
@@ -20965,7 +20964,6 @@
 0.0.0.0	blatfee.ero-advertising.com
 0.0.0.0	blazedlvlwzwt.download
 0.0.0.0	bleepingcomputer.us.intellitxt.com
-0.0.0.0	bleua.ecefibwja.xyz
 0.0.0.0	blindferretmedia.go2cloud.org
 0.0.0.0	blkget6.com
 0.0.0.0	blm.bz
@@ -29063,7 +29061,6 @@
 0.0.0.0	hosting.sproutbuilder.com
 0.0.0.0	hosting2.rts.lj.doublepimp.com
 0.0.0.0	hosting4.rts.fling.doublepimp.com
-0.0.0.0	hostpedia.ro
 0.0.0.0	hotdatinglist.com
 0.0.0.0	hotex.voluumtrk.com
 0.0.0.0	hotheadedwrkqqsm.download
@@ -29408,7 +29405,6 @@
 0.0.0.0	im.b2a2cd00.885d48e.ads.a4cdn.contentabc.com
 0.0.0.0	im.b2a2cd00.92bde07.ads.a4cdn.contentabc.com
 0.0.0.0	im.ov.yahoo.co.jp
-0.0.0.0	im.rediff.com
 0.0.0.0	im.upromise.com
 0.0.0.0	im2.smartadserver.com
 0.0.0.0	ima3vpaid.appspot.com
