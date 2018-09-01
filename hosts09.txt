@@ -82,6 +82,7 @@
 0.0.0.0	s.sh.qihoo.com
 0.0.0.0	res.qhupdate.com
 0.0.0.0	tran.news.so.com
+0.0.0.0	spro.so.com
 0.0.0.0	u.api.look.360.cn
 0.0.0.0	ad.dev.360.cn
 0.0.0.0	ad.gamebox.360.cn
@@ -1976,6 +1977,18 @@
 0.0.0.0	m.casbanlly.com
 0.0.0.0	c.v4dwkcv.com
 0.0.0.0	j.sdqoi2d.com
+0.0.0.0	e.bsnnk.com
+0.0.0.0	e.coenr.com
+0.0.0.0	e.enjuk.com
+0.0.0.0	e.fbaix.com
+0.0.0.0	m.acaox.com
+0.0.0.0	m.bsnnk.com
+0.0.0.0	m.coenr.com
+0.0.0.0	m.enjuk.com
+0.0.0.0	m.fcuit.com
+0.0.0.0	m.vbinu.com
+0.0.0.0	xau.sxmutan.com
+0.0.0.0	e.acaox.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
