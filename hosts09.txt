@@ -1991,6 +1991,15 @@
 0.0.0.0	e.acaox.com
 0.0.0.0	bd1.pipaw.com
 0.0.0.0	bd2.pipaw.com
+0.0.0.0	e.cbeif.com
+0.0.0.0	e.irauz.com
+0.0.0.0	e.jkert.com
+0.0.0.0	e.weixingshexiangji.net
+0.0.0.0	m.cbeif.com
+0.0.0.0	m.irauz.com
+0.0.0.0	m.jkert.com
+0.0.0.0	m.weixingshexiangji.net
+0.0.0.0	zszwcp.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net

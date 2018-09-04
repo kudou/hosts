@@ -6123,6 +6123,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads.verkata.com
 0.0.0.0	ads.vesperexchange.com
 0.0.0.0	ads.vg.basefarm.net
+0.0.0.0	ads.viber.com
 0.0.0.0	ads.viddler.com
 0.0.0.0	ads.videoadvertising.com
 0.0.0.0	adsvidsdouble.com
@@ -10171,7 +10172,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	static.criteo.net
 0.0.0.0	staticd.cdn.adblade.com
 0.0.0.0	static.doubleclick.net
-0.0.0.0	static-eu-cdn.eporner.com
 0.0.0.0	static.eu.criteo.net
 0.0.0.0	static.everyone.net
 0.0.0.0	static.exoclick.com
