@@ -627,6 +627,7 @@
 0.0.0.0	www.google-analytics.com
 0.0.0.0	www.googletagservices.com
 0.0.0.0	bdsp.x.jd.com
+0.0.0.0	c-nfa.jd.com
 0.0.0.0	ccc-x.jd.com
 0.0.0.0	cm.jd.com
 0.0.0.0	gia.jd.com
@@ -839,7 +840,9 @@
 0.0.0.0	wbpctips.mobile.sina.cn
 0.0.0.0	newspush.sinajs.cn
 0.0.0.0	rs.sinajs.cn
+0.0.0.0	d0.sinaimg.cn
 0.0.0.0	d1.sinaimg.cn
+0.0.0.0	d2.sinaimg.cn
 0.0.0.0	d3.sinaimg.cn
 0.0.0.0	d6.sinaimg.cn
 0.0.0.0	d7.sinaimg.cn
@@ -1479,6 +1482,8 @@
 0.0.0.0	mqqadr.reader.qq.com
 0.0.0.0	news.mpush.qq.com
 0.0.0.0	canvas.gdt.qq.com
+0.0.0.0	pcbrowser.dd.qq.com
+0.0.0.0	stdl.qq.com
 0.0.0.0	g.sdk.look.360.cn
 0.0.0.0	sdk.look.360.cn
 0.0.0.0	config.push.sogou.com
@@ -2000,6 +2005,14 @@
 0.0.0.0	m.jkert.com
 0.0.0.0	m.weixingshexiangji.net
 0.0.0.0	zszwcp.cn
+0.0.0.0	alistatic.cn
+0.0.0.0	e.hpzyl.com
+0.0.0.0	i.jyhwt.cn
+0.0.0.0	kn.aishake.cn
+0.0.0.0	m.fcaot.com
+0.0.0.0	ping.weiduofan.com
+0.0.0.0	sbw.ysjweb.com
+0.0.0.0	staticjs.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -4967,6 +4980,8 @@
 0.0.0.0	www.jiubuhua.com
 0.0.0.0	xs.1drj.com
 0.0.0.0	z.clickvip.shop
+0.0.0.0	dd.wx16999.com
+0.0.0.0	weixin.renrenying.com
 0.0.0.0	info.yitsoftware.com
 0.0.0.0	adgeo.163.com
 0.0.0.0	iad.g.163.com
