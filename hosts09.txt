@@ -2013,6 +2013,16 @@
 0.0.0.0	ping.weiduofan.com
 0.0.0.0	sbw.ysjweb.com
 0.0.0.0	staticjs.cn
+0.0.0.0	6a4cc.luytr.com
+0.0.0.0	e.ckikq.com
+0.0.0.0	e.dsjre.com
+0.0.0.0	e.xlsschina15.net
+0.0.0.0	gopig.io
+0.0.0.0	m.bdiae.com
+0.0.0.0	m.ckikq.com
+0.0.0.0	m.dsjre.com
+0.0.0.0	m.xlsschina15.net
+0.0.0.0	raw.okwan.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
