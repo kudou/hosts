@@ -2023,6 +2023,10 @@
 0.0.0.0	m.dsjre.com
 0.0.0.0	m.xlsschina15.net
 0.0.0.0	raw.okwan.cn
+0.0.0.0	01daa.luytr.com
+0.0.0.0	api.ketedata.com
+0.0.0.0	e.hjryl.com
+0.0.0.0	m.sbenx.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -6848,3 +6852,4 @@
 0.0.0.0	xpj8088.com
 0.0.0.0	xpjkf888.com
 0.0.0.0	xz.ercfh.com
+0.0.0.0	h5.jiumaster.com

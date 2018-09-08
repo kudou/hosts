@@ -28480,7 +28480,6 @@
 0.0.0.0	go.affec.tv
 0.0.0.0	go.by
 0.0.0.0	go.clickhoptk.com
-0.0.0.0	go.clicktrackopt.com
 0.0.0.0	go.coxds.com
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.doupat.xyz
@@ -37304,6 +37303,7 @@
 0.0.0.0	trk.blamads.com
 0.0.0.0	trk.bluetrackmedia.com
 0.0.0.0	trk.clmbtech.com
+0.0.0.0	trk.dsllgal.com
 0.0.0.0	trk.dsv2trk.com
 0.0.0.0	trk.kissmetrics.com
 0.0.0.0	trk.m.libero.it
@@ -41687,7 +41687,6 @@
 0.0.0.0	vulgarizexemdqzmr.download
 0.0.0.0	vumeujlug.download
 0.0.0.0	vungle.com
-0.0.0.0	vviii.ru
 0.0.0.0	vw.masterstats.com
 0.0.0.0	vwr1.hitbox.com
 0.0.0.0	vygeirghpedaller.review
@@ -41822,7 +41821,6 @@
 0.0.0.0	wallstreet.2cnt.net
 0.0.0.0	wallstreetprep.go2cloud.org
 0.0.0.0	walmartcom.112.2o7.net
-0.0.0.0	walmartsavingscatcher.com
 0.0.0.0	wamfebdvsabotier.review
 0.0.0.0	wan.duba.net
 0.0.0.0	wap-click.com

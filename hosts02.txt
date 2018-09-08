@@ -8281,6 +8281,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	img4.cdn.adjuggler.com
 0.0.0.0	img-a2.ak.imagevz.net
 0.0.0.0	img.alibaba.com
+0.0.0.0	img.awr.im
 0.0.0.0	img.blogads.com
 0.0.0.0	img-cdn.mediaplex.com
 0.0.0.0	img.directtrack.com
@@ -10398,6 +10399,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	thruport.com
 0.0.0.0	tidebuy.com
 0.0.0.0	timelywebsitehostesses.com
+0.0.0.0	t.info.rezbine.com
 0.0.0.0	titan-gel-extra.com
 0.0.0.0	tk.baidu.com
 0.0.0.0	tkweb.baidu.com
@@ -10462,6 +10464,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	track.bigbrandpromotions.com
 0.0.0.0	track.dtnlyss.com
 0.0.0.0	track.e7r.com.br
+0.0.0.0	tracker.awr.im
 0.0.0.0	tracker.baidu.com
 0.0.0.0	tracker.cdn-analytics.host
 0.0.0.0	trackers.1st-affiliation.fr
