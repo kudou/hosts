@@ -15946,6 +15946,7 @@
 0.0.0.0	addynamix.com
 0.0.0.0	addynamo.net
 0.0.0.0	ade.clmbtech.com
+0.0.0.0	ade.googlesyndication.com
 0.0.0.0	adecn.adnxs.com
 0.0.0.0	adecn.com
 0.0.0.0	adedy.com

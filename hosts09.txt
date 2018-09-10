@@ -995,6 +995,8 @@
 0.0.0.0	www.2144.cn
 0.0.0.0	iadctest.qwapi.com
 0.0.0.0	ieonline.microsoft.com
+0.0.0.0	hub5btmain.sandai.net
+0.0.0.0	hub5emu.sandai.net
 120.52.19.113	bbs.pcbeta.com
 120.52.19.113	cdn.pcbeta.attachment.inimc.com
 120.52.19.113	cdn.pcbeta.css.inimc.com
@@ -2027,6 +2029,13 @@
 0.0.0.0	api.ketedata.com
 0.0.0.0	e.hjryl.com
 0.0.0.0	m.sbenx.com
+0.0.0.0	ldy.adqku.cn
+0.0.0.0	m.sjaidu.com
+0.0.0.0	photo.qianerbai.cn
+0.0.0.0	photo.zhanhevr.cn
+0.0.0.0	pic.new400.cn
+0.0.0.0	xxp.gytygc.com
+0.0.0.0	m.dbaiz.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
