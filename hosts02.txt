@@ -324,6 +324,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	report.broadcastpc.tv	
 0.0.0.0	www.broadcastpc.tv
 0.0.0.0	browser-message.com
+0.0.0.0	brucelead.com
 0.0.0.0	bserver.blick.com
 0.0.0.0	bstats.adbrite.com
 0.0.0.0	b.stats.paypal.com
@@ -375,6 +376,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cgi.sexlist.com
 0.0.0.0	ci-accountlock.iovation.com
 0.0.0.0	ci-admin.iovation.com
+0.0.0.0	cig-arrete.com
 0.0.0.0	ci-mpsnare.iesnare.com
 0.0.0.0	ci-mpsnare.iesnare.co.uk
 0.0.0.0	ci-mpsnare.iovation.com
@@ -998,6 +1000,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nht-2.extreme-dm.com
 0.0.0.0	nl.nedstatbasic.net
 0.0.0.0	noticias.life
+0.0.0.0	notify1.brucelead.com
 0.0.0.0	o.addthis.com
 0.0.0.0	objects.tremormedia.com
 0.0.0.0	okcounter.com
@@ -1026,6 +1029,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	photobox-tracking.adalyser.com
 0.0.0.0	pings.blip.tv
 0.0.0.0	p.iovation.com
+0.0.0.0	pituitosus.com
 0.0.0.0	pix02.revsci.net
 0.0.0.0	pix03.revsci.net
 0.0.0.0	pix04.revsci.net
@@ -1389,6 +1393,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	track.adrevolver.com
 0.0.0.0	track.anideaevolves.com
 0.0.0.0	track.bannerbridge.net
+0.0.0.0	track.brucelead.com
 0.0.0.0	track.businesstrenders.com
 0.0.0.0	track.businessunionorg.com
 0.0.0.0	track.clearsender.com
@@ -1789,6 +1794,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.bluestreak.com
 0.0.0.0	www.c1.thecounter.de
 0.0.0.0	www.c2.thecounter.de
+0.0.0.0	www.cig-arrete.com
 0.0.0.0	www.ci-mpsnare.iesnare.com
 0.0.0.0	www.ci-mpsnare.iesnare.co.uk
 0.0.0.0	www.clickclick.com
@@ -2647,6 +2653,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v1.your-notification.tools
 0.0.0.0	vast.btrll.com
 0.0.0.0	vcipo.info
+0.0.0.0	vedoriska.com
 0.0.0.0	venturead.com
 0.0.0.0	versionsupport.thebig-centeralplacecontentgreat.date
 0.0.0.0	videoamp.com
@@ -7219,6 +7226,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.go2net.com
 0.0.0.0	click.israelinfo.ru
 0.0.0.0	clickit.go2net.com
+0.0.0.0	click.maaxmarket.com
 0.0.0.0	clickmedia.ro
 0.0.0.0	click.newviralmobistore.com
 0.0.0.0	click.pulse360.com
@@ -7608,6 +7616,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	downloadplayer.xyz
 0.0.0.0	downloads.larivieracasino.com
 0.0.0.0	downloads.mytvandmovies.com
+0.0.0.0	download.weatherblink.com
 0.0.0.0	download.wholestuff.win
 0.0.0.0	download.yesmessenger.com
 0.0.0.0	dp1.33across.com
@@ -8660,6 +8669,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	m4.afs.googleadservices.com
 0.0.0.0	m4.media-box.co
 0.0.0.0	m4ymh0220.tech
+0.0.0.0	maaxmarket.com
 0.0.0.0	ma.baidu.com
 0.0.0.0	macaddictads.snv.futurenet.com
 0.0.0.0	macads.net
@@ -10660,6 +10670,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	vast.vertamedia.com
 0.0.0.0	vcdn.adnxs.com
 0.0.0.0	vclick.adbrite.com
+0.0.0.0	veirregnant.club
 0.0.0.0	venus.goclick.com
 0.0.0.0	versionsupport.set2updatenowsafesystemset4now.info
 0.0.0.0	ve.tscapeplay.com
@@ -11491,6 +11502,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.healthclicks.co.uk
 0.0.0.0	www.hebdotop.com
 0.0.0.0	www.heusmarketing.nl
+0.0.0.0	www.hibids10.com
 0.0.0.0	www.hightrafficads.com
 0.0.0.0	www.histats.com
 0.0.0.0	www.holiday-gift-offers.com
@@ -11607,6 +11619,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.lucky-day-uk.com
 0.0.0.0	www.luckyday.world
 0.0.0.0	www.m2trk.com
+0.0.0.0	www.maaxmarket.com
 0.0.0.0	www.mac.com-w.net
 0.0.0.0	www.macfillerck.com
 0.0.0.0	www.macombdisplayads.com
