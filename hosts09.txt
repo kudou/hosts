@@ -2064,6 +2064,10 @@
 0.0.0.0	wgie.0z5jn.cn
 0.0.0.0	www.fenvm.com
 0.0.0.0	zhuuv.maoyumao.net
+0.0.0.0	pad.zhywyl.cn
+0.0.0.0	photo.lyghjzs.cn
+0.0.0.0	m.nuxyz.cn
+0.0.0.0	m.yalayi.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
