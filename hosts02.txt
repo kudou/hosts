@@ -2710,7 +2710,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	www1.realsoft34.com
 0.0.0.0	www.1tracksource.online
 0.0.0.0	www21.counsellor.gov.cn
+0.0.0.0	www2.anybestconcreteflash.icu
 0.0.0.0	www2.fasterupconcreteflash.icu
+0.0.0.0	www2.gettypegoldflash.club
 0.0.0.0	www.3tsdaq8viz.us
 0.0.0.0	www4.gy7k.net
 0.0.0.0	www.a2uu36g43l.download
@@ -2756,6 +2758,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.flexibleadmin.com
 0.0.0.0	www.freecontent.bid
 0.0.0.0	www.freedailydownload.com
+0.0.0.0	www.frequencyscheduler.com
 0.0.0.0	www.froling.bee.pl
 0.0.0.0	www.gacatl.com
 0.0.0.0	www.gezinti.com
@@ -2857,6 +2860,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.youcanoptout.net
 0.0.0.0	www.youcanoptout.org
 0.0.0.0	www.youfiletor.com
+0.0.0.0	www.zoominnovate.online
 0.0.0.0	xbasfbno.info
 0.0.0.0	xfotosx01.fromru.su
 0.0.0.0	xponlinescanner.com
