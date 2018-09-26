@@ -854,6 +854,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	livestats.atlanta-airport.com
 0.0.0.0	loadus.exelator.com
 0.0.0.0	loc1.hitsprocessor.com
+0.0.0.0	lockerdome.com
 0.0.0.0	log1.countomat.com
 0.0.0.0	log4.quintelligence.com
 0.0.0.0	log999.goo.ne.jp
@@ -2776,6 +2777,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.infopaypal.com
 0.0.0.0	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 0.0.0.0	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
+0.0.0.0	www.kbdiu5z8ah.us
 0.0.0.0	www.keybinary.com
 0.0.0.0	www.kinomarathon.ru
 0.0.0.0	www.kpremium.com
@@ -2860,6 +2862,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.youcanoptout.net
 0.0.0.0	www.youcanoptout.org
 0.0.0.0	www.youfiletor.com
+0.0.0.0	www.zfn5wua2d1.online
 0.0.0.0	www.zoominnovate.online
 0.0.0.0	xbasfbno.info
 0.0.0.0	xfotosx01.fromru.su
