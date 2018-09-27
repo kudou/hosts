@@ -2004,6 +2004,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.webwise.net
 0.0.0.0	a.webwise.org
 0.0.0.0	azvjudwr.info
+0.0.0.0	badmactogoodmac.space
+0.0.0.0	badmactogoodmac.tech
 0.0.0.0	beloysoff.ru
 0.0.0.0	bestadbid.com
 0.0.0.0	bestreview.site
