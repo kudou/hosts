@@ -2119,6 +2119,15 @@
 0.0.0.0	yzh.jyjhkz.com
 0.0.0.0	count.knowsky.com
 0.0.0.0	09_19.supfree.net
+0.0.0.0	01daa.lutgh.com
+0.0.0.0	e.irkuj.com
+0.0.0.0	e.wcjup.com
+0.0.0.0	m.achig.com
+0.0.0.0	m.irkuj.com
+0.0.0.0	m.wcjup.com
+0.0.0.0	pm.sdaiv.com
+0.0.0.0	sjj.jsyjwj.com
+0.0.0.0	zheng.cs12d.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
