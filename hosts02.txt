@@ -2643,6 +2643,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	twitter.secure.bzpharma.net
 0.0.0.0	tx.micro.net.pk
 0.0.0.0	uawj.moqhixoz.cn
+0.0.0.0	ufpcdn.com
 0.0.0.0	ughmvqf.spitt.ru
 0.0.0.0	ui.oix.net
 0.0.0.0	ultra2.tsinghua.edu.cn
@@ -2775,6 +2776,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.hallaert.online
 0.0.0.0	www.haoyunlaid.com
 0.0.0.0	www.hashing.win
+0.0.0.0	www.hyvf65qiht.us
 0.0.0.0	www.icecars.com
 0.0.0.0	www.indesignstudioinfo.com
 0.0.0.0	www.indexerflash.com
