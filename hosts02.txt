@@ -6566,6 +6566,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	apps5.oingo.com
 0.0.0.0	apps9039.super-your-prize33.loan
 0.0.0.0	app.scanscout.com
+0.0.0.0	apps-cloud.xyz
 0.0.0.0	appsrv1.madserving.cn
 0.0.0.0	ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0	a.prisacom.com
@@ -6930,9 +6931,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	broadent.vo.llnwd.net
 0.0.0.0	brokertraffic.com
 0.0.0.0	browserbreckalarm.info
+0.0.0.0	browser-notifications.bid
 0.0.0.0	browserprotecter.com
 0.0.0.0	browser-tools.systems
 0.0.0.0	browsesafemac.com
+0.0.0.0	brwser-message.pw
 0.0.0.0	brxfinance.com
 0.0.0.0	bsads.looksmart.com
 0.0.0.0	bs.israelinfo.ru
@@ -8465,6 +8468,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	j.adlooxtracking.com
 0.0.0.0	j.admob.com
 0.0.0.0	jadserve.postrelease.com
+0.0.0.0	jahisope45.bid
 0.0.0.0	jambocast.com
 0.0.0.0	jb9clfifs6.s.ad6media.fr
 0.0.0.0	jcarter.spinbox.net
@@ -8999,6 +9003,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mymediarecommendations.com
 0.0.0.0	my.mystreamdelivery.xyz
 0.0.0.0	myoffertracking.com
+0.0.0.0	myonline2018softwarefree.win
 0.0.0.0	myperiod.club
 0.0.0.0	my.putlocker.to
 0.0.0.0	my-reward-channel.com
@@ -9045,6 +9050,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	netshelter.adtrix.com
 0.0.0.0	netspiderads2.indiatimes.com
 0.0.0.0	netsponsors.com
+0.0.0.0	net-web-techie-software.win
 0.0.0.0	networkad.net
 0.0.0.0	network.adsmarket.com
 0.0.0.0	networkads.net
@@ -9093,6 +9099,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nospartenaires.com
 0.0.0.0	nothing-but-value.com
 0.0.0.0	noticiasftpsrv.com
+0.0.0.0	notification-browser.com
 0.0.0.0	notifyday.com
 0.0.0.0	novafinanza.com
 0.0.0.0	novem.onet.pl
@@ -9959,6 +9966,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	securerunner.com
 0.0.0.0	secure.webconnect.net
 0.0.0.0	security60-e.com
+0.0.0.0	security-alert.kej8i8i69v.top
 0.0.0.0	seduction-zone.com
 0.0.0.0	seemlessfixing.tech
 0.0.0.0	seks-partner.com
@@ -10061,6 +10069,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	share-server.com
 0.0.0.0	shc-rebates.com
 0.0.0.0	shdfsdf.info
+0.0.0.0	shellstore.info
 0.0.0.0	sherkatkonandeh.com
 0.0.0.0	sherkhundi.com
 0.0.0.0	shinystat.shiny.it
@@ -10752,6 +10761,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	viralture.com
 0.0.0.0	viralvideos.tips
 0.0.0.0	vistawebs-top-shop-soft.site
+0.0.0.0	vistawebs-web-techie-app.win
 0.0.0.0	vk.18sexporn.ru
 0.0.0.0	vmcsatellite.com
 0.0.0.0	vmix.adbureau.net
@@ -10928,6 +10938,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	webnavegador.com
 0.0.0.0	web.nyc.ads.juno.co
 0.0.0.0	webservices-rewardpath.com
+0.0.0.0	websnettechieapp.win
 0.0.0.0	webstats1.com
 0.0.0.0	websurvey.spa-mr.com
 0.0.0.0	webtrekk.net

@@ -2130,6 +2130,9 @@
 0.0.0.0	cdn.xianliao.me
 0.0.0.0	m.kl6636.net
 0.0.0.0	e.kl6636.net
+0.0.0.0	teen.77rog.com
+0.0.0.0	www.gdgy56.com
+0.0.0.0	c.lucktui.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
