@@ -1,6 +1,5 @@
 0.0.0.0	101com.com
 0.0.0.0	101order.com
-0.0.0.0	123found.com
 0.0.0.0	123freeavatars.com
 0.0.0.0	180hits.de
 0.0.0.0	180searchassistant.com
@@ -119,7 +118,6 @@
 0.0.0.0	ad.nozonedata.com
 0.0.0.0	ad.nttnavi.co.jp
 0.0.0.0	ad.nwt.cz
-0.0.0.0	ad.onad.eu
 0.0.0.0	ad.pandora.tv
 0.0.0.0	ad.period-calendar.com
 0.0.0.0	ad.preferances.com
@@ -338,6 +336,7 @@
 0.0.0.0	ads.affiliates-spinit.com
 0.0.0.0	ads.affiliates.match.com
 0.0.0.0	ads.ak.facebook.com.edgesuite.net
+0.0.0.0	ads.allvatar.com
 0.0.0.0	ads.alt.com
 0.0.0.0	ads.amdmb.com
 0.0.0.0	ads.amigos.com
@@ -1596,6 +1595,7 @@
 0.0.0.0	img.prohardver.hu
 0.0.0.0	imgpromo.easyrencontre.com
 0.0.0.0	imonitor.nethost.cz
+0.0.0.0	imprese.cz
 0.0.0.0	impressionmedia.cz
 0.0.0.0	impressionz.co.uk
 0.0.0.0	imrworldwide.com
@@ -2025,6 +2025,7 @@
 0.0.0.0	primetime.net
 0.0.0.0	privatecash.com
 0.0.0.0	prmtracking.com
+0.0.0.0	pro-advertising.com
 0.0.0.0	proext.com
 0.0.0.0	profero.com
 0.0.0.0	profitrumour.com
@@ -2254,7 +2255,6 @@
 0.0.0.0	sponsors.thoughtsmedia.com
 0.0.0.0	spot.fitness.com
 0.0.0.0	spotxchange.com
-0.0.0.0	spykemediatrack.co
 0.0.0.0	spykemediatrack.com
 0.0.0.0	spylog.com
 0.0.0.0	spywarelabs.com

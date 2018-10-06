@@ -43569,7 +43569,6 @@
 0.0.0.0	www.hgzlpbfluent.review
 0.0.0.0	www.hicpm5.com
 0.0.0.0	www.hide.io
-0.0.0.0	www.highcharts.com
 0.0.0.0	www.highcpms.com
 0.0.0.0	www.highspeedtesting.com
 0.0.0.0	www.hijackedzdupdb.download
