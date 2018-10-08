@@ -1521,7 +1521,9 @@
 0.0.0.0	cr.m.liebao.cn
 0.0.0.0	j.wan.liebao.cn
 0.0.0.0	mad.m.maxthon.cn
-0.0.0.0	bdjs.2344.com
+0.0.0.0	bj14.9669.cn
+0.0.0.0	bs14.9669.cn
+0.0.0.0	js.9669.cn
 0.0.0.0	s.com2us.net
 0.0.0.0	push.com2us.net
 0.0.0.0	data.doodlemobile.com
@@ -2138,6 +2140,17 @@
 0.0.0.0	xin.ygqczh.com
 0.0.0.0	zx.baosmx.com
 0.0.0.0	wysa.2wxb5.cn
+0.0.0.0	dm.gbeik.com
+0.0.0.0	e.cjieh.com
+0.0.0.0	e.gbieg.com
+0.0.0.0	e.jdaot.com
+0.0.0.0	e.pbino.com
+0.0.0.0	m.cjieh.com
+0.0.0.0	m.gbieg.com
+0.0.0.0	m.jdaot.com
+0.0.0.0	m.pbino.com
+0.0.0.0	photo.dhford.cn
+0.0.0.0	www.kyad88.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -2351,6 +2364,8 @@
 0.0.0.0	www.360shopping.com.cn
 0.0.0.0	www.fenvm.com
 0.0.0.0	www.xiaohui2.cn
+0.0.0.0	1.xiaozhizhijia.com
+0.0.0.0	jc.anhuilitian.net
 0.0.0.0	ad.jxnews.com.cn
 0.0.0.0	adv.jxnews.com.cn
 0.0.0.0	ad.beihai365.com
