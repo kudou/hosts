@@ -6387,6 +6387,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	adzone.ro
 0.0.0.0	adzone.stltoday.com
 0.0.0.0	adzservice.theday.com
+0.0.0.0	ae01.alicdn.com
 0.0.0.0	ae-gb.mgid.com
 0.0.0.0	ae.goodsblock.marketgid.com
 0.0.0.0	afdyfxfrwbfy.com
@@ -7808,6 +7809,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	fc.webmasterpro.de
 0.0.0.0	fdimages.fairfax.com.au
 0.0.0.0	federaldata.io
+0.0.0.0	feed.4wnet.com
 0.0.0.0	feedads.googleadservices.com
 0.0.0.0	feedbackcensus.com
 0.0.0.0	feeds.videosz.com
@@ -10727,6 +10729,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	vcdn.adnxs.com
 0.0.0.0	vclick.adbrite.com
 0.0.0.0	veirregnant.club
+0.0.0.0	venetia.iad.appboy.com
 0.0.0.0	venus.goclick.com
 0.0.0.0	versionsupport.set2updatenowsafesystemset4now.info
 0.0.0.0	ve.tscapeplay.com
