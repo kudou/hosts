@@ -8,6 +8,7 @@
 0.0.0.0	serial.alcohol-soft.com
 0.0.0.0	trial.alcohol-soft.com
 0.0.0.0	licenses.ashampoo.com
+0.0.0.0	activation.phaseone.com
 0.0.0.0	dbregistration.cuteftp.com
 0.0.0.0	activation.cyberlink.com
 0.0.0.0	cap.cyberlink.com
@@ -1975,6 +1976,9 @@
 0.0.0.0	vol.txdwc.cn
 0.0.0.0	xmwde.cojia.net
 0.0.0.0	ym.ychap.com
+0.0.0.0	xxy.nxkycx.com
+0.0.0.0	photo.jbbath.cn
+0.0.0.0	m.gbaog.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -4424,6 +4428,9 @@
 0.0.0.0	xiciim.qtmojo.com
 0.0.0.0	sugar.zhihu.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
+0.0.0.0	adsame1.cnr.cn
+0.0.0.0	d1.cnr.cn
+0.0.0.0	ggdata1.cnr.cn
 0.0.0.0	adv.fjtv.net
 0.0.0.0	adsys.chinacloudapp.cn
 0.0.0.0	advapi.ahtv.cn

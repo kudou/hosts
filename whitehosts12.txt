@@ -19,8 +19,8 @@
 103.105.48.234	tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org
 23.226.136.24	ss-1.googlehosts.org
-23.226.136.112	23-226-136-112.googlehosts.org
-23.226.136.112	ss-2.googlehosts.org
+23.226.136.132	23-226-136-132.googlehosts.org
+23.226.136.132	ss-2.googlehosts.org
 104.223.56.187	104-223-56-187.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
 23.226.136.216	ss-3.googlehosts.org
@@ -72,10 +72,10 @@
 216.58.215.54	dev.android.com
 216.58.215.54	market.android.com
 216.58.215.54	r.android.com
-216.58.223.214	android.com
+108.177.127.136	android.com
 216.58.204.221	www.android.com
-172.217.17.22	source.android.com
-172.217.16.246	developer.android.com
+216.58.204.174	source.android.com
+108.177.127.100	developer.android.com
 104.20.82.194	apkpure.com
 104.20.82.194	m.apkpure.com
 104.19.133.58	www.apkmirror.com
@@ -396,8 +396,8 @@
 172.217.168.37	m.gmail.com
 74.125.132.160	m.googlemail.com
 108.177.122.161	gmail.google.com
-172.217.168.197	mail.google.com
-172.217.168.5	inbox.google.com
+108.177.127.18	mail.google.com
+108.177.127.17	inbox.google.com
 172.217.168.7	chatenabled.mail.google.com
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
@@ -779,7 +779,7 @@
 216.58.203.14	www.google.com
 108.177.103.161	id.google.com
 74.125.204.100	clients5.google.com
-108.177.111.119	apis.google.com
+108.177.127.99	apis.google.com
 216.239.34.21	blog.google
 216.239.38.21	environment.google
 172.217.161.182	domains.google
