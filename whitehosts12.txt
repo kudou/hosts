@@ -140,6 +140,7 @@
 192.229.173.251	gamemedia.armorgames.com
 192.229.173.251	quests.armorgames.com
 27.133.136.8	app.arukas.io
+54.93.111.68	search.avira.com
 104.20.7.63	bandwagonhost.com
 151.101.8.81	www.bbc.com
 151.101.40.81	fig.bbc.co.uk
@@ -1003,7 +1004,7 @@
 173.194.70.125	hangouts.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
-64.233.168.162	ipv4.google.com
+108.177.127.133	ipv4.google.com
 108.177.125.189	0.client-channel.google.com
 108.177.125.189	1.client-channel.google.com
 108.177.125.189	2.client-channel.google.com
@@ -2549,11 +2550,16 @@
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
 211.20.148.228	hichannel.hinet.net
-52.54.44.125	id.heroku.com
+34.200.95.135	id.heroku.com
 54.250.252.63	humble.pubnub.com
 104.20.34.236	humblebundle.com
 52.36.140.12	pubnub.com
 216.58.200.243	www.humblebundle.com
+101.78.207.166	www.hkjc.com
+203.82.9.18	bet.hkjc.com
+101.78.207.157	common.hkjc.com
+203.86.162.153	search.hkjc.com
+101.78.207.158	football.hkjc.com
 151.101.100.193	imgur.com
 151.101.100.193	m.imgur.com
 151.101.100.193	api.imgur.com

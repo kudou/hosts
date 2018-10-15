@@ -202,6 +202,7 @@
 0.0.0.0	u.uc123.com
 0.0.0.0	u.ucfly.com
 0.0.0.0	c.wrating.com
+0.0.0.0	cntv.wrating.com
 0.0.0.0	cookiemapping.wrating.com
 0.0.0.0	sina.wrating.com
 0.0.0.0	tongji.wrating.com
@@ -636,7 +637,6 @@
 0.0.0.0	www.google-analytics.com
 0.0.0.0	www.googletagservices.com
 0.0.0.0	bdsp.x.jd.com
-0.0.0.0	c-nfa.jd.com
 0.0.0.0	ccc-x.jd.com
 0.0.0.0	cm.jd.com
 0.0.0.0	gia.jd.com
@@ -1979,6 +1979,8 @@
 0.0.0.0	xxy.nxkycx.com
 0.0.0.0	photo.jbbath.cn
 0.0.0.0	m.gbaog.com
+0.0.0.0	hdjhsudhe.kuaizhan.com
+0.0.0.0	zhuanshenghuo1.kuaizhan.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -4428,6 +4430,8 @@
 0.0.0.0	xiciim.qtmojo.com
 0.0.0.0	sugar.zhihu.com
 0.0.0.0	zhihu-web-analytics.zhihu.com
+0.0.0.0	zhggw.dre8.com
+0.0.0.0	wxggtg.dre8.com
 0.0.0.0	adsame1.cnr.cn
 0.0.0.0	d1.cnr.cn
 0.0.0.0	ggdata1.cnr.cn
