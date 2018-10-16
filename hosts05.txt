@@ -22959,7 +22959,6 @@
 0.0.0.0	cdn.cpmstar.com
 0.0.0.0	cdn.cpnscdn.com
 0.0.0.0	cdn.creative.medialytics.com
-0.0.0.0	cdn.cxense.com
 0.0.0.0	cdn.derlatas.com
 0.0.0.0	cdn.devolapgt.com
 0.0.0.0	cdn.digitalcity.com
@@ -23103,7 +23102,6 @@
 0.0.0.0	cdn.technoratimedia.com
 0.0.0.0	cdn.thetorntv.com
 0.0.0.0	cdn.theturboforums.com
-0.0.0.0	cdn.tinypass.com
 0.0.0.0	cdn.tomekas.com
 0.0.0.0	cdn.trafficexchangelist.com
 0.0.0.0	cdn.trafficforce.com
@@ -33531,7 +33529,6 @@
 0.0.0.0	profitzone.com
 0.0.0.0	progressive.lp.mydas.mobi
 0.0.0.0	project2.realtracker.com
-0.0.0.0	projectcounter.org
 0.0.0.0	projectvrtcl.go2cloud.org
 0.0.0.0	projectwonderful.com
 0.0.0.0	projop.dnsalias.com
@@ -44339,7 +44336,6 @@
 0.0.0.0	www.probux.com
 0.0.0.0	www.products-and-services.com
 0.0.0.0	www.profitreload.com
-0.0.0.0	www.projectcounter.org
 0.0.0.0	www.projectwonderful.com
 0.0.0.0	www.promolnk.com
 0.0.0.0	www.promomasters.at
