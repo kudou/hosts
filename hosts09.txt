@@ -2036,6 +2036,11 @@
 0.0.0.0	m.gcaog.com
 0.0.0.0	www.yiyuantian.com
 0.0.0.0	zx.baosmx.com
+0.0.0.0	dueu.0fwg.cn
+0.0.0.0	kn.ylrca.cn
+0.0.0.0	photo.headwell.cn
+0.0.0.0	sjs.jcshouhui.com
+0.0.0.0	ycy.hyjyjc.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
