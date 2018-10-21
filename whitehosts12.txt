@@ -18,12 +18,13 @@
 103.105.48.234	103-105-48-234.googlehosts.org
 103.105.48.234	tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org
-23.226.136.24	ss-1.googlehosts.org
 23.226.136.132	23-226-136-132.googlehosts.org
 23.226.136.132	ss-2.googlehosts.org
-104.223.56.187	104-223-56-187.googlehosts.org
+104.129.16.244	104-129-16-244.googlehosts.org
+104.129.16.244	ss-1.googlehosts.org
+155.94.137.77	155-94-137-77.googlehosts.org
+155.94.137.77	ss-3.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
-23.226.136.216	ss-3.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 23.55.56.140	images.ak.instagram.com
@@ -404,6 +405,8 @@
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
 82.165.230.43	search.gmx.com
+176.32.103.89	www.goodreads.com
+176.32.102.212	ads.goodreads.com
 172.217.168.202	www.googleapis.com
 172.217.168.202	ajax.googleapis.com
 172.217.168.202	googleapis.com

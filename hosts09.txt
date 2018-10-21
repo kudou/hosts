@@ -633,6 +633,7 @@
 0.0.0.0	securepubads.g.doubleclick.net
 0.0.0.0	static.doubleclick.net
 0.0.0.0	adservice.google.com
+0.0.0.0	ade.googlesyndication.com
 0.0.0.0	pagead2.googlesyndication.com
 0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	partner.googleadservices.com
@@ -834,7 +835,6 @@
 0.0.0.0	sbeacon.sina.com.cn
 0.0.0.0	slog.sina.com.cn
 0.0.0.0	staticadm.leju.sina.com.cn
-0.0.0.0	woocall.sina.com.cn
 0.0.0.0	pfpip.sina.com
 0.0.0.0	2016.sina.cn
 0.0.0.0	adimg.mobile.sina.cn
@@ -2041,6 +2041,15 @@
 0.0.0.0	photo.headwell.cn
 0.0.0.0	sjs.jcshouhui.com
 0.0.0.0	ycy.hyjyjc.com
+0.0.0.0	i4.fuimg.com
+0.0.0.0	cgzu.b0lc.cn
+0.0.0.0	e.imiek.com
+0.0.0.0	e.uchij.com
+0.0.0.0	m.imiek.com
+0.0.0.0	m.tbinq.com
+0.0.0.0	m.uchij.com
+0.0.0.0	qm.iruik.com
+0.0.0.0	www.93vitoo.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
