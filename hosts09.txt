@@ -2050,6 +2050,7 @@
 0.0.0.0	m.uchij.com
 0.0.0.0	qm.iruik.com
 0.0.0.0	www.93vitoo.com
+0.0.0.0	wx.zx590.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -2202,8 +2203,6 @@
 0.0.0.0	13yg.cn
 0.0.0.0	4g0.cc
 0.0.0.0	ahh8.cn
-0.0.0.0	dc.tt
-0.0.0.0	dpurl.cn
 0.0.0.0	h9p9.cn
 0.0.0.0	jjb168.net
 0.0.0.0	mrw.so

@@ -2262,6 +2262,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	loseweight.asdjiiw.com
 0.0.0.0	lp7.mobilescaner.today
 0.0.0.0	lp.cleanmymac.online
+0.0.0.0	lp.maccleanuptools.com
 0.0.0.0	lrt7a.coldcertainchannel.com
 0.0.0.0	lucibad.home.ro
 0.0.0.0	lucklayed.info
@@ -8148,6 +8149,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	gug.ku6cdn.com
 0.0.0.0	guiaconsumidor.com
 0.0.0.0	guide2poker.com
+0.0.0.0	guildofangels.net
 0.0.0.0	GUMpolice.com
 0.0.0.0	guptamedianetwork.com
 0.0.0.0	guru.sitescout.netdna-cdn.com
