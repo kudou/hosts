@@ -20783,7 +20783,6 @@
 0.0.0.0	bcast.pw
 0.0.0.0	bcfads.com
 0.0.0.0	bcmediagroup.com
-0.0.0.0	bcnmonetize.go2affise.com
 0.0.0.0	bcp.crwdcntrl.net
 0.0.0.0	bcsrciccspermatic.review
 0.0.0.0	bd.moatads.com
@@ -26532,7 +26531,6 @@
 0.0.0.0	easyscopes.net
 0.0.0.0	easyspace.com
 0.0.0.0	eat-travel.apx.appier.net
-0.0.0.0	eatthis.com
 0.0.0.0	eb0ej.voluumtrk.com
 0.0.0.0	ebao.duba.net
 0.0.0.0	ebay.northernhost.com
@@ -28590,6 +28588,7 @@
 0.0.0.0	goto.myfunbreak.com
 0.0.0.0	gotoast.com
 0.0.0.0	gotoo.com
+0.0.0.0	gotrack.static500.com
 0.0.0.0	goviralnetwork.com
 0.0.0.0	goviralnetwork.net
 0.0.0.0	goweb.de

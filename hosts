@@ -3198,7 +3198,9 @@ ff02::2  ip6-allrouters
 35.163.203.219	video-edge-db8460.sjc02.hls.ttvnw.net
 54.148.18.99	video-edge-e0871b.sjc02.hls.ttvnw.net
 54.187.95.61	video-edge-f9215f.sjc02.hls.ttvnw.net
+117.18.237.70	abs.twimg.com
 117.18.237.70	pbs.twimg.com
+117.18.237.70	ton.twimg.com
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
 151.101.64.217	www.vimeo.com
@@ -15309,7 +15311,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-10-24_09:38:00
+2018-10-25_09:35:36
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -44544,7 +44546,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	b.clkservice.youdao.com
 0.0.0.0	bc.marfeel.com
 0.0.0.0	bcmediagroup.com
-0.0.0.0	bcnmonetize.go2affise.com
 0.0.0.0	b.codeonclick.com
 0.0.0.0	b.code.tanwanyx.com
 0.0.0.0	b.computerworlduk.com
@@ -55539,7 +55540,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	easyweb.tdcanadatrust.secureserver.host1.customer-identification-process.b88600d8.com
 0.0.0.0	eatingwell.us.intellitxt.com
 0.0.0.0	eatps.web.aol.com
-0.0.0.0	eatthis.com
 0.0.0.0	eat-travel.apx.appier.net
 0.0.0.0	eavs02.eqifa.com
 0.0.0.0	ea.zebestof.com
@@ -59636,6 +59636,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	go.toutapp.com
 0.0.0.0	gotphaze.com
 0.0.0.0	go.trackgold.net
+0.0.0.0	gotrack.static500.com
 0.0.0.0	go.tracksz.co
 0.0.0.0	go.trafficshop.com
 0.0.0.0	go.trkreward.com
@@ -62492,6 +62493,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	item.ttkvod.com
 0.0.0.0	it.erosadv.com
 0.0.0.0	itfarm.com
+0.0.0.0	it.globalsweeps.info
 0.0.0.0	ithyk.frenchgerlemanelectric.com
 0.0.0.0	itmcash.com
 0.0.0.0	itmedia.122.2o7.net
@@ -66644,6 +66646,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	microreporting.metrofrance.com
 0.0.0.0	microreporting.metronews.ru
 0.0.0.0	microreporting.publimetro.cl
+0.0.0.0	microsoft.com-it2-dye1.premi-fedelta-degli-utenti.us
 0.0.0.0	microsoft.com-msoft52.info
 0.0.0.0	microsoft.com.org
 0.0.0.0	microsoftconsumermarketing.112.2o7.net
@@ -81066,6 +81069,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	tu.moatads.com
 0.0.0.0	t.unbounce.com
 0.0.0.0	tunersyxofqeak.download
+0.0.0.0	tuniaf.com
 0.0.0.0	tunion-api.m.taobao.com
 0.0.0.0	tunmedia.tns-cs.net
 0.0.0.0	tuno.nuggad.net
@@ -87265,6 +87269,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	winrar-soft.ru
 0.0.0.0	winsetupcostotome.easthamvacations.info
 0.0.0.0	win-spy.com
+0.0.0.0	winsupportit.club
 0.0.0.0	winterrowd.us.intellitxt.com
 0.0.0.0	winteryield.jmp9.com
 0.0.0.0	wintotal.de.intellitxt.com
@@ -87906,6 +87911,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www2.sellhealth.com
 0.0.0.0	www2.skyhookwireless.com
 0.0.0.0	www2.smallregularbestflash.club
+0.0.0.0	www2.smalltypeconcreteflash.rocks
 0.0.0.0	www2.smartadserver.com
 0.0.0.0	www.2squared.com
 0.0.0.0	www2.stats4free.de
@@ -88362,6 +88368,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.adloader.com
 0.0.0.0	www.adlock.in
 0.0.0.0	www.adlogix.com
+0.0.0.0	www.adlzyei.com
 0.0.0.0	www.admailtiser.com
 0.0.0.0	www.admaji.com
 0.0.0.0	www.ad-maker.net
