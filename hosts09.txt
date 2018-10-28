@@ -2068,6 +2068,11 @@
 0.0.0.0	m.mwjpk.com
 0.0.0.0	m.ybeih.com
 0.0.0.0	hz1.lanmei80.com
+0.0.0.0	e.dcaij.com
+0.0.0.0	m.tbieq.com
+0.0.0.0	m.yguap.com
+0.0.0.0	ncmo.v44i.cn
+0.0.0.0	sdn.hzxma.com
 0.0.0.0	m.ilancc.com
 0.0.0.0	y.ilancc.com
 0.0.0.0	a.tribalfusion.com
@@ -4416,12 +4421,14 @@
 0.0.0.0	duration.logger.baofeng.com
 0.0.0.0	houyi.logger.baofeng.com
 0.0.0.0	storm.logger.baofeng.com
+0.0.0.0	subo.logger.baofeng.com
 0.0.0.0	tips.logger.baofeng.com
 0.0.0.0	tree.logger.baofeng.com
 0.0.0.0	sclog.moviebox.baofeng.com
 0.0.0.0	timelog.moviebox.baofeng.com
 0.0.0.0	vvlog.moviebox.baofeng.com
 0.0.0.0	config.baofeng.net
+0.0.0.0	iflow.minfo.baofeng.net
 0.0.0.0	jfm4.pop.baofeng.net
 0.0.0.0	listlog.baofeng.net
 0.0.0.0	nclog.mars.baofeng.net
