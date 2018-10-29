@@ -2727,6 +2727,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	www2.fasterupconcreteflash.icu
 0.0.0.0	www2.gettypegoldflash.club
 0.0.0.0	www2.savedealoriginalaflash.icu
+0.0.0.0	www2.setdealoriginalaflash.icu
+0.0.0.0	www2.settypesoftaflash.icu
+0.0.0.0	www2.smallconcretetypeflash.world
 0.0.0.0	www2.smalltypeconcreteflash.rocks
 0.0.0.0	www2.topgoldhowflash.icu
 0.0.0.0	www2.upgradebestonlineflash.icu
