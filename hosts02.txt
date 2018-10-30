@@ -2728,6 +2728,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www2.gettypegoldflash.club
 0.0.0.0	www2.savedealoriginalaflash.icu
 0.0.0.0	www2.setdealoriginalaflash.icu
+0.0.0.0	www2.setoriginalgreataflash.icu
 0.0.0.0	www2.settypesoftaflash.icu
 0.0.0.0	www2.smallconcretetypeflash.world
 0.0.0.0	www2.smalltypeconcreteflash.rocks
@@ -2829,6 +2830,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.onlyfreeoffersonline.com
 0.0.0.0	www.openinternetexchange.com
 0.0.0.0	www.oreidofitilho.com.br
+0.0.0.0	www.originscheduler.com
 0.0.0.0	www.otsserver.com
 0.0.0.0	www.pay-pal.com-cgibin-canada.4mcmeta4v.cn
 0.0.0.0	www.phormlabs.com
@@ -11421,6 +11423,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.datingadvertising.com
 0.0.0.0	www.dctracking.com
 0.0.0.0	www.defaultinternet.com
+0.0.0.0	www.delton.com
 0.0.0.0	www.depravedwhores.com
 0.0.0.0	www.designbloxlive.com
 0.0.0.0	www.destinationurl.com
