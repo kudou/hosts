@@ -45,6 +45,7 @@ ff02::2  ip6-allrouters
 23.226.136.132	23-226-136-132.googlehosts.org
 23.226.136.132	ss-2.googlehosts.org
 104.223.60.17	104-223-60-17.googlehosts.org
+66.154.108.62	66-154-108-62.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
 155.94.137.77	ss-3.googlehosts.org
@@ -752,7 +753,7 @@ ff02::2  ip6-allrouters
 216.58.200.24	www.google.com.gi
 216.58.200.24	www.google.com.gr
 216.58.200.24	www.google.com.gt
-173.194.196.162	www.google.com.hk
+172.217.17.35	www.google.com.hk
 216.58.200.24	www.google.com.iq
 216.58.200.24	www.google.com.jm
 216.58.200.24	www.google.com.jo
@@ -797,7 +798,7 @@ ff02::2  ip6-allrouters
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 108.177.96.161	ogs.google.com
-172.217.193.160	www.google.com
+172.217.17.36	www.google.com
 108.177.103.161	id.google.com
 74.125.204.100	clients5.google.com
 108.177.127.99	apis.google.com
@@ -806,7 +807,7 @@ ff02::2  ip6-allrouters
 172.217.161.182	domains.google
 64.15.126.100	domains.google.com
 216.58.204.175	dns.google.com
-172.217.193.160	developers.google.com
+172.217.20.110	developers.google.com
 74.125.206.210	aboutme.google.com
 74.125.206.210	ads.google.com
 74.125.206.210	abc.xyz
@@ -15314,7 +15315,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2018-11-01_09:33:29
+2018-11-02_09:32:32
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -16094,37 +16095,37 @@ ff02::2  ip6-allrouters
 0.0.0.0	201.6.87.194.dynamic.dol.ru
 0.0.0.0	2016.sina.cn
 0.0.0.0	2017img.myxh999.com
-0.0.0.0	20181001.logic.cpm.cm.kankan.com
-0.0.0.0	20181002.logic.cpm.cm.kankan.com
-0.0.0.0	20181003.logic.cpm.cm.kankan.com
-0.0.0.0	20181004.logic.cpm.cm.kankan.com
-0.0.0.0	20181005.logic.cpm.cm.kankan.com
-0.0.0.0	20181006.logic.cpm.cm.kankan.com
-0.0.0.0	20181007.logic.cpm.cm.kankan.com
-0.0.0.0	20181008.logic.cpm.cm.kankan.com
-0.0.0.0	20181009.logic.cpm.cm.kankan.com
-0.0.0.0	20181010.logic.cpm.cm.kankan.com
-0.0.0.0	20181011.logic.cpm.cm.kankan.com
-0.0.0.0	20181012.logic.cpm.cm.kankan.com
-0.0.0.0	20181013.logic.cpm.cm.kankan.com
-0.0.0.0	20181014.logic.cpm.cm.kankan.com
-0.0.0.0	20181015.logic.cpm.cm.kankan.com
-0.0.0.0	20181016.logic.cpm.cm.kankan.com
-0.0.0.0	20181017.logic.cpm.cm.kankan.com
-0.0.0.0	20181018.logic.cpm.cm.kankan.com
-0.0.0.0	20181019.logic.cpm.cm.kankan.com
-0.0.0.0	20181020.logic.cpm.cm.kankan.com
-0.0.0.0	20181021.logic.cpm.cm.kankan.com
-0.0.0.0	20181022.logic.cpm.cm.kankan.com
-0.0.0.0	20181023.logic.cpm.cm.kankan.com
-0.0.0.0	20181024.logic.cpm.cm.kankan.com
-0.0.0.0	20181025.logic.cpm.cm.kankan.com
-0.0.0.0	20181026.logic.cpm.cm.kankan.com
-0.0.0.0	20181027.logic.cpm.cm.kankan.com
-0.0.0.0	20181028.logic.cpm.cm.kankan.com
-0.0.0.0	20181029.logic.cpm.cm.kankan.com
-0.0.0.0	20181030.logic.cpm.cm.kankan.com
-0.0.0.0	20181031.logic.cpm.cm.kankan.com
+0.0.0.0	20181101.logic.cpm.cm.kankan.com
+0.0.0.0	20181102.logic.cpm.cm.kankan.com
+0.0.0.0	20181103.logic.cpm.cm.kankan.com
+0.0.0.0	20181104.logic.cpm.cm.kankan.com
+0.0.0.0	20181105.logic.cpm.cm.kankan.com
+0.0.0.0	20181106.logic.cpm.cm.kankan.com
+0.0.0.0	20181107.logic.cpm.cm.kankan.com
+0.0.0.0	20181108.logic.cpm.cm.kankan.com
+0.0.0.0	20181109.logic.cpm.cm.kankan.com
+0.0.0.0	20181110.logic.cpm.cm.kankan.com
+0.0.0.0	20181111.logic.cpm.cm.kankan.com
+0.0.0.0	20181112.logic.cpm.cm.kankan.com
+0.0.0.0	20181113.logic.cpm.cm.kankan.com
+0.0.0.0	20181114.logic.cpm.cm.kankan.com
+0.0.0.0	20181115.logic.cpm.cm.kankan.com
+0.0.0.0	20181116.logic.cpm.cm.kankan.com
+0.0.0.0	20181117.logic.cpm.cm.kankan.com
+0.0.0.0	20181118.logic.cpm.cm.kankan.com
+0.0.0.0	20181119.logic.cpm.cm.kankan.com
+0.0.0.0	20181120.logic.cpm.cm.kankan.com
+0.0.0.0	20181121.logic.cpm.cm.kankan.com
+0.0.0.0	20181122.logic.cpm.cm.kankan.com
+0.0.0.0	20181123.logic.cpm.cm.kankan.com
+0.0.0.0	20181124.logic.cpm.cm.kankan.com
+0.0.0.0	20181125.logic.cpm.cm.kankan.com
+0.0.0.0	20181126.logic.cpm.cm.kankan.com
+0.0.0.0	20181127.logic.cpm.cm.kankan.com
+0.0.0.0	20181128.logic.cpm.cm.kankan.com
+0.0.0.0	20181129.logic.cpm.cm.kankan.com
+0.0.0.0	20181130.logic.cpm.cm.kankan.com
+0.0.0.0	20181131.logic.cpm.cm.kankan.com
 0.0.0.0	2018.qucaigg.com
 0.0.0.0	2020search.com
 0.0.0.0	202.6.87.194.dynamic.dol.ru
@@ -17523,15 +17524,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	9wjg4.voluumtrk.com
 0.0.0.0	9zaju.voluumtrk.com
 0.0.0.0	9zfh1.voluumtrk.com
-0.0.0.0	a-0001.a-msedge.net
-0.0.0.0	a-0002.a-msedge.net
-0.0.0.0	a-0003.a-msedge.net
-0.0.0.0	a-0004.a-msedge.net
-0.0.0.0	a-0005.a-msedge.net
-0.0.0.0	a-0006.a-msedge.net
-0.0.0.0	a-0007.a-msedge.net
-0.0.0.0	a-0008.a-msedge.net
-0.0.0.0	a-0009.a-msedge.net
 0.0.0.0	a01.gestionpub.com
 0.0.0.0	a01.korrelate.net
 0.0.0.0	a02.korrelate.net
@@ -17713,7 +17705,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	a.adroll.com
 0.0.0.0	a.ads1.msads.net
 0.0.0.0	a.ads1.msn.com
-0.0.0.0	a.ads1.msn.com	
 0.0.0.0	a.ads2.msads.net
 0.0.0.0	a.ads2.msn.com
 0.0.0.0	a.ads99.cn
@@ -41211,7 +41202,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	ams9.ib.adnxs.com
 0.0.0.0	amscdn.btrll.com
 0.0.0.0	a.msclickrdr.com
-0.0.0.0	a-msedge.net
 0.0.0.0	a.m.shuhuangge.org
 0.0.0.0	a-m-s.poco.cn
 0.0.0.0	ams.toxity.biz
@@ -42025,6 +42015,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	api.zedo.com
 0.0.0.0	api.zol.com
 0.0.0.0	apk.fgzba.com
+0.0.0.0	apk.gelinboer.cn
 0.0.0.0	apk.idate520.com
 0.0.0.0	apkinfo.voole.com
 0.0.0.0	apklog.cp11.ott.cibntv.net
@@ -42282,7 +42273,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	appsrv1.madserving.cn
 0.0.0.0	appsrv1.madserving.com
 0.0.0.0	appsrv4.madserving.com
-0.0.0.0	apps.skype.com
 0.0.0.0	apps.social.omniture.com
 0.0.0.0	apps.supfast.net
 0.0.0.0	app.starschina.com
@@ -51108,7 +51098,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	companydeep.go2affise.com
 0.0.0.0	compareyourclicks.com
 0.0.0.0	compatdb.us.intellitxt.com
-0.0.0.0	compatexchange.cloudapp.net
 0.0.0.0	compete.com
 0.0.0.0	compete.evergage.com
 0.0.0.0	competeinc.com
@@ -53170,7 +53159,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	cs19.livetex.ru
 0.0.0.0	cs1.adxpansion.com
 0.0.0.0	cs1.livetex.ru
-0.0.0.0	cs1.wpc.v0cdn.net
 0.0.0.0	cs20.livetex.ru
 0.0.0.0	cs2.livetex.ru
 0.0.0.0	cs.37see.com
@@ -53394,6 +53382,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	cxdigitalmedia.com
 0.0.0.0	cxense.com
 0.0.0.0	c.xianguonongchang.org
+0.0.0.0	c.xilongfuwu.com
 0.0.0.0	cxoadfarm.dyndns.info
 0.0.0.0	c.x.oanda.com
 0.0.0.0	cxociocom.112.2o7.net
@@ -55773,6 +55762,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	eegde.adocean.pl
 0.0.0.0	ee.hit.gemius.pl
 0.0.0.0	e.ehxyz.com
+0.0.0.0	e.ejuen.com
 0.0.0.0	eekro.cruisingsmallship.com
 0.0.0.0	eelsoup.net
 0.0.0.0	e.emgwq.com
@@ -57264,7 +57254,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	fe1-fi.imrworldwide.com
 0.0.0.0	fe1-it.imrworldwide.com
 0.0.0.0	fe2-au.imrworldwide.com
-0.0.0.0	fe2.update.microsoft.com.akadns.net
 0.0.0.0	fe3-au.imrworldwide.com
 0.0.0.0	fe3-gc.imrworldwide.com
 0.0.0.0	fe3-uk.imrworldwide.com
@@ -57288,9 +57277,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	feedbackexplorer.com
 0.0.0.0	feedback.microsoft-hohm.com
 0.0.0.0	feedbackresearch.com
-0.0.0.0	feedback.search.microsoft.com
 0.0.0.0	feedback.whalecloud.com
-0.0.0.0	feedback.windows.com
 0.0.0.0	feed.baidu.com
 0.0.0.0	feed.bizzclick.com
 0.0.0.0	feedblitz.com
@@ -60905,7 +60892,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	huntmad.com
 0.0.0.0	huodong.mobilem.360.cn
 0.0.0.0	huomdgde.adocean.pl
-0.0.0.0	huoying666.com
 0.0.0.0	hurricanedigitalmedia.com
 0.0.0.0	hu.search.etargetnet.com
 0.0.0.0	hus.parkingspa.com
@@ -76233,7 +76219,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	slowmac.tech
 0.0.0.0	sl-retargeting.adsonar.com
 0.0.0.0	sls.go2cloud.org
-0.0.0.0	sls.update.microsoft.com.akadns.net
 0.0.0.0	slt.hit.gemius.pl
 0.0.0.0	sltravelcom.112.2o7.net
 0.0.0.0	slushingfcikpfvjt.download
@@ -76981,7 +76966,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	ssum-sec.casalemedia.com
 0.0.0.0	ssv.admaster.com.cn
 0.0.0.0	ss.webring.com
-0.0.0.0	ssw.live.com
 0.0.0.0	ssxd.mediav.com
 0.0.0.0	ss.xxxnavy.com
 0.0.0.0	sszomsa.imdrv.net
@@ -78084,6 +78068,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	subsoilsolvhikahb.download
 0.0.0.0	subtracts.userplane.com
 0.0.0.0	s.uc627.com
+0.0.0.0	s.uca6.com
 0.0.0.0	succeedscene.com
 0.0.0.0	success123.com
 0.0.0.0	success.act-on.com
@@ -81688,7 +81673,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	uip.semasio.net
 0.0.0.0	ui.rk.doublepimp.com
 0.0.0.0	uir.uimserv.net
-0.0.0.0	ui.skype.com
 0.0.0.0	ui.streamate.doublepimp.com
 0.0.0.0	ui.zanox-affiliate.de
 0.0.0.0	ui.zanox.com
@@ -86282,8 +86266,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	voradu.com
 0.0.0.0	vorcu.go2cloud.org
 0.0.0.0	vorlon.ferretsoft.com
-0.0.0.0	vortex-bn2.metron.live.com.nsatc.net
-0.0.0.0	vortex-cy2.metron.live.com.nsatc.net
 0.0.0.0	vortex.data.microsoft.com
 0.0.0.0	vortex-sandbox.data.microsoft.com
 0.0.0.0	vortextraffic.com
@@ -94702,6 +94684,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	x.myspace.com
 0.0.0.0	x.myspace.edgesuite.net
 0.0.0.0	xn--adspace-kvg.ero-advertising.com
+0.0.0.0	x.niuliyan.cn
 0.0.0.0	xn--lt-68s.com
 0.0.0.0	xn--oogle-wmc.com
 0.0.0.0	xn--ryield-heqxb4671gshxg.jmp9.com
