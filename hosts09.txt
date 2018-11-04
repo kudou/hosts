@@ -2127,6 +2127,12 @@
 0.0.0.0	e.ejuen.com
 0.0.0.0	s.uca6.com
 0.0.0.0	x.niuliyan.cn
+0.0.0.0	e.xkena.com
+0.0.0.0	htvh.vf5yb4.cn
+0.0.0.0	m.sbief.com
+0.0.0.0	m.xidexableact.cn
+0.0.0.0	m.xkena.com
+0.0.0.0	m.ybaoh.com
 0.0.0.0	m.ilancc.com
 0.0.0.0	y.ilancc.com
 0.0.0.0	a.tribalfusion.com
