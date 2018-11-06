@@ -2772,6 +2772,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.didata.bw
 0.0.0.0	www.dietsecret.ru
 0.0.0.0	www.displaybrowser.com
+0.0.0.0	www.elemntindexer.com
 0.0.0.0	www.eroyear.ru
 0.0.0.0	www.exbays.com
 0.0.0.0	www.faggotry.com
