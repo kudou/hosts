@@ -24882,7 +24882,6 @@ dataprufen.com
 delowarweb.com
 dios-regalo.com
 eastneukpianos.co.uk
-es.wowhead.com
 ezfm.webnaz.net
 fantastechs.com
 fidoetpay.com
@@ -24891,7 +24890,6 @@ hiyadocs.ml
 hos.modtdd.xyz
 id-support.cloud
 judoclub-eberswalde.de
-ko.wowhead.com
 lannickdinard.org
 liveteach.fr
 maitland.ml
@@ -26829,3 +26827,6 @@ zap379472-9.plesk05.zap-webspace.com
 vodafone-nederland.com
 webapps-intl.ca-updated.com
 wowclick.in
+vktest.aiq.ru
+ztion.yolasite.com
+testmyblocker.com

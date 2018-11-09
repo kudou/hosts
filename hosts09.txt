@@ -1056,19 +1056,6 @@
 0.0.0.0	vortex.data.microsoft.com
 0.0.0.0	watson.microsoft.com
 0.0.0.0	www.bingads.microsoft.com
-120.52.19.113	bbs.pcbeta.com
-120.52.19.113	cdn.pcbeta.attachment.inimc.com
-120.52.19.113	cdn.pcbeta.css.inimc.com
-120.52.19.113	cdn.pcbeta.static.inimc.com
-120.52.19.113	group.pcbeta.com
-120.52.19.113	i.pcbeta.com
-120.52.19.113	m.pcbeta.com
-120.52.19.113	mac.pcbeta.com
-120.52.19.113	pcbeta.com
-120.52.19.113	static.template.pcbeta.com
-120.52.19.113	uc.pcbeta.com
-120.52.19.113	web.pcbeta.com
-120.52.19.113	www.pcbeta.com
 0.0.0.0	dl.2345.com
 0.0.0.0	download.2345.com
 0.0.0.0	g.wan.2345.com
@@ -2142,6 +2129,9 @@
 0.0.0.0	m.hcaig.com
 0.0.0.0	m.okuis.com
 0.0.0.0	m.tbenq.com
+0.0.0.0	e.cfenl.com
+0.0.0.0	m.aangc.com
+0.0.0.0	photo.haoquangou.cn
 0.0.0.0	m.ilancc.com
 0.0.0.0	y.ilancc.com
 0.0.0.0	a.tribalfusion.com
@@ -6614,7 +6604,6 @@
 0.0.0.0	adlabs-sync.rutarget.ru
 0.0.0.0	api.rees46.com
 0.0.0.0	bgrndi.com
-0.0.0.0	code.createjs.com
 0.0.0.0	match.c8.net.ua
 0.0.0.0	matching.targeterra.com
 0.0.0.0	mrelko.com
