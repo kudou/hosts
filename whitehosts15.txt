@@ -28,6 +28,7 @@
 23.226.136.216	23-226-136-216.googlehosts.org
 23.226.136.216	ss-3.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
+185.22.152.42	185-22-152-42.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 23.32.241.16	static.ak.instagram.com
 23.55.56.140	images.ak.instagram.com
