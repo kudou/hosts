@@ -851,7 +851,6 @@
 0.0.0.0	p2.l.qq.com
 0.0.0.0	p3.l.qq.com
 0.0.0.0	t.l.qq.com
-0.0.0.0	vd.l.qq.com
 0.0.0.0	w.l.qq.com
 0.0.0.0	ad4.sina.com.cn
 0.0.0.0	adm.leju.sina.com.cn
@@ -2028,18 +2027,6 @@
 0.0.0.0	y.ilancc.com
 0.0.0.0	x.dami66.cn
 0.0.0.0	amae.zjcapital.cn
-0.0.0.0	ctki.hs1s1.cn
-0.0.0.0	e.gjiak.com
-0.0.0.0	e.hjiec.com
-0.0.0.0	jc.shenglonghg.net
-0.0.0.0	m.edysn.cn
-0.0.0.0	m.gjiak.com
-0.0.0.0	m.hbans.com
-0.0.0.0	m.hjiec.com
-0.0.0.0	m.mbaik.com
-0.0.0.0	m.wbaiz.com
-0.0.0.0	m.wbiev.com
-0.0.0.0	m.ybaih.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -3031,6 +3018,7 @@
 0.0.0.0	cpv.czpush.com
 0.0.0.0	cs.twcczhu.com
 0.0.0.0	ct.210189.com
+0.0.0.0	ctki.hs1s1.cn
 0.0.0.0	cycy.kxrxh.com
 0.0.0.0	cz.ifeng0.com
 0.0.0.0	czf.cchfjz.com
@@ -3114,6 +3102,7 @@
 0.0.0.0	e.acaox.com
 0.0.0.0	e.admin60.com
 0.0.0.0	e.aiyyu.com
+0.0.0.0	e.ajiez.com
 0.0.0.0	e.anmeilai.net
 0.0.0.0	e.apxyz.com
 0.0.0.0	e.bbvjs.com
@@ -3160,6 +3149,7 @@
 0.0.0.0	e.gbieg.com
 0.0.0.0	e.gcaog.com
 0.0.0.0	e.gglay.com
+0.0.0.0	e.gjiak.com
 0.0.0.0	e.gtuoj.com
 0.0.0.0	e.gxjfh.com
 0.0.0.0	e.gxkyl.com
@@ -3167,6 +3157,7 @@
 0.0.0.0	e.hcenc.com
 0.0.0.0	e.hgrqp.com
 0.0.0.0	e.hissq.com
+0.0.0.0	e.hjiec.com
 0.0.0.0	e.hjryl.com
 0.0.0.0	e.hk7799.net
 0.0.0.0	e.hkmqp.com
@@ -3257,8 +3248,10 @@
 0.0.0.0	e.uzhaj.com
 0.0.0.0	e.vaxyz.com
 0.0.0.0	e.vbaiu.com
+0.0.0.0	e.vgaom.com
 0.0.0.0	e.vouky.com
 0.0.0.0	e.vvocm.com
+0.0.0.0	e.wbies.com
 0.0.0.0	e.wcjup.com
 0.0.0.0	e.weixingshexiangji.net
 0.0.0.0	e.wikigifth.com
@@ -3483,6 +3476,7 @@
 0.0.0.0	jb.mnkan.com
 0.0.0.0	jbflil.cn
 0.0.0.0	jc.anhuilitian.net
+0.0.0.0	jc.shenglonghg.net
 0.0.0.0	jc.xuqinqi.cn
 0.0.0.0	jd.c-ptsp.com.cn
 0.0.0.0	jdg.bjygfd.com
@@ -3639,6 +3633,7 @@
 0.0.0.0	m.adaog.com
 0.0.0.0	m.afoux.com
 0.0.0.0	m.aiyyu.com
+0.0.0.0	m.ajiez.com
 0.0.0.0	m.ajiuc.com
 0.0.0.0	m.anmeilai.net
 0.0.0.0	m.anzhuotan.com
@@ -3662,6 +3657,7 @@
 0.0.0.0	m.cbeif.com
 0.0.0.0	m.ccunf.com
 0.0.0.0	m.cdfzcz.com
+0.0.0.0	m.cdouj.com
 0.0.0.0	m.cenrs.com
 0.0.0.0	m.chenhuia.com
 0.0.0.0	m.chexiw.com
@@ -3691,6 +3687,7 @@
 0.0.0.0	m.duias.com
 0.0.0.0	m.dxmci.com
 0.0.0.0	m.edo5.com
+0.0.0.0	m.edysn.cn
 0.0.0.0	m.efeiy.com
 0.0.0.0	m.ehxyz.com
 0.0.0.0	m.emgwq.com
@@ -3721,6 +3718,7 @@
 0.0.0.0	m.gcaog.com
 0.0.0.0	m.gcheg.com
 0.0.0.0	m.gglay.com
+0.0.0.0	m.gjiak.com
 0.0.0.0	m.gtiou.com
 0.0.0.0	m.gtnde.com
 0.0.0.0	m.gtuoj.com
@@ -3735,6 +3733,7 @@
 0.0.0.0	m.gxkyl.com
 0.0.0.0	m.haowj.com.cn
 0.0.0.0	m.harbinbaojia.net
+0.0.0.0	m.hbans.com
 0.0.0.0	m.hbaog.com
 0.0.0.0	m.hcaig.com
 0.0.0.0	m.hcenc.com
@@ -3744,6 +3743,7 @@
 0.0.0.0	m.hguas.com
 0.0.0.0	m.hhllyt.com
 0.0.0.0	m.hissq.com
+0.0.0.0	m.hjiec.com
 0.0.0.0	m.hk7799.net
 0.0.0.0	m.hkmqp.com
 0.0.0.0	m.hogyp.com
@@ -3752,6 +3752,7 @@
 0.0.0.0	m.huanyuexpress.com
 0.0.0.0	m.huyulh.com
 0.0.0.0	m.hyzui.com
+0.0.0.0	m.ibinp.com
 0.0.0.0	m.icyrd.com
 0.0.0.0	m.ienkdaged.cn
 0.0.0.0	m.ienkdago.cn
@@ -3793,6 +3794,7 @@
 0.0.0.0	m.lyjz001.com
 0.0.0.0	m.lzida.com
 0.0.0.0	m.maopuzw.com
+0.0.0.0	m.mbaik.com
 0.0.0.0	m.mbiek.com
 0.0.0.0	m.mcaik.com
 0.0.0.0	m.mgsue.cn
@@ -3826,6 +3828,7 @@
 0.0.0.0	m.opqsr.com
 0.0.0.0	m.oyrim.com
 0.0.0.0	m.pbino.com
+0.0.0.0	m.pcaoo.com
 0.0.0.0	m.phonthing.com
 0.0.0.0	m.picbr.com
 0.0.0.0	m.pieaa.com
@@ -3860,6 +3863,7 @@
 0.0.0.0	m.symag.cn
 0.0.0.0	m.symaj.cn
 0.0.0.0	m.szqifu.com
+0.0.0.0	m.tbaiq.com
 0.0.0.0	m.tbenq.com
 0.0.0.0	m.tbieq.com
 0.0.0.0	m.tbinq.com
@@ -3877,9 +3881,12 @@
 0.0.0.0	m.vbaou.com
 0.0.0.0	m.vbieu.com
 0.0.0.0	m.vbinu.com
+0.0.0.0	m.vgaom.com
 0.0.0.0	m.vichc.com
 0.0.0.0	m.vouky.com
+0.0.0.0	m.wbaiz.com
 0.0.0.0	m.wbanv.com
+0.0.0.0	m.wbiev.com
 0.0.0.0	m.wcjup.com
 0.0.0.0	m.weixingshexiangji.net
 0.0.0.0	m.wervp.com
@@ -3909,6 +3916,7 @@
 0.0.0.0	m.xxkio.com
 0.0.0.0	m.yalayi.com
 0.0.0.0	m.yangjingbang.net
+0.0.0.0	m.ybaih.com
 0.0.0.0	m.ybaoh.com
 0.0.0.0	m.ybeih.com
 0.0.0.0	m.yguap.com
@@ -3953,6 +3961,7 @@
 0.0.0.0	mob.huimee.net
 0.0.0.0	moons.66bhy.com
 0.0.0.0	moren-1252794300.file.myqcloud.com
+0.0.0.0	motoe.plokr.com
 0.0.0.0	movie.miaiche.cn
 0.0.0.0	mps.weekslw.com
 0.0.0.0	ms.awqsaged.cn
@@ -4031,6 +4040,7 @@
 0.0.0.0	photo.headwell.cn
 0.0.0.0	photo.jbbath.cn
 0.0.0.0	photo.lyghjzs.cn
+0.0.0.0	photo.rdguj.cn
 0.0.0.0	photo.shyexiang.cn
 0.0.0.0	photo.welldex.cn
 0.0.0.0	photo.xunhuaji.cn
@@ -4078,6 +4088,7 @@
 0.0.0.0	qp.yunanfuwuqi.com
 0.0.0.0	qq.8368661.com
 0.0.0.0	qq.guansenff.cn
+0.0.0.0	qtpb.12jf3.cn
 0.0.0.0	qweqwe.mctvhp.cn
 0.0.0.0	r.5207470.com
 0.0.0.0	r.myadx.net
@@ -4308,6 +4319,7 @@
 0.0.0.0	urh.tylll.com
 0.0.0.0	uri6.com
 0.0.0.0	url.222bz.com
+0.0.0.0	usao.77gog.com
 0.0.0.0	user.tiankongzudui.com
 0.0.0.0	utp.ucweb.com
 0.0.0.0	uu.85655095.com
@@ -4410,6 +4422,7 @@
 0.0.0.0	www.7540.com
 0.0.0.0	www.8066hg.com
 0.0.0.0	www.8269996.com
+0.0.0.0	www.83692.com
 0.0.0.0	www.86kx.com
 0.0.0.0	www.888zr022.com
 0.0.0.0	www.88cncc.com
@@ -4459,6 +4472,7 @@
 0.0.0.0	www.gouzhibao.cn
 0.0.0.0	www.gt4ec.net
 0.0.0.0	www.gxdhgb.com
+0.0.0.0	www.gzhctryy.com
 0.0.0.0	www.hblinwei.com
 0.0.0.0	www.hdhkwl.com
 0.0.0.0	www.higame123.com
@@ -4515,6 +4529,7 @@
 0.0.0.0	www.onewhee.com
 0.0.0.0	www.ooniu.com
 0.0.0.0	www.pasco.cc
+0.0.0.0	www.pi920.com
 0.0.0.0	www.pintour.com
 0.0.0.0	www.pj550077.com
 0.0.0.0	www.pjbjzf.com
