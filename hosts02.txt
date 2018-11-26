@@ -7773,7 +7773,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	enquete-annuelle.info
 0.0.0.0	entertainment-rewardpath.com
 0.0.0.0	entertainment-specials.com
-0.0.0.0	ɢoogle.com
 0.0.0.0	epomads2.4shared.com
 0.0.0.0	eren.ecoencomputer.com
 0.0.0.0	erie.smartage.com
@@ -11992,7 +11991,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.trndsys.mobi
 0.0.0.0	www.trourted.pro
 0.0.0.0	www.ttnet.yandex.com.tr
-0.0.0.0	www.turkishạirlines.com
 0.0.0.0	www.turn.com
 0.0.0.0	www.tutop.com
 0.0.0.0	www.tuttosessogratis.org
