@@ -23672,6 +23672,7 @@
 0.0.0.0	clk.recreativ.ru
 0.0.0.0	clk.relestar.com
 0.0.0.0	clk.solocpm.com
+0.0.0.0	clk.tradedoubler.com
 0.0.0.0	clk.voyages-sncf.com
 0.0.0.0	clkax.tradedoubler.com
 0.0.0.0	clkde.tradedoubler.com
@@ -26866,7 +26867,6 @@
 0.0.0.0	engine.webgozar.ir
 0.0.0.0	engine.widespace.com
 0.0.0.0	englobingoopmzqu.download
-0.0.0.0	enhance.com
 0.0.0.0	enigma.kissmetrics.com
 0.0.0.0	enio.justclick.ru
 0.0.0.0	eniro.d3.sc.omtrdc.net
@@ -29475,7 +29475,6 @@
 0.0.0.0	images.drivelinemedia.com
 0.0.0.0	images.e-mailcom.co.uk
 0.0.0.0	images.ed4.net
-0.0.0.0	images.enhance.com
 0.0.0.0	images.fastclick.net
 0.0.0.0	images.francite.com
 0.0.0.0	images.freelotto.com
@@ -29655,6 +29654,7 @@
 0.0.0.0	impact.staging.applifier.com
 0.0.0.0	impactmobile.com
 0.0.0.0	impbe.tradedoubler.com
+0.0.0.0	impch.tradedoubler.com
 0.0.0.0	impde.tradedoubler.com
 0.0.0.0	impdk.tradedoubler.com
 0.0.0.0	impes.tradedoubler.com
@@ -44773,6 +44773,7 @@
 0.0.0.0	www.trackvoluum.com
 0.0.0.0	www.trackyourstats.com
 0.0.0.0	www.tradeadexchange.com
+0.0.0.0	www.tradedoubler.com
 0.0.0.0	www.tradetraffic.com
 0.0.0.0	www.trading.dianomi.com
 0.0.0.0	www.traffdaq.com

@@ -1,4 +1,23 @@
-amazon.co.uk.security-check.ga
+<!DOCTYPE	html>
+<html>
+<head>
+<title>408	-	Request	Timeout</title>
+<meta	name="viewport"	content="width=device-width,	initial-scale=1"	/>
+<style	type="text/css">
+body	{	background-color:
+div	{	background-color:
+h1	{	margin:0;	font-size:22px;	font-weight:normal	}
+p	{	margin:10px	0	0	0;	padding-top:2px;	font-size:14px;	color:
+@media	(max-width:767px)	{	h1	{	font-size:90%;	letter-spacing:2px	}	p	{	font-size:70%	}	}
+</style>
+</head>
+<body>
+<div>
+<h1>Request	Timeout</h1>
+<p>408</p>
+</div>
+</body>
+</html>amazon.co.uk.security-check.ga
 autosegurancabrasil.com
 dadossolicitado-antendimento.sad879.mobi
 hitnrun.com.my
@@ -12813,7 +12832,6 @@ uwveiligheidsomgeving.nl
 uzqit.saqibsiddiqui.com
 validinfosystem.ga
 vaptistika-olga.gr
-vataninsaatmakina.com
 venkatsubramaniam.ga
 verification-nab.info
 verifywe.xyz
@@ -25495,7 +25513,6 @@ unlock.sms.code.confirm.wf-south.today
 urvasiodissi.com
 vertexuniversal.com
 vverisoase.yah0o0.fr
-wanderlustwanderlearn.com
 wels-fargo.com.connect.wf-south.info
 wipingtears.co.za
 xendor.usa.cc
@@ -26838,3 +26855,9 @@ votlage-divider-bias.ml
 zalanmanbuege.com
 zonasegura-zopremiadoclientesvipbccp.cf
 trybestsale.su
+tueresmasclinic.com
+verifikasiidaf11.wixsite.com
+visaconstruction.co.uk
+vitamincreative.co.za
+fwcauses.com
+winfreesupport.club
