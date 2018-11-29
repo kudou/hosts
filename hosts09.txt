@@ -863,7 +863,6 @@
 0.0.0.0	count.video.sina.com.cn
 0.0.0.0	counter.sina.com.cn
 0.0.0.0	cre.mix.sina.com.cn
-0.0.0.0	current.sina.com.cn
 0.0.0.0	d0.sina.com.cn
 0.0.0.0	d00.sina.com.cn
 0.0.0.0	d1.sina.com.cn
@@ -2028,6 +2027,15 @@
 0.0.0.0	business.inveno.com
 0.0.0.0	zuimeitianqi.inveno.com
 0.0.0.0	update.coolyun.com
+0.0.0.0	e.tchep.com
+0.0.0.0	e.xdunv.com
+0.0.0.0	m.iangp.com
+0.0.0.0	m.sfanf.com
+0.0.0.0	m.tchep.com
+0.0.0.0	m.whsjg.cn
+0.0.0.0	m.xdunv.com
+0.0.0.0	sypd.w13qh.cn
+0.0.0.0	y.unilz588.com
 0.0.0.0	m.ilancc.com
 0.0.0.0	y.ilancc.com
 0.0.0.0	x.dami66.cn
