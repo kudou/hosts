@@ -382,7 +382,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	cig-arrete.com
 0.0.0.0	ci-mpsnare.iesnare.com
 0.0.0.0	ci-mpsnare.iesnare.co.uk
-0.0.0.0	ci-mpsnare.iovation.com
 0.0.0.0	ci-snare.iovation.com
 0.0.0.0	citrix.tradedoubler.com
 0.0.0.0	cjt1.net
