@@ -32929,7 +32929,6 @@
 0.0.0.0	paranoicbarhuhw.download
 0.0.0.0	parenting.searchwho.com
 0.0.0.0	pareticpaypdtpq.download
-0.0.0.0	paris.typepad.com
 0.0.0.0	paritycube.go2cloud.org
 0.0.0.0	park.above.com
 0.0.0.0	parking.parklogic.com
@@ -44820,7 +44819,6 @@
 0.0.0.0	www.twemyksybtripewomen.review
 0.0.0.0	www.twqlnorqcmesquite.review
 0.0.0.0	www.tynt.com
-0.0.0.0	www.typepad.com
 0.0.0.0	www.typiol.com
 0.0.0.0	www.tyxo.bg
 0.0.0.0	www.tyzqxseppukus.review
