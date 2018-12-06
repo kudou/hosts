@@ -23575,6 +23575,7 @@
 0.0.0.0	clickkwala.go2cloud.org
 0.0.0.0	clickmarks.com
 0.0.0.0	clickmedia.ro
+0.0.0.0	clickmetertracking.com
 0.0.0.0	clickmonsters.com
 0.0.0.0	clickon.co.il
 0.0.0.0	clickosmedia.com
@@ -42943,6 +42944,7 @@
 0.0.0.0	www.clickchecker.co.uk
 0.0.0.0	www.clickdensity.com
 0.0.0.0	www.clickice.com
+0.0.0.0	www.clickmetertracking.com
 0.0.0.0	www.clickon.co.il
 0.0.0.0	www.clickriver.com
 0.0.0.0	www.clickshield.net
