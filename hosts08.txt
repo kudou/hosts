@@ -1173,7 +1173,6 @@
 0.0.0.0	cashengines.com
 0.0.0.0	cashfiesta.com
 0.0.0.0	cashpartner.com
-0.0.0.0	casinogames.com
 0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
@@ -1806,6 +1805,7 @@
 0.0.0.0	kindads.com
 0.0.0.0	kissmetrics.com
 0.0.0.0	kliks.nl
+0.0.0.0	kmpiframe.keepmeposted.com.mt
 0.0.0.0	knifeoctopus.com
 0.0.0.0	kniverto.com
 0.0.0.0	knorex.com
