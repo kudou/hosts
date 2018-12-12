@@ -1119,6 +1119,7 @@
 0.0.0.0	boersego-ads.de
 0.0.0.0	boilingbeetle.com
 0.0.0.0	boilingumbrella.com
+0.0.0.0	bombora.com
 0.0.0.0	boomads.com
 0.0.0.0	boost-my-pr.de
 0.0.0.0	boredcrown.com
@@ -1128,7 +1129,9 @@
 0.0.0.0	box.anchorfree.net
 0.0.0.0	bpath.com
 0.0.0.0	braincash.com
+0.0.0.0	branch.io
 0.0.0.0	brandreachsys.com
+0.0.0.0	brid.tv
 0.0.0.0	bridgetrack.com
 0.0.0.0	brightinfo.com
 0.0.0.0	british-banners.com
@@ -1280,16 +1283,19 @@
 0.0.0.0	connextra.com
 0.0.0.0	consciouscabbage.com
 0.0.0.0	consciouschairs.com
+0.0.0.0	consensu.org
 0.0.0.0	contadores.miarroba.com
 0.0.0.0	contaxe.de
 0.0.0.0	content.acc-hd.de
 0.0.0.0	content.ad
 0.0.0.0	contextweb.com
+0.0.0.0	converge-digital.com
 0.0.0.0	conversantmedia.com
 0.0.0.0	conversionruler.com
 0.0.0.0	convrse.media
 0.0.0.0	cookies.cmpnet.com
 0.0.0.0	coordinatedcub.com
+0.0.0.0	cooster.ru
 0.0.0.0	copperchickens.com
 0.0.0.0	copycarpenter.com
 0.0.0.0	copyrightaccesscontrols.com
@@ -1795,6 +1801,7 @@
 0.0.0.0	karisimbi.net
 0.0.0.0	karonty.com
 0.0.0.0	keymedia.hu
+0.0.0.0	keywee.co
 0.0.0.0	kindads.com
 0.0.0.0	kissmetrics.com
 0.0.0.0	kliks.nl
@@ -2066,6 +2073,7 @@
 0.0.0.0	olivebrandresponse.com
 0.0.0.0	omniscientspark.com
 0.0.0.0	omniture.com
+0.0.0.0	omtrdc.net
 0.0.0.0	onclasrv.com
 0.0.0.0	onclickads.net
 0.0.0.0	oneandonlynetwork.com
@@ -2078,6 +2086,7 @@
 0.0.0.0	onlinecashmethod.com
 0.0.0.0	onlinerewardcenter.com
 0.0.0.0	onscroll.com
+0.0.0.0	onthe.io
 0.0.0.0	open.oneplus.net
 0.0.0.0	openad.tf1.fr
 0.0.0.0	openad.travelnow.com
