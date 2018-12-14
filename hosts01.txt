@@ -36166,7 +36166,6 @@
 0.0.0.0	sweepstakes.com
 0.0.0.0	sweetpacks.go2cloud.org
 0.0.0.0	swellisholupo.download
-0.0.0.0	swift.com
 0.0.0.0	swimsuitnetwork.com
 0.0.0.0	switch.atdmt.com
 0.0.0.0	switch.atdmt.net
@@ -42178,7 +42177,6 @@
 0.0.0.0	womensforum.us.intellitxt.com
 0.0.0.0	won.images.streamray.com
 0.0.0.0	wondrousvalue.com
-0.0.0.0	woopra.com
 0.0.0.0	wordwatch.go2cloud.org
 0.0.0.0	woredi.com
 0.0.0.0	workflowboard.com
