@@ -26,9 +26,9 @@
 104.223.60.17	ss-2.googlehosts.org
 66.154.108.62	66-154-108-62.googlehosts.org
 23.226.136.216	23-226-136-216.googlehosts.org
-23.226.136.216	ss-3.googlehosts.org
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org
+185.22.152.42	ss-3.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
@@ -387,8 +387,8 @@
 52.44.186.59	beacon.flipboard.com
 34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
-192.30.253.112	github.com
-192.30.253.112	www.github.com
+192.30.255.111	github.com
+192.30.255.110	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com
 172.217.168.37	googlemail.l.google.com
@@ -519,7 +519,7 @@
 173.194.198.82	skia.googlesource.com
 173.194.198.82	gcr.io
 173.194.198.82	www.gcr.io
-173.194.76.82	chromium.googlesource.com
+108.177.127.82	chromium.googlesource.com
 108.177.127.82	gerrit.googlesource.com
 108.177.127.82	android-review.googlesource.com
 108.177.127.82	android.googlesource.com

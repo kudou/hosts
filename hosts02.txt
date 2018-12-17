@@ -2787,6 +2787,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.froling.bee.pl
 0.0.0.0	www.gacatl.com
 0.0.0.0	www.gezinti.com
+0.0.0.0	www.globalbuffer.com
 0.0.0.0	www.gns-consola.com
 0.0.0.0	www.goggle.com
 0.0.0.0	www.gozatar.com
@@ -2805,6 +2806,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.kbdiu5z8ah.us
 0.0.0.0	www.keybinary.com
 0.0.0.0	www.kinomarathon.ru
+0.0.0.0	www.knowinteractive.com
 0.0.0.0	www.kpremium.com
 0.0.0.0	www.launchbuffer.com
 0.0.0.0	www.likeportal.com
