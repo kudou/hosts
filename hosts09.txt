@@ -2031,8 +2031,12 @@
 0.0.0.0	e.dbeii.com
 0.0.0.0	e.eqiuy.com
 0.0.0.0	e.gxunj.com
+0.0.0.0	e.hduic.com
 0.0.0.0	e.jbanb.com
+0.0.0.0	e.lguir.com
 0.0.0.0	e.tbaip.com
+0.0.0.0	e.tbenc.com
+0.0.0.0	e.vjuei.com
 0.0.0.0	e.wduis.com
 0.0.0.0	gxwlzz.baiduspider1.cn
 0.0.0.0	m.ahuac.com
@@ -2040,14 +2044,22 @@
 0.0.0.0	m.dceni.com
 0.0.0.0	m.eqiuy.com
 0.0.0.0	m.gxunj.com
+0.0.0.0	m.hduic.com
 0.0.0.0	m.ibeip.com
 0.0.0.0	m.jbanb.com
+0.0.0.0	m.lguir.com
 0.0.0.0	m.tbaip.com
+0.0.0.0	m.tbenc.com
 0.0.0.0	m.tcenn.com
+0.0.0.0	m.vjuei.com
 0.0.0.0	m.wduis.com
+0.0.0.0	m.xhera.cn
+0.0.0.0	m.zcand.com
 0.0.0.0	photo.yqydjr.cn
 0.0.0.0	sdn.gongkao.hn.cn
+0.0.0.0	vnzq.mmpuh.cn
 0.0.0.0	www.duobaoqj.com
+0.0.0.0	www.hmnjf.com
 0.0.0.0	yly.hywly.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
@@ -2187,7 +2199,6 @@
 0.0.0.0	dps.shouji56.com
 0.0.0.0	tongji.tt.shouji56.com
 0.0.0.0	xz.tongji.shouji56.com
-0.0.0.0	p.abcache.com
 0.0.0.0	s.abcache.com
 0.0.0.0	shili.wanyx.com
 0.0.0.0	js.yixui.com
@@ -6822,6 +6833,7 @@
 0.0.0.0	3180555.com
 0.0.0.0	77455.com
 0.0.0.0	8184.cc
+0.0.0.0	8315.cn
 0.0.0.0	85058s.com
 0.0.0.0	90053999.com
 0.0.0.0	ad.dokrmob.com
@@ -6849,6 +6861,7 @@
 0.0.0.0	ffb.feihuo.com
 0.0.0.0	gi.xi.gxabj.com
 0.0.0.0	girlcc.cc
+0.0.0.0	h5.jiumaster.com
 0.0.0.0	hao.tiandi.com
 0.0.0.0	hao916.com
 0.0.0.0	hjc1990.com
@@ -6915,6 +6928,7 @@
 0.0.0.0	www.700900.com
 0.0.0.0	www.749558.com
 0.0.0.0	www.76802.net
+0.0.0.0	www.7ldou.com
 0.0.0.0	www.849558.com
 0.0.0.0	www.878090.com
 0.0.0.0	www.9565365.com
@@ -6943,6 +6957,8 @@
 0.0.0.0	www.v00087.com
 0.0.0.0	www.v66v66.com
 0.0.0.0	www.xpjylc9977.com
+0.0.0.0	www.xsl280.com
+0.0.0.0	www.xsl281.com
 0.0.0.0	www.yd126.com
 0.0.0.0	www.ylwy168.com
 0.0.0.0	wwww.495495.com
@@ -6955,7 +6971,3 @@
 0.0.0.0	xpj4.net
 0.0.0.0	xpj8088.com
 0.0.0.0	xpjkf888.com
-0.0.0.0	h5.jiumaster.com
-0.0.0.0	www.xsl280.com
-0.0.0.0	www.xsl281.com
-0.0.0.0	www.7ldou.com

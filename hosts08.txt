@@ -930,6 +930,7 @@
 0.0.0.0	analytics.yahoo.com
 0.0.0.0	anm.intelli-direct.com
 0.0.0.0	annonser.dagbladet.no
+0.0.0.0	anrdoezrs.net
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
 0.0.0.0	api.intensifier.de
@@ -2124,6 +2125,7 @@
 0.0.0.0	optimost.com
 0.0.0.0	optmd.com
 0.0.0.0	optmstr.com
+0.0.0.0	optnmstr.com
 0.0.0.0	ordingly.com
 0.0.0.0	ota.cartrawler.com
 0.0.0.0	otto-images.developershed.com
