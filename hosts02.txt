@@ -7660,6 +7660,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dl-plugin.com
 0.0.0.0	dlvr.readserver.net
 0.0.0.0	dmp.vihub.ru
+0.0.0.0	dmxleo.dailymotion.com
 0.0.0.0	dnads.directnic.com
 0.0.0.0	dnps.com
 0.0.0.0	dnse.linkpulse.com
@@ -9377,6 +9378,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pcookie.aliexpress.com
 0.0.0.0	pc-virus-d0l92j2.pw
 0.0.0.0	peaky.tags.yield-atx.com
+0.0.0.0	pebed.dm-event.net
 0.0.0.0	pei-ads.playboy.com
 0.0.0.0	people-choice-sites.com
 0.0.0.0	performanceadexchange.com
