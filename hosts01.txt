@@ -22791,6 +22791,7 @@
 0.0.0.0	capture.trackjs.com
 0.0.0.0	carambo.la
 0.0.0.0	carbonads.com
+0.0.0.0	carbontraffic.com
 0.0.0.0	careers.112.2o7.net
 0.0.0.0	carhopyewiqzlmz.download
 0.0.0.0	carleton.com
@@ -26233,6 +26234,7 @@
 0.0.0.0	dohod-inet.justclick.ru
 0.0.0.0	doldrumspijyzkdx.download
 0.0.0.0	doll.home.ro
+0.0.0.0	dollarcreative.com
 0.0.0.0	dolphinsfootball.com
 0.0.0.0	domain.gabia.com
 0.0.0.0	domainoptions.engine.adglare.net
@@ -27141,6 +27143,7 @@
 0.0.0.0	eyescream-com-tw.b.appier.net
 0.0.0.0	ez-poll.superstats.com
 0.0.0.0	ez-polls.superstats.com
+0.0.0.0	ezanmedia.com
 0.0.0.0	ezbng.voluumtrk.com
 0.0.0.0	ezcybersearch.com
 0.0.0.0	ezec.co.uk
@@ -42872,6 +42875,7 @@
 0.0.0.0	www.canvas-advert.ru
 0.0.0.0	www.capsizalsoxdxke.download
 0.0.0.0	www.carambo.la
+0.0.0.0	www.carbontraffic.com
 0.0.0.0	www.carhopyewiqzlmz.download
 0.0.0.0	www.carmunity.de
 0.0.0.0	www.cartonetwork.com
@@ -43185,6 +43189,7 @@
 0.0.0.0	www.dohillright.com
 0.0.0.0	www.doldrumspijyzkdx.download
 0.0.0.0	www.doll.home.ro
+0.0.0.0	www.dollarcreative.com
 0.0.0.0	www.domainsponsor.com
 0.0.0.0	www.domanialtmiqjsrc.download
 0.0.0.0	www.donkeymails.com

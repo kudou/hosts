@@ -2210,6 +2210,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	invite.gezinti.com
 0.0.0.0	ipadzu.net
 0.0.0.0	ircleaner.com
+0.0.0.0	irony.world
 0.0.0.0	istartsurf.com
 0.0.0.0	iswwwup.com
 0.0.0.0	it.globalsweeps.info
@@ -2773,6 +2774,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.didata.bw
 0.0.0.0	www.dietsecret.ru
 0.0.0.0	www.displaybrowser.com
+0.0.0.0	www.earthwax.top
 0.0.0.0	www.elemntindexer.com
 0.0.0.0	www.eroyear.ru
 0.0.0.0	www.exbays.com
@@ -2802,6 +2804,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.indesignstudioinfo.com
 0.0.0.0	www.indexerflash.com
 0.0.0.0	www.infopaypal.com
+0.0.0.0	www.irony.world
 0.0.0.0	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
 0.0.0.0	www.iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 0.0.0.0	www.kbdiu5z8ah.us
@@ -9841,6 +9844,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	rovion.com
 0.0.0.0	rpc-php.trafficfactory.biz
 0.0.0.0	rpc.trafficfactory.biz
+0.0.0.0	rpgmasterleague.com
 0.0.0.0	rp.hit.gemius.pl
 0.0.0.0	rpm.newrelisc.com
 0.0.0.0	rqtrk.eu
