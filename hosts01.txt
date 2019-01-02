@@ -23068,7 +23068,6 @@
 0.0.0.0	cdn.onescreen.net
 0.0.0.0	cdn.onlinecountdowns.com
 0.0.0.0	cdn.optimatic.com
-0.0.0.0	cdn.optimizely.com
 0.0.0.0	cdn.pardot.com
 0.0.0.0	cdn.petametrics.com
 0.0.0.0	cdn.popcash.net
@@ -32596,7 +32595,6 @@
 0.0.0.0	optimized.by.vitalads.net
 0.0.0.0	optimizedby.rmxads.com
 0.0.0.0	optimizely.appspot.com
-0.0.0.0	optimizely.com
 0.0.0.0	optimizely.s3.amazonaws.com
 0.0.0.0	optimum-hits.com
 0.0.0.0	optimumadsmedia.go2cloud.org

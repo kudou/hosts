@@ -2054,6 +2054,17 @@
 0.0.0.0	rbbf.07kfh.cn
 0.0.0.0	x.9zt8hy.com
 0.0.0.0	xiny.yssbi.net
+0.0.0.0	e.zcaod.com
+0.0.0.0	m.vbinr.com
+0.0.0.0	m.zcaod.com
+0.0.0.0	photo.ofsja.cn
+0.0.0.0	e.glvej.com
+0.0.0.0	e.xcouv.com
+0.0.0.0	ixnj.8j24h.cn
+0.0.0.0	m.glvej.com
+0.0.0.0	m.izuis.com
+0.0.0.0	m.wbaoz.com
+0.0.0.0	m.xcouv.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -4740,7 +4751,6 @@
 0.0.0.0	yunbofangbt.com
 0.0.0.0	yundingjiayuan.com
 0.0.0.0	yxs.tymsyx.com
-0.0.0.0	yyb.pc6.com
 0.0.0.0	yyffeicd.m.qxs.la
 0.0.0.0	yzh.jyjhkz.com
 0.0.0.0	z.moatads.com

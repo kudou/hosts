@@ -187,6 +187,8 @@
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
+63.141.239.58	ctext.org
+63.141.239.58	library.ctext.org
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com
