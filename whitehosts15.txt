@@ -35,6 +35,8 @@
 185.22.152.42	ss-3.googlehosts.org
 167.88.168.251	167-88-168-251.googlehosts.org
 167.88.168.251	ss-4.googlehosts.org
+103.124.106.174	103-124-106-174.googlehosts.org
+103.124.106.174	proxy.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com

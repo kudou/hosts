@@ -28112,6 +28112,7 @@
 0.0.0.0	fw.moatads.com
 0.0.0.0	fw2zy.voluumtrk.com
 0.0.0.0	fwdservice.com
+0.0.0.0	fwdssp.com
 0.0.0.0	fwocy.voluumtrk.com
 0.0.0.0	fwpgw1.surf-town.net
 0.0.0.0	fxj.realsecuredredirect.com
@@ -43443,6 +43444,7 @@
 0.0.0.0	www.fusespot.com
 0.0.0.0	www.futurecard.com
 0.0.0.0	www.fwdservice.com
+0.0.0.0	www.fwdssp.com
 0.0.0.0	www.fxnvsyupprovender.review
 0.0.0.0	www.fxstyle.net
 0.0.0.0	www.gabia.com

@@ -4398,6 +4398,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.adserve.com
 0.0.0.0	ad.adserverplus.com
 0.0.0.0	ad.adsmart.net
+0.0.0.0	ad.adsrvr.org
 0.0.0.0	ad.adtegrity.net
 0.0.0.0	ad.adtoma.com
 0.0.0.0	ad.adverticum.net
@@ -7562,6 +7563,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	d.adserve.com
 0.0.0.0	dads.new.digg.com
 0.0.0.0	d.ads.readwriteweb.com
+0.0.0.0	d.adup-tech.com
 0.0.0.0	d.adxcore.com
 0.0.0.0	d.agkn.com
 0.0.0.0	daily-saver.com
@@ -8440,6 +8442,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	inl.adbureau.net
 0.0.0.0	inpagevideo.nl
 0.0.0.0	input.insights.gravity.com
+0.0.0.0	insight.adsrvr.org
 0.0.0.0	insightexpressai.com
 0.0.0.0	insightxe.pittsburghlive.com
 0.0.0.0	insightxe.vtsgonline.com
