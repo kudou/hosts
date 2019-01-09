@@ -1948,7 +1948,6 @@
 0.0.0.0	news-log.51y5.net
 0.0.0.0	news.51y5.net
 0.0.0.0	push-dc.51y5.net
-0.0.0.0	wifiapi02.51y5.net
 0.0.0.0	c.wkanx.com
 0.0.0.0	c1.wkanx.com
 0.0.0.0	static.wkanx.com
@@ -2084,6 +2083,9 @@
 0.0.0.0	a.wanrenshe.com
 0.0.0.0	m.msujd.cn
 0.0.0.0	m.xcfwnhj.cn
+0.0.0.0	jyfght.cn
+0.0.0.0	qoub.rtslgov.cn
+0.0.0.0	www.nnnwwwe.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
