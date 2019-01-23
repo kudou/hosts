@@ -130,6 +130,7 @@
 172.217.161.180	betaspike.appspot.com
 172.217.161.180	hstspreload.appspot.com
 172.217.161.180	lfe-alpo-gm.appspot.com
+172.217.8.244	netlog-viewer.appspot.com
 207.241.225.95	archive.org
 207.241.225.95	www.archive.org
 207.241.225.95	analytics.archive.org
@@ -397,7 +398,7 @@
 52.44.186.59	beacon.flipboard.com
 34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
-192.30.255.111	github.com
+13.229.188.59	github.com
 192.30.255.110	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com

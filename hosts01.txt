@@ -23128,7 +23128,6 @@
 0.0.0.0	cdn.yb0t.com
 0.0.0.0	cdn.yldbt.com
 0.0.0.0	cdn.yourtopoffers.info
-0.0.0.0	cdn.ywxi.net
 0.0.0.0	cdn.zeusclicks.com
 0.0.0.0	cdn.ziffstatic.com
 0.0.0.0	cdn.zopim.com
@@ -28481,6 +28480,7 @@
 0.0.0.0	go.affec.tv
 0.0.0.0	go.by
 0.0.0.0	go.clickhoptk.com
+0.0.0.0	go.clktrkd.com
 0.0.0.0	go.coxds.com
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.doupat.xyz
@@ -31359,6 +31359,7 @@
 0.0.0.0	mesia.com
 0.0.0.0	meta.7search.com
 0.0.0.0	meta.streamcloud.eu
+0.0.0.0	meta.truemobileclicks.com
 0.0.0.0	metacount.com
 0.0.0.0	metal.ovh
 0.0.0.0	metalliselwgtj.download
