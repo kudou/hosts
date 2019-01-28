@@ -2194,6 +2194,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	hotchix.servepics.com
 0.0.0.0	howtobuildsoftware.com
 0.0.0.0	how-tosolve.com
+0.0.0.0	howupdateworks.beststubcontentsfrees.xyz
 0.0.0.0	hsb-canada.com
 0.0.0.0	hsbconline.ca
 0.0.0.0	humption.info
@@ -4168,6 +4169,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	aclick.adhoc2.net
 0.0.0.0	a.cntv.cn
 0.0.0.0	a.collective-media.net
+0.0.0.0	a.company-target.com
 0.0.0.0	ac.rnm.ca
 0.0.0.0	acs.56.com
 0.0.0.0	acs.agent.56.com
@@ -6744,6 +6746,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	badults.se
 0.0.0.0	baiduccdn1.com
 0.0.0.0	baidutv.baidu.com
+0.0.0.0	bakkecske.net
 0.0.0.0	b.am15.net
 0.0.0.0	bamulat.blogspot.hu
 0.0.0.0	bananacashback.com
@@ -6880,6 +6883,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bbnaut.bbelements.com
 0.0.0.0	bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 0.0.0.0	b.codeonclick.com
+0.0.0.0	b.company-target.com
 0.0.0.0	bcp.crwdcntrl.net
 0.0.0.0	bdnad1.bangornews.com
 0.0.0.0	bdv.bidvertiser.com
@@ -7113,6 +7117,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cc-dt.com
 0.0.0.0	c.cl.msn.com
 0.0.0.0	c.codeonclick.com
+0.0.0.0	c.company-target.com
 0.0.0.0	ccpmo.com
 0.0.0.0	cctv.adsunion.com
 0.0.0.0	cd8iw9mh.cricket
@@ -7624,6 +7629,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dbbsrv.com
 0.0.0.0	dcads.sina.com.cn
 0.0.0.0	d.cntv.cn
+0.0.0.0	d.company-target.com
 0.0.0.0	dc.sabela.com.pl
 0.0.0.0	dctracking.com
 0.0.0.0	de.adserver.yahoo.com
@@ -7774,6 +7780,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	eclkspbn.com
 0.0.0.0	ecoencomputer.com
 0.0.0.0	ecomadserver.com
+0.0.0.0	e.company-target.com
 0.0.0.0	e.crashlytics.com
 0.0.0.0	ecs1.engageya.com
 0.0.0.0	eddamedia.linkpulse.com
@@ -7881,7 +7888,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	f3.p0y.com
 0.0.0.0	f4.p0y.com
 0.0.0.0	fabryka-nagrod.com
-0.0.0.0	facebook.com/bakkecske.net
 0.0.0.0	face-nemzedek.com
 0.0.0.0	fadadosexo.com.br
 0.0.0.0	f.admob.com
@@ -8685,6 +8691,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jyknnhll.yearbrazil.com
 0.0.0.0	jzclick.soso.com
 0.0.0.0	jzigsobgsmxdmr.bid
+0.0.0.0	k1.mobileadsserver.com
 0.0.0.0	k5ads.osdn.com
 0.0.0.0	kaartenhuis.nl.site-id.nl
 0.0.0.0	k.admob.com

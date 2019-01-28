@@ -241,6 +241,7 @@ adomik.net
 adomik.org
 adotmob.com
 adpacked.com
+adpiano.com
 adplace.cz
 adplan.cz
 adprimemedia.com
@@ -1049,6 +1050,7 @@ conduit-services.com
 confirmsubscription.com
 connatix.com
 connct-9.com
+connectad.io
 connecteddevices.net
 connexity.net
 consumerenergyreport.com
@@ -13408,6 +13410,7 @@ subtraxion.com
 successfultogether.co.uk
 sugarcrm.com
 sugarops.com
+sumo.com
 sumologic.com
 sumome.com
 supernovaoffers.click
