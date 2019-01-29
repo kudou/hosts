@@ -1995,6 +1995,7 @@
 0.0.0.0	www.chenyanjiao.cn
 0.0.0.0	www.hnh-hotel.com
 0.0.0.0	www.tj-cmys.com
+0.0.0.0	rtnp.just9229.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
