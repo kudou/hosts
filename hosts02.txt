@@ -2894,6 +2894,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.webwise.com
 0.0.0.0	www.webwise.net
 0.0.0.0	www.webwise.org
+0.0.0.0	www.weknow.ac
 0.0.0.0	www.wellsfarg0-onllne.net
 0.0.0.0	www.wewillrocknow.com
 0.0.0.0	www.willysy.com
