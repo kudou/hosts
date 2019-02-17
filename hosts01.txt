@@ -22479,7 +22479,6 @@
 0.0.0.0	buy2.go2cloud.org
 0.0.0.0	buyhitscheap.com
 0.0.0.0	buystream.com
-0.0.0.0	buysub.com
 0.0.0.0	buytraf.ru
 0.0.0.0	buzz.igg.com
 0.0.0.0	buzzadnetwork.com
@@ -36240,6 +36239,9 @@
 0.0.0.0	t.flux.com
 0.0.0.0	t.formalyzer.com
 0.0.0.0	t.frtyi.com
+0.0.0.0	t.frtyk.com
+0.0.0.0	t.frtyo.com
+0.0.0.0	t.hrtya.com
 0.0.0.0	t.hypers.com.cn
 0.0.0.0	t.insigit.com
 0.0.0.0	t.irtya.com
@@ -36961,7 +36963,6 @@
 0.0.0.0	tracker.cds-tracking.com
 0.0.0.0	tracker.clicktrade.com
 0.0.0.0	tracker.com
-0.0.0.0	tracker.cztorrent.net
 0.0.0.0	tracker.divvit.com
 0.0.0.0	tracker.drippler.com
 0.0.0.0	tracker.egora.fr
