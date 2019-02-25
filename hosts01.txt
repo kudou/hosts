@@ -25928,7 +25928,6 @@
 0.0.0.0	de.web.planet49.com
 0.0.0.0	de2.ipinkvisualpass.com
 0.0.0.0	de8of677fyt0b.cloudfront.net
-0.0.0.0	dealcatcher.com
 0.0.0.0	dealchicken.go2cloud.org
 0.0.0.0	dealhelper.com
 0.0.0.0	dealmedia.utsandiego.com
@@ -31199,7 +31198,6 @@
 0.0.0.0	mcpaz.voluumtrk.com
 0.0.0.0	mcpvkhoven.review
 0.0.0.0	mcs.delvenetworks.com
-0.0.0.0	mcssl.com
 0.0.0.0	mctracking.go2cloud.org
 0.0.0.0	mdamarillo.112.2o7.net
 0.0.0.0	mdataroom.com
@@ -44005,7 +44003,6 @@
 0.0.0.0	www.mbotvisit.com
 0.0.0.0	www.mckygschalalled.review
 0.0.0.0	www.mcpvkhoven.review
-0.0.0.0	www.mcssl.com
 0.0.0.0	www.media-clic.com
 0.0.0.0	www.media-code.info
 0.0.0.0	www.media.net
