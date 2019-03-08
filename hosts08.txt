@@ -943,6 +943,7 @@
 0.0.0.0	as1.advfn.com
 0.0.0.0	assets1.exgfnetwork.com
 0.0.0.0	assoc-amazon.com
+0.0.0.0	aswpapius.com
 0.0.0.0	at-adserver.alltop.com
 0.0.0.0	atdmt.com
 0.0.0.0	athena-ads.wikia.com
@@ -2776,7 +2777,6 @@
 0.0.0.0	untidyquestion.com
 0.0.0.0	unusualtitle.com
 0.0.0.0	unwrittenspot.com
-0.0.0.0	urbanairship.com
 0.0.0.0	urlcash.net
 0.0.0.0	us.a1.yimg.com
 0.0.0.0	usapromotravel.com
