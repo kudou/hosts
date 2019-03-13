@@ -2358,6 +2358,19 @@
 0.0.0.0	photo.backerbiotech.cn
 0.0.0.0	photo.hebhec.cn
 0.0.0.0	qi.wndlkj.com
+0.0.0.0	cwzx.dengfenzhang.cn
+0.0.0.0	e.vchiy.com
+0.0.0.0	e.xroun.com
+0.0.0.0	j3.dthznc.com
+0.0.0.0	kign.biluzhang.cn
+0.0.0.0	ldk.ruiyufangchan.cn
+0.0.0.0	m.exusr.com
+0.0.0.0	m.gcaih.com
+0.0.0.0	m.iangs.com
+0.0.0.0	m.pquea.com
+0.0.0.0	m.vchiy.com
+0.0.0.0	m.xroun.com
+0.0.0.0	www.gdlbdzkj.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
@@ -7125,6 +7138,7 @@
 0.0.0.0	load77.exelator.com
 0.0.0.0	stags.bluekai.com
 0.0.0.0	sync.crwdcntrl.net
+0.0.0.0	server.exposebox.com
 0.0.0.0	fans.bestvogue.com
 0.0.0.0	code.hot-mob.com
 0.0.0.0	rad.reporo.net

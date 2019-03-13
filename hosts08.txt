@@ -451,6 +451,7 @@
 0.0.0.0	ads.gamespyid.com
 0.0.0.0	ads.gamigo.de
 0.0.0.0	ads.gaming-universe.de
+0.0.0.0	ads.gaming1.com
 0.0.0.0	ads.gawker.com
 0.0.0.0	ads.geekswithblogs.net
 0.0.0.0	ads.getlucky.com
@@ -2022,6 +2023,7 @@
 0.0.0.0	naj.sk
 0.0.0.0	nastydollars.com
 0.0.0.0	nativeroll.tv
+0.0.0.0	navegg.com
 0.0.0.0	navigator.io
 0.0.0.0	navrcholu.cz
 0.0.0.0	nbjmp.com
@@ -2354,6 +2356,7 @@
 0.0.0.0	republika.onet.pl
 0.0.0.0	resolutekey.com
 0.0.0.0	resonantbrush.com
+0.0.0.0	resonate.com
 0.0.0.0	retargeter.com
 0.0.0.0	revcontent.com
 0.0.0.0	revenue.net
@@ -2416,6 +2419,7 @@
 0.0.0.0	scripte-monster.de
 0.0.0.0	scrubsky.com
 0.0.0.0	scrubswim.com
+0.0.0.0	seadform.net
 0.0.0.0	searchmarketing.com
 0.0.0.0	searchramp.com
 0.0.0.0	secretivecub.com
