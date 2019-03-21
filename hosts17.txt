@@ -450,6 +450,7 @@ alphacreatesend2.com
 alphacreatesend3.com
 altabold1.com
 amazon-adsystem.com
+amazonco.uk
 amessagewithabottle.com
 amgdgt.com
 amobee.com
@@ -1778,6 +1779,7 @@ himediads.mobi
 himediads.net
 histats.com
 hit.skrz.cz
+hitbox.com
 hitcpm.com
 hlserve.com
 hobmobrevms.com
@@ -1961,7 +1963,6 @@ intothestorm.com
 invitemedia.com
 invoc.us
 ioam.de
-ip-info.ff.avast.com
 ipccdn.co.uk
 ipinfo.io
 ipredictive.com
@@ -13077,7 +13078,6 @@ sas15k01.com
 sascdn.com
 saymedia.com
 sayutracking.co.uk
-sc-analytics.appspot.com
 scarabresearch.com
 sch-alt-91.com
 sch-crt-91.com
