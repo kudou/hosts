@@ -2912,6 +2912,7 @@
 0.0.0.0	zhihu-web-analytics.zhihu.com
 0.0.0.0	a.77shw.com
 0.0.0.0	b.77shw.com
+0.0.0.0	ad.ettoday.net
 0.0.0.0	zhggw.dre8.com
 0.0.0.0	wxggtg.dre8.com
 0.0.0.0	adsame1.cnr.cn

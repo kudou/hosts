@@ -323,7 +323,9 @@ adswizz.net
 adsymptotic.com
 adtarget.me
 adtech.de
+adtechium.com
 adtechus.com
+adthrive.com
 adtilt.com
 adtoma.com
 adtoma.mobi
@@ -450,7 +452,6 @@ alphacreatesend2.com
 alphacreatesend3.com
 altabold1.com
 amazon-adsystem.com
-amazonco.uk
 amessagewithabottle.com
 amgdgt.com
 amobee.com
@@ -493,6 +494,7 @@ anreson.net
 ans.mlb.com
 answerscloud.com
 anuncios.sapo.pt
+anyclip.com
 apero-bigdata.com
 apester.com
 api.b2c.com
@@ -1058,6 +1060,7 @@ comscorestudies.com
 comscorestudies.net
 concertbreaks.com
 concerthospitality.com
+condenastdigital.com
 conduit-services.com
 confirmsubscription.com
 connatix.com
@@ -1088,6 +1091,7 @@ cooldeal.click
 coremetrics.eu
 corp.aol.com
 corporate-ir.net
+counciladvertising.net
 countess.twitch.tv
 coveritlive.com
 cp1.news.com.au
@@ -1319,6 +1323,7 @@ doubleclickbygoogle.com
 doublepimp.com
 doublepimpssl.com
 doubleverify.com
+doutthenhap.info
 dowjoneson.com
 dpchica.mobi
 dpdawg.mobi
@@ -1509,6 +1514,7 @@ everesttech.net
 evergage.com
 evisitanalyst.com
 evyy.net
+exacttarget.com
 exclusivo.internet.pt
 exdynsrv.com
 exe.bid
@@ -2016,6 +2022,8 @@ keytui.com
 keywee.co
 keyweego.com
 keywords.com
+kickdyn.co.uk
+kickdyn.com
 kiespr.com
 kimcurlrvsms.com
 kiosked.com
@@ -2101,6 +2109,7 @@ localytics.com
 log.kmplayer.com
 log.olark.com
 log.pinterest.com
+log.quora.com
 log.spotify.com
 loggly.com
 loggly.net
@@ -2140,6 +2149,7 @@ lyristech.com
 lyristech.net
 lyristechnologies.com
 lyristechnologies.net
+m6r.eu
 madisonlogic.com
 madnxs.com
 madnxs.net
@@ -12506,7 +12516,6 @@ nextbigsound.com
 nextdocs.com
 nextdocsonline.com
 nextplatform.com
-nexus.officeapps.live.com
 nexusapi.com
 nexusapp.com
 nexusapps.com
@@ -12722,6 +12731,7 @@ pixel.brit.co
 pixel.facebook.com
 pixel.honestjohn.co.uk
 pixel.messenger.com
+pixel.nymag.com
 pixel.reddit.com
 pixel.redditmedia.com
 pixel.rubiconproject.net.akadns.net
@@ -12735,6 +12745,7 @@ pkrchp001.com
 pkthop.com
 playbuzz.com
 playforprizes.net
+playground.xyz
 plista.biz
 plista.com
 plista.info
@@ -12902,6 +12913,7 @@ rdsa2018.com
 rdsa2019.com
 reactful.com
 realads.com
+realclever.com
 realmedia.com
 realtime.email
 realtimerelationship.com
@@ -13801,6 +13813,7 @@ vrtztrk.com
 vserv.mobi
 vservdigital.com
 vservmobi.com
+vungle.com
 vvbox.cz
 vwdservices.com
 w55c.net
