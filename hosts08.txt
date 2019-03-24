@@ -1541,6 +1541,7 @@
 0.0.0.0	fc.webmasterpro.de
 0.0.0.0	feebleshock.com
 0.0.0.0	feedbackresearch.com
+0.0.0.0	feefo.com
 0.0.0.0	ffxcam.fairfax.com.au
 0.0.0.0	fimserve.com
 0.0.0.0	findcommerce.com
@@ -1862,7 +1863,6 @@
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
 0.0.0.0	logger.snackly.co
-0.0.0.0	logs.logrocket.com
 0.0.0.0	logs.roku.com
 0.0.0.0	logua.com
 0.0.0.0	longinglettuce.com
@@ -2230,6 +2230,7 @@
 0.0.0.0	privatecash.com
 0.0.0.0	prmtracking.com
 0.0.0.0	pro-advertising.com
+0.0.0.0	producer.getwisdom.io
 0.0.0.0	proext.com
 0.0.0.0	profero.com
 0.0.0.0	profitrumour.com

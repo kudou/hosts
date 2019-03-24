@@ -1994,6 +1994,8 @@
 0.0.0.0	ssl.hp-china.biz
 0.0.0.0	www.tjhhr.com
 0.0.0.0	xhyd.uxyrl.cn
+0.0.0.0	m.i05h.cn
+0.0.0.0	wxas.ejwmc.cn
 0.0.0.0	m.ecenf.com
 0.0.0.0	m.djunf.com
 0.0.0.0	e.sbaoe.com
@@ -2001,6 +2003,16 @@
 0.0.0.0	m.sbaoe.com
 0.0.0.0	e.ihais.com
 0.0.0.0	m.ijieo.com
+0.0.0.0	m.dgouf.com
+0.0.0.0	m.fgaon.com
+0.0.0.0	m.rcaiu.com
+0.0.0.0	e.vpeny.com
+0.0.0.0	m.vpeny.com
+0.0.0.0	m.fxunn.com
+0.0.0.0	m.vhuay.com
+0.0.0.0	e.fxunn.com
+0.0.0.0	e.rcaiu.com
+0.0.0.0	m.ggouh.com
 0.0.0.0	s1.leshi123.cc
 0.0.0.0	s2.leshi123.cc
 0.0.0.0	anhm.acv5e.cn
@@ -2913,6 +2925,10 @@
 0.0.0.0	a.77shw.com
 0.0.0.0	b.77shw.com
 0.0.0.0	ad.ettoday.net
+0.0.0.0	yap.yahoo.com
+0.0.0.0	onemobile.yahoo.com
+0.0.0.0	beap.gemini.yahoo.com
+0.0.0.0	ads.adaptv.advertising.com
 0.0.0.0	zhggw.dre8.com
 0.0.0.0	wxggtg.dre8.com
 0.0.0.0	adsame1.cnr.cn
