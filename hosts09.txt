@@ -1996,6 +1996,7 @@
 0.0.0.0	xhyd.uxyrl.cn
 0.0.0.0	m.i05h.cn
 0.0.0.0	wxas.ejwmc.cn
+0.0.0.0	c.kuaituisss.com
 0.0.0.0	m.ecenf.com
 0.0.0.0	m.djunf.com
 0.0.0.0	e.sbaoe.com
@@ -2013,6 +2014,7 @@
 0.0.0.0	e.fxunn.com
 0.0.0.0	e.rcaiu.com
 0.0.0.0	m.ggouh.com
+0.0.0.0	e.ggouh.com
 0.0.0.0	s1.leshi123.cc
 0.0.0.0	s2.leshi123.cc
 0.0.0.0	anhm.acv5e.cn
