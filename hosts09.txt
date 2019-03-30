@@ -1997,6 +1997,10 @@
 0.0.0.0	m.i05h.cn
 0.0.0.0	wxas.ejwmc.cn
 0.0.0.0	c.kuaituisss.com
+0.0.0.0	www.jshonghuadq.com
+0.0.0.0	www.renminben.com
+0.0.0.0	photo.domainrank.cn
+0.0.0.0	yxrp.lianfuhuang.cn
 0.0.0.0	m.ecenf.com
 0.0.0.0	m.djunf.com
 0.0.0.0	e.sbaoe.com
@@ -2015,6 +2019,17 @@
 0.0.0.0	e.rcaiu.com
 0.0.0.0	m.ggouh.com
 0.0.0.0	e.ggouh.com
+0.0.0.0	m.aquns.com
+0.0.0.0	m.sdaih.com
+0.0.0.0	m.stuoe.com
+0.0.0.0	m.yfano.com
+0.0.0.0	m.xkunn.com
+0.0.0.0	m.jpenk.com
+0.0.0.0	m.jkuok.com
+0.0.0.0	m.izaos.com
+0.0.0.0	e.yfano.com
+0.0.0.0	e.rjiau.com
+0.0.0.0	e.izaos.com
 0.0.0.0	s1.leshi123.cc
 0.0.0.0	s2.leshi123.cc
 0.0.0.0	anhm.acv5e.cn
@@ -7502,3 +7517,6 @@
 0.0.0.0	xpj8088.com
 0.0.0.0	xpjkf888.com
 0.0.0.0	soft.jiegeng.com
+0.0.0.0	log.liusha.info
+0.0.0.0	statistics.liusha.info
+0.0.0.0	template.liusha.info
