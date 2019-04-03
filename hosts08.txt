@@ -1607,7 +1607,6 @@
 0.0.0.0	geobanner.adultfriendfinder.com
 0.0.0.0	geovisite.com
 0.0.0.0	getclicky.com
-0.0.0.0	getwisdom.io
 0.0.0.0	giddycoat.com
 0.0.0.0	globalismedia.com
 0.0.0.0	globaltakeoff.net
@@ -2534,6 +2533,7 @@
 0.0.0.0	spywords.com
 0.0.0.0	squeamishscarecrow.com
 0.0.0.0	squirrelhands.com
+0.0.0.0	srvmath.com
 0.0.0.0	srwww1.com
 0.0.0.0	stackadapt.com
 0.0.0.0	stakingscrew.com
