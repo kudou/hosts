@@ -693,6 +693,7 @@
 0.0.0.0	adsensecustomsearchads.com
 0.0.0.0	adserv.gamezone.de
 0.0.0.0	adserve.ams.rhythmxchange.com
+0.0.0.0	adserve.io
 0.0.0.0	adserver.71i.de
 0.0.0.0	adserver.adultfriendfinder.com
 0.0.0.0	adserver.aidameter.com
@@ -1204,6 +1205,7 @@
 0.0.0.0	class-act-clicks.com
 0.0.0.0	clearcomb.com
 0.0.0.0	clevernt.com
+0.0.0.0	click.absoluteagency.com
 0.0.0.0	click.fool.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click2freemoney.com
@@ -1949,10 +1951,12 @@
 0.0.0.0	metaffiliation.com
 0.0.0.0	metanetwork.com
 0.0.0.0	methodcash.com
+0.0.0.0	metrics.api.drift.com
 0.0.0.0	metrics.cnn.com
 0.0.0.0	metrics.consumerreports.org
 0.0.0.0	metrics.ctv.ca
 0.0.0.0	metrics.foxnews.com
+0.0.0.0	metrics.gfycat.com
 0.0.0.0	metrics.govexec.com
 0.0.0.0	metrics.windowsitpro.com
 0.0.0.0	metrilo.com
@@ -1994,6 +1998,7 @@
 0.0.0.0	mstrlytcs.com
 0.0.0.0	mtrcs.samba.tv
 0.0.0.0	mtree.com
+0.0.0.0	munchkin.marketo.net
 0.0.0.0	musiccounter.ru
 0.0.0.0	muwmedia.com
 0.0.0.0	mxptint.net
@@ -2004,7 +2009,6 @@
 0.0.0.0	mycounter.ua
 0.0.0.0	mydas.mobi
 0.0.0.0	mylink-today.com
-0.0.0.0	mymoneymakingapp.com
 0.0.0.0	mypagerank.net
 0.0.0.0	mypagerank.ru
 0.0.0.0	mypowermall.com
@@ -2275,6 +2279,7 @@
 0.0.0.0	puzzlingfall.com
 0.0.0.0	px.ads.linkedin.com
 0.0.0.0	px.dynamicyield.com
+0.0.0.0	px.gfycat.com
 0.0.0.0	q.azcentral.com
 0.0.0.0	qctop.com
 0.0.0.0	qnsr.com
@@ -2616,6 +2621,7 @@
 0.0.0.0	tailsweep.se
 0.0.0.0	takru.com
 0.0.0.0	talentedsteel.com
+0.0.0.0	tamgrt.com
 0.0.0.0	tangerinenet.biz
 0.0.0.0	tangibleteam.com
 0.0.0.0	tapad.com
@@ -2665,6 +2671,7 @@
 0.0.0.0	ticklesign.com
 0.0.0.0	tidaltv.com
 0.0.0.0	tinybar.com
+0.0.0.0	tizers.net
 0.0.0.0	tlvmedia.com
 0.0.0.0	tnkexchange.com
 0.0.0.0	tns-counter.ru
@@ -2852,6 +2859,7 @@
 0.0.0.0	weborama.com
 0.0.0.0	weborama.fr
 0.0.0.0	webpower.com
+0.0.0.0	webreseau.com
 0.0.0.0	webseoanalytics.com
 0.0.0.0	websponsors.com
 0.0.0.0	webstat.channel4.com
