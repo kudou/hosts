@@ -42,7 +42,7 @@
 45.59.113.172	45-59-113-172.googlehosts.org
 45.59.113.172	main-ssh.googlehosts.org
 23.32.241.9	a248.e.akamai.net
-52.219.0.4	s3-ap-northeast-1.amazonaws.com
+52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
 52.119.164.121	amazon.co.jp
 23.13.186.208	www.amazon.co.jp
