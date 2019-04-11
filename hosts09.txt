@@ -9,6 +9,13 @@
 0.0.0.0	trial.alcohol-soft.com
 0.0.0.0	licenses.ashampoo.com
 0.0.0.0	activation.phaseone.com
+0.0.0.0	apps.corel.com
+0.0.0.0	mc.corel.com
+0.0.0.0	origin-mc.corel.com
+0.0.0.0	iws.corel.com
+0.0.0.0	ipm.corel.com
+0.0.0.0	sws.corel.com
+0.0.0.0	dam.corel.com
 0.0.0.0	dbregistration.cuteftp.com
 0.0.0.0	activation.cyberlink.com
 0.0.0.0	cap.cyberlink.com
@@ -26,8 +33,6 @@
 0.0.0.0	binaryage-leechgate.herokuapp.com
 0.0.0.0	updates-s3.binaryage.com
 0.0.0.0	cbs.wondershare.com
-0.0.0.0	macplatform.wondershare.com
-0.0.0.0	platform.wondershare.com
 0.0.0.0	img1.126.net
 0.0.0.0	img2.126.net
 0.0.0.0	img3.126.net
@@ -2049,6 +2054,14 @@
 0.0.0.0	img.dajibai.com
 0.0.0.0	m.vnanf.com
 0.0.0.0	www.kaitoupiao.com
+0.0.0.0	e.uksnyf.cn
+0.0.0.0	iwvo.bym03.cn
+0.0.0.0	m.ybfwmm.cn
+0.0.0.0	zxod.b54ah.cn
+0.0.0.0	m.siwyom.com
+0.0.0.0	m.cgoiiq.com
+0.0.0.0	m.ceyiuy.com
+0.0.0.0	m.iygeoy.com
 0.0.0.0	m.llaoz.com
 0.0.0.0	m.lfouz.com
 0.0.0.0	m.dbaof.com
