@@ -2058,6 +2058,20 @@
 0.0.0.0	iwvo.bym03.cn
 0.0.0.0	m.ybfwmm.cn
 0.0.0.0	zxod.b54ah.cn
+0.0.0.0	e.ozwqxi.cn
+0.0.0.0	m.kuptmf.cn
+0.0.0.0	m.iygqhe.cn
+0.0.0.0	e.zvfuka.cn
+0.0.0.0	m.iyuey.com
+0.0.0.0	m.zvfuka.cn
+0.0.0.0	www.gggwwwe.com
+0.0.0.0	mfkn.71mxc6.cn
+0.0.0.0	ydlz.k859n.cn
+0.0.0.0	m.egqiyw.com
+0.0.0.0	m.iqasgw.com
+0.0.0.0	m.tfeic.com
+0.0.0.0	m.tdiac.com
+0.0.0.0	m.ckaim.com
 0.0.0.0	m.siwyom.com
 0.0.0.0	m.cgoiiq.com
 0.0.0.0	m.ceyiuy.com
@@ -2816,6 +2830,9 @@
 0.0.0.0	bu01.zybang.com
 0.0.0.0	bu02.zybang.com
 0.0.0.0	img.zuoyebang.cc
+0.0.0.0	wm.makeding.com
+0.0.0.0	xiazai.pdfexpert.cc
+0.0.0.0	xiazai.crossoverchina.com
 0.0.0.0	xmindchina.net
 0.0.0.0	www.xmindchina.net
 0.0.0.0	xia.xmindchina.net
@@ -2826,7 +2843,6 @@
 0.0.0.0	www.iconworkshop.cn
 0.0.0.0	iconworkshop.cn
 0.0.0.0	www.pdfexpert.cc
-0.0.0.0	xiazai.pdfexpert.cc
 0.0.0.0	www.zhzzx.com
 0.0.0.0	www.4009997658.com
 0.0.0.0	4009997658.com
@@ -2838,7 +2854,6 @@
 0.0.0.0	mairuan.com.cn
 0.0.0.0	flash.cn
 0.0.0.0	www.flash.cn
-0.0.0.0	wm.makeding.com
 0.0.0.0	www.ntfsformac.cc
 0.0.0.0	www.makeding.com
 0.0.0.0	makeding.com
