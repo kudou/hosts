@@ -2643,6 +2643,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	telefonica.webnavegador.com.br
 0.0.0.0	terra.fp.oix.net
 0.0.0.0	test.ishvara-yoga.com
+0.0.0.0	testupgrade.yourforcontentsplaysystems.icu
 0.0.0.0	TheBizMeet.com
 0.0.0.0	thedatesafe.com
 0.0.0.0	themoneyclippodcast.com
@@ -7980,7 +7981,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	flower.bg
 0.0.0.0	flowers-offer.com
 0.0.0.0	fls-na.amazon-adsystem.com
-0.0.0.0	fls-na.amazon.com
 0.0.0.0	flu23.com
 0.0.0.0	fm3cafe.hu
 0.0.0.0	fmads.osdn.com
