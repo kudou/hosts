@@ -167,10 +167,9 @@ ff02::2  ip6-allrouters
 172.217.161.180	lfe-alpo-gm.appspot.com
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
-207.241.225.95	archive.org
-207.241.225.95	www.archive.org
+207.241.224.4	archive.org
+207.241.224.4	www.archive.org
 207.241.225.95	analytics.archive.org
-207.241.225.95	ia802704.us.archive.org
 207.241.225.186	web-beta.archive.org
 207.241.225.186	wwwb-sentry.us.archive.org
 207.241.225.186	web.archive.org
@@ -15367,7 +15366,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2019-04-15_09:31:32
+2019-04-16_09:33:08
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
