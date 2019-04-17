@@ -32904,7 +32904,6 @@
 0.0.0.0	pagvl.voluumtrk.com
 0.0.0.0	paid-work-at-home.com
 0.0.0.0	paid.outbrain.com
-0.0.0.0	paid2mobi.com
 0.0.0.0	paid4clicks.de
 0.0.0.0	pajpv.voluumtrk.com
 0.0.0.0	paletotseeyzubqr.download
@@ -33818,7 +33817,6 @@
 0.0.0.0	q.jmp9.com
 0.0.0.0	q.pni.com
 0.0.0.0	q.serving-sys.com
-0.0.0.0	q.stripe.com
 0.0.0.0	q1blk.voluumtrk.com
 0.0.0.0	q2fqo.voluumtrk.com
 0.0.0.0	q3-2.webtrekk.net
@@ -34009,7 +34007,6 @@
 0.0.0.0	ranksider.com
 0.0.0.0	rankyou.com
 0.0.0.0	rapdirt.us.intellitxt.com
-0.0.0.0	rapid-cdn.com
 0.0.0.0	rapleaf.com
 0.0.0.0	raplz.voluumtrk.com
 0.0.0.0	rareru.ru

@@ -145,7 +145,7 @@
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
 27.133.136.8	app.arukas.io
-52.58.235.13	search.avira.com
+52.59.33.68	search.avira.com
 104.20.7.63	bandwagonhost.com
 151.101.8.81	www.bbc.com
 212.58.244.115	fig.bbc.co.uk
@@ -155,7 +155,7 @@
 104.76.83.32	nav.files.bbci.co.uk
 23.42.122.193	ichef.bbci.co.uk
 23.73.186.251	m.files.bbci.co.uk
-104.124.234.244	feeds.bbci.co.uk
+125.56.212.236	feeds.bbci.co.uk
 23.13.157.61	mybbc.files.bbci.co.uk
 23.66.206.133	polling.bbc.co.uk
 104.72.213.225	search.files.bbci.co.uk
@@ -166,15 +166,14 @@
 23.201.173.230	mybbc-analytics.files.bbci.co.uk
 212.58.244.114	ssl.bbc.co.uk
 13.33.213.226	push.api.bbci.co.uk
-52.50.202.133	search-suggest.api.bbci.co.uk
-34.240.0.40	ess.api.bbci.co.uk
+52.31.189.25	search-suggest.api.bbci.co.uk
+34.245.252.9	ess.api.bbci.co.uk
 212.58.249.134	session.bbc.com
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
-151.101.129.181	img.buzzfeed.com
-68.232.45.253	www.cd4o.com
+151.101.2.114	img.buzzfeed.com
 104.16.5.13	www.change.org
 104.16.5.13	assets.change.org
 104.16.4.13	change.org
@@ -3280,6 +3279,7 @@
 72.21.91.41	cloud.webtype.com
 95.211.113.131	wikileaks.org
 95.211.113.131	www.wikileaks.org
+141.105.65.113	file.wikileaks.org
 198.35.26.96	zh.wikinews.org
 198.35.26.96	zh.m.wikinews.org
 198.35.26.96	www.wikipedia.org

@@ -176,7 +176,7 @@ ff02::2  ip6-allrouters
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
 27.133.136.8	app.arukas.io
-52.58.235.13	search.avira.com
+52.59.33.68	search.avira.com
 104.20.7.63	bandwagonhost.com
 151.101.8.81	www.bbc.com
 212.58.244.115	fig.bbc.co.uk
@@ -186,7 +186,7 @@ ff02::2  ip6-allrouters
 104.76.83.32	nav.files.bbci.co.uk
 23.42.122.193	ichef.bbci.co.uk
 23.73.186.251	m.files.bbci.co.uk
-104.124.234.244	feeds.bbci.co.uk
+125.56.212.236	feeds.bbci.co.uk
 23.13.157.61	mybbc.files.bbci.co.uk
 23.66.206.133	polling.bbc.co.uk
 104.72.213.225	search.files.bbci.co.uk
@@ -197,15 +197,14 @@ ff02::2  ip6-allrouters
 23.201.173.230	mybbc-analytics.files.bbci.co.uk
 212.58.244.114	ssl.bbc.co.uk
 13.33.213.226	push.api.bbci.co.uk
-52.50.202.133	search-suggest.api.bbci.co.uk
-34.240.0.40	ess.api.bbci.co.uk
+52.31.189.25	search-suggest.api.bbci.co.uk
+34.245.252.9	ess.api.bbci.co.uk
 212.58.249.134	session.bbc.com
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
-151.101.129.181	img.buzzfeed.com
-68.232.45.253	www.cd4o.com
+151.101.2.114	img.buzzfeed.com
 104.16.5.13	www.change.org
 104.16.5.13	assets.change.org
 104.16.4.13	change.org
@@ -3311,6 +3310,7 @@ ff02::2  ip6-allrouters
 72.21.91.41	cloud.webtype.com
 95.211.113.131	wikileaks.org
 95.211.113.131	www.wikileaks.org
+141.105.65.113	file.wikileaks.org
 198.35.26.96	zh.wikinews.org
 198.35.26.96	zh.m.wikinews.org
 198.35.26.96	www.wikipedia.org
@@ -15366,7 +15366,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2019-04-16_09:33:08
+2019-04-17_09:31:50
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -64589,6 +64589,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	hrtya.com
 0.0.0.0	hrukxtcqmosaics.review
 0.0.0.0	hs4rs.voluumtrk.com
+0.0.0.0	hsadspixel.net
 0.0.0.0	hsaki.voluumtrk.com
 0.0.0.0	hs-analytics.net
 0.0.0.0	hsb-canada.com
@@ -67103,6 +67104,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jijsonline.112.2o7.net
 0.0.0.0	jijsonline.122.2o7.net
 0.0.0.0	jiktnv.122.2o7.net
+0.0.0.0	jimg.jisuoping.com
 0.0.0.0	jing.58.com
 0.0.0.0	jingavot.com
 0.0.0.0	jingdian230.meilika.net
@@ -67618,6 +67620,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	juststatic.info
 0.0.0.0	justteenmovie.com
 0.0.0.0	justtrck.com
+0.0.0.0	justuno.com
 0.0.0.0	justwebads.com
 0.0.0.0	justwtchaffiliatecom.ipage.com
 0.0.0.0	jutcom.com
@@ -73505,6 +73508,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	n.ads2-adnow.com
 0.0.0.0	n.ads3-adnow.com
 0.0.0.0	nadscdn.wuaiso.com
+0.0.0.0	nads.wuaiso.com
 0.0.0.0	naenticle.info
 0.0.0.0	naftemporiki.nuggad.net
 0.0.0.0	naganoadigei.com
@@ -76320,7 +76324,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	page-x.com
 0.0.0.0	page.xywy.com
 0.0.0.0	pagvl.voluumtrk.com
-0.0.0.0	paid2mobi.com
 0.0.0.0	paid4clicks.de
 0.0.0.0	paid.outbrain.com
 0.0.0.0	paidstats.com
@@ -79265,7 +79268,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	qs.oewabox.at
 0.0.0.0	qss-client.qq.com
 0.0.0.0	qstore.inner.api.sj.360.cn
-0.0.0.0	q.stripe.com
 0.0.0.0	qs.wemfbox.ch
 0.0.0.0	qt002x.corp.youdao.com
 0.0.0.0	qto.reprintingstakeholder.com
@@ -79509,7 +79511,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	rantsports.us.intellitxt.com
 0.0.0.0	r.aol.com
 0.0.0.0	rapdirt.us.intellitxt.com
-0.0.0.0	rapid-cdn.com
 0.0.0.0	rapidcounter.com
 0.0.0.0	rapideo.pw
 0.0.0.0	rapidkittens.com
@@ -81786,6 +81787,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	sd.5.p2l.info
 0.0.0.0	sda.groupspaces.com
 0.0.0.0	sdapprecv.app.cntvwb.cn
+0.0.0.0	s.dbojetp.cn
 0.0.0.0	sdc2.sakura.ad.jp
 0.0.0.0	sdc8prod1.wiley.com
 0.0.0.0	sdc.acc.org
@@ -94458,6 +94460,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	vjcyehtqm9.me
 0.0.0.0	vjnehfcprozymite.review
 0.0.0.0	vjoz.lu.sogou.com
+0.0.0.0	vj.tianji520.cn
 0.0.0.0	vj.x-ssp.com
 0.0.0.0	vk.18sexporn.ru
 0.0.0.0	vk2ca.com
@@ -94660,6 +94663,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	v.vomedia.tv
 0.0.0.0	vvp.agzxj8990.com
 0.0.0.0	vvps.ws
+0.0.0.0	vvv.lunqudai.com
 0.0.0.0	vw.btrll.com
 0.0.0.0	vwkhdi.cn
 0.0.0.0	vw.masterstats.com

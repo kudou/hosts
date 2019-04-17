@@ -2087,6 +2087,11 @@
 0.0.0.0	tfy.sswip.cn
 0.0.0.0	ad.wang502.com
 0.0.0.0	pb.wang502.com
+0.0.0.0	jimg.jisuoping.com
+0.0.0.0	nads.wuaiso.com
+0.0.0.0	s.dbojetp.cn
+0.0.0.0	vj.tianji520.cn
+0.0.0.0	vvv.lunqudai.com
 0.0.0.0	m.cioysg.com
 0.0.0.0	m.ifeib.com
 0.0.0.0	m.imykgs.com
