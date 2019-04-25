@@ -6596,6 +6596,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	app1.letitbefaster.website
 0.0.0.0	app1.letmacworkfaster.site
 0.0.0.0	app1.letslowbefast.site
+0.0.0.0	app2.downloadmacsoft.site
 0.0.0.0	app2.downloadmacsoft.world
 0.0.0.0	app2.letitbefaster.life
 0.0.0.0	app2.letitbefaster.website
@@ -7027,6 +7028,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	brokertraffic.com
 0.0.0.0	browserbreckalarm.info
 0.0.0.0	browsergames2018.com
+0.0.0.0	browsergames2019.com
 0.0.0.0	browser-notifications.bid
 0.0.0.0	browserprotecter.com
 0.0.0.0	browser-tools.systems
@@ -7747,6 +7749,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dobbenetes.com
 0.0.0.0	dock.inmobi.com
 0.0.0.0	doesok.top
+0.0.0.0	dolohen.com
 0.0.0.0	domwpm.stream
 0.0.0.0	donnez-votre-avis.org
 0.0.0.0	dosszie.com
@@ -8298,6 +8301,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	guiaconsumidor.com
 0.0.0.0	guide2poker.com
 0.0.0.0	guildofangels.net
+0.0.0.0	gukne.koreastar.website
 0.0.0.0	GUMpolice.com
 0.0.0.0	guptamedianetwork.com
 0.0.0.0	guru.sitescout.netdna-cdn.com
@@ -8680,6 +8684,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jgedads.cjt.net
 0.0.0.0	jh.revolvermaps.com
 0.0.0.0	jingjia.qq.com
+0.0.0.0	jinxc.fruitaxis.pw
 0.0.0.0	jivox.com
 0.0.0.0	jl29jd25sm24mc29.com
 0.0.0.0	jlinks.industrybrains.com
@@ -8946,6 +8951,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	macleaner.space
 0.0.0.0	macleaner.work
 0.0.0.0	macpurifier.com
+0.0.0.0	mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu
 0.0.0.0	macshield8.club
 0.0.0.0	macskajaj.net
 0.0.0.0	mac.system-alert1.com
@@ -9991,6 +9997,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	re.directrev.com
 0.0.0.0	redirect.xmlheads.com
 0.0.0.0	redonetype.com
+0.0.0.0	redserv.giraffeeverest.com
 0.0.0.0	reduxads.valuead.com
 0.0.0.0	reg.coolsavings.com
 0.0.0.0	regflow.com
@@ -10592,6 +10599,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	st.marketgid.com
 0.0.0.0	stocker.bonnint.net
 0.0.0.0	stoiximan.gr
+0.0.0.0	stompebi.link
 0.0.0.0	storage.bulletproofserving.com
 0.0.0.0	storage.softure.com
 0.0.0.0	storage.trafic.ro
@@ -10845,6 +10853,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.trackmobistore.com
 0.0.0.0	tracking.trksrv.com
 0.0.0.0	tracking.truthfinder.com
+0.0.0.0	tracking.vcommission.com
 0.0.0.0	tracking.veoxa.com
 0.0.0.0	track.omgpl.com
 0.0.0.0	track.roularta.adhese.com
@@ -10975,6 +10984,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	unwashedsound.com
 0.0.0.0	uole.ad.uol.com.br
 0.0.0.0	updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
+0.0.0.0	updateplayer-flash.icu
 0.0.0.0	upgradenote.enterbestforupdating.bid
 0.0.0.0	upload.adtech.de
 0.0.0.0	upload.adtech.fr
@@ -11836,6 +11846,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.freeshoppingsource.com
 0.0.0.0	www.freespinwinner.win
 0.0.0.0	www.freo-stats.nl
+0.0.0.0	www.frequencyaccess.com
 0.0.0.0	www.friendlyduck.com
 0.0.0.0	www.frontpagecash.com
 0.0.0.0	www.ftjcfx.com	
@@ -12254,6 +12265,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.topbrandrewards.com
 0.0.0.0	www.topconsumergifts.com
 0.0.0.0	www.topdemaroc.com
+0.0.0.0	www.topreward.site
 0.0.0.0	www.toy-offer.com
 0.0.0.0	www.toy-offer.net
 0.0.0.0	www.tqlkg.com	
