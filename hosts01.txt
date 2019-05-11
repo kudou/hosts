@@ -23118,7 +23118,6 @@
 0.0.0.0	cdn.vipboxoc.co
 0.0.0.0	cdn.viralmint.com
 0.0.0.0	cdn.vlexokrako.com
-0.0.0.0	cdn.voscast.com
 0.0.0.0	cdn.w55c.net
 0.0.0.0	cdn.widgets.webengage.com
 0.0.0.0	cdn.wigetmedia.com
@@ -42993,7 +42992,6 @@
 0.0.0.0	www.compete.com
 0.0.0.0	www.competeinc.com
 0.0.0.0	www.comscore.com
-0.0.0.0	www.comunedeicittadini.it
 0.0.0.0	www.concealedffvqfx.download
 0.0.0.0	www.concinnousaepwnh.download
 0.0.0.0	www.condonenawphf.download

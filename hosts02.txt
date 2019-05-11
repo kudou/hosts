@@ -2301,6 +2301,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mac-os.apple.com-secured.online
 0.0.0.0	mac-osx.message-warning.net
 0.0.0.0	mac-protection.info
+0.0.0.0	magento-analytics.com
 0.0.0.0	mail1.371.net
 0.0.0.0	mail.bangla.net
 0.0.0.0	mail.cyberh.fr
