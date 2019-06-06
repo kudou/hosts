@@ -1973,6 +1973,7 @@
 0.0.0.0	mmismm.com
 0.0.0.0	mmstat.com
 0.0.0.0	mmtro.com
+0.0.0.0	moat.com
 0.0.0.0	moatads.com
 0.0.0.0	moatpixel.com
 0.0.0.0	mobclix.com
@@ -2249,6 +2250,7 @@
 0.0.0.0	promotion-campaigns.com
 0.0.0.0	pronetadvertising.com
 0.0.0.0	propellerads.com
+0.0.0.0	proper.io
 0.0.0.0	props.id
 0.0.0.0	proton-tm.com
 0.0.0.0	protraffic.com
