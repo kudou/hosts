@@ -26473,6 +26473,7 @@
 0.0.0.0	e-ny.a-1shz2prbmdj6wvny-1sez2pra2dj6wjny-1jcpgbowsdj6x9ny-1seq-2-2.stats.esomniture.com
 0.0.0.0	e-tracker.de
 0.0.0.0	e-zeeinternet.com
+0.0.0.0	e.8p30k.cn
 0.0.0.0	e.admob.com
 0.0.0.0	e.ai.inmobi.com
 0.0.0.0	e.digitalnectar.co.uk
@@ -30973,6 +30974,7 @@
 0.0.0.0	m.xcams.com
 0.0.0.0	m.xp1.ru4.com
 0.0.0.0	m.xvideos.fr
+0.0.0.0	m.yyfymj.com
 0.0.0.0	m08hh.voluumtrk.com
 0.0.0.0	m0zl8.voluumtrk.com
 0.0.0.0	m1.2mdn.net
@@ -41611,6 +41613,7 @@
 0.0.0.0	vitrade02.webtrekk.net
 0.0.0.0	viziomothersday.brandmovers.net
 0.0.0.0	vizisense.komli.net
+0.0.0.0	vj.quanjingpay.com
 0.0.0.0	vjnehfcprozymite.review
 0.0.0.0	vk.cblevt.com
 0.0.0.0	vladtv.us.intellitxt.com
