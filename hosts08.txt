@@ -1007,7 +1007,6 @@
 0.0.0.0	bannercommunity.de
 0.0.0.0	bannerconnect.com
 0.0.0.0	bannerconnect.net
-0.0.0.0	bannerflow.com
 0.0.0.0	bannergrabber.internet.gr
 0.0.0.0	bannerhost.com
 0.0.0.0	bannerimage.com
@@ -1170,6 +1169,7 @@
 0.0.0.0	casterist.info
 0.0.0.0	cbanners.virtuagirlhd.com
 0.0.0.0	cbsi.com
+0.0.0.0	cdn.bannerflow.com
 0.0.0.0	cdn.freefarcy.com
 0.0.0.0	cdn.heapanalytics.com
 0.0.0.0	cdn.onesignal.com
@@ -2197,6 +2197,7 @@
 0.0.0.0	personagraph.com
 0.0.0.0	petiteumbrella.com
 0.0.0.0	pgl.example0101
+0.0.0.0	pgltestinghere
 0.0.0.0	pgmediaserve.com
 0.0.0.0	pgpartner.com
 0.0.0.0	pheedo.com
@@ -2735,10 +2736,12 @@
 0.0.0.0	trackedlink.net
 0.0.0.0	trackedweb.net
 0.0.0.0	tracker-pm2.spilleren.com
+0.0.0.0	tracker.bannerflow.com
 0.0.0.0	tracker.icerocket.com
 0.0.0.0	tracker.marinsm.com
 0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracking.crunchiemedia.com
+0.0.0.0	tracking.discounts-promo.ga
 0.0.0.0	tracking.gajmp.com
 0.0.0.0	tracking.ibxlink.com
 0.0.0.0	tracking.internetstores.de
