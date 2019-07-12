@@ -178,6 +178,7 @@ adgiant.io
 adgibbon.com
 adglare.net
 adgrx.com
+adhigh.net
 adinfo.aol.com
 adinfuse.com
 adingo.jp
@@ -212,6 +213,7 @@ admeld.com
 admized.com
 admo.tv
 admob.com
+admobclick.com
 adnet.de
 adnexus.com
 adnexus.net
@@ -241,6 +243,7 @@ adomik.com
 adomik.info
 adomik.net
 adomik.org
+adorca.com
 adotmob.com
 adpacked.com
 adpiano.com
@@ -325,6 +328,7 @@ adtarget.me
 adtech.de
 adtechium.com
 adtechus.com
+adtelligent.com
 adthrive.com
 adtilt.com
 adtoma.com
@@ -452,12 +456,13 @@ alphacreatesend1.com
 alphacreatesend2.com
 alphacreatesend3.com
 altabold1.com
-amazon-adsystem.com
+altitude-arena.com
 amessagewithabottle.com
 amgdgt.com
 amobee.com
 amobee.net
 amobee.org
+amp.services
 ampaign.click
 amplience.com
 amplitude.com
@@ -465,7 +470,6 @@ ampmetrics.techcrunch.com
 amung.us
 analyse.email
 analysing.email
-analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
 analytics.amakings.com
@@ -619,6 +623,7 @@ azdx.net
 azera-s014.com
 babebrkrflow.com
 bae5tracker.com
+bam-x.com
 bandelcot.com
 bannerflow.com
 bannermeter.com
@@ -645,6 +650,7 @@ behavior.com
 behavioralengine.com
 behavioralmailing.com
 berg-6-82.com
+beriacroft.com
 best-dental-implants-tracking.com
 bestdealmedia.click
 bestdealonearth.click
@@ -677,6 +683,7 @@ bingads.microsoft.com
 bis-dic15.com
 bispd.com
 bisrv.com
+bitmovin.com
 bitssurfer.com
 bizible.com
 bizographics.com
@@ -791,6 +798,7 @@ budgetedbauer.com
 bugherd.com
 bugsnag.com
 builfico.de
+bumlam.com
 bunchbox.co
 bundles.api.here.com
 bunti.ng
@@ -895,6 +903,7 @@ cilidaquan.com
 circulate.com
 citypaketet.se
 cj.com
+clarium.io
 clear-reports.com
 clearcode.cc
 clevernt.com
@@ -1086,7 +1095,6 @@ cookielesstargeting.info
 cookielesstargeting.net
 cookielesstargeting.org
 cookiesv2.publiekeomroep.nl
-cookiesync.vertamedia.com
 coolander247.click
 cooldeal.click
 coremetrics.eu
@@ -1562,6 +1570,7 @@ ffftgrf.com
 ffftrfg.com
 ffftrgf.com
 fidelity-media.com
+fiftyt.com
 filebulldog.com
 fileserve.xyz
 fimserve.com
@@ -1792,6 +1801,7 @@ hlserve.com
 hobmobrevms.com
 hochmoor.com
 hockeyapp.net
+holedusejecdo.info
 honeytracks.com
 hotjar.com
 hqcampaign.com
@@ -2027,6 +2037,7 @@ kickdyn.co.uk
 kickdyn.com
 kiespr.com
 kimcurlrvsms.com
+kinaninglerophe.info
 kiosked.com
 kissmetrics.com
 klick2contact.com
@@ -2197,6 +2208,7 @@ mbd0.com
 mbd1.com
 mbenchmark.com
 mbsuitmsmt.com
+mbww.com
 mc.yandex.ru
 mcsecure.mobi
 mcstats.org
@@ -2250,6 +2262,8 @@ meteora.co
 meteora.us
 metric.asos.com
 metric.gstatic.com
+metric.ipv6test.com
+metric.ipv6test.net
 metrics.aftonbladet.se
 metrics.argos.co.uk
 metrics.barclays.co.uk
@@ -12314,6 +12328,7 @@ mobfox.org
 mobfox.us
 mobile-ad-cloud.com
 mobileaccesspanel.com
+mobileadtrading.com
 mobileapptracking.com
 mobilebenchmarck.com
 mobilebenchmark.com
@@ -12421,6 +12436,7 @@ msmtrakk16b.com
 msmtrakk17b.com
 mthsense.com
 munrvscurlms.com
+muvmobile.com
 mxapis.com
 mxcdn.net
 mxlogic.com
@@ -12586,6 +12602,20 @@ oileddaintiessunset.info
 ojrq.net
 om.au
 omessage.com
+ometria.com
+omgde.com
+omgeu.com
+omgpl.com
+omgsv.com
+omgt1.com
+omgt2.com
+omgt3.com
+omgt4.com
+omgt5.com
+omgt6.com
+omgt7.com
+omgt8.com
+omguk.com
 omnitagjs.com
 omniture.com
 omniture.groceries.asda.com
@@ -12644,6 +12674,7 @@ oplkx.com
 oplkz.com
 optilead.co.uk
 optimizely.com
+optimizesrv.com
 optinmonster.com
 optnmnstr.com
 optnmstr.com
@@ -12694,6 +12725,7 @@ performancemail.com
 performancemail.net
 performax.cz
 performfeeds.com
+performgroup.com
 permission-research.com
 permission-research.net
 permissionresearch.com
@@ -12738,6 +12770,7 @@ pixel.redditmedia.com
 pixel.rubiconproject.net.akadns.net
 pixel.watch
 pixel.wp.com
+pixeltracksys.io
 pixelunion.net
 pixfuture.net
 pixiedust.buzzfeed.com
@@ -12782,6 +12815,7 @@ pp.ru
 ppchero.com
 ppcstat.com
 ppjol.net
+prebid.org
 preroll.cz
 preroller.com
 pressfusion.com
@@ -12925,6 +12959,7 @@ rebrand.today
 rebranded.link
 rebrandly.com
 rebrandly.pro
+reckintersupwas.info
 reclaimthenet.com
 reddadd.net
 redeye.international
@@ -13456,6 +13491,7 @@ summerhamster.com
 sumo.com
 sumologic.com
 sumome.com
+superads.cn
 supernovaoffers.click
 supersonic.com
 survata.net
@@ -13693,6 +13729,7 @@ umhalilabs.com
 undrininvereb.info
 uniqodo.com
 univide.com
+unoadsrv.com
 unruly.co
 unrulymedia.com
 unsubscribe1.com
@@ -13834,6 +13871,7 @@ watcheezy.net
 watson.live.com
 watson.microsoft.com
 waudit.cz
+wbtrk.net
 wci-fl.com
 we-stats.com
 web-01-gbl.com
