@@ -292,6 +292,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	aus-smv-tracking.adalyser.com
 0.0.0.0	au.track.decideinteractive.com
 0.0.0.0	a.visualrevenue.com
+0.0.0.0	bam.nr-data.net
 0.0.0.0	bam-pilot.iovation.com
 0.0.0.0	banner.0catch.com
 0.0.0.0	banners.webcounter.com
@@ -365,6 +366,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cashcounter.com
 0.0.0.0	cb1.counterbot.com
 0.0.0.0	ccleaner.fr
+0.0.0.0	cdn.decibelinsight.net
 0.0.0.0	cdn.doublepimpssl.com
 0.0.0.0	cdn.oggifinogi.com
 0.0.0.0	cdn.simpleanalytics.io
