@@ -26,6 +26,7 @@
 0.0.0.0	wad.adbasket.net
 0.0.0.0	adbox.hu
 0.0.0.0	b.adbox.lv
+0.0.0.0	adboost.ro
 0.0.0.0	www.adchimp.com
 0.0.0.0	static.adclick.lt
 0.0.0.0	engine.adclick.lv
@@ -43,7 +44,6 @@
 0.0.0.0	adexc.net
 0.0.0.0	s.adexpert.cz
 0.0.0.0	static.adfclick1.com
-0.0.0.0	222-33544_999.pub.adfirmative.com
 0.0.0.0	c.adfirmative.com
 0.0.0.0	www.adfirmative.com
 0.0.0.0	adfocus.ru
@@ -1698,6 +1698,7 @@
 0.0.0.0	www.topsiteuri.ro
 0.0.0.0	ads.topwam.com
 0.0.0.0	cdn.total-media.net
+0.0.0.0	winappcenter.total-secure.info
 0.0.0.0	ams.toxity.biz
 0.0.0.0	www.tr100.net
 0.0.0.0	ad.track.us.org
@@ -2585,6 +2586,7 @@
 0.0.0.0	p0.raasnet.com
 0.0.0.0	imagec15.247realmedia.com
 0.0.0.0	pr.realvu.net
+0.0.0.0	us.rewardearners.com
 0.0.0.0	c2.rfihub.net
 0.0.0.0	b.rmgserving.com
 0.0.0.0	c.rmgserving.com
@@ -3662,6 +3664,7 @@
 0.0.0.0	app.ubertags.com
 0.0.0.0	stats3.unrulymedia.com
 0.0.0.0	adseu.novem.pl
+0.0.0.0	tagan.adlightning.com
 0.0.0.0	cdn-v3.conductrics.com
 0.0.0.0	cdn.qbaka.net
 0.0.0.0	ads-us.pictela.net
@@ -4337,6 +4340,7 @@
 0.0.0.0	tracker.bang.com
 0.0.0.0	srv.bebi.com
 0.0.0.0	banners.bghelp.co.uk
+0.0.0.0	buzzcpm.com
 0.0.0.0	cdnmedia.xyz
 0.0.0.0	wp1.cor-natty.com
 0.0.0.0	count.im
@@ -5510,13 +5514,16 @@
 0.0.0.0	4236808.fls.doubleclick.net
 0.0.0.0	ade.googlesyndication.com
 0.0.0.0	www3.webhostingtalk.com
+0.0.0.0	analytics.inform.com
 0.0.0.0	adexchangedirect.com
+0.0.0.0	cleardexchange.com
 0.0.0.0	stats.directexpose.com
 0.0.0.0	script.idvert.cz
 0.0.0.0	adoramatracksdk.optimove.net
 0.0.0.0	collector-pxel3l4xih.perimeterx.net
 0.0.0.0	star.pulseonclick.com
 0.0.0.0	app.reflectivedata.com
+0.0.0.0	track.special-promotions.online
 0.0.0.0	click.udimg.com
 0.0.0.0	m1.2mdn.net
 0.0.0.0	n339.asp-cc.com
@@ -6367,6 +6374,7 @@
 0.0.0.0	tgptraffic.biz
 0.0.0.0	x.fidelity-media.com
 0.0.0.0	static.hotjar.com
+0.0.0.0	img.sunmediaads.com
 0.0.0.0	ads.directcorp.de
 0.0.0.0	adserver.directcorp.de
 0.0.0.0	exit-ad.de
@@ -6636,6 +6644,7 @@
 0.0.0.0	ox.fashion.bg
 0.0.0.0	e.freewebhostingarea.com
 0.0.0.0	www.advancedmactools.com
+0.0.0.0	trackingclicks.xyz
 0.0.0.0	ad-rotator.com
 0.0.0.0	serv.adspeed.com
 0.0.0.0	www.adspeed.com
@@ -7083,6 +7092,7 @@
 0.0.0.0	www.impresionesweb.com
 0.0.0.0	alternativos.iw-advertising.com
 0.0.0.0	ad.sgdgjarfpp123.com
+0.0.0.0	play.sunmediaads.com
 0.0.0.0	ads.admaxasia.com
 0.0.0.0	adnet.asahi.com
 0.0.0.0	ads.bangkokpost.co.th
@@ -8945,6 +8955,7 @@
 0.0.0.0	bttrack.com
 0.0.0.0	pixel-a.basis.net
 0.0.0.0	pixel.crosspixel.net
+0.0.0.0	pixel.programmatictrader.com
 0.0.0.0	pixel-a.sitescout.com
 0.0.0.0	tracking.aimediagroup.com
 0.0.0.0	www.maxbounty.com
@@ -11546,16 +11557,12 @@
 0.0.0.0	oascentral.recyclebank.com
 0.0.0.0	oascentral.red7media.com
 0.0.0.0	oascentral.redstate.com
-0.0.0.0	oascentral.register.com
 0.0.0.0	oas.repubblica.it
 0.0.0.0	oas.rivals.com
 0.0.0.0	oascentral.samsclub.com
 0.0.0.0	oascentral.sfgate.com
 0.0.0.0	oascentral.sfweekly.com
 0.0.0.0	oascentral.sina.com
-0.0.0.0	oascentral.spineuniverse.com
-0.0.0.0	oascentral.southjerseylocalnews.com
-0.0.0.0	oascentral.sportsfanlive.com
 0.0.0.0	oascentral.s-t.com
 0.0.0.0	oascentral.stackmag.com
 0.0.0.0	oascentral.stansberryresearch.com
