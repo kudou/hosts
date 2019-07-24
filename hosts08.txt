@@ -510,6 +510,7 @@
 0.0.0.0	ads.linuxfoundation.org
 0.0.0.0	ads.livenation.com
 0.0.0.0	ads.lordlucky.com
+0.0.0.0	ads.mail.bg
 0.0.0.0	ads.mariuana.it
 0.0.0.0	ads.massinfra.nl
 0.0.0.0	ads.mcafee.com
@@ -600,6 +601,7 @@
 0.0.0.0	ads.toplayaffiliates.com
 0.0.0.0	ads.totallyfreestuff.com
 0.0.0.0	ads.townhall.com
+0.0.0.0	ads.travelaudience.com
 0.0.0.0	ads.trinitymirror.co.uk
 0.0.0.0	ads.tripod.com
 0.0.0.0	ads.tripod.lycos.co.uk
@@ -926,6 +928,7 @@
 0.0.0.0	app.pendo.io
 0.0.0.0	appsflyer.com
 0.0.0.0	aps.hearstnp.com
+0.0.0.0	apsalar.com
 0.0.0.0	apture.com
 0.0.0.0	aquaticowl.com
 0.0.0.0	ar1nvz5.com
@@ -945,6 +948,7 @@
 0.0.0.0	atdmt.com
 0.0.0.0	athena-ads.wikia.com
 0.0.0.0	attractiveafternoon.com
+0.0.0.0	attribution.report
 0.0.0.0	attributiontracker.com
 0.0.0.0	atwola.com
 0.0.0.0	auctionads.com
@@ -1769,7 +1773,6 @@
 0.0.0.0	iperceptions.com
 0.0.0.0	ipredictive.com
 0.0.0.0	ipro.com
-0.0.0.0	iqm.com
 0.0.0.0	ireklama.cz
 0.0.0.0	is-tracking-pixel-api-prod.appspot.com
 0.0.0.0	itfarm.com
@@ -1968,6 +1971,7 @@
 0.0.0.0	metrics.consumerreports.org
 0.0.0.0	metrics.ctv.ca
 0.0.0.0	metrics.foxnews.com
+0.0.0.0	metrics.getrockerbox.com
 0.0.0.0	metrics.gfycat.com
 0.0.0.0	metrics.govexec.com
 0.0.0.0	metrics.windowsitpro.com
@@ -2170,6 +2174,7 @@
 0.0.0.0	partner-ads.com
 0.0.0.0	partner.pelikan.cz
 0.0.0.0	partnerad.l.google.com
+0.0.0.0	partnerads.ysm.yahoo.com
 0.0.0.0	partnercash.de
 0.0.0.0	partners.priceline.com
 0.0.0.0	passion-4.net
@@ -2194,7 +2199,6 @@
 0.0.0.0	personagraph.com
 0.0.0.0	petiteumbrella.com
 0.0.0.0	pgl.example0101
-0.0.0.0	pgltestinghere
 0.0.0.0	pgmediaserve.com
 0.0.0.0	pgpartner.com
 0.0.0.0	pheedo.com
@@ -2215,8 +2219,10 @@
 0.0.0.0	pixel.adsafeprotected.com
 0.0.0.0	pixel.condenastdigital.com
 0.0.0.0	pixel.digitru.st
+0.0.0.0	pixel.mtrcs.samba.tv
 0.0.0.0	pixel.sojern.com
 0.0.0.0	pixel.watch
+0.0.0.0	placed.com
 0.0.0.0	play4traffic.com
 0.0.0.0	playhaven.com
 0.0.0.0	playmobileads.com
@@ -2237,6 +2243,7 @@
 0.0.0.0	porntrack.com
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
+0.0.0.0	postback.iqm.com
 0.0.0.0	postrelease.com
 0.0.0.0	potenza.cz
 0.0.0.0	pr-star.de
@@ -2294,6 +2301,7 @@
 0.0.0.0	px.ads.linkedin.com
 0.0.0.0	px.dynamicyield.com
 0.0.0.0	px.gfycat.com
+0.0.0.0	pxl.iqm.com
 0.0.0.0	q.azcentral.com
 0.0.0.0	qctop.com
 0.0.0.0	qnsr.com
@@ -2380,6 +2388,7 @@
 0.0.0.0	resonate.com
 0.0.0.0	retargeter.com
 0.0.0.0	revcontent.com
+0.0.0.0	reveal.clearbit.com
 0.0.0.0	revenue.net
 0.0.0.0	revenuedirect.com
 0.0.0.0	revenuehits.com
@@ -2724,6 +2733,7 @@
 0.0.0.0	track.adform.net
 0.0.0.0	track.anchorfree.com
 0.0.0.0	track.contently.com
+0.0.0.0	track.effiliation.com
 0.0.0.0	track.flexlinks.com
 0.0.0.0	track.flexlinkspro.com
 0.0.0.0	track.gawker.com
@@ -2737,12 +2747,15 @@
 0.0.0.0	tracker.bannerflow.com
 0.0.0.0	tracker.icerocket.com
 0.0.0.0	tracker.marinsm.com
+0.0.0.0	tracker.samplicio.us
 0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracking.crunchiemedia.com
 0.0.0.0	tracking.discounts-promo.ga
 0.0.0.0	tracking.gajmp.com
 0.0.0.0	tracking.ibxlink.com
 0.0.0.0	tracking.internetstores.de
+0.0.0.0	tracking.olx-st.com
+0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking01.walmart.com
 0.0.0.0	tracking101.com
 0.0.0.0	trackingsoft.com
@@ -2775,6 +2788,7 @@
 0.0.0.0	tribalfusion.com
 0.0.0.0	trickycelery.com
 0.0.0.0	trix.net
+0.0.0.0	trkn.us
 0.0.0.0	trmit.com
 0.0.0.0	truckstomatoes.com
 0.0.0.0	truehits.net
@@ -2904,6 +2918,7 @@
 0.0.0.0	widget.privy.com
 0.0.0.0	widgetbucks.com
 0.0.0.0	wikia-ads.wikia.com
+0.0.0.0	win.iqm.com
 0.0.0.0	window.nixnet.cz
 0.0.0.0	wintricksbanner.googlepages.com
 0.0.0.0	wirecomic.com

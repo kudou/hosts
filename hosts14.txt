@@ -18,6 +18,7 @@
 0.0.0.0	17173im.allyes.com
 0.0.0.0	18av.mm-cg.co
 0.0.0.0	1.allyes.com.cn
+0.0.0.0	1.nanrenwo.net
 0.0.0.0	1.wps.cn
 0.0.0.0	1.yhzm.cc
 0.0.0.0	2016.sina.cn
@@ -27,6 +28,7 @@
 0.0.0.0	2345apicode.dftoutiao.com
 0.0.0.0	2345api.dftoutiao.com
 0.0.0.0	268mob.cn
+0.0.0.0	2.nanrenwo.net
 0.0.0.0	312036.com
 0.0.0.0	3dns-2.adobe.com
 0.0.0.0	3dns-3.adobe.com
@@ -64,6 +66,7 @@
 0.0.0.0	a1410.oadz.com
 0.0.0.0	a1491.oadz.com
 0.0.0.0	a1662.oadz.com
+0.0.0.0	a.19869.com
 0.0.0.0	a1click.cpc.sogou.com
 0.0.0.0	a1.img.static.youmi.net
 0.0.0.0	a1.openxt.cn
@@ -372,6 +375,7 @@
 0.0.0.0	amps.yoyi.com.cn
 0.0.0.0	a.m.shuhuangge.org
 0.0.0.0	analy.qq.com
+0.0.0.0	analytics.163.com
 0.0.0.0	analytics3.starschina.com
 0.0.0.0	analytics.ad.daum.net
 0.0.0.0	analytics.atdmt.com
@@ -527,6 +531,7 @@
 0.0.0.0	ax.ifeng.com
 0.0.0.0	a.youdao.com
 0.0.0.0	azabu-u.ac.jp
+0.0.0.0	b.19869.com
 0.0.0.0	b1sync.zemanta.com
 0.0.0.0	badad.googleplex.com
 0.0.0.0	b.ads1.msn.com
@@ -552,9 +557,13 @@
 0.0.0.0	b.clkservice.youdao.com
 0.0.0.0	b.code.tanwanyx.com
 0.0.0.0	bd1.dopa.com
+0.0.0.0	bd1.idgdmgroup.com.cn
 0.0.0.0	bd1.pipaw.com
 0.0.0.0	bd2.dopa.com
+0.0.0.0	bd2.idgdmgroup.com.cn
 0.0.0.0	bd2.pipaw.com
+0.0.0.0	bd3.idgdmgroup.com.cn
+0.0.0.0	bd4.idgdmgroup.com.cn
 0.0.0.0	bdapi.ads.oppomobile.com
 0.0.0.0	bdd.hainan.net
 0.0.0.0	bdfrm.bidvertiser.com
@@ -713,6 +722,7 @@
 0.0.0.0	cee1.iteye.com
 0.0.0.0	cee2.iteye.com
 0.0.0.0	c.effectivemeasure.net
+0.0.0.0	c.evidon.com
 0.0.0.0	cf8d.stat.gw.youmi.net
 0.0.0.0	cf.cdn.inmobi.com
 0.0.0.0	cfg.imtt.qq.com
@@ -1191,6 +1201,7 @@
 0.0.0.0	e.kewro.com
 0.0.0.0	e.kuwoyy.com
 0.0.0.0	e-ltvp.inmobi.com
+0.0.0.0	em.baidu.com
 0.0.0.0	e.mbm.cn.miaozhen.com
 0.0.0.0	e.nbhaosheng168.com
 0.0.0.0	engine.lvehaisen.com
@@ -1235,7 +1246,6 @@
 0.0.0.0	ex.umengcloud.com
 0.0.0.0	e.yangjingbang.net
 0.0.0.0	ezine.oupeng.com
-0.0.0.0	f10.baidu.com
 0.0.0.0	f1c.i.biquge5200.com
 0.0.0.0	f1.luoshenbest.cn
 0.0.0.0	f1.p0y.cn
@@ -1322,6 +1332,7 @@
 0.0.0.0	gen.alicdn.com
 0.0.0.0	geo.moatads.com
 0.0.0.0	get.sogou.com
+0.0.0.0	ggdm1.nhaidu.net
 0.0.0.0	ggle.lywf.me
 0.0.0.0	g.haluoha.com
 0.0.0.0	gia.jd.com
@@ -1947,6 +1958,7 @@
 0.0.0.0	mobaders.oss-cn-beijing.aliyuncs.com
 0.0.0.0	mobads.baidu.com
 0.0.0.0	mobads-logs.baidu.com
+0.0.0.0	mo.baidu.com
 0.0.0.0	mobaliyun.res.mgtv.com
 0.0.0.0	mobi.adsage.com
 0.0.0.0	mobile2.da.mgtv.com
@@ -2519,6 +2531,7 @@
 0.0.0.0	s34.cnzz.com
 0.0.0.0	s35.cnzz.com
 0.0.0.0	s.35kds.com
+0.0.0.0	s.360.cn
 0.0.0.0	s36.cnzz.com
 0.0.0.0	s37.cnzz.com
 0.0.0.0	s38.cnzz.com
@@ -2771,6 +2784,7 @@
 0.0.0.0	shop.yinyuetai.com
 0.0.0.0	shouji.360.cn
 0.0.0.0	shouji.sougou.com
+0.0.0.0	show-g.mediav.com
 0.0.0.0	show.look.360.cn
 0.0.0.0	show.re.taobao.com
 0.0.0.0	showwxml.qq.com
@@ -2880,6 +2894,7 @@
 0.0.0.0	static.adwo.com
 0.0.0.0	static.adxadserv.com
 0.0.0.0	static.alimama.com
+0.0.0.0	static.bshare.cn
 0.0.0.0	static.criteo.net
 0.0.0.0	static.danmu.baofeng.com
 0.0.0.0	static.doubleclick.net
@@ -2893,6 +2908,7 @@
 0.0.0.0	static.mediav.com
 0.0.0.0	static.m.sjzhushou.com
 0.0.0.0	static-one.ffwap.com
+0.0.0.0	statics.woozooo.com
 0.0.0.0	static-two.ffwap.com
 0.0.0.0	static.tzyiyuantuan.com
 0.0.0.0	static.wooboo.com.cn
@@ -2975,13 +2991,25 @@
 0.0.0.0	s.youmi.net
 0.0.0.0	sys.zhangyue.com
 0.0.0.0	s.zampdsp.com
+0.0.0.0	t10.baidu.com
+0.0.0.0	t11.baidu.com
+0.0.0.0	t12.baidu.com
 0.0.0.0	t1.51maiwanju.com
+0.0.0.0	t1.baidu.com
 0.0.0.0	t2.51maiwanju.com
+0.0.0.0	t2.baidu.com
 0.0.0.0	t2.ugg66.com
 0.0.0.0	t3.51maiwanju.com
+0.0.0.0	t3.baidu.com
 0.0.0.0	t4.51maiwanju.com
+0.0.0.0	t4.baidu.com
 0.0.0.0	t5.51maiwanju.com
+0.0.0.0	t5.baidu.com
 0.0.0.0	t6.51maiwanju.com
+0.0.0.0	t6.baidu.com
+0.0.0.0	t7.baidu.com
+0.0.0.0	t8.baidu.com
+0.0.0.0	t9.baidu.com
 0.0.0.0	t.ads.sohu.com
 0.0.0.0	tags.bluekai.com
 0.0.0.0	tag-store.ads-pixiv.net
@@ -3592,6 +3620,7 @@
 0.0.0.0	www.vegaschina.cn
 0.0.0.0	www.voiceads.cn
 0.0.0.0	www.vpon.com
+0.0.0.0	www.wangbase.com
 0.0.0.0	www.whalecloud.com
 0.0.0.0	www.wifijia.net
 0.0.0.0	www.wooboo.com.cn
@@ -3794,6 +3823,7 @@
 ::	17173im.allyes.com
 ::	18av.mm-cg.co
 ::	1.allyes.com.cn
+::	1.nanrenwo.net
 ::	1.wps.cn
 ::	1.yhzm.cc
 ::	2016.sina.cn
@@ -3803,6 +3833,7 @@
 ::	2345apicode.dftoutiao.com
 ::	2345api.dftoutiao.com
 ::	268mob.cn
+::	2.nanrenwo.net
 ::	312036.com
 ::	3dns-2.adobe.com
 ::	3dns-3.adobe.com
@@ -3840,6 +3871,7 @@
 ::	a1410.oadz.com
 ::	a1491.oadz.com
 ::	a1662.oadz.com
+::	a.19869.com
 ::	a1click.cpc.sogou.com
 ::	a1.img.static.youmi.net
 ::	a1.openxt.cn
@@ -4148,6 +4180,7 @@
 ::	amps.yoyi.com.cn
 ::	a.m.shuhuangge.org
 ::	analy.qq.com
+::	analytics.163.com
 ::	analytics3.starschina.com
 ::	analytics.ad.daum.net
 ::	analytics.atdmt.com
@@ -4303,6 +4336,7 @@
 ::	ax.ifeng.com
 ::	a.youdao.com
 ::	azabu-u.ac.jp
+::	b.19869.com
 ::	b1sync.zemanta.com
 ::	badad.googleplex.com
 ::	b.ads1.msn.com
@@ -4328,9 +4362,13 @@
 ::	b.clkservice.youdao.com
 ::	b.code.tanwanyx.com
 ::	bd1.dopa.com
+::	bd1.idgdmgroup.com.cn
 ::	bd1.pipaw.com
 ::	bd2.dopa.com
+::	bd2.idgdmgroup.com.cn
 ::	bd2.pipaw.com
+::	bd3.idgdmgroup.com.cn
+::	bd4.idgdmgroup.com.cn
 ::	bdapi.ads.oppomobile.com
 ::	bdd.hainan.net
 ::	bdfrm.bidvertiser.com
@@ -4489,6 +4527,7 @@
 ::	cee1.iteye.com
 ::	cee2.iteye.com
 ::	c.effectivemeasure.net
+::	c.evidon.com
 ::	cf8d.stat.gw.youmi.net
 ::	cf.cdn.inmobi.com
 ::	cfg.imtt.qq.com
@@ -4967,6 +5006,7 @@
 ::	e.kewro.com
 ::	e.kuwoyy.com
 ::	e-ltvp.inmobi.com
+::	em.baidu.com
 ::	e.mbm.cn.miaozhen.com
 ::	e.nbhaosheng168.com
 ::	engine.lvehaisen.com
@@ -5011,7 +5051,6 @@
 ::	ex.umengcloud.com
 ::	e.yangjingbang.net
 ::	ezine.oupeng.com
-::	f10.baidu.com
 ::	f1c.i.biquge5200.com
 ::	f1.luoshenbest.cn
 ::	f1.p0y.cn
@@ -5098,6 +5137,7 @@
 ::	gen.alicdn.com
 ::	geo.moatads.com
 ::	get.sogou.com
+::	ggdm1.nhaidu.net
 ::	ggle.lywf.me
 ::	g.haluoha.com
 ::	gia.jd.com
@@ -5723,6 +5763,7 @@
 ::	mobaders.oss-cn-beijing.aliyuncs.com
 ::	mobads.baidu.com
 ::	mobads-logs.baidu.com
+::	mo.baidu.com
 ::	mobaliyun.res.mgtv.com
 ::	mobi.adsage.com
 ::	mobile2.da.mgtv.com
@@ -6295,6 +6336,7 @@
 ::	s34.cnzz.com
 ::	s35.cnzz.com
 ::	s.35kds.com
+::	s.360.cn
 ::	s36.cnzz.com
 ::	s37.cnzz.com
 ::	s38.cnzz.com
@@ -6547,6 +6589,7 @@
 ::	shop.yinyuetai.com
 ::	shouji.360.cn
 ::	shouji.sougou.com
+::	show-g.mediav.com
 ::	show.look.360.cn
 ::	show.re.taobao.com
 ::	showwxml.qq.com
@@ -6656,6 +6699,7 @@
 ::	static.adwo.com
 ::	static.adxadserv.com
 ::	static.alimama.com
+::	static.bshare.cn
 ::	static.criteo.net
 ::	static.danmu.baofeng.com
 ::	static.doubleclick.net
@@ -6669,6 +6713,7 @@
 ::	static.mediav.com
 ::	static.m.sjzhushou.com
 ::	static-one.ffwap.com
+::	statics.woozooo.com
 ::	static-two.ffwap.com
 ::	static.tzyiyuantuan.com
 ::	static.wooboo.com.cn
@@ -6751,13 +6796,25 @@
 ::	s.youmi.net
 ::	sys.zhangyue.com
 ::	s.zampdsp.com
+::	t10.baidu.com
+::	t11.baidu.com
+::	t12.baidu.com
 ::	t1.51maiwanju.com
+::	t1.baidu.com
 ::	t2.51maiwanju.com
+::	t2.baidu.com
 ::	t2.ugg66.com
 ::	t3.51maiwanju.com
+::	t3.baidu.com
 ::	t4.51maiwanju.com
+::	t4.baidu.com
 ::	t5.51maiwanju.com
+::	t5.baidu.com
 ::	t6.51maiwanju.com
+::	t6.baidu.com
+::	t7.baidu.com
+::	t8.baidu.com
+::	t9.baidu.com
 ::	t.ads.sohu.com
 ::	tags.bluekai.com
 ::	tag-store.ads-pixiv.net
@@ -7368,6 +7425,7 @@
 ::	www.vegaschina.cn
 ::	www.voiceads.cn
 ::	www.vpon.com
+::	www.wangbase.com
 ::	www.whalecloud.com
 ::	www.wifijia.net
 ::	www.wooboo.com.cn
