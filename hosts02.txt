@@ -6668,6 +6668,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api.taboola.com
 0.0.0.0	api.uprivaladserver.net
 0.0.0.0	api.viglink.com
+0.0.0.0	api.zhy333.com
 0.0.0.0	ap.lijit.com
 0.0.0.0	apopt.hbmediapro.com
 0.0.0.0	app1.letitbefaster.life
@@ -7228,6 +7229,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	c.casalemedia.com
 0.0.0.0	ccas.clearchannel.com
 0.0.0.0	cc-dt.com
+0.0.0.0	cc.klapi.cn
 0.0.0.0	c.cl.msn.com
 0.0.0.0	c.codeonclick.com
 0.0.0.0	c.company-target.com
@@ -9207,6 +9209,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	metrics.sfr.fr
 0.0.0.0	metrics.target.com
 0.0.0.0	mexico-mmm.net
+0.0.0.0	m.fexiaen.com
 0.0.0.0	m.fr.2mdn.net
 0.0.0.0	m.fr.a2dfp.net
 0.0.0.0	m.friendlyduck.com
@@ -10596,6 +10599,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	srv.juiceadv.com
 0.0.0.0	srv.sayyac.com
 0.0.0.0	ssads.osdn.com
+0.0.0.0	ssh.mi61l.cn
 0.0.0.0	s.skimresources.com
 0.0.0.0	ssl4anyone5.com
 0.0.0.0	ssl.bezpieczne-platnosci.pl
@@ -11657,6 +11661,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.affpartners.com
 0.0.0.0	www.afterdownload.com
 0.0.0.0	www.agkn.com
+0.0.0.0	www.ailiyou1999.com
 0.0.0.0	www.airfrance.life
 0.0.0.0	www.ajalis.com
 0.0.0.0	www.alexxe.com
@@ -11727,6 +11732,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.biz-offer.com
 0.0.0.0	www.bizographics.com
 0.0.0.0	www.bizopprewards.com
+0.0.0.0	www.bjhdrx.com
 0.0.0.0	www.blasphemysfhs.info
 0.0.0.0	www.blatant8jh.info
 0.0.0.0	www.blazingtrader.biz
@@ -12089,6 +12095,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.jzigsobgsmxdmr.bid
 0.0.0.0	www.kampanyatakip.net
 0.0.0.0	www.keywordblocks.com
+0.0.0.0	www.khlgauqt2000.com
 0.0.0.0	www.kitaramarketplace.com
 0.0.0.0	www.kitaramedia.com
 0.0.0.0	www.kitaratrk.com
@@ -12264,6 +12271,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.pubdirecte.com
 0.0.0.0	www.pureadexchange.com
 0.0.0.0	www.purredheanb.online
+0.0.0.0	www.qcoldtui1999.com
 0.0.0.0	www.qitrck.com
 0.0.0.0	www.quickbrowsersearch.com
 0.0.0.0	www.quickcash-system.com
@@ -12328,6 +12336,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.smichovbike.cz
 0.0.0.0	www.smokersopinionpoll.com
 0.0.0.0	www.smspop.com
+0.0.0.0	www.snyowx29.com
 0.0.0.0	www.sochr.com
 0.0.0.0	www.sociallypublish.com
 0.0.0.0	www.soongu.info
@@ -12415,6 +12424,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.trndsys.mobi
 0.0.0.0	www.trourted.pro
 0.0.0.0	www.ttnet.yandex.com.tr
+0.0.0.0	www.tuigang1999.com
 0.0.0.0	www.turn.com
 0.0.0.0	www.tutop.com
 0.0.0.0	www.tuttosessogratis.org
@@ -12435,6 +12445,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.verypositiveus.com
 0.0.0.0	www.via22.net
 0.0.0.0	www.vibrantmedia.com
+0.0.0.0	www.victory1999.com
 0.0.0.0	www.videoconverterhd.com
 0.0.0.0	www.video-game-rewards-central.com
 0.0.0.0	www.videogamerewardscentral.com
