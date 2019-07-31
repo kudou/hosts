@@ -22,6 +22,7 @@ ff02::2  ip6-allrouters
 173.194.65.108    pop.gmail.com
 151.101.32.133 camo.githubusercontent.com
 151.101.32.223 docs.python.org
+104.24.98.4 1080.cloud
 0.0.0.0 account.jetbrains.
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 new.qq.com
@@ -16282,7 +16283,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2019-07-30_09:31:26
+2019-07-31_09:36:11
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -44776,6 +44777,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	assets.cntdy.mobi
 0.0.0.0	assets.customer.io
 0.0.0.0	assets.devx.com
+0.0.0.0	assets.growingio.com
 0.0.0.0	assets.gunosy.com
 0.0.0.0	assets.igapi.com
 0.0.0.0	assets.infinity-tracking.net
@@ -47291,6 +47293,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	bigamypuabg.download
 0.0.0.0	bigapple.contextuads.com
 0.0.0.0	bigasia.com
+0.0.0.0	big-bang-ads.com
 0.0.0.0	bigbangads.go2cloud.org
 0.0.0.0	bigbangmedia.com
 0.0.0.0	bigbanners.com
@@ -50335,6 +50338,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	bt.phorm.com
 0.0.0.0	btprmnav.com
 0.0.0.0	btrace.qq.com
+0.0.0.0	btrace.video.qq.com
 0.0.0.0	b.trackcdn.com
 0.0.0.0	bt.rcs.it
 0.0.0.0	btr.domywife.com
@@ -65388,6 +65392,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	image.pathfinder.com
 0.0.0.0	imageprostyle-communication.fr
 0.0.0.0	image.providesupport.com
+0.0.0.0	image.ptmind.com
 0.0.0.0	image.reporo.net
 0.0.0.0	images01.trafficz.com
 0.0.0.0	images02.netaddress.usa.net
@@ -67398,6 +67403,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jsp.clickzs.com
 0.0.0.0	jsp.clickzzs.nl
 0.0.0.0	j.sprout-ad.com
+0.0.0.0	js.ptengine.cn
 0.0.0.0	js.ptengine.com
 0.0.0.0	js.pub.tom.com
 0.0.0.0	jspy.ru
@@ -85166,6 +85172,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ta.at.ic5mp.net
 0.0.0.0	ta.at.user-mode-linux.net
 0.0.0.0	tabex.sopharma.bg
+0.0.0.0	t-abi.hypers.com.cn
 0.0.0.0	tabligheirani.com
 0.0.0.0	t.abnad.net
 0.0.0.0	taboola.com
@@ -89114,6 +89121,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	v1-play.log.mgtv.com
 0.0.0.0	v1.res.log.hunantv.com
 0.0.0.0	v1.stat.ku6.com
+0.0.0.0	v1.ujian.cc
 0.0.0.0	v1.your-notification.tools
 0.0.0.0	v2.adgoto.com
 0.0.0.0	v2.ads3.ipon.lt
