@@ -934,6 +934,7 @@
 0.0.0.0	anm.intelli-direct.com
 0.0.0.0	annonser.dagbladet.no
 0.0.0.0	anrdoezrs.net
+0.0.0.0	anstrex.com
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
 0.0.0.0	api.intensifier.de
@@ -1165,7 +1166,6 @@
 0.0.0.0	calculatorcamera.com
 0.0.0.0	callousbrake.com
 0.0.0.0	callrail.com
-0.0.0.0	callstats.io
 0.0.0.0	campaign.bharatmatrimony.com
 0.0.0.0	caniamedia.com
 0.0.0.0	capablecows.com
@@ -1563,6 +1563,7 @@
 0.0.0.0	findyourcasino.com
 0.0.0.0	first.nova.cz
 0.0.0.0	firstlightera.com
+0.0.0.0	firstpromoter.com
 0.0.0.0	flakyfeast.com
 0.0.0.0	flashtalking.com
 0.0.0.0	flavordecision.com
@@ -2773,6 +2774,7 @@
 0.0.0.0	tracker.marinsm.com
 0.0.0.0	tracker.samplicio.us
 0.0.0.0	tracker.trackerfix.com
+0.0.0.0	tracker.vgame.us
 0.0.0.0	tracking.crunchiemedia.com
 0.0.0.0	tracking.discounts-promo.ga
 0.0.0.0	tracking.gajmp.com
@@ -2919,6 +2921,7 @@
 0.0.0.0	webstat.com
 0.0.0.0	webstat.net
 0.0.0.0	webstats4u.com
+0.0.0.0	webtracker.jp
 0.0.0.0	webtrackerplus.com
 0.0.0.0	webtracky.com
 0.0.0.0	webtraffic.se
