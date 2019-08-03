@@ -32,7 +32,6 @@
 0.0.0.0	82o9v830.com
 0.0.0.0	99count.com
 0.0.0.0	a-ads.com
-0.0.0.0	a-counter.kiev.ua
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	a.consumer.net
 0.0.0.0	a.mktw.net
@@ -705,7 +704,6 @@
 0.0.0.0	adserver.break-even.it
 0.0.0.0	adserver.cams.com
 0.0.0.0	adserver.com
-0.0.0.0	adserver.digitoday.com
 0.0.0.0	adserver.flossiemediagroup.com
 0.0.0.0	adserver.freecity.de
 0.0.0.0	adserver.friendfinder.com
@@ -1253,7 +1251,6 @@
 0.0.0.0	clickwith.bid
 0.0.0.0	clickxchange.com
 0.0.0.0	clickz.com
-0.0.0.0	clicmanager.fr
 0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	clikerz.net
 0.0.0.0	cliksolution.com
@@ -2705,7 +2702,6 @@
 0.0.0.0	tfag.de
 0.0.0.0	theadex.com
 0.0.0.0	theadhost.com
-0.0.0.0	thebugs.ws
 0.0.0.0	therapistla.com
 0.0.0.0	thinkablerice.com
 0.0.0.0	thirdrespect.com
@@ -2877,7 +2873,6 @@
 0.0.0.0	visistat.com
 0.0.0.0	visit.webhosting.yahoo.com
 0.0.0.0	visitbox.de
-0.0.0.0	visitpath.com
 0.0.0.0	visual-pagerank.fr
 0.0.0.0	visualrevenue.com
 0.0.0.0	vmmpxl.com
