@@ -16283,7 +16283,7 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
-2019-08-17_09:33:31
+2019-08-18_09:33:33
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -37619,12 +37619,14 @@ ff02::2  ip6-allrouters
 0.0.0.0	ads.astroadvice.com
 0.0.0.0	ads.atlantamotorspeedway.com
 0.0.0.0	adsatt.abcnews.starwave.com
+0.0.0.0	Adsatt.ABCNews.starwave.com
 0.0.0.0	adsatt.abc.starwave.com
 0.0.0.0	adsatt.disney.starwave.com
 0.0.0.0	adsatt.espn.go.com
 0.0.0.0	adsatt.espn.starwave.com
 0.0.0.0	adsatt.familyfun.starwave.com
 0.0.0.0	adsatt.go.starwave.com
+0.0.0.0	Adsatt.go.starwave.com
 0.0.0.0	adsatt.movies.starwave.com
 0.0.0.0	adsaturation.com
 0.0.0.0	ads.auctionads.com
@@ -41833,6 +41835,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ad.yadro.ru
 0.0.0.0	ad.yahoo.com
 0.0.0.0	ad.yam.com.tw
+0.0.0.0	adyea.com
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ad.yieldmanager.com
@@ -64834,6 +64837,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	home.mmcable.com
 0.0.0.0	home.netster.com
 0.0.0.0	homepage.cc
+0.0.0.0	homepageking.de
 0.0.0.0	homepage.ru
 0.0.0.0	home.pages.at
 0.0.0.0	home.peoplepc.com
@@ -76874,6 +76878,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	pgdt.gtimg.cn
 0.0.0.0	pgdt.ugdtimg.com
 0.0.0.0	pgl.example
+0.0.0.0	pgl.example0101
 0.0.0.0	pgmediaserve.com
 0.0.0.0	pgmopcongruity.review
 0.0.0.0	pgpartner.com
