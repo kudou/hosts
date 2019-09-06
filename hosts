@@ -31,6 +31,7 @@ ff02::2  ip6-allrouters
 204.79.197.200 cn.bing.com
 0.0.0.0 account.jetbrains.com
 0.0.0.0 www.jetbrains.com
+0.0.0.0 jetbrains.com
 185.200.34.198	185-200-34-198.googlehosts.org
 185.200.34.198	tg-2.googlehosts.org
 107.174.205.58	107-174-205-58.googlehosts.org
@@ -16375,7 +16376,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2019-09-05_09:33:13
+2019-09-06_09:32:35
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
