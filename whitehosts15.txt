@@ -1289,9 +1289,9 @@
 13.33.208.8	beacon.flipboard.com
 13.33.208.8	fbprod.flipboard.com
 192.0.79.32	foreignpolicy.com
-192.30.253.118	gist.github.com
-192.30.255.112	github.com
-192.30.255.110	www.github.com
+13.250.177.223	gist.github.com
+13.250.177.223	github.com
+13.229.188.59	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com
 172.217.168.37	googlemail.l.google.com
