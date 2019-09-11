@@ -28,7 +28,6 @@
 2nyan.org
 2o7.net
 2znp09oa.com
-302br.net
 303br.net
 304br.net
 305br.net
@@ -1223,14 +1222,12 @@ d-80-live.com
 d09.no
 d15cjcet1djbmv.cloudfront.net
 d1g3gvqfdsvkse.cloudfront.net
-d2ha22j8ys3e0o.cloudfront.net
 d2jjzw81hqbuqv.cloudfront.net
 d2ymkpxi1rgldj.cloudfront.net
 d38nbbai6u794i.cloudfront.net
 d3c3cq33003psk.cloudfront.net
 d3ohfm6v3473ou.cloudfront.net
 d3oxtn1x3b8d7i.cloudfront.net
-d3ujids68p6xmp.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 da-ads.com
 dakic-ia-300.com
@@ -12810,7 +12807,6 @@ piwik.pro
 piwik.root.ax
 piwik.up.welt.de
 piwikpro.com
-pixel-eu.rubiconproject.net.akadns.net
 pixel.bild.de
 pixel.brit.co
 pixel.facebook.com
@@ -12820,7 +12816,6 @@ pixel.messenger.com
 pixel.nymag.com
 pixel.reddit.com
 pixel.redditmedia.com
-pixel.rubiconproject.net.akadns.net
 pixel.runative-syndicate.com
 pixel.spotify.com
 pixel.watch
@@ -13853,6 +13848,7 @@ update.com
 updatemyprofile.com
 updatemyprofile.net
 updpct.info
+uplynk.com
 upsales.com
 upsales.org
 upscore.com
@@ -13880,6 +13876,7 @@ valdelabs.com
 vcmedia.vn
 vcommission.com
 vdna-assets.com
+vdo.ai
 veeseo.com
 veille-referencement.com
 veinteractive.com
