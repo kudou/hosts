@@ -2822,6 +2822,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.allhqpics.com
 0.0.0.0	www.alrpost69.com
 0.0.0.0	www.anatol.com
+0.0.0.0	www.apple.com-shield-guard.live
 0.0.0.0	www.apple.com-speed-macbook.live
 0.0.0.0	www.articlefuns.cn
 0.0.0.0	www.articleidea.cn

@@ -16376,7 +16376,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2019-10-03_09:32:46
+2019-10-04_09:33:54
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -39605,7 +39605,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	ads.nudecards.com
 0.0.0.0	ads.nudereviews.com
 0.0.0.0	ads.n-ws.org
-0.0.0.0	ads.n-ws.org	
 0.0.0.0	ads.nwsource.com
 0.0.0.0	ads.nwsource.com.edgesuite.net
 0.0.0.0	ads.nyi.net
@@ -72706,7 +72705,6 @@ ff02::2  ip6-allrouters
 0.0.0.0	mobileapptracking.com
 0.0.0.0	mobileaps.co
 0.0.0.0	mobile.banzai.it
-0.0.0.0	mobile.Banzai.it
 0.0.0.0	mobile.bet.pt
 0.0.0.0	mobile.bitterstrawberry.org
 0.0.0.0	mobile.biz.daum.net
@@ -98168,6 +98166,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.apple.com-repair-os.live
 0.0.0.0	www.apple.com-scan.live
 0.0.0.0	www.apple.com-scan-mac.live
+0.0.0.0	www.apple.com-shield-guard.live
 0.0.0.0	www.apple.com-shield.live
 0.0.0.0	www.apple.com-shields-guard.live
 0.0.0.0	www.apple.com-speed-macbook.live
