@@ -16376,7 +16376,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2019-10-08_09:33:55
+2019-10-09_09:34:13
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -47249,11 +47249,13 @@ ff02::2  ip6-allrouters
 0.0.0.0	beacon.nuskin.com
 0.0.0.0	beacon.richrelevance.com
 0.0.0.0	beacon.rubiconproject.com
+0.0.0.0	beacons3.gvt2.com
 0.0.0.0	beacons.brandads.net
 0.0.0.0	beacon.schneidercorp.com
 0.0.0.0	beacon.scorecardresearch.com
 0.0.0.0	beacon.searchlinks.com
 0.0.0.0	beacon.securestudies.com
+0.0.0.0	beacons.gcp.gvt2.com
 0.0.0.0	beacon.shazam.com
 0.0.0.0	beacons.helium.com
 0.0.0.0	beacons.hottraffic.nl
@@ -54166,6 +54168,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	collector.ksax.com
 0.0.0.0	collector.kstptv5.com
 0.0.0.0	collector.leaddyno.com
+0.0.0.0	collector-medium.lightstep.com
 0.0.0.0	collector.newsx.cc
 0.0.0.0	collector-pxel3l4xih.perimeterx.net
 0.0.0.0	collector.savvyads.com
@@ -77546,6 +77549,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	pixel-us-west.rubiconproject.com
 0.0.0.0	pixel.watch
 0.0.0.0	pixel.wp.com
+0.0.0.0	pixel.wp.come
 0.0.0.0	pixel.wp.tv
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	pixel.yola.com
@@ -77783,6 +77787,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	plb27.voluumtrk.com
 0.0.0.0	pl.bbelements.com
 0.0.0.0	pl.betclic.com
+0.0.0.0	plbslog.umeng.com
 0.0.0.0	pl.bustcream-pro.com
 0.0.0.0	pl.centrumofert.com
 0.0.0.0	pl.coral-club.com
@@ -94518,6 +94523,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	visitorcontact.com
 0.0.0.0	visitorpath.com
 0.0.0.0	visitorprofiler.com
+0.0.0.0	visitor-service.tealiumiq.com
 0.0.0.0	visitors.lexus-europe.com
 0.0.0.0	visitors.sourcingmap.com
 0.0.0.0	visitorvoice.etracker.com
