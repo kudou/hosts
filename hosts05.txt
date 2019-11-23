@@ -22833,7 +22833,6 @@
 0.0.0.0	cashspace.com
 0.0.0.0	cashtrafic.com
 0.0.0.0	cashuniversity.go2cloud.org
-0.0.0.0	casinogames.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
 0.0.0.0	casinotreasure.com
@@ -22966,7 +22965,6 @@
 0.0.0.0	cdn.dirjournal.com
 0.0.0.0	cdn.doubleverify.com
 0.0.0.0	cdn.downloaddabs.com
-0.0.0.0	cdn.dsultra.com
 0.0.0.0	cdn.dynamicyield.com
 0.0.0.0	cdn.ebocornac.com
 0.0.0.0	cdn.effectivemeasure.net
@@ -33444,6 +33442,7 @@
 0.0.0.0	ppctrck.com
 0.0.0.0	ppp.voice2page.com
 0.0.0.0	ppsxqapwsurcoats.review
+0.0.0.0	pptraffic.offerspace.com
 0.0.0.0	pptrk.com
 0.0.0.0	pq-direct.revsci.net
 0.0.0.0	pr-bh.ybp.yahoo.com
