@@ -2059,6 +2059,7 @@
 0.0.0.0	market-buster.com
 0.0.0.0	marketing.888.com
 0.0.0.0	marketing.hearstmagazines.nl
+0.0.0.0	marketing.net.brillen.de
 0.0.0.0	marketing.net.home24.de
 0.0.0.0	marketing.nyi.net
 0.0.0.0	marketing.osijek031.com
@@ -2964,7 +2965,6 @@
 0.0.0.0	tracker.colpirio.com
 0.0.0.0	tracker.icerocket.com
 0.0.0.0	tracker.samplicio.us
-0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracker.vgame.us
 0.0.0.0	tracking.crunchiemedia.com
 0.0.0.0	tracking.gajmp.com
