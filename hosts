@@ -16502,7 +16502,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2019-11-28_09:32:47
+2019-11-30_09:32:30
 0.0.0.0	0.0.0.0
 0.0.0.0	000.0x1f4b0.com
 0.0.0.0	000dom.revenuedirect.com
@@ -19531,6 +19531,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	aaxads.com
 0.0.0.0	aax.amazon-adsystem.com
 0.0.0.0	aax-cpm.amazon-adsystem.com
+0.0.0.0	aaxdetect.com
 0.0.0.0	aax-eu.amazon-adsystem.com
 0.0.0.0	aax-eu-rtb.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
@@ -40471,6 +40472,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ads.pruc.org
 0.0.0.0	ads.psd2html.com
 0.0.0.0	adspserving.com
+0.0.0.0	adspsp.com
 0.0.0.0	ads.pub-fit.com
 0.0.0.0	ads.publicdisgrace.com
 0.0.0.0	ads.publicidad.net
@@ -58538,6 +58540,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	dasecosystem.pl
 0.0.0.0	daserste.ivwbox.de
 0.0.0.0	dash001.prxio.site
+0.0.0.0	dashbida.com
 0.0.0.0	dashbo15myapp.com
 0.0.0.0	dashboard.adcalls.nl
 0.0.0.0	dashboard.adsota.com
@@ -62102,6 +62105,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	e.sosjyx.com
 0.0.0.0	espdesign.com.au
 0.0.0.0	espn-ak.starwave.com
+0.0.0.0	espn.com.ssl.sc.omtrdc.net
 0.0.0.0	espndotcom.tt.omtrdc.net
 0.0.0.0	espn.footprint.net
 0.0.0.0	espolupracecz.go2cloud.org
@@ -66092,6 +66096,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	googleadsserving.cn
 0.0.0.0	googleanalytcs.com
 0.0.0.0	google-analytics.com
+0.0.0.0	googleanalytics.com
 0.0.0.0	googlecommerce.com
 0.0.0.0	google-docs.info
 0.0.0.0	google-docs.org
@@ -74791,6 +74796,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	me.effectivemeasure.net
 0.0.0.0	m.ee-skin.com
 0.0.0.0	meethotties.mobi
+0.0.0.0	meetrics.net
 0.0.0.0	meetupcom.112.2o7.net
 0.0.0.0	meetupdev.122.2o7.net
 0.0.0.0	meetyourmessenger.co.uk
@@ -75910,6 +75916,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	mktg-offer.com
 0.0.0.0	mktg.tvpage.com
 0.0.0.0	mkto-k0029.com
+0.0.0.0	mktoresp.com
 0.0.0.0	mktrkr.com
 0.0.0.0	m.kubiqq.com
 0.0.0.0	m.kuptmf.cn
@@ -84755,6 +84762,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	revive.lavanetwork.net
 0.0.0.0	revive.outin.cn
 0.0.0.0	revive.vkushti.tv
+0.0.0.0	revjet.com
 0.0.0.0	revlabs.go2cloud.org
 0.0.0.0	rev.lanistaads.com
 0.0.0.0	revlift.io
@@ -90746,6 +90754,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	svpro7.oewabox.at
 0.0.0.0	svr1.unicaondemand.com
 0.0.0.0	svsub.com
+0.0.0.0	sw88.espn.com
 0.0.0.0	swa.and.co.uk
 0.0.0.0	swa.demdex.net
 0.0.0.0	swaggeredvflzknyhf.download
@@ -95034,6 +95043,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	update.123juzi.net
 0.0.0.0	update-1.com
 0.0.0.0	update.360safe.com
+0.0.0.0	update4now.yourfine2updatesgo.best
 0.0.0.0	update.51edm.net
 0.0.0.0	updateauto.preparevideosafesystem4unow.site
 0.0.0.0	updateauto.preparevideosafesystem4unow.space
