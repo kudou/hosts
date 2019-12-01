@@ -1584,6 +1584,7 @@
 0.0.0.0	etracker.de
 0.0.0.0	eu-adcenter.net
 0.0.0.0	eu1.madsone.com
+0.0.0.0	eule1.pmu.fr
 0.0.0.0	eulerian.net
 0.0.0.0	eurekster.com
 0.0.0.0	euros4click.de
@@ -2052,6 +2053,7 @@
 0.0.0.0	madvertise.de
 0.0.0.0	magicadz.co
 0.0.0.0	magnificentmist.com
+0.0.0.0	mail-ads.google.com
 0.0.0.0	marchex.com
 0.0.0.0	marinsm.com
 0.0.0.0	markedcrayon.com
@@ -2077,6 +2079,7 @@
 0.0.0.0	maxonclick.com
 0.0.0.0	mbs.megaroticlive.com
 0.0.0.0	mbuyu.nl
+0.0.0.0	mcdlks.com
 0.0.0.0	measuremap.com
 0.0.0.0	media-adrunner.mycomputer.com
 0.0.0.0	media-servers.net
