@@ -1907,7 +1907,6 @@
 0.0.0.0	ipstack.com
 0.0.0.0	irchan.com
 0.0.0.0	ireklama.cz
-0.0.0.0	ironsrc.com
 0.0.0.0	is-tracking-pixel-api-prod.appspot.com
 0.0.0.0	itfarm.com
 0.0.0.0	itop.cz
@@ -3041,6 +3040,7 @@
 0.0.0.0	uarating.com
 0.0.0.0	ucfunnel.com
 0.0.0.0	udncoeln.com
+0.0.0.0	uib.ff.avast.com
 0.0.0.0	ukbanners.com
 0.0.0.0	ultimateclixx.com
 0.0.0.0	ultramercial.com
