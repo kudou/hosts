@@ -1846,6 +1846,10 @@
 0.0.0.0	cd.jejre.cn
 0.0.0.0	mvo.sqa54e.xyz
 0.0.0.0	m.bogubogu.cn
+0.0.0.0	m.198nc.cn
+0.0.0.0	mvo.lki6hy.xyz
+0.0.0.0	t.basictool.vip
+0.0.0.0	t.trackingxnads.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
