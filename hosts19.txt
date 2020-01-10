@@ -94,6 +94,7 @@
 9nl.org
 9nl.us
 a.applvn.com
+a.mobify.com
 a1webstats.com
 a2dfp.net
 a8bt.com
@@ -277,7 +278,9 @@ ads.ebay.com
 ads.fineco.it
 ads.gold
 ads.hearstmags.com
+ads.linkedin.com
 ads.msn.com
+ads.twitter.com
 ads.viber.com
 ads.yahoo.com
 ads.yap.yahoo.com
@@ -461,18 +464,24 @@ amp.services
 amplience.com
 amplitude.com
 ampmetrics.techcrunch.com
+amptrack.dailymail.co.uk
 amung.us
 analysing.email
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
 analytics.amakings.com
+analytics.bluemosh.com
 analytics.brave.com
 analytics.ccs.mcafee.com
+analytics.cincopa.com
 analytics.cohesionapps.com
+analytics.convertlanguage.com
 analytics.faw.sky.com
 analytics.feeder.co
 analytics.ff.avast.com
 analytics.gandi.net
+analytics.kaltura.com
+analytics.livestream.com
 analytics.mercadolibre.cl
 analytics.mercadolibre.co.cr
 analytics.mercadolibre.com
@@ -645,6 +654,7 @@ barra.iol.pt
 barranew.iol.pt
 bars.sapo.pt
 basebanner.com
+basis.net
 bat.bing.com
 batchgeo.com
 baw5tracker.com
@@ -829,6 +839,7 @@ buysellads.net
 buysub.com
 byside.com
 bz.io
+bzgint.com
 c-ctrip.com
 c.afekv.com
 c1exchange.com
@@ -918,6 +929,7 @@ circulate.com
 citypaketet.se
 cj.com
 clarium.io
+clc.stackoverflow.com
 clear-reports.com
 clearcode.cc
 clevernt.com
@@ -988,6 +1000,7 @@ clkrev.com
 clksite.com
 clktag.com
 clkuno.com
+closealert.com
 cloud-9751.com
 cloud.ca.com
 clusteredcloud.com
@@ -1074,6 +1087,7 @@ connct-9.com
 connectad.io
 connecteddevices.net
 connexity.net
+consensu.org
 consumerenergyreport.com
 content-square.net
 content.ad
@@ -1491,6 +1505,7 @@ everestads.net
 everestjs.net
 everesttech.net
 evergage.com
+everyaction.com
 evidon.com
 evisitanalyst.com
 evyy.net
@@ -2007,6 +2022,7 @@ justinejones.net
 justinejones.org
 justnavigators.com
 justpremium.com
+justuno.com
 jwpltx.com
 k-analytix.com
 kaloo.ga
@@ -12718,6 +12734,7 @@ movoxi.com
 movoxi.net
 movoxy.com
 movoxy.net
+mp.twitch.tv
 mparticle.com
 mpire.com
 mplxtms.com
@@ -12783,6 +12800,7 @@ mycomscore.net
 mydas.mobi
 mydatabankapp.com
 mydefense.info
+myfinance.com
 myflairware.com
 myflairware.net
 mymetrix.com
@@ -12858,6 +12876,7 @@ netstat.asia
 networkadvertising.org
 newdealmedia.info
 newrelic.com
+newscred.com
 newscurve.com
 newsinc.com
 nex8.net
@@ -12934,6 +12953,7 @@ ofnsv69.com
 ogl.primorske.si
 oileddaintiessunset.info
 ojrq.net
+olapic.com
 om.au
 omessage.com
 ometria.com
@@ -13025,6 +13045,7 @@ p-td.com
 p.yotpo.com
 p161.net
 p2l-menuiseries.com
+paddle.com
 pagefair.com
 pagefair.net
 pages01.net
@@ -13060,6 +13081,7 @@ perfectaudience.com
 perfectmarket.com
 perfecttoolmedia.com
 perfiliate.com
+performable.com
 performancemail.com
 performancemail.net
 performax.cz
@@ -13075,9 +13097,11 @@ personalizedappsequencer.net
 persoo.cz
 petametrics.com
 petrous.cn
+pf.newegg.com
 phluant.com
 phluantmobile.net
 phone.igexin.com
+photorank.me
 pictela.net
 piksel.com
 pimpb.us
@@ -13113,6 +13137,7 @@ pixel.spotify.com
 pixel.watch
 pixel.wp.com
 pixel.yola.com
+pixeleze.com
 pixelsrvdmn.com
 pixeltracksys.io
 pixelunion.net
@@ -13342,6 +13367,7 @@ remarketingpixel.com
 rename.com
 rename.net
 rencai56.com
+repixel.co
 repmbuycurl.com
 report-metrics.essentials3.net
 reportwindow.com
@@ -13392,6 +13418,7 @@ riceateastcach.us
 richmedia.cz
 richmetrics.com
 richrelevance.com
+rightmoveanalytics.co.uk
 ringringmedia.biz
 ringringmedia.com
 ringringmedia.mobi
@@ -13782,6 +13809,7 @@ spendandraise.org
 spendnraise.org
 spexaccess.net
 spgo.io
+spiceworks.com
 spiderwatch.com
 spillpalletonline.com
 spongecell.com
@@ -13821,9 +13849,11 @@ stats.bbc.co.uk
 stats.ebay.com
 stats.ft.com
 stats.g.doubleclick.net
+stats.kaltura.com
 stats.l.doubleclick.net
 stats.olark.com
 stats.paypal.com
+stats.redditmedia.com
 stats.royalbank.com
 stats.wp.com
 stats.yellowphoenix18.de
@@ -13868,6 +13898,11 @@ strk19.email
 strk20.email
 struq.com
 sub2tech.com
+sublytics-5be5edecc10bf.com
+sublytics-5d49cbe5e8d5c.com
+sublytics-5df2e9a153dc8.com
+sublytics-5df8eec4bca66.com
+sublytics-5e0e3b928b4bd.com
 subtraxion.com
 successfultogether.co.uk
 sugarcrm.com
@@ -13880,6 +13915,7 @@ sumome.com
 superads.cn
 supernovaoffers.click
 supersonic.com
+survata.com
 survata.net
 survey-poll.com
 surveybit.com
@@ -13935,6 +13971,7 @@ telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
 telemetry.api.swiftkey.com
 telemetry.battle.net
+telemetry.dropbox.com
 telemetry.gfe.nvidia.com
 telemetry.jivosite.com
 telemetry.malwarebytes.com
@@ -14015,10 +14052,12 @@ track-mv.com
 track.cpa.iqoption.com
 track.flexlinkspro.com
 track.ft.com
+track.kijackpen.ru
 track.mypcbackup.com
 track.us.org
 trackad.cz
 trackalyzer.com
+trackcmp.net
 trackedgr8.com
 trackedlink.net
 tracker-api.my.com
@@ -14093,6 +14132,7 @@ truviewdata.com
 trvdp.com
 trychameleon.com
 tsyndicate.com
+ttauri.tomshardware.com
 ttgtmedia.com
 ttmdduyuru.net
 ttxm.co.uk
@@ -14128,6 +14168,7 @@ umhali.com
 umhali.net
 umhali.org
 umhalilabs.com
+unanimis.co.uk
 undrininvereb.info
 uniqodo.com
 univide.com
