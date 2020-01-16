@@ -18,6 +18,13 @@
 185.22.152.42	ss-3.googlehosts.org
 103.124.106.174	103-124-106-174.googlehosts.org
 103.124.106.174	proxy.googlehosts.org
+104.16.103.144	9gag.com
+104.16.103.144	web-t.9gag.com
+104.16.103.144	www.9gag.com
+104.17.170.73	assets-9gag-fun.9cache.com
+104.17.170.73	img-9gag-fun.9cache.com
+104.17.170.73	js-webt-lol.9cache.com
+104.17.170.73	miscmedia-9gag-fun.9cache.com
 199.255.34.38	data.abebooks.com
 52.87.120.250	www.abebooks.com
 99.84.58.39	pictures.abebooks.com
@@ -3143,6 +3150,7 @@
 108.177.97.188	gcm-xmpp.googleapis.com
 108.177.97.188	gcm-preprod.l.google.com
 108.177.97.188	gcm-preprod.googleapis.com
+108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
 216.239.38.21	ghs.google.com
 216.239.38.21	ghs46.google.com
@@ -3481,6 +3489,7 @@
 108.177.120.94	mt5.gstatic.com
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
+209.216.230.240	news.ycombinator.com
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
 34.230.120.16	id.heroku.com
