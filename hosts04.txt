@@ -9934,8 +9934,6 @@
 0.0.0.0	sbs-ad.com
 0.0.0.0	sc-static.net
 0.0.0.0	ad.scanmedios.com
-0.0.0.0	beacon.schneidercorp.com
-0.0.0.0	beaconbeta.schneidercorp.com
 0.0.0.0	scientiamobile.com
 0.0.0.0	scopelight.com
 0.0.0.0	epicycle.aprod.scopely.io
