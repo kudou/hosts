@@ -375,7 +375,6 @@
 0.0.0.0	ads.aspalliance.com
 0.0.0.0	ads.avazu.net
 0.0.0.0	ads.belointeractive.com
-0.0.0.0	ads.berlinonline.de
 0.0.0.0	ads.betfair.com
 0.0.0.0	ads.bigchurch.com
 0.0.0.0	ads.bigfoot.com
@@ -559,7 +558,6 @@
 0.0.0.0	ads.oddschecker.com
 0.0.0.0	ads.okcimg.com
 0.0.0.0	ads.ole.com
-0.0.0.0	ads.olivebrandresponse.com
 0.0.0.0	ads.oneplace.com
 0.0.0.0	ads.optusnet.com.au
 0.0.0.0	ads.outpersonals.com
@@ -790,6 +788,7 @@
 0.0.0.0	adsstat.com
 0.0.0.0	adstacks.in
 0.0.0.0	adstage.io
+0.0.0.0	adstanding.com
 0.0.0.0	adstat.4u.pl
 0.0.0.0	adstest.weather.com
 0.0.0.0	adsupply.com
@@ -1094,6 +1093,7 @@
 0.0.0.0	banners.linkbuddies.com
 0.0.0.0	banners.passion.com
 0.0.0.0	banners.resultonline.com
+0.0.0.0	banners.sys-con.com
 0.0.0.0	banners.thomsonlocal.com
 0.0.0.0	banners.videosz.com
 0.0.0.0	banners.virtuagirlhd.com
@@ -1592,6 +1592,7 @@
 0.0.0.0	euros4click.de
 0.0.0.0	eusta.de
 0.0.0.0	evadav.com
+0.0.0.0	everestads.net
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
 0.0.0.0	eversales.space
@@ -1957,6 +1958,7 @@
 0.0.0.0	kubient.com
 0.0.0.0	l1.britannica.com
 0.0.0.0	lakequincy.com
+0.0.0.0	lanistaads.com
 0.0.0.0	laughablecopper.com
 0.0.0.0	laughcloth.com
 0.0.0.0	launchbit.com
@@ -2119,6 +2121,7 @@
 0.0.0.0	memorizeneck.com
 0.0.0.0	memorycobweb.com
 0.0.0.0	messagenovice.com
+0.0.0.0	metadsp.co.uk
 0.0.0.0	metaffiliation.com
 0.0.0.0	metanetwork.com
 0.0.0.0	methodcash.com
@@ -2280,7 +2283,6 @@
 0.0.0.0	offerforge.com
 0.0.0.0	offermatica.com
 0.0.0.0	ogury.com
-0.0.0.0	olivebrandresponse.com
 0.0.0.0	omnijay.com
 0.0.0.0	omniscientspark.com
 0.0.0.0	omniture.com
@@ -2448,6 +2450,7 @@
 0.0.0.0	promote.pair.com
 0.0.0.0	promotions-884485.c.cdn77.org
 0.0.0.0	pronetadvertising.com
+0.0.0.0	proof-x.com
 0.0.0.0	propellerads.com
 0.0.0.0	propellerclick.com
 0.0.0.0	proper.io
@@ -2570,6 +2573,7 @@
 0.0.0.0	resolutekey.com
 0.0.0.0	resonantbrush.com
 0.0.0.0	resonate.com
+0.0.0.0	responsiveads.com
 0.0.0.0	retargeter.com
 0.0.0.0	revcontent.com
 0.0.0.0	reveal.clearbit.com
@@ -2816,6 +2820,7 @@
 0.0.0.0	stats.x14.eu
 0.0.0.0	stats2.self.com
 0.0.0.0	stats4all.com
+0.0.0.0	statserv.net
 0.0.0.0	statsie.com
 0.0.0.0	statxpress.com
 0.0.0.0	steadfastsound.com
@@ -2846,6 +2851,7 @@
 0.0.0.0	sumo.com
 0.0.0.0	sumome.com
 0.0.0.0	superclix.de
+0.0.0.0	supersonicads.com
 0.0.0.0	superstats.com
 0.0.0.0	supertop.ru
 0.0.0.0	supertop100.com
@@ -2904,6 +2910,7 @@
 0.0.0.0	textads.biz
 0.0.0.0	textlinks.com
 0.0.0.0	tfag.de
+0.0.0.0	the-ozone-project.com
 0.0.0.0	theadex.com
 0.0.0.0	theadhost.com
 0.0.0.0	thebugs.ws
@@ -3005,6 +3012,7 @@
 0.0.0.0	traffichunt.com
 0.0.0.0	trafficjunky.net
 0.0.0.0	trafficleader.com
+0.0.0.0	trafficrouter.io
 0.0.0.0	trafficsecrets.com
 0.0.0.0	trafficspaces.net
 0.0.0.0	trafficstrategies.com
@@ -3025,6 +3033,7 @@
 0.0.0.0	trendmd.com
 0.0.0.0	tribalfusion.com
 0.0.0.0	trickycelery.com
+0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
 0.0.0.0	trk42.net
@@ -3094,6 +3103,7 @@
 0.0.0.0	videoegg.com
 0.0.0.0	vidora.com
 0.0.0.0	view4cash.de
+0.0.0.0	viglink.com
 0.0.0.0	visiblemeasures.com
 0.0.0.0	visistat.com
 0.0.0.0	visit.webhosting.yahoo.com
@@ -3108,6 +3118,7 @@
 0.0.0.0	voluum.com
 0.0.0.0	voluumtrk2.com
 0.0.0.0	volvelle.tech
+0.0.0.0	voodoo-ads.io
 0.0.0.0	vpon.com
 0.0.0.0	vrs.cz
 0.0.0.0	vrtzcontextualads.com

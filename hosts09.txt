@@ -1714,6 +1714,8 @@
 0.0.0.0	push.zdworks.com
 0.0.0.0	api.pingstart.com
 0.0.0.0	c.evidon.com
+0.0.0.0	aax-us-east.amazon-adsystem.com
+0.0.0.0	aax-fe-sin.amazon-adsystem.com
 0.0.0.0	2012.8684.com
 0.0.0.0	bdfpb1.8684.com
 0.0.0.0	bdfpb2.8684.com
@@ -1963,6 +1965,10 @@
 0.0.0.0	www.afj0.com
 0.0.0.0	yfzcuw.cn
 0.0.0.0	yxyhtea.com
+0.0.0.0	ee.wz382.cn
+0.0.0.0	m.wz382.cn
+0.0.0.0	t.sdpaji.com
+0.0.0.0	xn--xhq9mt12cf5v.ink
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
