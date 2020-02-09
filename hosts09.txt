@@ -125,7 +125,6 @@
 0.0.0.0	afpeng.alimama.com
 0.0.0.0	afpssp.alimama.com
 0.0.0.0	oa-panther.data.aliyun.com
-0.0.0.0	promotion.aliyun.com
 0.0.0.0	adash.man.aliyuncs.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	dressimage.img-cn-beijing.aliyuncs.com
@@ -1984,6 +1983,13 @@
 0.0.0.0	ee.hx623.cn
 0.0.0.0	m.hx623.cn
 0.0.0.0	v.jntxst.cn
+0.0.0.0	abckzo.cn
+0.0.0.0	ee.mfufanj.cn
+0.0.0.0	m.gd881.cn
+0.0.0.0	m.mfufanj.cn
+0.0.0.0	t.lzrkj.top
+0.0.0.0	vpn.youyisheng.net
+0.0.0.0	wap.utmei.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
