@@ -2294,11 +2294,9 @@
 0.0.0.0	bugsense.appspot.com
 0.0.0.0	alt.bugsense.appspot.com
 0.0.0.0	caspionlog.appspot.com
-0.0.0.0	chrome-devtools-frontend.appspot.com
 0.0.0.0	chtatic.appspot.com
 0.0.0.0	crwscdn.appspot.com
 0.0.0.0	crwscdn9.appspot.com
-0.0.0.0	csp-collector.appspot.com
 0.0.0.0	8.dramafeverw2.appspot.com
 0.0.0.0	echofonads.appspot.com
 0.0.0.0	eqs-redserver.appspot.com
@@ -2892,6 +2890,7 @@
 0.0.0.0	andromeda.iad-01.braze.com
 0.0.0.0	ibilisk.iad-01.braze.com
 0.0.0.0	indus.iad-01.braze.com
+0.0.0.0	muliphein.iad-01.braze.com
 0.0.0.0	rest.iad-01.braze.com
 0.0.0.0	sagittarius.iad-01.braze.com
 0.0.0.0	sdk.iad-01.braze.com
@@ -4734,10 +4733,6 @@
 0.0.0.0	events.foreseeresults.com
 0.0.0.0	replay.foreseeresults.com
 0.0.0.0	cdn-static.formisimo.com
-0.0.0.0	a.fortumo.com
-0.0.0.0	api.fortumo.com
-0.0.0.0	assets.fortumo.com
-0.0.0.0	wutlar.fortumo.com
 0.0.0.0	analytics.fosrv.com
 0.0.0.0	ads.fotoable.com
 0.0.0.0	cdn.api.fotoable.com
@@ -4751,9 +4746,6 @@
 0.0.0.0	cdn.ads.fotoable.net
 0.0.0.0	analytics.fotoable.net
 0.0.0.0	geoip.fotoable.net
-0.0.0.0	mobile.foundationsoft.com
-0.0.0.0	api.foursquare.com
-0.0.0.0	sdk.foursquare.com
 0.0.0.0	fout.jp
 0.0.0.0	ad.fout.jp
 0.0.0.0	click.fout.jp
@@ -4859,13 +4851,9 @@
 0.0.0.0	fwmrm.net
 0.0.0.0	adm.fwmrm.net
 0.0.0.0	fxclix.com
-0.0.0.0	account.fyber.com
 0.0.0.0	acp.fyber.com
 0.0.0.0	adproxy.fyber.com
 0.0.0.0	advertiser.fyber.com
-0.0.0.0	air.fyber.com
-0.0.0.0	ams.fyber.com
-0.0.0.0	ams-aws-stg.fyber.com
 0.0.0.0	android.fyber.com
 0.0.0.0	api.fyber.com
 0.0.0.0	api-rewarded-video.fyber.com
@@ -4881,7 +4869,6 @@
 0.0.0.0	dau.fyber.com
 0.0.0.0	engine.fyber.com
 0.0.0.0	engine-dsa.fyber.com
-0.0.0.0	fyber-marketplace.fyber.com
 0.0.0.0	iframe.fyber.com
 0.0.0.0	iframe-dsa.fyber.com
 0.0.0.0	interstitial.fyber.com
@@ -4895,7 +4882,6 @@
 0.0.0.0	mediation.fyber.com
 0.0.0.0	offer.fyber.com
 0.0.0.0	ofw-client-cdn.fyber.com
-0.0.0.0	otrs.fyber.com
 0.0.0.0	pixie.fyber.com
 0.0.0.0	publisher-reporting-api.fyber.com
 0.0.0.0	reference.fyber.com
@@ -4910,9 +4896,6 @@
 0.0.0.0	staging-tracker.fyber.com
 0.0.0.0	staging-video.fyber.com
 0.0.0.0	broker.staging-video-v2.fyber.com
-0.0.0.0	test-tickets.fyber.com
-0.0.0.0	test-wiki.fyber.com
-0.0.0.0	tickets.fyber.com
 0.0.0.0	track.fyber.com
 0.0.0.0	tracker.fyber.com
 0.0.0.0	tracking.fyber.com
@@ -5507,7 +5490,6 @@
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	goto-target-com.customtraffic.impactradius.com
 0.0.0.0	partners-hotwire-com.impactradius.com
-0.0.0.0	mobile.impacttestonline.com
 0.0.0.0	cp.impdesk.com
 0.0.0.0	abc.imrworldwide.com
 0.0.0.0	cdn-gl.imrworldwide.com
@@ -6270,17 +6252,10 @@
 0.0.0.0	track.ktplay.com
 0.0.0.0	c.ktxtr.com
 0.0.0.0	t.ktxtr.com
-0.0.0.0	cache.kuaidi100.com
-0.0.0.0	cdn.kuaidi100.com
-0.0.0.0	p.kuaidi100.com
 0.0.0.0	kukuplay.com
 0.0.0.0	adx.kul.vn
 0.0.0.0	events.kumulos.com
 0.0.0.0	stats.kumulos.com
-0.0.0.0	api.kurioapps.com
-0.0.0.0	fira-api.kurioapps.com
-0.0.0.0	kurio-img.kurioapps.com
-0.0.0.0	trx.kurioapps.com
 0.0.0.0	kurlichan.com
 0.0.0.0	g.kuwo.cn
 0.0.0.0	log.kuwo.cn
@@ -7011,8 +6986,6 @@
 0.0.0.0	mediamind.com
 0.0.0.0	medianetworks.ru
 0.0.0.0	upfile16.mediaphim.com
-0.0.0.0	enabler.datalake.mediaset.it
-0.0.0.0	hbbtv.mediaset.net
 0.0.0.0	webtrekk.mediaset.net
 0.0.0.0	mediashakers.com
 0.0.0.0	ads.mediasmart.es
@@ -7828,8 +7801,6 @@
 0.0.0.0	mtburn.com
 0.0.0.0	mtrcss.com
 0.0.0.0	mucu.jp
-0.0.0.0	analytics-ingest.anypoint.mulesoft.com
-0.0.0.0	cdn.anypoint.mulesoft.com
 0.0.0.0	api.muneris.io
 0.0.0.0	ad.mwork.vn
 0.0.0.0	adv.mxmcdn.net
@@ -8172,9 +8143,11 @@
 0.0.0.0	audible.sc.omtrdc.net
 0.0.0.0	dsg.sc.omtrdc.net
 0.0.0.0	southwestairlines.sc.omtrdc.net
+0.0.0.0	allstate.tt.omtrdc.net
 0.0.0.0	audible.tt.omtrdc.net
 0.0.0.0	fcanafta.tt.omtrdc.net
 0.0.0.0	mboxedge17.tt.omtrdc.net
+0.0.0.0	mboxedge28.tt.omtrdc.net
 0.0.0.0	southwestairlines.tt.omtrdc.net
 0.0.0.0	on-mobi.com
 0.0.0.0	pixel.onaudience.com
@@ -11065,6 +11038,8 @@
 0.0.0.0	api.videometrics.ted.com
 0.0.0.0	telemetryverification.net
 0.0.0.0	beacon.sparta.mig.tencent-cloud.net
+0.0.0.0	tend.io
+0.0.0.0	track.tend.io
 0.0.0.0	track.tenjin.com
 0.0.0.0	track.tenjin.io
 0.0.0.0	teracreative.com
@@ -11287,6 +11262,7 @@
 0.0.0.0	dispatcher.upmc.uc.cn
 0.0.0.0	woodpecker.uc.cn
 0.0.0.0	app3.prd.telematics.uconnectcar.com
+0.0.0.0	app4.prd.telematics.uconnectcar.com
 0.0.0.0	gjtrack.ucweb.com
 0.0.0.0	insight.ucweb.com
 0.0.0.0	adn.insight.ucweb.com
@@ -11447,6 +11423,7 @@
 0.0.0.0	sdk.upush.co
 0.0.0.0	analyze.urbanairship.com
 0.0.0.0	boxoffice.urbanairship.com
+0.0.0.0	c00162-dl.urbanairship.com
 0.0.0.0	combine.urbanairship.com
 0.0.0.0	connect.urbanairship.com
 0.0.0.0	connect-testing.urbanairship.com
