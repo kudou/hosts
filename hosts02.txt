@@ -2211,6 +2211,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	filter.mediacpc.com
 0.0.0.0	firefox.net-secure-update.icu
 0.0.0.0	firefox-updater.com
+0.0.0.0	fndsdaytings.com
 0.0.0.0	fr.apple.com-services-assistance-recuperations-des-comptes.com
 0.0.0.0	freecontent.bid
 0.0.0.0	freedailydownload.com
