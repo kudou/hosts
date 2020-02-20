@@ -797,14 +797,14 @@ ff02::2  ip6-allrouters
 113.29.189.55	like.daum.net
 113.29.190.177	channel.daum.net
 113.29.190.20	apihub.daum.net
-115.127.250.75	img1.daumcdn.net
-115.127.250.75	img2.daumcdn.net
-115.127.250.75	m1.daumcdn.net
-115.127.250.75	search1.daumcdn.net
-115.127.250.75	search2.daumcdn.net
-115.127.250.75	shop1.daumcdn.net
-115.127.250.75	t1.daumcdn.net
-115.127.250.75	t2.daumcdn.net
+14.0.44.247	img1.daumcdn.net
+14.0.44.247	img2.daumcdn.net
+14.0.44.247	m1.daumcdn.net
+14.0.44.247	search1.daumcdn.net
+14.0.44.247	search2.daumcdn.net
+14.0.44.247	shop1.daumcdn.net
+14.0.44.247	t1.daumcdn.net
+14.0.44.247	t2.daumcdn.net
 121.53.201.232	agora.media.daum.net
 121.53.201.234	gargoyle.daum.net
 121.53.202.219	realty.daum.net
@@ -1602,6 +1602,8 @@ ff02::2  ip6-allrouters
 172.217.194.82	skia.googlesource.com
 172.217.194.82	swiftshader.googlesource.com
 172.217.194.82	webrtc.googlesource.com
+173.194.198.82	aomedia-review.googlesource.com
+173.194.198.82	aomedia.googlesource.com
 173.194.198.82	code.googlesource.com
 173.194.198.82	fuchsia.googlesource.com
 173.194.198.82	gcr.io
@@ -4259,7 +4261,7 @@ ff02::2  ip6-allrouters
 64.71.175.181	ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
-104.85.218.83	steamcommunity.com
+23.42.45.238	steamcommunity.com
 104.27.131.29	supchina.com
 23.10.10.243	www.swissinfo.ch
 199.83.128.108	www.economist.com
@@ -16547,7 +16549,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2020-02-19_09:40:20
+2020-02-20_09:39:53
 0.0.0.0	0.0.0.0
 0.0.0.0	000dom.revenuedirect.com
 0.0.0.0	000free.us
