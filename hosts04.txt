@@ -7110,7 +7110,7 @@
 0.0.0.0	xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0	e.jp.miaozhen.com
 0.0.0.0	g.jp.miaozhen.com
-0.0.0.0	miarroba.com
+0.0.0.0	ads.miarroba.com
 0.0.0.0	microad.jp
 0.0.0.0	microad.net
 0.0.0.0	j.microad.net
@@ -11435,7 +11435,6 @@
 0.0.0.0	srepdata.usatoday.com
 0.0.0.0	sdk.out.usbla.net
 0.0.0.0	analytics.usdm.net
-0.0.0.0	use-application-dns.net
 0.0.0.0	api.usebutton.com
 0.0.0.0	segment.api.useinsider.com
 0.0.0.0	mobileanalytics.useinsider.com
