@@ -2036,6 +2036,12 @@
 0.0.0.0	ee.uh64b.cn
 0.0.0.0	m.uh64b.cn
 0.0.0.0	www.yichunrz.com
+0.0.0.0	xn--wxtr9fwyxk9c.club
+0.0.0.0	v.dengbaozx.cn
+0.0.0.0	c.dengbaozx.cn
+0.0.0.0	seordl.cn
+0.0.0.0	z1.jilinxinfukeji.com
+0.0.0.0	z2.jilinxinfukeji.com
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
