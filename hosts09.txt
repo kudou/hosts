@@ -1765,6 +1765,11 @@
 0.0.0.0	adv2.downsave.com
 0.0.0.0	mini.jijiplayer.com
 0.0.0.0	txtad.jijiplayer.com
+0.0.0.0	ee.grtnahd.cn
+0.0.0.0	m.grtnahd.cn
+0.0.0.0	www.xn--i6qs37am6iwyqffc.com
+0.0.0.0	xdm.ahqlx.top
+0.0.0.0	ycjisa.cn
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-delivery.net
