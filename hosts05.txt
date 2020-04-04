@@ -139,40 +139,55 @@ setCookie('visited',	'true',	1);
 <script>
 var	countryError,	country,	hsh;	
 window.CTRY_CURRENCY_LIST	=	{
-'AU':	{code:'AUD',	symbol:'A$',	lang:	'en',	flip:	false},
-'BR':	{code:'BRD',	symbol:'R$',	lang:	'pt',	flip:	false},
-'CA':	{code:'CAD',	symbol:'CAD	$',	lang:	'en',	flip:	false},
-'DE':	{code:'EUR',	symbol:'€',	lang:	'de',	flip:	false},
-'ES':	{code:'EUR',	symbol:'€',	lang:	'es',	flip:	false},
-'FR':	{code:'EUR',	symbol:'€',	lang:	'fr',	flip:	false},
-'GB':	{code:'GBP',	symbol:'£',	lang:	'en',	flip:	false},
-'IT':	{code:'EUR',	symbol:'€',	lang:	'it',	flip:	false},
-'NL':	{code:'EUR',	symbol:'€',	lang:	'nl',	flip:	false},
-'PL':	{code:'PLN',	symbol:'zł',	lang:	'pl',	flip:	true},
-'PT':	{code:'EUR',	symbol:'€',	lang:	'pt',	flip:	false},
-'RU':	{code:'RUB',	symbol:'руб',	lang:	'ru',	flip:	true},
-'US':	{code:'USD',	symbol:'$',	lang:	'en',	flip:	false},
-'AT':	{code:'EUR',	symbol:'€',	lang:	'de',	flip:	false},
-'BE':	{code:'EUR',	symbol:'€',	lang:	'nl',	flip:	false},
-'CY':	{code:'EUR',	symbol:'€',	lang:	'el',	flip:	false},
-'EE':	{code:'EUR',	symbol:'€',	lang:	'et',	flip:	false},
-'FI':	{code:'EUR',	symbol:'€',	lang:	'fi',	flip:	false},
-'GR':	{code:'EUR',	symbol:'€',	lang:	'el',	flip:	false},
-'IE':	{code:'EUR',	symbol:'€',	lang:	'en',	flip:	false},
-'JP':	{code:'JPY',	symbol:'¥',	lang:	'jp',	flip:	false},
-'LV':	{code:'EUR',	symbol:'€',	lang:	'lv',	flip:	false},
-'LT':	{code:'EUR',	symbol:'€',	lang:	'lt',	flip:	false},
-'LU':	{code:'EUR',	symbol:'€',	lang:	'fr',	flip:	false},
-'MT':	{code:'EUR',	symbol:'€',	lang:	'mt',	flip:	false},
-'SK':	{code:'EUR',	symbol:'€',	lang:	'sk',	flip:	false},
-'SI':	{code:'EUR',	symbol:'€',	lang:	'sl',	flip:	false},
-'CH':	{code:'CHF',	symbol:'CHF	',	lang:	'de-CH',	flip:	false},
-'NZ':	{code:'NZD',	symbol:'NZ	$',	lang:	'en',	flip:	false},
-'SE':	{code:'SEK',	symbol:'kr',	lang:	'se',	flip:	true},
-'DK':	{code:'DKK',	symbol:'kr',	lang:	'da',	flip:	true},
-'NO':	{code:'NOK',	symbol:'kr',	lang:	'nn-NO',	flip:	true},
-'ZA':	{code:'ZAR',	symbol:'R',	lang:	'ns-ZA',	flip:	false},
-'MX':	{code:'MXN',	symbol:'MXN',	lang:	'es-MX',	flip:	true}
+AD:	{code:	"EUR",	symbol:	"€",	flip:	false},
+AR:	{code:	"ARS",	symbol:	"ARS",	flip:	true},
+AT:	{code:	"EUR",	symbol:	"€",	flip:	false},
+AU:	{code:	"AUD",	symbol:	"A$",	flip:	false},
+BE:	{code:	"EUR",	symbol:	"€",	flip:	false},
+BL:	{code:	"EUR",	symbol:	"€",	flip:	false},
+BR:	{code:	"BRL",	symbol:	"R$",	flip:	false},
+CA:	{code:	"CAD",	symbol:	"CAD	$",	flip:	false},
+CH:	{code:	"CHF",	symbol:	"CHF	",	flip:	false},
+CY:	{code:	"EUR",	symbol:	"€",	flip:	false},
+DE:	{code:	"EUR",	symbol:	"€",	flip:	false},
+DK:	{code:	"DKK",	symbol:	"kr",	flip:	true},
+EE:	{code:	"EUR",	symbol:	"€",	flip:	false},
+ES:	{code:	"EUR",	symbol:	"€",	flip:	false},
+FI:	{code:	"EUR",	symbol:	"€",	flip:	false},
+FR:	{code:	"EUR",	symbol:	"€",	flip:	false},
+GB:	{code:	"GBP",	symbol:	"£",	flip:	false},
+GR:	{code:	"EUR",	symbol:	"€",	flip:	false},
+ID:	{code:	"IDR",	symbol:	"Rp",	flip:	true},
+IE:	{code:	"EUR",	symbol:	"€",	flip:	false},
+IN:	{code:	"INR",	symbol:	"₹",	flip:	true},
+IT:	{code:	"EUR",	symbol:	"€",	flip:	false},
+JP:	{code:	"JPY",	symbol:	"¥",	flip:	false},
+LT:	{code:	"EUR",	symbol:	"€",	flip:	false},
+LU:	{code:	"EUR",	symbol:	"€",	flip:	false},
+LV:	{code:	"EUR",	symbol:	"€",	flip:	false},
+MC:	{code:	"EUR",	symbol:	"€",	flip:	false},
+MF:	{code:	"EUR",	symbol:	"€",	flip:	false},
+MT:	{code:	"EUR",	symbol:	"€",	flip:	false},
+MX:	{code:	"MXN",	symbol:	"MXN",	flip:	true},
+NL:	{code:	"EUR",	symbol:	"€",	flip:	false},
+NO:	{code:	"NOK",	symbol:	"kr",	flip:	true},
+NZ:	{code:	"NZD",	symbol:	"NZ	$",	flip:	false},
+PH:	{code:	"PHP",	symbol:	"₱",	flip:	true},
+PL:	{code:	"PLN",	symbol:	"zł",	flip:	true},
+PM:	{code:	"EUR",	symbol:	"€",	flip:	false},
+PT:	{code:	"EUR",	symbol:	"€",	flip:	false},
+RU:	{code:	"RUB",	symbol:	"руб",	flip:	true},
+SE:	{code:	"SEK",	symbol:	"kr",	flip:	true},
+SI:	{code:	"EUR",	symbol:	"€",	flip:	false},
+SK:	{code:	"EUR",	symbol:	"€",	flip:	false},
+SM:	{code:	"EUR",	symbol:	"€",	flip:	false},
+TF:	{code:	"EUR",	symbol:	"€",	flip:	false},
+TH:	{code:	"THB",	symbol:	"฿",	flip:	true},
+TR:	{code:	"TRY",	symbol:	"₺",	flip:	true},
+UA:	{code:	"UAH",	symbol:	"₴",	flip:	true},
+US:	{code:	"USD",	symbol:	"$",	flip:	false},
+VA:	{code:	"EUR",	symbol:	"€",	flip:	false},
+ZA:	{code:	"ZAR",	symbol:	"R",	flip:	false}
 };
 (function(){
 var	setup	=	function()	{
@@ -224,12 +239,12 @@ me.country	=	'US';
 window.country	=	me.country;
 window.hsh	=	me.hsh;
 window.countryError	=	me.countryError;
-me.lang	=	window.CTRY_CURRENCY_LIST['US'].lang;
+//me.lang	=	window.CTRY_CURRENCY_LIST['US'].lang;
 me.currency	=	window.CTRY_CURRENCY_LIST['US'].code;
 me.currencySymbol	=	window.CTRY_CURRENCY_LIST['US'].symbol;
 me.currencyPostionFlip	=	window.CTRY_CURRENCY_LIST['US'].flip;
 if(typeof	window.CTRY_CURRENCY_LIST[me.country]	!==	"undefined")	{
-me.lang	=	window.CTRY_CURRENCY_LIST[me.country].lang;
+//me.lang	=	window.CTRY_CURRENCY_LIST[me.country].lang;
 me.currency	=	window.CTRY_CURRENCY_LIST[me.country].code;
 me.currencySymbol	=	window.CTRY_CURRENCY_LIST[me.country].symbol;
 me.currencyPostionFlip	=	window.CTRY_CURRENCY_LIST[me.country].flip;
@@ -443,7 +458,7 @@ window.MESS	=	new	setup();
 <meta	name="robots"	content="noindex">	
 <title>404	-	Page	Not	Found	|	Malwarebytes</title>
 <link	rel="stylesheet"	href="/css/fonts.css"	/>
-<link	rel="stylesheet"	href="/css/style.css?d=2020-03-31-14-36-51--0700"	/>	
+<link	rel="stylesheet"	href="/css/style.css?d=2020-04-03-16-11-52--0700"	/>	
 <!--	OneTrust	cookie	banner	file	-->
 <!--	<script	type="text/javascript"	src="/js/beautifiedOneTrustWithComments.js"></script>	-->
 <!--[if	IE	8]>
@@ -1348,7 +1363,7 @@ src="/js/nav-resize.js"></script>
 <script	src="/js/global-phone.js"></script>
 <script	src="/js/xs.js"></script>
 <!--	subnav	-->
-<!--<script	src="/js/subnav.js?d=2020-03-31-14-36-51--0700"></script>-->
+<!--<script	src="/js/subnav.js?d=2020-04-03-16-11-52--0700"></script>-->
 <!--	tech	specs	drop	down	-->
 <script	src="/js/techspecs.js"	type="text/javascript"></script>
 <script>
