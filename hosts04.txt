@@ -1676,12 +1676,6 @@
 0.0.0.0	ailamtrieuphu.com
 0.0.0.0	aimadigital.com
 0.0.0.0	aimatch.com
-0.0.0.0	airbrake.io
-0.0.0.0	airbrake-github.airbrake.io
-0.0.0.0	airbrake-gitlab.airbrake.io
-0.0.0.0	api.airbrake.io
-0.0.0.0	ssljscdn.airbrake.io
-0.0.0.0	glassbox.aircanada.ca
 0.0.0.0	airpush.com
 0.0.0.0	ab.airpush.com
 0.0.0.0	api.airpush.com
@@ -4681,7 +4675,6 @@
 0.0.0.0	blinding-heat-4778.firebaseio.com
 0.0.0.0	famobi-01.firebaseio.com
 0.0.0.0	proximiio-bus.firebaseio.com
-0.0.0.0	s-usc1c-nss-262.firebaseio.com
 0.0.0.0	firstimpression.io
 0.0.0.0	logging.fishsticksgames.com
 0.0.0.0	sdk.fitle.com
@@ -11086,15 +11079,8 @@
 0.0.0.0	api-v3.tinypass.com
 0.0.0.0	buy.tinypass.com
 0.0.0.0	cdn.tinypass.com
-0.0.0.0	code.tinypass.com
-0.0.0.0	experience.tinypass.com
 0.0.0.0	fonts.tinypass.com
 0.0.0.0	id.tinypass.com
-0.0.0.0	play.tinypass.com
-0.0.0.0	publisher.tinypass.com
-0.0.0.0	qa0.tinypass.com
-0.0.0.0	qa1.tinypass.com
-0.0.0.0	sw.tinypass.com
 0.0.0.0	tiqcdn.com
 0.0.0.0	tags.tiqcdn.com
 0.0.0.0	akamai.tags.tiqcdn.com
