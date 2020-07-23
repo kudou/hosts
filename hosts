@@ -16536,7 +16536,7 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2020-07-22_09:38:13
+2020-07-23_09:35:17
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0.beeglivesex.com
 0.0.0.0	0.0.0.0.creative.hpyrdr.com
@@ -27558,6 +27558,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	adtrace.org
 0.0.0.0	adtrack1.midasplayer.com
 0.0.0.0	adtrack.adleadevent.com
+0.0.0.0	adtrack.appcpi.net
 0.0.0.0	adtrack.chartboosts.com
 0.0.0.0	adtrack.cimedia.net
 0.0.0.0	adtrack.cmgdigital.com
@@ -30031,6 +30032,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	analytics-gb-nfl.yinzcam.com
 0.0.0.0	analytics-gcp.tout.com
 0.0.0.0	analytics.glance.inmobi.com
+0.0.0.0	analytics.global.sky.com
 0.0.0.0	analytics.google.com
 0.0.0.0	analytics-google.info
 0.0.0.0	analytics.grupogodo.com
@@ -30048,6 +30050,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	analytics-ingest.creative-mobile.com
 0.0.0.0	analytics-ingestion.production-public.tubi.io
 0.0.0.0	analytics-ingestion.staging-public.tubi.io
+0.0.0.0	analytics-ingress-global.bitmovin.com
 0.0.0.0	analytics.inlinemanual.com
 0.0.0.0	analytics.in-tend.co.uk
 0.0.0.0	analytics-iwtg-ten.yinzcam.com
@@ -30144,6 +30147,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	analytics.sitewit.com
 0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	analyticssl.clickpathmedia.com
+0.0.0.0	analytics.sleeknote.com
 0.0.0.0	analytics.snssdk.com
 0.0.0.0	analytics.sohatv.vn
 0.0.0.0	analytics.soup.io
@@ -30744,6 +30748,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	api.accengage.com
 0.0.0.0	api.accengage.net
 0.0.0.0	api.ad4push.com
+0.0.0.0	apiadapter.ad5track.com
 0.0.0.0	api.adbana.com
 0.0.0.0	api.adbecrsl.com
 0.0.0.0	api.ad-brix.com
@@ -45390,6 +45395,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	eu-survey.com
 0.0.0.0	eu-tlx.3lift.com
 0.0.0.0	eu.track.digitaladsystems.com
+0.0.0.0	eu-track.inside-graph.com
 0.0.0.0	e.uu0152q.cn
 0.0.0.0	euuaa.com
 0.0.0.0	eu-u.openx.net
@@ -47073,6 +47079,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	fpdownload.macromedia.com
 0.0.0.0	fp.fraudmetrix.cn
 0.0.0.0	fp-it.fengkongcloud.com
+0.0.0.0	fpjs.io
 0.0.0.0	fp.oneshotdate.com
 0.0.0.0	fptad.com
 0.0.0.0	fptest.fraudmetrix.cn
@@ -47590,6 +47597,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	gamead.swjoy.com
 0.0.0.0	game-advertising-online.com
 0.0.0.0	game.adwo.com
+0.0.0.0	gameanalysis.appcpi.net
 0.0.0.0	gameanalysis.chartboosts.com
 0.0.0.0	gameanalytics.com
 0.0.0.0	gameangel.com
@@ -60143,6 +60151,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.ybaiu.com
 0.0.0.0	m.ybanj.com
 0.0.0.0	m.ybaoh.com
+0.0.0.0	mybbc-analytics.files.bbci.co.uk
 0.0.0.0	mybb.ero-advertising.com
 0.0.0.0	m.ybeih.com
 0.0.0.0	mybestmv.com
@@ -65943,6 +65952,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	propellerads.com
 0.0.0.0	propellerclick.com
 0.0.0.0	propellerpops.com
+0.0.0.0	propeller-tracking.com
 0.0.0.0	properatersch.fun
 0.0.0.0	proper.io
 0.0.0.0	propermedia-d.openx.net
@@ -76258,6 +76268,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	tracker-pm2.spilleren.com
 0.0.0.0	tracker.promosvc.com
 0.0.0.0	tracker.promovalue.us
+0.0.0.0	tracker.remp.impresa.pt
 0.0.0.0	tracker.rqmob.com
 0.0.0.0	trackers.1st-affiliation.fr
 0.0.0.0	trackers.adtarget.me
@@ -76534,6 +76545,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	tracking.wisepops.com
 0.0.0.0	tracking.xapads.com
 0.0.0.0	tracking.yieldlove-ad-serving.net
+0.0.0.0	tracking.yohoads.com
 0.0.0.0	tracking.yomedia.vn
 0.0.0.0	track.ionicmedia.com
 0.0.0.0	track-ipv4.earnify.com
