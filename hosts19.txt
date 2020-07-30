@@ -51,6 +51,8 @@ a2dfp.net
 a60b4ddd0c257fb3f1bb059bcbc42862.com
 a8bt.com
 a9.com
+aamapi.com
+aamsitecertifier.com
 abmr.net
 abtasty.com
 acceptableserver.com
@@ -344,6 +346,7 @@ ampmetrics.techcrunch.com
 amptrack.dailymail.co.uk
 amung.us
 analysing.email
+analytics-cdn.sykescottages.co.uk
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
 analytics.163.com
@@ -637,6 +640,7 @@ candodigital.biz
 cap-mii.net
 captifymedia.com
 carambo.la
+carbonads.com
 carbonads.net
 cardlytics.com
 casalemedia.com
@@ -688,6 +692,7 @@ clickadu.com
 clickagy.com
 clickbank.net
 clickdensity.com
+clickfunnels.com
 clickfuse.com
 clickio.com
 clickiocdn.com
@@ -785,6 +790,7 @@ contextweb.com
 conversionlogic.net
 convertro.com
 conviva.com
+convrse.media
 conyak.com
 cookiebot.com
 cookiesv2.publiekeomroep.nl
@@ -13264,6 +13270,7 @@ web-metrica.yandex.ru
 webanalytics2.ovh.net
 webcollage.com
 webcollage.net
+webcontentassessor.com
 webengage.co
 webgains.com
 webgains.io
