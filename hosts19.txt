@@ -210,6 +210,7 @@ ads.hearstmags.com
 ads.linkedin.com
 ads.msn.com
 ads.nordcurrent.com
+ads.samba.tv
 ads.superawesome.tv
 ads.twitter.com
 ads.viber.com
@@ -356,9 +357,12 @@ analytics.bluemosh.com
 analytics.brave.com
 analytics.businessinsider.com
 analytics.ccs.mcafee.com
+analytics.chase.com
 analytics.cincopa.com
+analytics.civicplus.com
 analytics.cohesionapps.com
 analytics.convertlanguage.com
+analytics.credible.com
 analytics.dominos.com
 analytics.eip.telegraph.co.uk
 analytics.faw.sky.com
@@ -474,6 +478,7 @@ atwola.com
 audienceinsights.net
 audienceiq.com
 audiencemanager.de
+audioeye.com
 auditorius.ru
 auditude.com
 audtd.com
@@ -542,6 +547,7 @@ bigdata.adups.com
 bigspeedpro.com
 billmscurlrev.com
 billyrtb.com
+bilsyndication.com
 bingads.com
 bingads.microsoft.com
 bis-dic15.com
@@ -655,7 +661,6 @@ cdxr53.com
 cedexis-radar.net
 cedexis-test.com
 cedexis.com
-cedexis.net
 celtra.com
 central-core-7.com
 centralcore7.com
@@ -688,6 +693,7 @@ click.justwatch.com
 click.mail.medscape.com
 click.udimg.com
 click.union.ucweb.com
+click.vacasa.com
 clickadu.com
 clickagy.com
 clickbank.net
@@ -701,6 +707,7 @@ clicksgear.com
 clickshift.com
 clicktale.net
 clicktracks.com
+clicktripz.com
 client-event-reporter.twitch.tv
 clientsend.com
 clinch.co
@@ -1327,6 +1334,7 @@ infinity-tracking.net
 info.kugou.com
 infobip.com
 infolinks.com
+ingest.sentry.io
 inmobi.com
 inmobi.info
 inmobiapis.com
@@ -1352,6 +1360,7 @@ intenta.io
 intentiq.com
 intentmedia.net
 interclick.com
+intercom.com
 intercom.io
 intercomassets.com
 invitemedia.com
@@ -1506,6 +1515,7 @@ mainad.com
 mainadv.com
 mandrillapp.com
 map2.ssl.hwcdn.net
+marchex.io
 marinsm.com
 marketing-ssl.upsight-api.com
 marketing.lloydsbank.co.uk
@@ -1579,6 +1589,7 @@ metrics.argos.co.uk
 metrics.cbc.ca
 metrics.corus.ca
 metrics.foxnews.com
+metrics.hackerrank.com
 metrics.ikea.com
 metrics.marksandspencer.com
 metrics.plex.tv
@@ -12405,7 +12416,9 @@ pixfuture.net
 pixiedust.buzzfeed.com
 pkiconcurlms.com
 pkrchp001.com
+placed.com
 playbuzz.com
+player-telemetry.vimeo.com
 playground.xyz
 plista.com
 plugerr.com
@@ -12482,6 +12495,7 @@ pwrads.net
 px.spiceworks.com
 px.srvcs.tumblr.com
 pxi.pub
+pxl.indeed.com
 pxlad.io
 pxlsrv.net
 pxltgr.com
@@ -13058,6 +13072,7 @@ track.dictionary.com
 track.flexlinkspro.com
 track.freecallinc.com
 track.ft.com
+track.juno.com
 track.lexico.com
 track.mypcbackup.com
 track.news.bg
@@ -13079,6 +13094,7 @@ track.sublytics-5db9e5dd1b2c2.com
 track.sublytics-5db9fa0b5700f.com
 track.sublytics-5df8eec4bca66.com
 track.thesaurus.com
+track.untd.com
 track.us.org
 track.wikibuy.com
 trackad.cz
@@ -13094,6 +13110,7 @@ tracking.intl.miui.com
 tracking.lenzmx.com
 tracking.minitool.com
 tracking.netdoktor.at
+tracking.resortsandlodges.com
 tracking.sezzle.com
 tracking.volo-mobile.com
 tracking.websitealive.com
@@ -13123,6 +13140,7 @@ tremorhub.com
 tremorvideo.com
 tribalfusion.com
 triggit.com
+trk.homeaway.com
 trk.informationweek.com
 trk.justanswer.com
 trk.pinterest.com
@@ -13262,7 +13280,9 @@ walkme.com
 watcheezy.net
 watson.live.com
 watson.microsoft.com
+watson.telemetry.microsoft.com
 waudit.cz
+wayin.com
 wbtrk.net
 we-stats.com
 web-01-gbl.com
