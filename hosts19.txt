@@ -411,6 +411,7 @@ analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
 analytics.spotify.com
+analytics.svt.se
 analytics.sykescottages.co.uk
 analytics.trackerstatus.info
 analytics.tripwireinteractive.com
@@ -1478,6 +1479,7 @@ log.olark.com
 log.pinterest.com
 log.quora.com
 log.spotify.com
+log.video.taobao.com
 logger.dailymotion.com
 logger.foxitcloud.com
 logger.unsplash.com
@@ -1593,6 +1595,7 @@ metrics.hackerrank.com
 metrics.ikea.com
 metrics.marksandspencer.com
 metrics.plex.tv
+metrics.postoffice.co.uk
 metrics.raptr.com
 metricswindow.com
 metrigo.com
