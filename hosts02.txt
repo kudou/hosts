@@ -239,6 +239,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	admin.iesnare.co.uk
 0.0.0.0	admin.iesnare.com
 0.0.0.0	admin.iovation.com
+0.0.0.0	adobestats.com
 0.0.0.0	adopt.specificclick.net
 0.0.0.0	ads.tiscali.com
 0.0.0.0	ads.tiscali.it
@@ -742,6 +743,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	filezilla.fr
 0.0.0.0	firebaselogging.googleapis.com
 0.0.0.0	fl01.ct2.comclick.com
+0.0.0.0	flixprice.com
 0.0.0.0	flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0	flycast.com
 0.0.0.0	forbescollect.247realmedia.com
@@ -7176,6 +7178,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bitburg.adtech.us
 0.0.0.0	bitcast-d.bitgravity.com
 0.0.0.0	bitcoadz.io
+0.0.0.0	bitcoinaussiesystemsoft.com
 0.0.0.0	bitmedia.io
 0.0.0.0	bitonclick.com
 0.0.0.0	bitraffic.com
