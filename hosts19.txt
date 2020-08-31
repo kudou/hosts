@@ -333,6 +333,7 @@ alexametrics.com
 algolia.com
 alicili.org
 aliunicorn.com
+alooma.com
 altabold1.com
 altitude-arena.com
 altmetric.com
@@ -1300,7 +1301,6 @@ ib-ibi.com
 ibillboard.com
 ichlnk.com
 id.aftenbladet.no
-id.elsevier.com
 id5-sync.com
 idg.com
 idgpublishing.com
@@ -1364,7 +1364,6 @@ intentmedia.net
 interclick.com
 intercom.com
 intercom.io
-intercomassets.com
 invitemedia.com
 invoc.us
 ioam.de
@@ -1401,6 +1400,8 @@ jwpltx.com
 k-analytix.com
 kaloo.ga
 kalooga.com
+kameleoon.com
+kameleoon.eu
 kampyle.com
 kargo.com
 kastatic.com
@@ -1481,6 +1482,7 @@ log.pinterest.com
 log.quora.com
 log.spotify.com
 log.video.taobao.com
+log.zoom.us
 logger.dailymotion.com
 logger.foxitcloud.com
 logger.unsplash.com
@@ -12933,6 +12935,7 @@ stats.paypal.com
 stats.qnapclub.eu
 stats.redditmedia.com
 stats.royalbank.com
+stats.ryzeo.com
 stats.searchanise.com
 stats.unity3d.com
 stats.videodelivery.net
