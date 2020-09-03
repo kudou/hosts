@@ -1,8 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 2.56.240.163	ss-3.googlehosts.org
 204.44.66.78	204-44-66-78.googlehosts.org
 204.44.66.78	tg-1.googlehosts.org
 45.89.228.109	ss-3.googlehosts.org
 74.125.34.1	googlehosts.org
+
+
+
 104.16.103.144	9gag.com
 104.16.103.144	web-t.9gag.com
 104.16.103.144	www.9gag.com
@@ -10,12 +26,24 @@
 104.17.170.73	img-9gag-fun.9cache.com
 104.17.170.73	js-webt-lol.9cache.com
 104.17.170.73	miscmedia-9gag-fun.9cache.com
+
+
+
 199.255.34.38	data.abebooks.com
 52.87.120.250	www.abebooks.com
 99.84.58.39	pictures.abebooks.com
+
+
+
 23.32.241.9	a248.e.akamai.net
+
+
+
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
+
+
+
 52.119.164.121	amazon.co.jp
 23.13.186.208	www.amazon.co.jp
 54.239.96.187	aftlite-portal-nrt.amazon.co.jp
@@ -47,6 +75,9 @@
 54.240.250.198	prime.amazon.co.jp
 54.240.248.131	read.amazon.co.jp
 52.94.210.139	shm.amazon.co.jp
+
+
+
 172.217.30.157	a.android.com
 172.217.30.157	connectivitycheck.android.com
 172.217.30.157	d.android.com
@@ -57,9 +88,19 @@
 172.217.30.153	www.android.com
 172.217.8.252	source.android.com
 172.217.8.249	developer.android.com
+
+
+
 104.20.82.194	apkpure.com
 104.20.82.194	m.apkpure.com
+
+
+
 104.19.133.58	www.apkmirror.com
+
+
+
+
 172.217.168.209	www.appspot.com
 172.217.168.209	appspot.com
 172.217.168.209	events.withgoogle.com
@@ -92,6 +133,10 @@
 172.217.168.209	analyticsacademy.withgoogle.com
 172.217.168.209	spellup.withgoogle.com
 172.217.194.153	chrome-infra-packages.appspot.com
+
+
+
+
 172.217.161.180	author-dot-betaspike.appspot.com
 172.217.161.180	jmoore-dot-android-experiments.appspot.com
 172.217.161.180	mission-author-dot-betaspike.appspot.com
@@ -109,6 +154,9 @@
 172.217.161.180	lfe-alpo-gm.appspot.com
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
+
+
+
 207.241.224.4	archive.org
 207.241.224.4	www.archive.org
 207.241.225.95	analytics.archive.org
@@ -117,12 +165,27 @@
 207.241.233.214	web.archive.org
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
+
+
+
 212.95.74.30	api.arte.tv
 212.95.74.37	www.arte.tv
 23.50.102.235	static-cdn.arte.tv
+
+
+
 27.133.136.8	app.arukas.io
+
+
+
 52.59.33.68	search.avira.com
+
+
+
 104.20.7.63	bandwagonhost.com
+
+
+
 151.101.8.81	www.bbc.com
 212.58.244.115	fig.bbc.co.uk
 212.58.244.69	www.bbc.co.uk
@@ -147,15 +210,27 @@
 212.58.249.134	session.bbc.com
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
+
+
+
 151.101.193.197	www.behance.net
 216.146.46.10	behance.com
 52.85.231.84	mir-s3-cdn-cf.behance.net
 54.192.182.143	a5.behance.net
 54.192.75.182	mir-cdn-cf.behance.net
+
+
+
 61.222.241.167	img.biggo.com.tw
 61.222.241.168	biggo.com.tw
+
+
+
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
+
+
+
 151.101.1.171	static2.businessinsider.com
 151.101.1.171	static5.businessinsider.com
 151.101.193.171	www.businessinsider.com
@@ -166,39 +241,76 @@
 151.101.73.171	static3.businessinsider.com
 151.101.73.171	static4.businessinsider.com
 151.101.88.64	analytics.businessinsider.com
+
+
+
 151.101.2.114	img.buzzfeed.com
+
+
+
 110.232.178.118	c6.cduniverse.ws
 110.232.178.118	c7.cduniverse.ws
 110.232.178.118	c8.cduniverse.ws
 110.232.178.118	c9.cduniverse.ws
 110.232.178.118	www.cduniverse.com
 72.248.115.70	cduniverse.ws
+
+
+
 104.16.5.13	www.change.org
 104.16.5.13	assets.change.org
 104.16.4.13	change.org
 104.16.4.13	assets-fe.change.org
+
+
+
 13.33.25.77	d3njjcbhbojbot.cloudfront.net
 99.84.138.226	d3c33hcgiwev3.cloudfront.net
+
+
+
 13.33.231.37	api.clyp.it
 13.33.231.37	audio.clyp.it
 13.33.231.37	clyp.it
 13.33.231.37	soundwave.clyp.it
 13.33.231.37	static.clyp.it
+
+
+
 210.242.210.65	img5.cna.com.tw
 211.72.255.204	www.cna.com.tw
 72.21.81.200	img4.cna.com.tw
+
+
+
+
 216.58.200.238	embed.culturalspot.org
 216.58.200.238	globetoglobehamlet.culturalspot.org
+
+
+
 157.7.225.122	cp.conoha.jp
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
+
+
+
 63.141.239.58	ctext.org
 63.141.239.58	library.ctext.org
+
+
+
 52.230.12.205	dailyview.tw
+
+
+
 104.24.116.224	doubibackup.com
 104.24.126.191	doubmirror.cf
 104.27.137.174	softsmirror.cf
+
+
+
 183.177.40.106	kmh.kadokawa.co.jp
 183.177.40.130	kadokawa-mg.kadokawa.co.jp
 183.177.40.130	kadokawa.co.jp
@@ -212,6 +324,9 @@
 202.213.45.132	www.chara-ani.com
 54.230.193.207	mediaguide.kadokawa.co.jp
 99.84.181.106	store.kadokawa.co.jp
+
+
+
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
 113.29.186.70	mail.daum.net
@@ -1037,6 +1152,9 @@
 27.0.236.82	wordbook.daum.net
 27.0.236.83	100.daum.net
 27.0.237.48	comment.daum.net
+
+
+
 52.85.220.219	deviantart.com
 52.85.220.244	www.deviantart.com
 52.85.154.135	amazing-animal-art.deviantart.com
@@ -1058,12 +1176,19 @@
 99.84.254.116	orig00.deviantart.net
 99.84.254.32	t00.deviantart.net
 13.33.47.221	film00.deviantart.net
+
+
+
 104.25.27.31	bbs.dmhy.org
 104.25.27.31	dl.dmhy.org
 104.25.27.31	dmhy.org
 104.25.27.31	share.dmhy.org
 104.25.27.31	u2.dmhy.org
 104.25.27.31	www.dmhy.org
+
+
+
+
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com
@@ -1113,6 +1238,9 @@
 54.230.175.68	cf.dropboxstatic.com
 162.125.33.9	dbxlocal.dropboxstatic.com
 162.125.82.2	log.getdropbox.com
+
+
+
 13.210.167.213	duckduckgo.com
 13.210.167.213	www.duckduckgo.com
 13.210.167.213	ac.duckduckgo.com
@@ -1123,6 +1251,9 @@
 23.21.193.169	images.duckduckgo.com
 23.21.193.169	improving.duckduckgo.com
 23.21.193.169	external-content.duckduckgo.com
+
+
+
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com
 151.101.24.134	dropbox.disqus.com
@@ -1140,6 +1271,9 @@
 104.17.134.180	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
 151.101.26.49	a.disquscdn.com
+
+
+
 104.16.58.5	discordapp.com
 104.16.59.37	discord.gg
 104.16.174.189	discord.media
@@ -1149,6 +1283,9 @@
 104.16.250.144	dl.discordapp.net
 104.16.250.144	images-ext-2.discordapp.net
 104.16.10.231	cdn.discordapp.com
+
+
+
 104.20.171.49	www.discuss.com.hk
 104.20.171.49	m.discuss.com.hk
 104.20.171.49	cdn.discuss.com.hk
@@ -1160,8 +1297,17 @@
 104.20.170.49	img.discuss.com.hk
 104.20.170.49	digital.discuss.com.hk
 104.20.170.49	computer.discuss.com.hk
+
+
+
 207.38.70.29	www.dynu.com
+
+
+
 8.252.15.252	static.euronews.com
+
+
+
 157.240.7.35	www.facebook.com
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
@@ -1277,6 +1423,9 @@
 192.0.66.2	messengerplatform.fb.com
 192.0.66.2	threatexchange.fb.com
 157.240.11.18	video.xx.fbcdn.net
+
+
+
 151.101.1.194	codeproject.global.ssl.fastly.net
 151.101.1.194	github.global.ssl.fastly.net
 151.101.110.79	freetls.fastly.net
@@ -1297,10 +1446,22 @@
 151.101.230.79	villagevoice.freetls.fastly.net
 151.101.230.79	zcdn.freetls.fastly.net
 151.101.230.79	herokudata-frontend.freetls.fastly.net
+
+
+
 104.20.60.241	cloud.feedly.com
+
+
+
 13.33.208.8	beacon.flipboard.com
 13.33.208.8	fbprod.flipboard.com
+
+
+
 192.0.79.32	foreignpolicy.com
+
+
+
 192.30.255.112	gist.github.com
 192.30.255.112	github.com
 192.30.255.112	www.github.com
@@ -1320,6 +1481,9 @@
 151.101.56.133	raw.githubusercontent.com
 151.101.56.133	repository-images.githubusercontent.com
 151.101.56.133	user-images.githubusercontent.com
+
+
+
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com
 172.217.168.37	googlemail.l.google.com
@@ -1332,9 +1496,18 @@
 172.217.168.7	chatenabled.mail.google.com
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
+
+
+
 82.165.230.43	search.gmx.com
+
+
+
 54.239.26.220	www.goodreads.com
 205.251.242.64	ads.goodreads.com
+
+
+
 216.58.204.202	www.googleapis.com
 216.58.204.202	android.googleapis.com
 172.217.168.202	ajax.googleapis.com
@@ -1391,6 +1564,9 @@
 172.217.168.202	music-pa.clients6.google.com
 216.239.32.67	31061001.googleapis.com
 216.239.32.67	26644787.googleapis.com
+
+
+
 172.217.25.48	storage.googleapis.com
 172.217.24.16	commondatastorage.googleapis.com
 172.217.4.144	content-storage.googleapis.com
@@ -1400,7 +1576,13 @@
 172.217.4.176	chromedriver.storage.googleapis.com
 172.217.5.112	static.panoramio.com.storage.googleapis.com
 172.217.5.208	storage-download.googleapis.com
+
+
+
 64.233.171.192	supl.google.com
+
+
+
 172.217.168.201	www.blogger.com
 172.217.168.201	www.blogblog.com
 172.217.168.201	www1.blogblog.com
@@ -1438,6 +1620,9 @@
 172.217.168.201	insidesearch.blogspot.com
 172.217.168.201	googleadsdeveloper.blogspot.com
 172.217.168.201	googledevelopers.blogspot.com
+
+
+
 108.177.127.82	gerrit.googlesource.com
 108.177.127.82	go.googlesource.com
 172.217.194.82	android-review.googlesource.com
@@ -1462,6 +1647,9 @@
 173.194.198.82	uploads.code.google.com
 173.194.198.82	www.gcr.io
 173.194.198.82	www.googlesource.com
+
+
+
 216.58.200.23	google.ac
 216.58.200.23	google.ad
 216.58.200.23	google.ae
@@ -1636,8 +1824,14 @@
 216.58.200.23	google.com.uy
 216.58.200.23	google.com.vc
 216.58.200.23	google.com.vn
+
+
+
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org
+
+
+
 172.217.160.0	www.goo.gl
 172.217.160.0	www.google.com.af
 172.217.160.0	www.google.com.ag
@@ -1705,6 +1899,9 @@
 172.217.160.0	www.google.com.uy
 172.217.160.0	www.google.com.vc
 172.217.160.0	www.google.com.vn
+
+
+
 172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
@@ -1714,6 +1911,9 @@
 172.217.5.129	id.google.com
 172.217.5.130	clients5.google.com
 172.217.5.131	apis.google.com
+
+
+
 216.239.34.21	blog.google
 216.239.34.21	www.blog.google
 216.239.38.21	environment.google
@@ -2017,6 +2217,9 @@
 172.217.162.15	upload.youtube.com
 172.217.162.15	uploads.stage.gdata.youtube.com
 172.217.162.15	uploadsj.clients.google.com
+
+
+
 172.217.5.133	accounts.google.com
 172.217.5.134	myaccount.google.com
 172.217.5.138	assistant.google.com
@@ -2040,6 +2243,9 @@
 172.217.5.138	translate.google.com
 172.217.5.138	toolbarqueries.google.com
 216.58.194.223	scholar.google.com
+
+
+
 172.217.30.184	accounts.google.com.hk
 172.217.5.139	assistant.google.com.hk
 172.217.5.139	books.google.com.hk
@@ -2067,6 +2273,9 @@
 172.217.5.139	translate.google.com.hk
 172.217.5.139	toolbarqueries.google.com.hk
 172.217.5.139	scholar.google.com.hk
+
+
+
 172.217.5.141	accounts.google.com.tw
 172.217.5.141	assistant.google.com.tw
 172.217.5.141	books.google.com.tw
@@ -2093,6 +2302,9 @@
 172.217.5.141	translate.google.com.tw
 172.217.5.141	toolbarqueries.google.com.tw
 172.217.5.141	scholar.google.com.tw
+
+
+
 172.217.31.96	docs.google.com
 172.217.3.207	upload.docs.google.com
 108.177.119.132	doc-00-00-docs.googleusercontent.com
@@ -3136,14 +3348,23 @@
 108.177.119.132	doc-10-cs-docs.googleusercontent.com
 108.177.119.132	doc-14-cs-docs.googleusercontent.com
 172.217.31.103	browserchannel-docs.l.google.com
+
+
+
 172.217.14.127	golang.org
 172.217.14.127	golang-consa.l.google.com
 172.217.14.128	tour.golang.org
 172.217.14.128	blog.golang.org
+
+
+
 172.217.5.135	play.google.com
 172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
 172.217.5.137	alt7-mtalk.google.com
+
+
+
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
 108.177.97.188	mtalk4.google.com
@@ -3154,6 +3375,9 @@
 108.177.97.188	gcm-preprod.googleapis.com
 108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
+
+
+
 216.239.38.21	ghs.google.com
 216.239.38.21	ghs46.google.com
 216.239.38.21	ghs.l.google.com
@@ -3193,25 +3417,49 @@
 172.217.4.179	tools.android.com
 172.217.4.179	b.android.com
 172.217.4.179	m.android.com
+
+
+
 216.239.38.21	madewithcode.com
 216.239.38.21	www.madewithcode.com
+
+
+
 172.217.27.4	googlemashups.com
 172.217.27.4	www.googlemashups.com
+
+
+
 216.239.32.27	certificate-transparency.org
 216.239.32.27	www.certificate-transparency.org
+
+
+
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
 64.233.177.127	alt2.stun.l.google.com
 64.233.177.127	alt3.stun.l.google.com
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
+
+
+
 72.14.249.236	www.thinkwithgoogle.com
+
+
+
 172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
 216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+
+
+
 172.217.160.0	iam.soy
 172.217.160.0	www.iam.soy
 172.217.160.0	xn--p8j9a0d9c9a.xn--q9jyb4c
+
+
+
 172.217.168.193	www.googleusercontent.com
 172.217.168.193	apidata.googleusercontent.com
 172.217.168.193	analytics.googleblog.com
@@ -3450,11 +3698,20 @@
 172.217.168.193	38-wave-opensocial.googleusercontent.com
 172.217.168.193	39-wave-opensocial.googleusercontent.com
 172.217.168.193	40-wave-opensocial.googleusercontent.com
+
+
+
 108.177.120.94	voice.google.com
+
+
+
 64.233.170.114	check.googlezip.net
 216.58.221.108	proxy.googlezip.net
 216.58.221.108	compress.googlezip.net
 216.58.221.108	proxy-dev.googlezip.net
+
+
+
 108.177.119.132	geo0.ggpht.com
 108.177.119.132	geo1.ggpht.com
 108.177.119.132	geo2.ggpht.com
@@ -3493,12 +3750,27 @@
 108.177.120.94	mt5.gstatic.com
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
+
+
+
 209.216.230.240	news.ycombinator.com
+
+
+
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
+
+
+
 34.230.120.16	id.heroku.com
+
+
+
 104.25.120.37	hkgalden.com
 104.25.120.37	www.hkgalden.com
+
+
+
 104.22.12.39	www.hkgolden.com
 104.22.12.39	forum.hkgolden.com
 104.22.12.39	forum8.hkgolden.com
@@ -3506,15 +3778,24 @@
 104.22.12.39	forum111.hkgolden.com
 104.22.12.39	classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
+
+
+
 54.249.82.168	humble.pubnub.com
 104.20.34.236	humblebundle.com
 104.20.34.236	www.humblebundle.com
 52.36.140.12	pubnub.com
+
+
+
 101.78.207.166	www.hkjc.com
 203.82.9.18	bet.hkjc.com
 101.78.207.157	common.hkjc.com
 203.86.162.153	search.hkjc.com
 101.78.207.158	football.hkjc.com
+
+
+
 151.101.40.193	imgur.com
 151.101.40.193	m.imgur.com
 151.101.40.193	api.imgur.com
@@ -3524,12 +3805,18 @@
 151.101.40.193	p.imgur.com
 151.101.40.193	i.imgur.com
 101.78.207.158	i.stack.imgur.com
+
+
+
 52.9.109.157	appload.ingest.crittercism.com
 54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.204	bootstrap.upsight-api.com
 169.44.145.204	single.upsight-api.com
 169.44.145.204	batch.upsight-api.com
+
+
+
 31.13.82.172	instagram.com
 31.13.82.174	www.instagram.com
 157.240.15.174	badges.instagram.com
@@ -3663,6 +3950,9 @@
 157.240.18.172	scontent-ort2-2.cdninstagram.com
 157.240.7.174	scontent-sin6-1.cdninstagram.com
 157.240.13.172	scontent-sin6-2.cdninstagram.com
+
+
+
 52.72.26.162	issuu.com
 52.72.26.162	www.issuu.com
 52.72.26.162	developers.issuu.com
@@ -3677,12 +3967,21 @@
 151.101.65.63	skin.issuu.com
 52.1.172.141	api.issuu.com
 104.16.53.111	help.issuu.com
+
+
+
 115.127.250.75	search1.kakaocdn.net
 115.127.250.75	search2.kakaocdn.net
 115.127.250.75	search3.kakaocdn.net
 115.127.250.75	search4.kakaocdn.net
 115.127.250.75	t1.kakaocdn.net
+
+
+
 104.20.171.40	www.kik.com
+
+
+
 124.146.171.177	faq.kinokuniya.co.jp
 124.36.142.42	mirai.kinokuniya.co.jp
 176.32.73.17	malaysia.kinokuniya.com
@@ -3690,6 +3989,9 @@
 176.32.73.17	thailand.kinokuniya.com
 176.32.73.17	uae.kinokuniya.com
 203.216.212.234	www.kinokuniya.co.jp
+
+
+
 84.39.136.9	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
 191.236.35.232	storedownloads.kobo.com
@@ -3758,7 +4060,13 @@
 184.51.198.112	ecimages.kobobooks.com
 184.51.198.112	ecmimages.kobobooks.com
 89.187.65.68	insiders.kobo.com
+
+
+
 64.95.128.149	secure.logmein.com
+
+
+
 104.102.162.148	stickershop.line-scdn.net
 104.111.208.121	shop.line-scdn.net
 104.124.225.74	lan.line.me
@@ -3847,21 +4155,36 @@
 23.42.190.204	access.line.me
 23.51.208.61	ticket.line.me
 23.57.92.220	social-plugins.line.me
+
+
+
 104.19.139.58	x.lihkg.com
 104.19.140.58	lihkg.com
 104.19.140.58	graph.lihkg.com
 104.19.140.58	i.lihkg.com
+
+
+
 13.32.52.37	assets.matters.news
 54.192.151.121	matters.news
 54.254.167.73	server.matters.news
+
+
+
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com
 104.16.120.145	cdn-static-1.medium.com
 104.16.120.145	cdn-images-1.medium.com
 104.16.120.145	cdn-images-2.medium.com
 104.16.121.145	glyph.medium.com
+
+
+
 31.216.148.10	mega.nz
 117.18.237.188	g.cdn1.mega.co.nz
+
+
+
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com
 34.224.132.29	et.nytimes.com
@@ -3887,14 +4210,26 @@
 151.101.65.164	a1.nyt.com
 151.101.129.164	s1.nyt.com
 151.101.193.164	i1.nyt.com
+
+
+
 204.79.197.213	api.onedrive.com
 23.76.75.24	api.onedrive.live.com
 131.253.33.217	onedrive.live.com
 131.253.33.217	webedgegeo.skyprod.akadns.net
 131.253.14.230	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
+
+
+
 74.120.8.13	my.pcloud.com
+
+
+
 68.232.44.109	ips.pepitastore.com
+
+
+
 13.124.246.138	pscp.tv
 13.124.203.13	www.pscp.tv
 52.39.74.21	channels.pscp.tv
@@ -3914,7 +4249,13 @@
 18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
 34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
 35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+
+
+
 104.18.54.73	pincong.rocks
+
+
+
 151.101.128.84	pinterest.com
 151.101.128.84	www.pinterest.com
 151.101.128.84	about.pinterest.com
@@ -3960,6 +4301,9 @@
 104.76.17.41	i.pinimg.com
 23.2.36.161	s.pinimg.com
 23.217.143.151	s-media-cache-ak0.pinimg.com
+
+
+
 210.140.131.203	www.pixiv.net
 210.140.131.204	touch.pixiv.net
 210.140.131.205	source.pixiv.net
@@ -3996,13 +4340,28 @@
 210.140.131.182	embed.pixiv.net
 210.140.131.183	comic-api.pixiv.net
 210.140.131.184	pay.pixiv.net
+
+
+
 211.231.108.181	potplayer.daum.net
+
+
+
 104.27.154.107	www.v2ray.com
+
+
+
 54.192.75.124	psiphon3.com
 54.192.75.50	www.psiphon3.com
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
+
+
+
 140.112.172.1	ptt.cc
+
+
+
 175.41.144.51	gtbook.pubu.com.tw
 175.41.144.51	www.pubu.com.tw
 54.230.108.227	res1.pubu.tw
@@ -4010,6 +4369,9 @@
 99.84.143.46	static.pubu.tw
 99.84.143.51	res3.pubu.tw
 99.84.59.53	res4.pubu.tw
+
+
+
 104.16.52.111	help.quora.com
 151.101.73.2	blog.quora.com
 151.101.73.2	bn.quora.com
@@ -4031,14 +4393,23 @@
 151.101.73.2	sv.quora.com
 151.101.73.2	ta.quora.com
 192.229.189.142	www.quora.com
+
+
+
 133.237.50.6	rd.rakuten.co.jp
 133.237.61.71	esearch.rakuten.co.jp
 23.40.72.233	www.rakuten.co.jp
 40.115.251.146	globalexpress.rakuten.co.jp
 96.7.133.108	books.rakuten.co.jp
 96.7.133.108	search.rakuten.co.jp
+
+
+
 104.27.188.178	rawgit.com
 151.139.237.11	cdn.rawgit.com
+
+
+
 52.2.61.110	reuters.com
 52.85.158.178	www.reuters.com
 184.26.117.115	agency.reuters.com
@@ -4063,6 +4434,9 @@
 52.85.158.222	in.reuters.com
 52.85.158.239	mx.reuters.com
 52.85.158.61	cn.reuters.com
+
+
+
 54.192.75.139	getsync.com
 54.192.75.23	download-cdn.getsync.com
 52.20.43.156	update.getsync.com
@@ -4070,10 +4444,22 @@
 54.192.75.46	config.resilio.com
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
+
+
+
 13.107.246.10	rixcloud.com
 151.101.1.195	rixcloud.us
+
+
+
 104.16.215.232	www.scmp.com
+
+
+
 104.28.18.85	shadowsocks.org
+
+
+
 144.2.3.20	www.slideshare.net
 144.2.3.20	de.slideshare.net
 144.2.3.20	es.slideshare.net
@@ -4082,8 +4468,14 @@
 108.174.10.14	engineering.slideshare.net
 108.174.10.14	blog.slideshare.net
 108.174.10.19	slideshare.net
+
+
+
 45.64.64.96	www.smartdnsproxy.com
 54.215.198.167	support.smartdnsproxy.com
+
+
+
 68.232.44.127	soundcloud.com
 68.232.44.127	api-v2.soundcloud.com
 68.232.44.127	telemetry.soundcloud.com
@@ -4103,25 +4495,55 @@
 72.21.91.96	ec-preview-media.sndcdn.com
 72.21.91.96	style.sndcdn.com
 72.21.91.96	va.sndcdn.com
+
+
+
 216.218.239.62	startpage.com
 216.218.239.22	www.startpage.com
 64.71.175.181	www.ixquick.com
 64.71.175.181	ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
+
+
+
 23.42.45.238	steamcommunity.com
+
+
+
 104.27.131.29	supchina.com
+
+
+
 23.10.10.243	www.swissinfo.ch
+
+
+
 199.83.128.108	www.economist.com
+
+
+
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com
 52.221.46.214	api.theinitium.com
+
+
+
 192.229.179.32	www.thenation.com
+
+
+
 104.16.230.14	www.thetvdb.com
+
+
+
 118.143.30.216	topick.hket.com
 118.143.30.165	inlog01.hket.com
 118.143.30.220	static01.hket.com
 118.143.30.175	plus.hket.com
+
+
+
 119.161.14.19	tumblr.com
 119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
@@ -4158,7 +4580,13 @@
 66.6.32.162	px.srvcs.tumblr.com
 54.192.109.252	96.media.tumblr.com
 152.199.38.136	97.media.tumblr.com
+
+
+
 81.3.6.162	app.tutanota.com
+
+
+
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
 149.154.166.206	core.telegram.org
@@ -4177,6 +4605,9 @@
 149.154.167.118	telegram.me
 149.154.167.118	t.me
 149.154.167.80	updates.tdesktop.com
+
+
+
 104.198.14.52	ooni.torproject.org
 116.202.120.165	torproject.org
 116.202.120.165	www.torproject.org
@@ -4228,6 +4659,9 @@
 94.130.28.195	metrics.torproject.org
 94.130.28.196	db.torproject.org
 94.130.28.202	lists.torproject.org
+
+
+
 104.94.41.138	api.twitch.tv
 151.101.110.167	gql.twitch.tv
 151.101.230.167	www.twitch.tv
@@ -4264,15 +4698,30 @@
 54.69.142.1	spade.sci.twitch.tv
 54.71.196.178	passport.twitch.tv
 54.84.222.78	app.twitch.tv
+
+
+
 117.18.237.70	abs.twimg.com
 117.18.237.70	pbs.twimg.com
 117.18.237.70	ton.twimg.com
 117.18.237.70	cdn.syndication.twimg.com
 192.229.232.217	video.twimg.com
+
+
+
 104.28.18.4	uncyclopedia.tw
+
+
+
 192.124.249.65	www.upmedia.mg
+
+
+
 151.101.120.207	www.urbandictionary.com
 151.101.240.207	api.urbandictionary.com
+
+
+
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
 151.101.64.217	www.vimeo.com
@@ -4281,12 +4730,24 @@
 151.101.2.109	f.vimeocdn.com
 151.101.64.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
+
+
+
 96.7.120.42	www.voachinese.com
 96.7.120.42	www.voanews.com
 96.7.120.42	av.voanews.com
 96.7.120.42	gdb.voanews.com
+
+
+
 149.56.30.149	vnet.link
+
+
+
 192.229.173.207	www.w3schools.com
+
+
+
 158.85.5.203	www-cdn.whatsapp.net
 158.85.5.203	faq.whatsapp.com
 158.85.5.203	crashlogs.whatsapp.net
@@ -4327,14 +4788,29 @@
 169.63.73.124	e14.whatsapp.net
 169.63.73.124	e15.whatsapp.net
 169.63.73.124	e16.whatsapp.net
+
+
+
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
+
+
+
 72.21.91.41	cloud.webtype.com
+
+
+
 95.211.113.131	wikileaks.org
 95.211.113.131	www.wikileaks.org
 141.105.65.113	file.wikileaks.org
+
+
+
 198.35.26.96	zh.wikinews.org
 198.35.26.96	zh.m.wikinews.org
+
+
+
 198.35.26.96	www.wikipedia.org
 198.35.26.96	login.wikimedia.org
 198.35.26.96	wuu.wikipedia.org
@@ -4346,6 +4822,9 @@
 198.35.26.96	ug.wikipedia.org
 198.35.26.96	ug.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
+
+
+
 106.10.231.23	static.flickr.com
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
@@ -4367,6 +4846,9 @@
 27.123.200.67	tw.search.yahoo.com
 106.10.218.137	search.yahoo.com
 182.22.25.124	search.yahoo.co.jp
+
+
+
 108.177.125.136	youtube.com
 108.177.125.136	youtu.be
 108.177.125.136	au.youtube.com
@@ -4400,7 +4882,13 @@
 216.58.217.174	s.ytimg.com
 64.15.118.42	www.youtube.com
 216.58.194.46	m.youtube.com
+
+
+
 104.31.79.57	you-get.org
+
+
+
 74.125.67.1	ams15s21-in-f1.1e100.net
 216.239.36.4	ams15s21-in-f4.1e100.net
 216.239.36.5	ams15s21-in-f5.1e100.net
@@ -4415,6 +4903,9 @@
 216.239.36.4	ams15s22-in-f4.1e100.net
 216.239.36.5	ams15s22-in-f5.1e100.net
 216.239.36.6	ams15s22-in-f7.1e100.net
+
+
+
 203.208.41.41	redirector.c.2mdn.net
 194.9.24.76	r1---sn-5uh5o-f5f6.c.2mdn.net
 194.9.24.77	r2---sn-5uh5o-f5f6.c.2mdn.net
@@ -5104,6 +5595,9 @@
 74.125.106.138	r4---sn-oguesnze.c.2mdn.net
 74.125.106.139	r5---sn-oguesnze.c.2mdn.net
 74.125.106.140	r6---sn-oguesnze.c.2mdn.net
+
+
+
 203.208.41.41	redirector.c.bigcache.googleapis.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.bigcache.googleapis.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.bigcache.googleapis.com
@@ -5793,6 +6287,9 @@
 74.125.106.138	r4---sn-oguesnze.c.bigcache.googleapis.com
 74.125.106.139	r5---sn-oguesnze.c.bigcache.googleapis.com
 74.125.106.140	r6---sn-oguesnze.c.bigcache.googleapis.com
+
+
+
 203.208.41.41	redirector.c.chat.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.chat.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.chat.google.com
@@ -6482,6 +6979,9 @@
 74.125.106.138	r4---sn-oguesnze.c.chat.google.com
 74.125.106.139	r5---sn-oguesnze.c.chat.google.com
 74.125.106.140	r6---sn-oguesnze.c.chat.google.com
+
+
+
 203.208.41.41	redirector.c.docs.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.docs.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.docs.google.com
@@ -7191,6 +7691,9 @@
 173.194.51.87	r18---sn-oguesnle.c.docs.google.com
 173.194.51.88	r19---sn-oguesnle.c.docs.google.com
 173.194.51.89	r20---sn-oguesnle.c.docs.google.com
+
+
+
 203.208.41.41	redirector.c.doc-0-0-sj.sj.googleusercontent.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.doc-0-0-sj.sj.googleusercontent.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.doc-0-0-sj.sj.googleusercontent.com
@@ -7900,6 +8403,9 @@
 173.194.51.87	r18---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
 173.194.51.88	r19---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
 173.194.51.89	r20---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+
+
+
 203.208.41.41	redirector.c.drive.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.drive.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.drive.google.com
@@ -8609,6 +9115,9 @@
 173.194.51.87	r18---sn-oguesnle.c.drive.google.com
 173.194.51.88	r19---sn-oguesnle.c.drive.google.com
 173.194.51.89	r20---sn-oguesnle.c.drive.google.com
+
+
+
 203.208.41.41	redirector.c.inbox.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.inbox.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.inbox.google.com
@@ -9318,6 +9827,9 @@
 173.194.51.87	r18---sn-oguesnle.c.inbox.google.com
 173.194.51.88	r19---sn-oguesnle.c.inbox.google.com
 173.194.51.89	r20---sn-oguesnle.c.inbox.google.com
+
+
+
 203.208.41.41	redirector.c.mail.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.mail.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.mail.google.com
@@ -10027,6 +10539,9 @@
 173.194.51.87	r18---sn-oguesnle.c.mail.google.com
 173.194.51.88	r19---sn-oguesnle.c.mail.google.com
 173.194.51.89	r20---sn-oguesnle.c.mail.google.com
+
+
+
 203.208.41.41	redirector.c.offline.maps.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.offline.maps.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.offline.maps.google.com
@@ -10736,6 +11251,9 @@
 173.194.51.87	r18---sn-oguesnle.c.offline.maps.google.com
 173.194.51.88	r19---sn-oguesnle.c.offline.maps.google.com
 173.194.51.89	r20---sn-oguesnle.c.offline.maps.google.com
+
+
+
 203.208.41.41	redirector.c.pack.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.pack.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.pack.google.com
@@ -11445,6 +11963,9 @@
 173.194.51.87	r18---sn-oguesnle.c.pack.google.com
 173.194.51.88	r19---sn-oguesnle.c.pack.google.com
 173.194.51.89	r20---sn-oguesnle.c.pack.google.com
+
+
+
 203.208.41.40	redirector.gvt1.com
 203.208.41.40	redirector.c.play.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.gvt1.com
@@ -12863,6 +13384,9 @@
 173.194.51.87	r18---sn-oguesnle.c.play.google.com
 173.194.51.88	r19---sn-oguesnle.c.play.google.com
 173.194.51.89	r20---sn-oguesnle.c.play.google.com
+
+
+
 203.208.41.41	redirector.a1.googlevideo.com
 203.208.41.41	redirector.c.video.google.com
 203.208.41.41	redirector.googlevideo.com
@@ -14970,6 +15494,9 @@
 74.125.106.138	r4---sn-oguesnze.c.video.google.com
 74.125.106.139	r5---sn-oguesnze.c.video.google.com
 74.125.106.140	r6---sn-oguesnze.c.video.google.com
+
+
+
 203.208.41.41	redirector.c.youtube.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.youtube.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.youtube.com
@@ -15679,6 +16206,9 @@
 173.194.51.87	r18---sn-oguesnle.c.youtube.com
 173.194.51.88	r19---sn-oguesnle.c.youtube.com
 173.194.51.89	r20---sn-oguesnle.c.youtube.com
+
+
+
 203.208.41.41	redirector.xn--ngstr-lra8j.com
 194.9.24.76	r1---sn-5uh5o-f5f6.xn--ngstr-lra8j.com
 194.9.24.77	r2---sn-5uh5o-f5f6.xn--ngstr-lra8j.com
@@ -16388,6 +16918,9 @@
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
+
+
+
 104.25.179.28	freewechat.com
 104.25.239.102	freeweibo.com
 104.25.53.117	cc.greatfire.org
@@ -16397,3 +16930,6 @@
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
+
+
+
