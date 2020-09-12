@@ -1,4 +1,13 @@
+
+#
+# --- Essential List start --- 
+#
+# 自定义部分,不参与过滤
 127.0.0.1  localhost
+127.0.1.1  zero
+127.0.0.1  zero
+
+# The  following  lines  are  desirable  for  IPv6  capable  hosts
 ::1  ip6-localhost
 ::1  localhost
 ::1  ip6-loopback
@@ -6,41 +15,92 @@ fe00::0  ip6-localnet
 ff00::0  ip6-mcastprefix
 ff02::1  ip6-allnodes
 ff02::2  ip6-allrouters
+
+# https://www.anquanke.com/post/id/86892 分析这2个搜集用户信息的 crx 扩展 User-Agent Switcher
 0.0.0.0 uaswitcher.org
 0.0.0.0 the-extension.com
 0.0.0.0 api.data-monitor.info
 0.0.0.0 toknowall.com
 0.0.0.0 useragentswitcher.org
+# SimilarWeb 是一家臭名昭著的分析公司,于2017年1月购得 Stylish,当时很多人为 Stylish 的隐私问题担忧.用户因 SimilarWeb 为 Stylish 采取的新型数据收集行为表达不满.SimilarWeb 宣布称将收集用户的某些分析信息以确定用户数量.
 0.0.0.0 similarweb.com
+# 该死的,我搜索邮箱搭建,邮件就发来 1083882647@qq.com,该死的!到底是什么再搜集信息.有可能是 huzhifeng
 0.0.0.0 comingmail.com
 0.0.0.0 xvp.cn
+# 存在锁定主页赚钱的行为
 0.0.0.0 hao.169x.cn
 0.0.0.0 28838833.com
+
+
+# https://doub.io/sszhfx/
+# 104.28.2.6 doub.io
 69.194.14.16 lncn.org
+# 从不同的 dns 获取到网址对应的 ip 不同!
+# 从 pdomo.me 获取到的
+# 从 Quad9 获取到的 ip : 199.59.148.140 无法连接
+# 104.27.167.25 ali-ss.com
+# 104.27.166.25 ali-ss.com
 104.24.120.69 x-ssr.co
 104.24.121.69 x-ssr.co
+
+
+# firefox
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 content-signature-2.cdn.mozilla.net
+
+# 间歇性被屏蔽,默认ping 地址 151.101.72.133
 151.101.32.133 raw.githubusercontent.com
+
+
+# PWD 获取到
+# ping smtp.gmail.com
+# telnet smtp.gmail.com 587
+# nslookup pop.gmail.com
+# telnet pop.gmail.com 995
 172.217.197.108 smtp.gmail.com
 173.194.65.108    pop.gmail.com
+# ping 到的不可用
+# 173.194.68.108    pop.gmail.com
+# 173.194.68.109    pop.gmail.com
+
+# 2018-07-25 发现存在干扰
 151.101.32.133 camo.githubusercontent.com
+
+# 2018-07-26 怀疑∵疫苗事件,开始对全部的外网进行时不时的封锁!
 151.101.32.223 docs.python.org
+
+# 1080.cloud 被墙壁,1080cloud.xyz 只是污染而已
 104.24.98.4 1080.cloud
+
+# 2018-08-22 破解 idea 有效
 0.0.0.0 account.jetbrains.
+# 该死的,一直在 push
 0.0.0.0 push.services.mozilla.com
+
 0.0.0.0 new.qq.com
+
+
+
+# 在使用 bing 的时候不用国内版
+# from ~~ [2014](https://www.zhihu.com/question/26962652/)~~
 204.79.197.200 bing.com
 204.79.197.200 www.bing.com
 204.79.197.200 cn.bing.com
+
+
+# idea 破解
 0.0.0.0 account.jetbrains.com
 0.0.0.0 www.jetbrains.com
 0.0.0.0 jetbrains.com
+
+# 厌恶的自行访问
 127.0.0.1 dl.omnirom.org
 127.0.0.1 googleapis.com
 127.0.0.1 mfan.iclick.com.cn
 127.0.0.1 metrics1.data.hicloud.com
 127.0.0.1 norma-external-collect.meizu.com
+
+# 小米
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 a.union.mi.com
 127.0.0.1 abtest.mistat.xiaomi.com
@@ -138,12 +198,38 @@ ff02::2  ip6-allrouters
 127.0.0.1 www.adview.cn
 127.0.0.1 yun.rili.cn
 127.0.0.1 zhwnlapi.etouch.cn
+
+# 会导致小米路由器更新日志获取失败
 127.0.0.1 lxcdn.dl.files.xiaomi.net
+
+#
+# --- Essential List end --- 
+#
+
+#
+# --- Whitelist start --- 
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
 2.56.240.163	ss-3.googlehosts.org
 204.44.66.78	204-44-66-78.googlehosts.org
 204.44.66.78	tg-1.googlehosts.org
 45.89.228.109	ss-3.googlehosts.org
 74.125.34.1	googlehosts.org
+
+
+
 104.16.103.144	9gag.com
 104.16.103.144	web-t.9gag.com
 104.16.103.144	www.9gag.com
@@ -151,12 +237,24 @@ ff02::2  ip6-allrouters
 104.17.170.73	img-9gag-fun.9cache.com
 104.17.170.73	js-webt-lol.9cache.com
 104.17.170.73	miscmedia-9gag-fun.9cache.com
+
+
+
 199.255.34.38	data.abebooks.com
 52.87.120.250	www.abebooks.com
 99.84.58.39	pictures.abebooks.com
+
+
+
 23.32.241.9	a248.e.akamai.net
+
+
+
 52.219.4.104	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
+
+
+
 52.119.164.121	amazon.co.jp
 23.13.186.208	www.amazon.co.jp
 54.239.96.187	aftlite-portal-nrt.amazon.co.jp
@@ -188,6 +286,9 @@ ff02::2  ip6-allrouters
 54.240.250.198	prime.amazon.co.jp
 54.240.248.131	read.amazon.co.jp
 52.94.210.139	shm.amazon.co.jp
+
+
+
 172.217.30.157	a.android.com
 172.217.30.157	connectivitycheck.android.com
 172.217.30.157	d.android.com
@@ -198,9 +299,19 @@ ff02::2  ip6-allrouters
 172.217.30.153	www.android.com
 172.217.8.252	source.android.com
 172.217.8.249	developer.android.com
+
+
+
 104.20.82.194	apkpure.com
 104.20.82.194	m.apkpure.com
+
+
+
 104.19.133.58	www.apkmirror.com
+
+
+
+
 172.217.168.209	www.appspot.com
 172.217.168.209	appspot.com
 172.217.168.209	events.withgoogle.com
@@ -233,6 +344,10 @@ ff02::2  ip6-allrouters
 172.217.168.209	analyticsacademy.withgoogle.com
 172.217.168.209	spellup.withgoogle.com
 172.217.194.153	chrome-infra-packages.appspot.com
+
+
+
+
 172.217.161.180	author-dot-betaspike.appspot.com
 172.217.161.180	jmoore-dot-android-experiments.appspot.com
 172.217.161.180	mission-author-dot-betaspike.appspot.com
@@ -250,6 +365,9 @@ ff02::2  ip6-allrouters
 172.217.161.180	lfe-alpo-gm.appspot.com
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
+
+
+
 207.241.224.4	archive.org
 207.241.224.4	www.archive.org
 207.241.225.95	analytics.archive.org
@@ -258,12 +376,27 @@ ff02::2  ip6-allrouters
 207.241.233.214	web.archive.org
 207.241.224.6	mail.archive.org
 207.241.225.247	books-general.archive.org
+
+
+
 212.95.74.30	api.arte.tv
 212.95.74.37	www.arte.tv
 23.50.102.235	static-cdn.arte.tv
+
+
+
 27.133.136.8	app.arukas.io
+
+
+
 52.59.33.68	search.avira.com
+
+
+
 104.20.7.63	bandwagonhost.com
+
+
+
 151.101.8.81	www.bbc.com
 212.58.244.115	fig.bbc.co.uk
 212.58.244.69	www.bbc.co.uk
@@ -288,15 +421,27 @@ ff02::2  ip6-allrouters
 212.58.249.134	session.bbc.com
 212.58.244.92	account.bbc.com
 212.58.244.78	open.live.bbc.co.uk
+
+
+
 151.101.193.197	www.behance.net
 216.146.46.10	behance.com
 52.85.231.84	mir-s3-cdn-cf.behance.net
 54.192.182.143	a5.behance.net
 54.192.75.182	mir-cdn-cf.behance.net
+
+
+
 61.222.241.167	img.biggo.com.tw
 61.222.241.168	biggo.com.tw
+
+
+
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
+
+
+
 151.101.1.171	static2.businessinsider.com
 151.101.1.171	static5.businessinsider.com
 151.101.193.171	www.businessinsider.com
@@ -307,39 +452,76 @@ ff02::2  ip6-allrouters
 151.101.73.171	static3.businessinsider.com
 151.101.73.171	static4.businessinsider.com
 151.101.88.64	analytics.businessinsider.com
+
+
+
 151.101.2.114	img.buzzfeed.com
+
+
+
 110.232.178.118	c6.cduniverse.ws
 110.232.178.118	c7.cduniverse.ws
 110.232.178.118	c8.cduniverse.ws
 110.232.178.118	c9.cduniverse.ws
 110.232.178.118	www.cduniverse.com
 72.248.115.70	cduniverse.ws
+
+
+
 104.16.5.13	www.change.org
 104.16.5.13	assets.change.org
 104.16.4.13	change.org
 104.16.4.13	assets-fe.change.org
+
+
+
 13.33.25.77	d3njjcbhbojbot.cloudfront.net
 99.84.138.226	d3c33hcgiwev3.cloudfront.net
+
+
+
 13.33.231.37	api.clyp.it
 13.33.231.37	audio.clyp.it
 13.33.231.37	clyp.it
 13.33.231.37	soundwave.clyp.it
 13.33.231.37	static.clyp.it
+
+
+
 210.242.210.65	img5.cna.com.tw
 211.72.255.204	www.cna.com.tw
 72.21.81.200	img4.cna.com.tw
+
+
+
+
 216.58.200.238	embed.culturalspot.org
 216.58.200.238	globetoglobehamlet.culturalspot.org
+
+
+
 157.7.225.122	cp.conoha.jp
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
+
+
+
 63.141.239.58	ctext.org
 63.141.239.58	library.ctext.org
+
+
+
 52.230.12.205	dailyview.tw
+
+
+
 104.24.116.224	doubibackup.com
 104.24.126.191	doubmirror.cf
 104.27.137.174	softsmirror.cf
+
+
+
 183.177.40.106	kmh.kadokawa.co.jp
 183.177.40.130	kadokawa-mg.kadokawa.co.jp
 183.177.40.130	kadokawa.co.jp
@@ -353,6 +535,9 @@ ff02::2  ip6-allrouters
 202.213.45.132	www.chara-ani.com
 54.230.193.207	mediaguide.kadokawa.co.jp
 99.84.181.106	store.kadokawa.co.jp
+
+
+
 103.24.8.9	ruliweb.daum.net
 113.29.186.33	policy.daum.net
 113.29.186.70	mail.daum.net
@@ -1178,6 +1363,9 @@ ff02::2  ip6-allrouters
 27.0.236.82	wordbook.daum.net
 27.0.236.83	100.daum.net
 27.0.237.48	comment.daum.net
+
+
+
 52.85.220.219	deviantart.com
 52.85.220.244	www.deviantart.com
 52.85.154.135	amazing-animal-art.deviantart.com
@@ -1199,12 +1387,19 @@ ff02::2  ip6-allrouters
 99.84.254.116	orig00.deviantart.net
 99.84.254.32	t00.deviantart.net
 13.33.47.221	film00.deviantart.net
+
+
+
 104.25.27.31	bbs.dmhy.org
 104.25.27.31	dl.dmhy.org
 104.25.27.31	dmhy.org
 104.25.27.31	share.dmhy.org
 104.25.27.31	u2.dmhy.org
 104.25.27.31	www.dmhy.org
+
+
+
+
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com
 162.125.248.1	www.dualstack.dropbox-dns.com
@@ -1254,6 +1449,9 @@ ff02::2  ip6-allrouters
 54.230.175.68	cf.dropboxstatic.com
 162.125.33.9	dbxlocal.dropboxstatic.com
 162.125.82.2	log.getdropbox.com
+
+
+
 13.210.167.213	duckduckgo.com
 13.210.167.213	www.duckduckgo.com
 13.210.167.213	ac.duckduckgo.com
@@ -1264,6 +1462,9 @@ ff02::2  ip6-allrouters
 23.21.193.169	images.duckduckgo.com
 23.21.193.169	improving.duckduckgo.com
 23.21.193.169	external-content.duckduckgo.com
+
+
+
 151.101.0.134	disqus.com
 151.101.24.134	www.disqus.com
 151.101.24.134	dropbox.disqus.com
@@ -1281,6 +1482,9 @@ ff02::2  ip6-allrouters
 104.17.134.180	publishers.disqus.com
 104.16.80.166	c.disquscdn.com
 151.101.26.49	a.disquscdn.com
+
+
+
 104.16.58.5	discordapp.com
 104.16.59.37	discord.gg
 104.16.174.189	discord.media
@@ -1290,6 +1494,9 @@ ff02::2  ip6-allrouters
 104.16.250.144	dl.discordapp.net
 104.16.250.144	images-ext-2.discordapp.net
 104.16.10.231	cdn.discordapp.com
+
+
+
 104.20.171.49	www.discuss.com.hk
 104.20.171.49	m.discuss.com.hk
 104.20.171.49	cdn.discuss.com.hk
@@ -1301,8 +1508,17 @@ ff02::2  ip6-allrouters
 104.20.170.49	img.discuss.com.hk
 104.20.170.49	digital.discuss.com.hk
 104.20.170.49	computer.discuss.com.hk
+
+
+
 207.38.70.29	www.dynu.com
+
+
+
 8.252.15.252	static.euronews.com
+
+
+
 157.240.7.35	www.facebook.com
 157.240.7.35	fb.me
 157.240.7.35	facebook.com
@@ -1418,6 +1634,9 @@ ff02::2  ip6-allrouters
 192.0.66.2	messengerplatform.fb.com
 192.0.66.2	threatexchange.fb.com
 157.240.11.18	video.xx.fbcdn.net
+
+
+
 151.101.1.194	codeproject.global.ssl.fastly.net
 151.101.1.194	github.global.ssl.fastly.net
 151.101.110.79	freetls.fastly.net
@@ -1438,10 +1657,22 @@ ff02::2  ip6-allrouters
 151.101.230.79	villagevoice.freetls.fastly.net
 151.101.230.79	zcdn.freetls.fastly.net
 151.101.230.79	herokudata-frontend.freetls.fastly.net
+
+
+
 104.20.60.241	cloud.feedly.com
+
+
+
 13.33.208.8	beacon.flipboard.com
 13.33.208.8	fbprod.flipboard.com
+
+
+
 192.0.79.32	foreignpolicy.com
+
+
+
 192.30.255.112	gist.github.com
 192.30.255.112	github.com
 192.30.255.112	www.github.com
@@ -1461,6 +1692,9 @@ ff02::2  ip6-allrouters
 151.101.56.133	raw.githubusercontent.com
 151.101.56.133	repository-images.githubusercontent.com
 151.101.56.133	user-images.githubusercontent.com
+
+
+
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com
 172.217.168.37	googlemail.l.google.com
@@ -1473,9 +1707,18 @@ ff02::2  ip6-allrouters
 172.217.168.7	chatenabled.mail.google.com
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
+
+
+
 82.165.230.43	search.gmx.com
+
+
+
 54.239.26.220	www.goodreads.com
 205.251.242.64	ads.goodreads.com
+
+
+
 216.58.204.202	www.googleapis.com
 216.58.204.202	android.googleapis.com
 172.217.168.202	ajax.googleapis.com
@@ -1532,6 +1775,9 @@ ff02::2  ip6-allrouters
 172.217.168.202	music-pa.clients6.google.com
 216.239.32.67	31061001.googleapis.com
 216.239.32.67	26644787.googleapis.com
+
+
+
 172.217.25.48	storage.googleapis.com
 172.217.24.16	commondatastorage.googleapis.com
 172.217.4.144	content-storage.googleapis.com
@@ -1541,7 +1787,13 @@ ff02::2  ip6-allrouters
 172.217.4.176	chromedriver.storage.googleapis.com
 172.217.5.112	static.panoramio.com.storage.googleapis.com
 172.217.5.208	storage-download.googleapis.com
+
+
+
 64.233.171.192	supl.google.com
+
+
+
 172.217.168.201	www.blogger.com
 172.217.168.201	www.blogblog.com
 172.217.168.201	www1.blogblog.com
@@ -1579,6 +1831,9 @@ ff02::2  ip6-allrouters
 172.217.168.201	insidesearch.blogspot.com
 172.217.168.201	googleadsdeveloper.blogspot.com
 172.217.168.201	googledevelopers.blogspot.com
+
+
+
 108.177.127.82	gerrit.googlesource.com
 108.177.127.82	go.googlesource.com
 172.217.194.82	android-review.googlesource.com
@@ -1603,6 +1858,9 @@ ff02::2  ip6-allrouters
 173.194.198.82	uploads.code.google.com
 173.194.198.82	www.gcr.io
 173.194.198.82	www.googlesource.com
+
+
+
 216.58.200.23	google.ac
 216.58.200.23	google.ad
 216.58.200.23	google.ae
@@ -1777,8 +2035,14 @@ ff02::2  ip6-allrouters
 216.58.200.23	google.com.uy
 216.58.200.23	google.com.vc
 216.58.200.23	google.com.vn
+
+
+
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org
+
+
+
 172.217.160.0	www.goo.gl
 172.217.160.0	www.google.com.af
 172.217.160.0	www.google.com.ag
@@ -1846,6 +2110,9 @@ ff02::2  ip6-allrouters
 172.217.160.0	www.google.com.uy
 172.217.160.0	www.google.com.vc
 172.217.160.0	www.google.com.vn
+
+
+
 172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
@@ -1855,6 +2122,9 @@ ff02::2  ip6-allrouters
 172.217.5.129	id.google.com
 172.217.5.130	clients5.google.com
 172.217.5.131	apis.google.com
+
+
+
 216.239.34.21	blog.google
 216.239.34.21	www.blog.google
 216.239.38.21	environment.google
@@ -2158,6 +2428,9 @@ ff02::2  ip6-allrouters
 172.217.162.15	upload.youtube.com
 172.217.162.15	uploads.stage.gdata.youtube.com
 172.217.162.15	uploadsj.clients.google.com
+
+
+
 172.217.5.133	accounts.google.com
 172.217.5.134	myaccount.google.com
 172.217.5.138	assistant.google.com
@@ -2181,6 +2454,9 @@ ff02::2  ip6-allrouters
 172.217.5.138	translate.google.com
 172.217.5.138	toolbarqueries.google.com
 216.58.194.223	scholar.google.com
+
+
+
 172.217.30.184	accounts.google.com.hk
 172.217.5.139	assistant.google.com.hk
 172.217.5.139	books.google.com.hk
@@ -2208,6 +2484,9 @@ ff02::2  ip6-allrouters
 172.217.5.139	translate.google.com.hk
 172.217.5.139	toolbarqueries.google.com.hk
 172.217.5.139	scholar.google.com.hk
+
+
+
 172.217.5.141	accounts.google.com.tw
 172.217.5.141	assistant.google.com.tw
 172.217.5.141	books.google.com.tw
@@ -2234,6 +2513,9 @@ ff02::2  ip6-allrouters
 172.217.5.141	translate.google.com.tw
 172.217.5.141	toolbarqueries.google.com.tw
 172.217.5.141	scholar.google.com.tw
+
+
+
 172.217.31.96	docs.google.com
 172.217.3.207	upload.docs.google.com
 108.177.119.132	doc-00-00-docs.googleusercontent.com
@@ -3277,14 +3559,23 @@ ff02::2  ip6-allrouters
 108.177.119.132	doc-10-cs-docs.googleusercontent.com
 108.177.119.132	doc-14-cs-docs.googleusercontent.com
 172.217.31.103	browserchannel-docs.l.google.com
+
+
+
 172.217.14.127	golang.org
 172.217.14.127	golang-consa.l.google.com
 172.217.14.128	tour.golang.org
 172.217.14.128	blog.golang.org
+
+
+
 172.217.5.135	play.google.com
 172.217.5.136	android.clients.google.com
 108.177.121.201	play.googleapis.com
 172.217.5.137	alt7-mtalk.google.com
+
+
+
 108.177.97.188	mobile-gtalk.l.google.com
 108.177.97.188	mtalk.google.com
 108.177.97.188	mtalk4.google.com
@@ -3295,6 +3586,9 @@ ff02::2  ip6-allrouters
 108.177.97.188	gcm-preprod.googleapis.com
 108.177.97.188	fcm.googleapis.com
 216.58.199.10	gcm-http.googleapis.com
+
+
+
 216.239.38.21	ghs.google.com
 216.239.38.21	ghs46.google.com
 216.239.38.21	ghs.l.google.com
@@ -3334,25 +3628,49 @@ ff02::2  ip6-allrouters
 172.217.4.179	tools.android.com
 172.217.4.179	b.android.com
 172.217.4.179	m.android.com
+
+
+
 216.239.38.21	madewithcode.com
 216.239.38.21	www.madewithcode.com
+
+
+
 172.217.27.4	googlemashups.com
 172.217.27.4	www.googlemashups.com
+
+
+
 216.239.32.27	certificate-transparency.org
 216.239.32.27	www.certificate-transparency.org
+
+
+
 64.233.177.127	stun.l.google.com
 64.233.177.127	alt1.stun.l.google.com
 64.233.177.127	alt2.stun.l.google.com
 64.233.177.127	alt3.stun.l.google.com
 64.233.177.127	alt4.stun.l.google.com
 64.233.177.127	alt5.stun.l.google.com
+
+
+
 72.14.249.236	www.thinkwithgoogle.com
+
+
+
 172.217.31.179	1d73367a8bc4b849f5286dc68416acfd.baas.nintendo.com
 216.239.38.21	220ac3f28f8d4cf99d8ce38fc8d4d5a7.baas.nintendo.com
 216.239.34.21	3cf08074951d6dc0092cd80f2af9aa50.baas.nintendo.com
+
+
+
 172.217.160.0	iam.soy
 172.217.160.0	www.iam.soy
 172.217.160.0	xn--p8j9a0d9c9a.xn--q9jyb4c
+
+
+
 172.217.168.193	www.googleusercontent.com
 172.217.168.193	apidata.googleusercontent.com
 172.217.168.193	analytics.googleblog.com
@@ -3591,11 +3909,20 @@ ff02::2  ip6-allrouters
 172.217.168.193	38-wave-opensocial.googleusercontent.com
 172.217.168.193	39-wave-opensocial.googleusercontent.com
 172.217.168.193	40-wave-opensocial.googleusercontent.com
+
+
+
 108.177.120.94	voice.google.com
+
+
+
 64.233.170.114	check.googlezip.net
 216.58.221.108	proxy.googlezip.net
 216.58.221.108	compress.googlezip.net
 216.58.221.108	proxy-dev.googlezip.net
+
+
+
 108.177.119.132	geo0.ggpht.com
 108.177.119.132	geo1.ggpht.com
 108.177.119.132	geo2.ggpht.com
@@ -3634,12 +3961,27 @@ ff02::2  ip6-allrouters
 108.177.120.94	mt5.gstatic.com
 108.177.120.94	mt6.gstatic.com
 108.177.120.94	mt7.gstatic.com
+
+
+
 209.216.230.240	news.ycombinator.com
+
+
+
 211.20.148.228	hichannel.hinet.net
 202.39.143.235	radio-hichannel.cdn.hinet.net
+
+
+
 34.230.120.16	id.heroku.com
+
+
+
 104.25.120.37	hkgalden.com
 104.25.120.37	www.hkgalden.com
+
+
+
 104.22.12.39	www.hkgolden.com
 104.22.12.39	forum.hkgolden.com
 104.22.12.39	forum8.hkgolden.com
@@ -3647,15 +3989,24 @@ ff02::2  ip6-allrouters
 104.22.12.39	forum111.hkgolden.com
 104.22.12.39	classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
+
+
+
 54.249.82.168	humble.pubnub.com
 104.20.34.236	humblebundle.com
 104.20.34.236	www.humblebundle.com
 52.36.140.12	pubnub.com
+
+
+
 101.78.207.166	www.hkjc.com
 203.82.9.18	bet.hkjc.com
 101.78.207.157	common.hkjc.com
 203.86.162.153	search.hkjc.com
 101.78.207.158	football.hkjc.com
+
+
+
 151.101.40.193	imgur.com
 151.101.40.193	m.imgur.com
 151.101.40.193	api.imgur.com
@@ -3665,12 +4016,18 @@ ff02::2  ip6-allrouters
 151.101.40.193	p.imgur.com
 151.101.40.193	i.imgur.com
 101.78.207.158	i.stack.imgur.com
+
+
+
 52.9.109.157	appload.ingest.crittercism.com
 54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
 169.44.145.204	bootstrap.upsight-api.com
 169.44.145.204	single.upsight-api.com
 169.44.145.204	batch.upsight-api.com
+
+
+
 31.13.82.172	instagram.com
 31.13.82.174	www.instagram.com
 157.240.15.174	badges.instagram.com
@@ -3804,6 +4161,9 @@ ff02::2  ip6-allrouters
 157.240.18.172	scontent-ort2-2.cdninstagram.com
 157.240.7.174	scontent-sin6-1.cdninstagram.com
 157.240.13.172	scontent-sin6-2.cdninstagram.com
+
+
+
 52.72.26.162	issuu.com
 52.72.26.162	www.issuu.com
 52.72.26.162	developers.issuu.com
@@ -3818,12 +4178,21 @@ ff02::2  ip6-allrouters
 151.101.65.63	skin.issuu.com
 52.1.172.141	api.issuu.com
 104.16.53.111	help.issuu.com
+
+
+
 115.127.250.75	search1.kakaocdn.net
 115.127.250.75	search2.kakaocdn.net
 115.127.250.75	search3.kakaocdn.net
 115.127.250.75	search4.kakaocdn.net
 115.127.250.75	t1.kakaocdn.net
+
+
+
 104.20.171.40	www.kik.com
+
+
+
 124.146.171.177	faq.kinokuniya.co.jp
 124.36.142.42	mirai.kinokuniya.co.jp
 176.32.73.17	malaysia.kinokuniya.com
@@ -3831,6 +4200,9 @@ ff02::2  ip6-allrouters
 176.32.73.17	thailand.kinokuniya.com
 176.32.73.17	uae.kinokuniya.com
 203.216.212.234	www.kinokuniya.co.jp
+
+
+
 84.39.136.9	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
 191.236.35.232	storedownloads.kobo.com
@@ -3899,7 +4271,13 @@ ff02::2  ip6-allrouters
 184.51.198.112	ecimages.kobobooks.com
 184.51.198.112	ecmimages.kobobooks.com
 89.187.65.68	insiders.kobo.com
+
+
+
 64.95.128.149	secure.logmein.com
+
+
+
 104.102.162.148	stickershop.line-scdn.net
 104.111.208.121	shop.line-scdn.net
 104.124.225.74	lan.line.me
@@ -3988,21 +4366,36 @@ ff02::2  ip6-allrouters
 23.42.190.204	access.line.me
 23.51.208.61	ticket.line.me
 23.57.92.220	social-plugins.line.me
+
+
+
 104.19.139.58	x.lihkg.com
 104.19.140.58	lihkg.com
 104.19.140.58	graph.lihkg.com
 104.19.140.58	i.lihkg.com
+
+
+
 13.32.52.37	assets.matters.news
 54.192.151.121	matters.news
 54.254.167.73	server.matters.news
+
+
+
 104.16.120.127	medium.com
 104.16.120.145	api.medium.com
 104.16.120.145	cdn-static-1.medium.com
 104.16.120.145	cdn-images-1.medium.com
 104.16.120.145	cdn-images-2.medium.com
 104.16.121.145	glyph.medium.com
+
+
+
 31.216.148.10	mega.nz
 117.18.237.188	g.cdn1.mega.co.nz
+
+
+
 34.225.58.16	messaging-sub.api.nytimes.com
 23.21.73.215	nytab.nytimes.com
 34.224.132.29	et.nytimes.com
@@ -4028,14 +4421,26 @@ ff02::2  ip6-allrouters
 151.101.65.164	a1.nyt.com
 151.101.129.164	s1.nyt.com
 151.101.193.164	i1.nyt.com
+
+
+
 204.79.197.213	api.onedrive.com
 23.76.75.24	api.onedrive.live.com
 131.253.33.217	onedrive.live.com
 131.253.33.217	webedgegeo.skyprod.akadns.net
 131.253.14.230	skyapi.onedrive.live.com
 134.170.104.157	skyweb.skyprod.akadns.net
+
+
+
 74.120.8.13	my.pcloud.com
+
+
+
 68.232.44.109	ips.pepitastore.com
+
+
+
 13.124.246.138	pscp.tv
 13.124.203.13	www.pscp.tv
 52.39.74.21	channels.pscp.tv
@@ -4055,7 +4460,13 @@ ff02::2  ip6-allrouters
 18.194.108.2	prod-chatman-ancillary-eu-central-1.pscp.tv
 34.233.63.45	prod-chatman-ancillary-us-east-1.pscp.tv
 35.160.28.174	prod-chatman-ancillary-us-west-2.pscp.tv
+
+
+
 104.18.54.73	pincong.rocks
+
+
+
 151.101.128.84	pinterest.com
 151.101.128.84	www.pinterest.com
 151.101.128.84	about.pinterest.com
@@ -4101,6 +4512,9 @@ ff02::2  ip6-allrouters
 104.76.17.41	i.pinimg.com
 23.2.36.161	s.pinimg.com
 23.217.143.151	s-media-cache-ak0.pinimg.com
+
+
+
 210.140.131.203	www.pixiv.net
 210.140.131.204	touch.pixiv.net
 210.140.131.205	source.pixiv.net
@@ -4137,13 +4551,28 @@ ff02::2  ip6-allrouters
 210.140.131.182	embed.pixiv.net
 210.140.131.183	comic-api.pixiv.net
 210.140.131.184	pay.pixiv.net
+
+
+
 211.231.108.181	potplayer.daum.net
+
+
+
 104.27.154.107	www.v2ray.com
+
+
+
 54.192.75.124	psiphon3.com
 54.192.75.50	www.psiphon3.com
 104.20.39.14	psiphon.ca
 104.20.38.14	www.psiphon.ca
+
+
+
 140.112.172.1	ptt.cc
+
+
+
 175.41.144.51	gtbook.pubu.com.tw
 175.41.144.51	www.pubu.com.tw
 54.230.108.227	res1.pubu.tw
@@ -4151,6 +4580,9 @@ ff02::2  ip6-allrouters
 99.84.143.46	static.pubu.tw
 99.84.143.51	res3.pubu.tw
 99.84.59.53	res4.pubu.tw
+
+
+
 104.16.52.111	help.quora.com
 151.101.73.2	blog.quora.com
 151.101.73.2	bn.quora.com
@@ -4172,14 +4604,23 @@ ff02::2  ip6-allrouters
 151.101.73.2	sv.quora.com
 151.101.73.2	ta.quora.com
 192.229.189.142	www.quora.com
+
+
+
 133.237.50.6	rd.rakuten.co.jp
 133.237.61.71	esearch.rakuten.co.jp
 23.40.72.233	www.rakuten.co.jp
 40.115.251.146	globalexpress.rakuten.co.jp
 96.7.133.108	books.rakuten.co.jp
 96.7.133.108	search.rakuten.co.jp
+
+
+
 104.27.188.178	rawgit.com
 151.139.237.11	cdn.rawgit.com
+
+
+
 52.2.61.110	reuters.com
 52.85.158.178	www.reuters.com
 184.26.117.115	agency.reuters.com
@@ -4204,6 +4645,9 @@ ff02::2  ip6-allrouters
 52.85.158.222	in.reuters.com
 52.85.158.239	mx.reuters.com
 52.85.158.61	cn.reuters.com
+
+
+
 54.192.75.139	getsync.com
 54.192.75.23	download-cdn.getsync.com
 52.20.43.156	update.getsync.com
@@ -4211,10 +4655,22 @@ ff02::2  ip6-allrouters
 54.192.75.46	config.resilio.com
 54.192.75.27	www.resilio.com
 54.82.227.39	new-bench.resilio.com
+
+
+
 13.107.246.10	rixcloud.com
 151.101.1.195	rixcloud.us
+
+
+
 104.16.215.232	www.scmp.com
+
+
+
 104.28.18.85	shadowsocks.org
+
+
+
 144.2.3.20	www.slideshare.net
 144.2.3.20	de.slideshare.net
 144.2.3.20	es.slideshare.net
@@ -4223,8 +4679,14 @@ ff02::2  ip6-allrouters
 108.174.10.14	engineering.slideshare.net
 108.174.10.14	blog.slideshare.net
 108.174.10.19	slideshare.net
+
+
+
 45.64.64.96	www.smartdnsproxy.com
 54.215.198.167	support.smartdnsproxy.com
+
+
+
 68.232.44.127	soundcloud.com
 68.232.44.127	api-v2.soundcloud.com
 68.232.44.127	telemetry.soundcloud.com
@@ -4244,25 +4706,55 @@ ff02::2  ip6-allrouters
 72.21.91.96	ec-preview-media.sndcdn.com
 72.21.91.96	style.sndcdn.com
 72.21.91.96	va.sndcdn.com
+
+
+
 216.218.239.62	startpage.com
 216.218.239.22	www.startpage.com
 64.71.175.181	www.ixquick.com
 64.71.175.181	ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
+
+
+
 23.42.45.238	steamcommunity.com
+
+
+
 104.27.131.29	supchina.com
+
+
+
 23.10.10.243	www.swissinfo.ch
+
+
+
 199.83.128.108	www.economist.com
+
+
+
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com
 52.221.46.214	api.theinitium.com
+
+
+
 192.229.179.32	www.thenation.com
+
+
+
 104.16.230.14	www.thetvdb.com
+
+
+
 118.143.30.216	topick.hket.com
 118.143.30.165	inlog01.hket.com
 118.143.30.220	static01.hket.com
 118.143.30.175	plus.hket.com
+
+
+
 119.161.14.19	tumblr.com
 119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
@@ -4299,7 +4791,13 @@ ff02::2  ip6-allrouters
 66.6.32.162	px.srvcs.tumblr.com
 54.192.109.252	96.media.tumblr.com
 152.199.38.136	97.media.tumblr.com
+
+
+
 81.3.6.162	app.tutanota.com
+
+
+
 149.154.166.206	telegram.org
 149.154.166.206	desktop.telegram.org
 149.154.166.206	core.telegram.org
@@ -4318,6 +4816,9 @@ ff02::2  ip6-allrouters
 149.154.167.118	telegram.me
 149.154.167.118	t.me
 149.154.167.80	updates.tdesktop.com
+
+
+
 104.198.14.52	ooni.torproject.org
 116.202.120.165	torproject.org
 116.202.120.165	www.torproject.org
@@ -4369,6 +4870,9 @@ ff02::2  ip6-allrouters
 94.130.28.195	metrics.torproject.org
 94.130.28.196	db.torproject.org
 94.130.28.202	lists.torproject.org
+
+
+
 104.94.41.138	api.twitch.tv
 151.101.110.167	gql.twitch.tv
 151.101.230.167	www.twitch.tv
@@ -4405,15 +4909,30 @@ ff02::2  ip6-allrouters
 54.69.142.1	spade.sci.twitch.tv
 54.71.196.178	passport.twitch.tv
 54.84.222.78	app.twitch.tv
+
+
+
 117.18.237.70	abs.twimg.com
 117.18.237.70	pbs.twimg.com
 117.18.237.70	ton.twimg.com
 117.18.237.70	cdn.syndication.twimg.com
 192.229.232.217	video.twimg.com
+
+
+
 104.28.18.4	uncyclopedia.tw
+
+
+
 192.124.249.65	www.upmedia.mg
+
+
+
 151.101.120.207	www.urbandictionary.com
 151.101.240.207	api.urbandictionary.com
+
+
+
 151.101.0.217	vimeo.com
 151.101.192.217	api.vimeo.com
 151.101.64.217	www.vimeo.com
@@ -4422,12 +4941,24 @@ ff02::2  ip6-allrouters
 151.101.2.109	f.vimeocdn.com
 151.101.64.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
+
+
+
 96.7.120.42	www.voachinese.com
 96.7.120.42	www.voanews.com
 96.7.120.42	av.voanews.com
 96.7.120.42	gdb.voanews.com
+
+
+
 149.56.30.149	vnet.link
+
+
+
 192.229.173.207	www.w3schools.com
+
+
+
 158.85.5.203	www-cdn.whatsapp.net
 158.85.5.203	faq.whatsapp.com
 158.85.5.203	crashlogs.whatsapp.net
@@ -4468,14 +4999,29 @@ ff02::2  ip6-allrouters
 169.63.73.124	e14.whatsapp.net
 169.63.73.124	e15.whatsapp.net
 169.63.73.124	e16.whatsapp.net
+
+
+
 82.165.229.94	suche.web.de
 54.93.172.67	lokale.suche.web.de
+
+
+
 72.21.91.41	cloud.webtype.com
+
+
+
 95.211.113.131	wikileaks.org
 95.211.113.131	www.wikileaks.org
 141.105.65.113	file.wikileaks.org
+
+
+
 198.35.26.96	zh.wikinews.org
 198.35.26.96	zh.m.wikinews.org
+
+
+
 198.35.26.96	www.wikipedia.org
 198.35.26.96	login.wikimedia.org
 198.35.26.96	wuu.wikipedia.org
@@ -4487,6 +5033,9 @@ ff02::2  ip6-allrouters
 198.35.26.96	ug.wikipedia.org
 198.35.26.96	ug.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
+
+
+
 106.10.231.23	static.flickr.com
 69.147.88.7	flickr.com
 119.161.14.18	m.flickr.com
@@ -4508,6 +5057,9 @@ ff02::2  ip6-allrouters
 27.123.200.67	tw.search.yahoo.com
 106.10.218.137	search.yahoo.com
 182.22.25.124	search.yahoo.co.jp
+
+
+
 108.177.125.136	youtube.com
 108.177.125.136	youtu.be
 108.177.125.136	au.youtube.com
@@ -4541,7 +5093,13 @@ ff02::2  ip6-allrouters
 216.58.217.174	s.ytimg.com
 64.15.118.42	www.youtube.com
 216.58.194.46	m.youtube.com
+
+
+
 104.31.79.57	you-get.org
+
+
+
 74.125.67.1	ams15s21-in-f1.1e100.net
 216.239.36.4	ams15s21-in-f4.1e100.net
 216.239.36.5	ams15s21-in-f5.1e100.net
@@ -4556,6 +5114,9 @@ ff02::2  ip6-allrouters
 216.239.36.4	ams15s22-in-f4.1e100.net
 216.239.36.5	ams15s22-in-f5.1e100.net
 216.239.36.6	ams15s22-in-f7.1e100.net
+
+
+
 203.208.41.41	redirector.c.2mdn.net
 194.9.24.76	r1---sn-5uh5o-f5f6.c.2mdn.net
 194.9.24.77	r2---sn-5uh5o-f5f6.c.2mdn.net
@@ -5245,6 +5806,9 @@ ff02::2  ip6-allrouters
 74.125.106.138	r4---sn-oguesnze.c.2mdn.net
 74.125.106.139	r5---sn-oguesnze.c.2mdn.net
 74.125.106.140	r6---sn-oguesnze.c.2mdn.net
+
+
+
 203.208.41.41	redirector.c.bigcache.googleapis.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.bigcache.googleapis.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.bigcache.googleapis.com
@@ -5934,6 +6498,9 @@ ff02::2  ip6-allrouters
 74.125.106.138	r4---sn-oguesnze.c.bigcache.googleapis.com
 74.125.106.139	r5---sn-oguesnze.c.bigcache.googleapis.com
 74.125.106.140	r6---sn-oguesnze.c.bigcache.googleapis.com
+
+
+
 203.208.41.41	redirector.c.chat.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.chat.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.chat.google.com
@@ -6623,6 +7190,9 @@ ff02::2  ip6-allrouters
 74.125.106.138	r4---sn-oguesnze.c.chat.google.com
 74.125.106.139	r5---sn-oguesnze.c.chat.google.com
 74.125.106.140	r6---sn-oguesnze.c.chat.google.com
+
+
+
 203.208.41.41	redirector.c.docs.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.docs.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.docs.google.com
@@ -7332,6 +7902,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.docs.google.com
 173.194.51.88	r19---sn-oguesnle.c.docs.google.com
 173.194.51.89	r20---sn-oguesnle.c.docs.google.com
+
+
+
 203.208.41.41	redirector.c.doc-0-0-sj.sj.googleusercontent.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.doc-0-0-sj.sj.googleusercontent.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.doc-0-0-sj.sj.googleusercontent.com
@@ -8041,6 +8614,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
 173.194.51.88	r19---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
 173.194.51.89	r20---sn-oguesnle.c.doc-0-0-sj.sj.googleusercontent.com
+
+
+
 203.208.41.41	redirector.c.drive.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.drive.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.drive.google.com
@@ -8750,6 +9326,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.drive.google.com
 173.194.51.88	r19---sn-oguesnle.c.drive.google.com
 173.194.51.89	r20---sn-oguesnle.c.drive.google.com
+
+
+
 203.208.41.41	redirector.c.inbox.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.inbox.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.inbox.google.com
@@ -9459,6 +10038,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.inbox.google.com
 173.194.51.88	r19---sn-oguesnle.c.inbox.google.com
 173.194.51.89	r20---sn-oguesnle.c.inbox.google.com
+
+
+
 203.208.41.41	redirector.c.mail.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.mail.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.mail.google.com
@@ -10168,6 +10750,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.mail.google.com
 173.194.51.88	r19---sn-oguesnle.c.mail.google.com
 173.194.51.89	r20---sn-oguesnle.c.mail.google.com
+
+
+
 203.208.41.41	redirector.c.offline.maps.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.offline.maps.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.offline.maps.google.com
@@ -10877,6 +11462,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.offline.maps.google.com
 173.194.51.88	r19---sn-oguesnle.c.offline.maps.google.com
 173.194.51.89	r20---sn-oguesnle.c.offline.maps.google.com
+
+
+
 203.208.41.41	redirector.c.pack.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.pack.google.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.pack.google.com
@@ -11586,6 +12174,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.pack.google.com
 173.194.51.88	r19---sn-oguesnle.c.pack.google.com
 173.194.51.89	r20---sn-oguesnle.c.pack.google.com
+
+
+
 203.208.41.40	redirector.gvt1.com
 203.208.41.40	redirector.c.play.google.com
 194.9.24.76	r1---sn-5uh5o-f5f6.gvt1.com
@@ -13004,6 +13595,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.play.google.com
 173.194.51.88	r19---sn-oguesnle.c.play.google.com
 173.194.51.89	r20---sn-oguesnle.c.play.google.com
+
+
+
 203.208.41.41	redirector.a1.googlevideo.com
 203.208.41.41	redirector.c.video.google.com
 203.208.41.41	redirector.googlevideo.com
@@ -15111,6 +15705,9 @@ ff02::2  ip6-allrouters
 74.125.106.138	r4---sn-oguesnze.c.video.google.com
 74.125.106.139	r5---sn-oguesnze.c.video.google.com
 74.125.106.140	r6---sn-oguesnze.c.video.google.com
+
+
+
 203.208.41.41	redirector.c.youtube.com
 194.9.24.76	r1---sn-5uh5o-f5f6.c.youtube.com
 194.9.24.77	r2---sn-5uh5o-f5f6.c.youtube.com
@@ -15820,6 +16417,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.c.youtube.com
 173.194.51.88	r19---sn-oguesnle.c.youtube.com
 173.194.51.89	r20---sn-oguesnle.c.youtube.com
+
+
+
 203.208.41.41	redirector.xn--ngstr-lra8j.com
 194.9.24.76	r1---sn-5uh5o-f5f6.xn--ngstr-lra8j.com
 194.9.24.77	r2---sn-5uh5o-f5f6.xn--ngstr-lra8j.com
@@ -16529,6 +17129,9 @@ ff02::2  ip6-allrouters
 173.194.51.87	r18---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
+
+
+
 104.25.179.28	freewechat.com
 104.25.239.102	freeweibo.com
 104.25.53.117	cc.greatfire.org
@@ -16538,7 +17141,19 @@ ff02::2  ip6-allrouters
 104.25.53.117	zh.greatfire.org
 104.25.54.117	greatfire.org
 104.28.9.217	pao-pao.net
-2020-09-09_09:34:32
+
+
+
+
+#
+# --- Whitelist end --- 
+#
+
+#
+# --- Blacklist start --- 
+#
+2020-09-12_09:38:21
+
 0.0.0.0	0.0.0.0
 0.0.0.0	0.0.0.0.beeglivesex.com
 0.0.0.0	0.0.0.0.creative.hpyrdr.com
@@ -18388,6 +19003,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	5d4a1.v.fwmrm.net
 0.0.0.0	5ebec5.r.axf8.net
 0.0.0.0	5.estasiatica.com
+0.0.0.0	5.eventiduepuntozero.com
 0.0.0.0	5ex.com
 0.0.0.0	5eyz.flzee.com
 0.0.0.0	5finder.com
@@ -18677,6 +19293,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	8dcyqu.c.admaster.com.cn
 0.0.0.0	8fvchzuz.myutilitydomain.com
 0.0.0.0	8gold.com
+0.0.0.0	8hj500ro4t7.groovepages.com
 0.0.0.0	8jd2lfsq.me
 0.0.0.0	8.jrj.com
 0.0.0.0	8.jrj.com.cn
@@ -19203,6 +19820,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	absolutelyfreemovies.com
 0.0.0.0	absolutelyric.com
 0.0.0.0	absolutethumbs.net
+0.0.0.0	absolutezeros.duckdns.org
 0.0.0.0	absolutnieruchomosci.pl
 0.0.0.0	absolut-series.com
 0.0.0.0	absorbingband.com
@@ -32005,6 +32623,9 @@ ff02::2  ip6-allrouters
 0.0.0.0	azabu-u.ac.jp
 0.0.0.0	azawebspace.com
 0.0.0.0	azcentra.app.ur.gcion.com
+0.0.0.0	a.zeroredirect1.com
+0.0.0.0	a.zeroredirect2.com
+0.0.0.0	a.zeroredirect.com
 0.0.0.0	azidacolours.blogspot.com
 0.0.0.0	azkempire.com
 0.0.0.0	azlink.sakuratan.biz
@@ -35257,6 +35878,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	budujzdrowie.pl
 0.0.0.0	buesink.com
 0.0.0.0	buffalogoesout.com
+0.0.0.0	buf.lemonde.fr
 0.0.0.0	buforstudio.pl
 0.0.0.0	bugera.popunder.ru
 0.0.0.0	bugly.qq.com
@@ -35504,9 +36126,13 @@ ff02::2  ip6-allrouters
 0.0.0.0	byutv.d1.sc.omtrdc.net
 0.0.0.0	b.zabbixx.com
 0.0.0.0	bzclk.baidu.com
+0.0.0.0	b.zeroredirect1.com
+0.0.0.0	b.zeroredirect2.com
+0.0.0.0	b.zeroredirect.com
 0.0.0.0	bzn.c0.pl
 0.0.0.0	b.zog.link
 0.0.0.0	bzresults.122.2o7.net
+0.0.0.0	c0011.boursorama.com
 0.0.0.0	c00162-dl.urbanairship.com
 0.0.0.0	c001.trax-ad.jp
 0.0.0.0	c02.3dwwwgame.com
@@ -37940,6 +38566,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	clickxchange.com
 0.0.0.0	click.yhd.com
 0.0.0.0	clickz.com
+0.0.0.0	click.zeroclickdirect.com
 0.0.0.0	click.zipcodez.com
 0.0.0.0	click.zxxds.net
 0.0.0.0	clicz.com
@@ -40273,6 +40900,9 @@ ff02::2  ip6-allrouters
 0.0.0.0	czasopisma-ik.pl
 0.0.0.0	cz.bbelements.com
 0.0.0.0	czemarserwis.home.pl
+0.0.0.0	c.zeroredirect1.com
+0.0.0.0	c.zeroredirect2.com
+0.0.0.0	c.zeroredirect.com
 0.0.0.0	czerwinski.ciesielstwo.cba.pl
 0.0.0.0	czf.cchfjz.com
 0.0.0.0	cz-gmtdmp.mookie1.com
@@ -42553,6 +43183,8 @@ ff02::2  ip6-allrouters
 0.0.0.0	dz2017.zdzxyplyt.com
 0.0.0.0	dz2fz0bgyq9tn.cloudfront.net
 0.0.0.0	dzairads.com
+0.0.0.0	d.zeroredirect2.com
+0.0.0.0	d.zeroredirect.com
 0.0.0.0	dzheker.com
 0.0.0.0	dziadekdogramofonu.pl
 0.0.0.0	dzieciakisportaki.pl
@@ -44807,6 +45439,8 @@ ff02::2  ip6-allrouters
 0.0.0.0	ezdns.ezimar.com
 0.0.0.0	e-zeitung.de
 0.0.0.0	ezerdekes.eu
+0.0.0.0	e.zeroredirect2.com
+0.0.0.0	e.zeroredirect.com
 0.0.0.0	ezfintechcorp.com
 0.0.0.0	e.zfrgkm.cn
 0.0.0.0	e.zg39b.cn
@@ -45189,6 +45823,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	fatcatrewards.com
 0.0.0.0	fatfasts-4tmz.world
 0.0.0.0	fatfreekitchen.us.intellitxt.com
+0.0.0.0	fathizerox.blogspot.com
 0.0.0.0	faujimart.com
 0.0.0.0	faultycanvas.com
 0.0.0.0	faultyfowl.com
@@ -46436,6 +47071,8 @@ ff02::2  ip6-allrouters
 0.0.0.0	f.yueyetiyu.com
 0.0.0.0	fyxm.net
 0.0.0.0	fz863.com
+0.0.0.0	f.zeroredirect2.com
+0.0.0.0	f.zeroredirect.com
 0.0.0.0	fz.letv.com
 0.0.0.0	fzz.cloud.1234507.com
 0.0.0.0	g0.doubleclick.net
@@ -48168,6 +48805,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	gyro.appdriver.jp
 0.0.0.0	gyros.es
 0.0.0.0	g.zedo.com
+0.0.0.0	g.zeroredirect.com
 0.0.0.0	g.zhangaiwan.com
 0.0.0.0	gzhctryy.com
 0.0.0.0	g.zhgdhe.com
@@ -49336,6 +49974,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	hzdmacore.kejet.net
 0.0.0.0	hzdoctor.com
 0.0.0.0	h.zedo.com
+0.0.0.0	h.zeroredirect.com
 0.0.0.0	hzguchi.com
 0.0.0.0	hz.miercn.com
 0.0.0.0	hz.mmstat.com
@@ -51431,6 +52070,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	izakowalska.pl
 0.0.0.0	izarc.fr
 0.0.0.0	izar.iad-03.braze.com
+0.0.0.0	i.zeroredirect.com
 0.0.0.0	izitracking.izimailing.com
 0.0.0.0	izofiber.pl
 0.0.0.0	izzy-cars.nl
@@ -52413,6 +53053,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	jyz.fjtzjy.com
 0.0.0.0	jzclick.soso.com
 0.0.0.0	jzdn.talk-hk.cn
+0.0.0.0	j.zeroredirect.com
 0.0.0.0	j.zhdap.com
 0.0.0.0	jzigsobgsmxdmr.bid
 0.0.0.0	jzkapp.com
@@ -53128,6 +53769,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ky.5.p2l.info
 0.0.0.0	kyric.com
 0.0.0.0	kyrsu.frost-electric-supply.com
+0.0.0.0	k.zeroredirect.com
 0.0.0.0	kzni.jwhfn.cn
 0.0.0.0	kzprojekt.pl
 0.0.0.0	kz.search.need2find.com
@@ -54237,6 +54879,8 @@ ff02::2  ip6-allrouters
 0.0.0.0	logsbin.dantri.com.vn
 0.0.0.0	logs.cnfol.com
 0.0.0.0	logs.comics.com
+0.0.0.0	logs.datadoghq.com
+0.0.0.0	logs.datadoghq.eu
 0.0.0.0	logsdk.qq.com
 0.0.0.0	log.sdk.zadn.vn
 0.0.0.0	logs.eresmas.com
@@ -54627,6 +55271,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	lytics.io
 0.0.0.0	lyunsd.cn
 0.0.0.0	lz.chaelc.com
+0.0.0.0	l.zeroredirect.com
 0.0.0.0	lzjl.com
 0.0.0.0	lz.mainentrypoint.com
 0.0.0.0	lz.whafwl.com
@@ -57088,6 +57733,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	miaobeichina.com
 0.0.0.0	miaorj.cn
 0.0.0.0	miaozhen.com
+0.0.0.0	miastadwazero.pl
 0.0.0.0	miasto24h.dkonto.pl
 0.0.0.0	miasto-wiadomosci-24h.x9.eu
 0.0.0.0	m.ib345.cn
@@ -59000,6 +59646,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	m.zcaod.com
 0.0.0.0	m.zeiaa.com
 0.0.0.0	m.zenffs.cn
+0.0.0.0	m.zeroredirect.com
 0.0.0.0	m.zfrgkm.cn
 0.0.0.0	m.zg39b.cn
 0.0.0.0	mzgov.net
@@ -60511,6 +61158,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	nz.adserver.yahoo.com
 0.0.0.0	nzaza.com
 0.0.0.0	nz-cdn.effectivemeasure.net
+0.0.0.0	n.zeroredirect.com
 0.0.0.0	nzfc.2zm4.cn
 0.0.0.0	nz-gmtdmp.mookie1.com
 0.0.0.0	nz-ssl.effectivemeasure.net
@@ -61999,6 +62647,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	ozcanelektronik.com.tr
 0.0.0.0	ozebox.pl
 0.0.0.0	ozemag.com
+0.0.0.0	o.zeroredirect.com
 0.0.0.0	ozertesa.com
 0.0.0.0	ozkaltd.com
 0.0.0.0	ozon.122.2o7.net
@@ -65174,6 +65823,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	py.wikigifth.com
 0.0.0.0	pyxis.iad.appboy.com
 0.0.0.0	pz21.pl
+0.0.0.0	p.zeroredirect.com
 0.0.0.0	pzu.services
 0.0.0.0	q.0451106.com
 0.0.0.0	q12.cnzz.com
@@ -65393,6 +66043,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	qxm.pluto.sogou.com
 0.0.0.0	qxxru.linknotification.com
 0.0.0.0	qy.corrmedic.ru
+0.0.0.0	q.zeroredirect.com
 0.0.0.0	qz.informs.com
 0.0.0.0	qzip.cjb.net
 0.0.0.0	qzxcvb.m.zwdu.com
@@ -67797,6 +68448,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	scorecardresearch.com
 0.0.0.0	scoremygift.com
 0.0.0.0	scorepconline.club
+0.0.0.0	score.zeroclickfraud.com
 0.0.0.0	scottishstuff-online.com
 0.0.0.0	scottrade.112.2o7.net
 0.0.0.0	scounter.rambler.ru
@@ -71898,6 +72550,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	storecentr.su
 0.0.0.0	storeconfig.mistat.intl.xiaomi.com
 0.0.0.0	storecor.net
+0.0.0.0	storeoverlylatestapplication.best
 0.0.0.0	store.ptqy.gitv.tv
 0.0.0.0	storesurprise.com
 0.0.0.0	store.videojj.com
@@ -72551,6 +73204,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	szemlelo.com
 0.0.0.0	szene1.oewabox.at
 0.0.0.0	szerencses.info
+0.0.0.0	s.zeroredirect.com
 0.0.0.0	s.zgclmw.cn
 0.0.0.0	szinhaz.hu
 0.0.0.0	s.zjhoudao.com
@@ -75710,6 +76364,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	tz.1688988.com
 0.0.0.0	tz284.com
 0.0.0.0	tz.70e.me
+0.0.0.0	t.zeroredirect.com
 0.0.0.0	t.zisu.cn.com
 0.0.0.0	t.zqtk.net
 0.0.0.0	tzr.grejt.pl
@@ -76097,6 +76752,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	uole.ad.uol.com.br
 0.0.0.0	uolfreeservers.112.2o7.net
 0.0.0.0	uoljunocom2.112.2o7.net
+0.0.0.0	uolnetzeronet2.112.2o7.net
 0.0.0.0	uolphotosite.112.2o7.net
 0.0.0.0	u.openx.net
 0.0.0.0	u.optorb.com
@@ -79684,6 +80340,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.about-preferences.host
 0.0.0.0	www.abrakasba.space
 0.0.0.0	www.abrogatesdv.info
+0.0.0.0	www.absolutezeros.duckdns.org
 0.0.0.0	www.absolutnieruchomosci.pl
 0.0.0.0	www.abtest.mistat.intl.xiaomi.com
 0.0.0.0	www.abtest.mistat.xiaomi.com
@@ -83072,6 +83729,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.fatcatrewards.com
 0.0.0.0	www.fatcatstar.com
 0.0.0.0	www.fathionmall.com
+0.0.0.0	www.fathizerox.blogspot.com
 0.0.0.0	www.fatpenguinmedia.com
 0.0.0.0	www.favicon.com
 0.0.0.0	www.favoriteadrequest.com
@@ -85948,6 +86606,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.mhpo4notrtmnp.n4t.co
 0.0.0.0	www.mhradio.org
 0.0.0.0	www.miami.ero-advertising.com
+0.0.0.0	www.miastadwazero.pl
 0.0.0.0	www.miasto24h.dkonto.pl
 0.0.0.0	www.miasto-wiadomosci-24h.x9.eu
 0.0.0.0	www.michalfigura.pl
@@ -91014,6 +91673,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	www.zentastic.com
 0.0.0.0	www.zerety.xyz
 0.0.0.0	www.zergnet.com
+0.0.0.0	www.zeroredirect2.com
 0.0.0.0	www.zespol-artigo.pl
 0.0.0.0	www.zespol-bonus.pl
 0.0.0.0	www.zespolcwiklice.pl
@@ -91183,6 +91843,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	wz.37wan.com
 0.0.0.0	wzdrowiupiekno.pl
 0.0.0.0	w.zenback.jp
+0.0.0.0	w.zeroredirect.com
 0.0.0.0	wzj.ywrjgzs.com
 0.0.0.0	wzorydokumentow.com.pl
 0.0.0.0	wzrkt.com
@@ -91636,6 +92297,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	xzc.wxgctz.com
 0.0.0.0	xz-development.oss-cn-beijing.aliyuncs.com
 0.0.0.0	xzegarsmiercix.prv.pl
+0.0.0.0	x.zeroredirect.com
 0.0.0.0	x.zhuyuanp.top
 0.0.0.0	xz.jave.xyz
 0.0.0.0	xzq.greenxf.net
@@ -92023,6 +92685,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	yyffeicd.m.qxs.la
 0.0.0.0	yyn.us
 0.0.0.0	yyt.irs01.com
+0.0.0.0	y.zeroredirect.com
 0.0.0.0	yzh.jyjhkz.com
 0.0.0.0	y.zp22.cn
 0.0.0.0	z0.extreme-dm.com
@@ -92069,6 +92732,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	z9.cnzz.com
 0.0.0.0	za10groszy.pl
 0.0.0.0	za1.sierra-fox.com
+0.0.0.0	za2.zeroredirect8.com
 0.0.0.0	zabashop.pl
 0.0.0.0	zabavazaodrasle.com
 0.0.0.0	zabawlandia.pl
@@ -92174,6 +92838,8 @@ ff02::2  ip6-allrouters
 0.0.0.0	zatznotfunny.us.intellitxt.com
 0.0.0.0	zawieszone.5p.pl
 0.0.0.0	zawijawa.pl
+0.0.0.0	za.zeroredirect1.com
+0.0.0.0	zb1.zeroredirect1.com
 0.0.0.0	zbest.in
 0.0.0.0	zbierajnagrody.bo.pl
 0.0.0.0	zbiornik.com
@@ -92182,8 +92848,10 @@ ff02::2  ip6-allrouters
 0.0.0.0	zbtqpkimkjcr.com
 0.0.0.0	zbwp6ghm.com
 0.0.0.0	zbyk.drl.pl
+0.0.0.0	zb.zeroredirect1.com
 0.0.0.0	zbz.m.qxs.la
 0.0.0.0	zc1.delta-boa.com
+0.0.0.0	zc1.zeroredirect11.com
 0.0.0.0	zc.adpush.cn
 0.0.0.0	zc.adswizz.com
 0.0.0.0	zc.biz.weibo.com
@@ -92193,6 +92861,9 @@ ff02::2  ip6-allrouters
 0.0.0.0	zcomunicacion.com
 0.0.0.0	zcontentlocker7gpa8a.xyz
 0.0.0.0	zcoup.com
+0.0.0.0	zc.zeroredirect1.com
+0.0.0.0	zd1.zeroredirect1.com
+0.0.0.0	zd1.zeroredirect6.com
 0.0.0.0	zdads.e-media.com
 0.0.0.0	zdaj-to.pl
 0.0.0.0	zdau-builder.122.2o7.net
@@ -92214,6 +92885,9 @@ ff02::2  ip6-allrouters
 0.0.0.0	zdw.w8.com.cn
 0.0.0.0	zdy.17110.com
 0.0.0.0	z.dynad.net
+0.0.0.0	zd.zeroredirect1.com
+0.0.0.0	zd.zeroredirect2.com
+0.0.0.0	ze1.zeroredirect1.com
 0.0.0.0	zealotnetworks-d.openx.net
 0.0.0.0	zealousfield.com
 0.0.0.0	zebraneo.com
@@ -92246,6 +92920,19 @@ ff02::2  ip6-allrouters
 0.0.0.0	zenzuu.com
 0.0.0.0	z.eosads.com
 0.0.0.0	zerety.xyz
+0.0.0.0	zeroredirect10.com
+0.0.0.0	zeroredirect11.com
+0.0.0.0	zeroredirect12.com
+0.0.0.0	zeroredirect1.com
+0.0.0.0	zeroredirect2.com
+0.0.0.0	zeroredirect3.com
+0.0.0.0	zeroredirect4.com
+0.0.0.0	zeroredirect5.com
+0.0.0.0	zeroredirect6.com
+0.0.0.0	zeroredirect7.com
+0.0.0.0	zeroredirect8.com
+0.0.0.0	zeroredirect9.com
+0.0.0.0	zeroredirect.com
 0.0.0.0	zespol-artigo.pl
 0.0.0.0	zespol-bonus.pl
 0.0.0.0	zespolcwiklice.pl
@@ -92259,12 +92946,16 @@ ff02::2  ip6-allrouters
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zevents.com
 0.0.0.0	z.extreme-dm.com
+0.0.0.0	ze.zeroredirect1.com
+0.0.0.0	ze.zeroredirect2.com
 0.0.0.0	zf1.quebec-bin.com
+0.0.0.0	zf1.zeroredirect11.com
 0.0.0.0	zfgn.hyxsoft.com
 0.0.0.0	zfhg.digitaldesire.com
 0.0.0.0	zfjn.zkfborg.cn
 0.0.0.0	zfm.oewabox.at
 0.0.0.0	zfotos.fromru.su
+0.0.0.0	zf.zeroredirect1.com
 0.0.0.0	zgarniij_vouchher.skroc.pl
 0.0.0.0	zgarnijplik.pl
 0.0.0.0	zgcslam.apnet.pl
@@ -92278,6 +92969,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zgwalconadziewczyna.eu
 0.0.0.0	zgwalconadziewczyna.online
 0.0.0.0	zgwalconadziewczyna.site
+0.0.0.0	zh1.zeroredirect11.com
 0.0.0.0	zhalehziba.com
 0.0.0.0	zhaniyasoft.ir
 0.0.0.0	zhaoyouxiu.com
@@ -92327,6 +93019,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zirondelli.it
 0.0.0.0	zirve100.com
 0.0.0.0	ziyu.net
+0.0.0.0	zj1.zeroredirect1.com
 0.0.0.0	zjednoczonekrolestwo.pl
 0.0.0.0	zjjgtz.com
 0.0.0.0	zjjlf.croukwexdbyerr.net
@@ -92334,8 +93027,10 @@ ff02::2  ip6-allrouters
 0.0.0.0	zjm.zzmmkj.com
 0.0.0.0	z.junksport.com
 0.0.0.0	zjvnet.allyes.com
+0.0.0.0	zj.zeroredirect1.com
 0.0.0.0	zkic.com
 0.0.0.0	zkotami.pl
+0.0.0.0	zk.zeroredirect1.com
 0.0.0.0	zl1.bravo-deg.com
 0.0.0.0	zlecone.xn.pl
 0.0.0.0	zlifestyle-d.openx.net
@@ -92344,6 +93039,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zlp6s.pw
 0.0.0.0	zlsw.nnjxqd.com
 0.0.0.0	zly.dlhxgg.com
+0.0.0.0	zm1.zeroredirect5.com
 0.0.0.0	zm232.com
 0.0.0.0	zmall.pl
 0.0.0.0	zmedia.com
@@ -92415,6 +93111,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet
 0.0.0.0	zqtk.net
 0.0.0.0	zr0.net
+0.0.0.0	zr1.zeroredirect11.com
 0.0.0.0	zrh.bewilderinglyalbumin.com
 0.0.0.0	zrobswiatlo.pl
 0.0.0.0	zrrat.31772.club
@@ -92427,6 +93124,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zs15.cnzz.com
 0.0.0.0	zs16.cnzz.com
 0.0.0.0	zs1.cnzz.com
+0.0.0.0	zs1.zeroredirect1.com
 0.0.0.0	zs25.cnzz.com
 0.0.0.0	zs2.cnzz.com
 0.0.0.0	zs3.cnzz.com
@@ -92517,6 +93215,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zz.bdstatic.com
 0.0.0.0	zz.cqcounter.com
 0.0.0.0	zzcw.office-mall.net
+0.0.0.0	z.zeroredirect.com
 0.0.0.0	zzhc.vnet.cn
 0.0.0.0	zzimg.51.la
 0.0.0.0	zzjs2.firefang.cn
@@ -92531,3 +93230,7 @@ ff02::2  ip6-allrouters
 0.0.0.0	zzznan.com
 0.0.0.0	zzz.onion.pet
 0.0.0.0	zzzrtrcm2.com
+
+#
+# --- Blacklist end --- 
+#

@@ -335,6 +335,7 @@ aimatch.com
 airpr.com
 ak-is.net
 aklamator.com
+akro.io
 akstat.io
 alcmpn.com
 alephd.com
@@ -411,6 +412,7 @@ analytics.mercadolivre.com.br
 analytics.mercadopago.com
 analytics.mlstatic.com
 analytics.motionarray.com
+analytics.nerdonthestreet.com
 analytics.nike.com
 analytics.openelec.tv
 analytics.plex.tv
@@ -812,6 +814,7 @@ conviva.com
 convrse.media
 conyak.com
 cookiebot.com
+cookielaw.org
 cookiesv2.publiekeomroep.nl
 corp.aol.com
 corporate-ir.net
@@ -1020,6 +1023,7 @@ elabs7.com
 elabs8.com
 elabs9.com
 elasticad.net
+elevationadvertising.com
 elitechnology.com
 ellard.biz
 ellard.net
@@ -12938,6 +12942,7 @@ stats.jobs.bg
 stats.kaltura.com
 stats.l.doubleclick.net
 stats.merriam-webster.com
+stats.newsweek.com
 stats.nextcloud.com
 stats.olark.com
 stats.paypal.com

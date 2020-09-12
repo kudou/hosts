@@ -420,8 +420,6 @@
 
 0.0.0.0	d.audienceiq.com
 
-0.0.0.0	ads.autoscout24.com
-
 0.0.0.0	ads.autotrader.com
 
 0.0.0.0	adserving.autotrader.com
@@ -431,8 +429,6 @@
 0.0.0.0	avantlink.com
 
 0.0.0.0	www.avantlink.com
-
-0.0.0.0	ias.avidmedia.net
 
 0.0.0.0	rev.avsforum.com
 
@@ -738,8 +734,6 @@
 
 0.0.0.0	www.dataforce.net
 
-0.0.0.0	daylogs.com
-
 0.0.0.0	advertising.dclux.com
 
 0.0.0.0	tracking.dc-storm.com
@@ -795,8 +789,6 @@
 0.0.0.0	ads.double.net
 
 0.0.0.0	ad03.doubleadx.com
-
-0.0.0.0	marketing.doubleclickindustries.com
 
 0.0.0.0	imgn.dt00.net
 
@@ -1117,8 +1109,6 @@
 0.0.0.0	hit-now.com
 
 0.0.0.0	hitslog.com
-
-0.0.0.0	www.hittracker.org
 
 0.0.0.0	hitwebcounter.com
 
@@ -1536,8 +1526,6 @@
 
 
 
-0.0.0.0	n214adserv.com
-
 0.0.0.0	www3.nationalgeographic.com
 
 0.0.0.0	ads.nationchannel.com
@@ -1910,8 +1898,6 @@
 
 0.0.0.0	imadworks.rediff.com
 
-0.0.0.0	redirectcpv.com
-
 0.0.0.0	js.ua.redtram.com
 
 0.0.0.0	n4p.ua.redtram.com
@@ -1943,8 +1929,6 @@
 0.0.0.0	p.rfihub.com
 
 0.0.0.0	sync.rhythmxchange.com
-
-0.0.0.0	richmedia247.com
 
 0.0.0.0	overlay.ringtonematcher.com
 
@@ -1994,8 +1978,6 @@
 
 0.0.0.0	s4le.net
 
-0.0.0.0	ads.sagabg.net
-
 0.0.0.0	dt.scanscout.com
 
 0.0.0.0	media.scanscout.com
@@ -2042,8 +2024,6 @@
 
 0.0.0.0	goska.siol.net
 
-0.0.0.0	advertpro.sitepoint.com
-
 0.0.0.0	domainpark.sitelutions.com
 
 0.0.0.0	www.sitestatslive.com
@@ -2083,8 +2063,6 @@
 0.0.0.0	tags.spider-mails.com
 
 0.0.0.0	dp2.specificclick.net
-
-0.0.0.0	www.splem.net
 
 
 
@@ -2226,8 +2204,6 @@
 
 0.0.0.0	cdn.total-media.net
 
-0.0.0.0	winappcenter.total-secure.info
-
 0.0.0.0	ams.toxity.biz
 
 0.0.0.0	www.tr100.net
@@ -2245,8 +2221,6 @@
 0.0.0.0	usage.trackjs.com
 
 0.0.0.0	api.trackuity.com
-
-0.0.0.0	ads.tradeads.eu
 
 0.0.0.0	tm.tradetracker.net
 
@@ -2697,8 +2671,6 @@
 0.0.0.0	tools.ad-net.co.uk
 
 
-
-0.0.0.0	am-display.com
 
 0.0.0.0	statistik.polizei-beratung.de
 
@@ -3402,8 +3374,6 @@
 
 
 
-0.0.0.0	adstats.adviva.net
-
 0.0.0.0	smp.adviva.net
 
 
@@ -3801,8 +3771,6 @@
 0.0.0.0	cdn1.smartadserver.com
 
 0.0.0.0	anon.doubleclick.speedera.net
-
-0.0.0.0	fms2.eyewonder.speedera.net
 
 0.0.0.0	d.thanksearch.com
 
@@ -4893,8 +4861,6 @@
 
 
 0.0.0.0	t.adk2.com
-
-0.0.0.0	www.bitspresentdownload.com
 
 0.0.0.0	www.bundlerepositorycontent.com
 
@@ -9548,25 +9514,13 @@
 
 
 
-0.0.0.0	scambiobanner.altervista.org
-
 0.0.0.0	avazudsp.net
 
 0.0.0.0	ads2.opensubtitles.org
 
-0.0.0.0	test.wiredminds.de
 
-0.0.0.0	wm.wiredminds.de
-
-
-
-0.0.0.0	eps-analyzer.de
 
 0.0.0.0	openx.itsmassive.com
-
-0.0.0.0	openads.motorrad-net.at
-
-0.0.0.0	static.openads.motorrad-net.at
 
 0.0.0.0	ads.sysmesh.com
 
@@ -9584,15 +9538,11 @@
 
 0.0.0.0	relay.mobile.toboads.com
 
-0.0.0.0	count.yandeg.ru
-
 
 
 0.0.0.0	adbuka.com
 
 0.0.0.0	www.adbuka.com
-
-0.0.0.0	www.blogads.de
 
 0.0.0.0	ads.energy-torrent.com
 
@@ -9602,13 +9552,7 @@
 
 0.0.0.0	block.sw1block.com
 
-0.0.0.0	stats.warenform.de
 
-
-
-0.0.0.0	www.adtraff.ru
-
-0.0.0.0	advombat.ru
 
 0.0.0.0	am15.net
 
@@ -9622,17 +9566,11 @@
 
 0.0.0.0	target.e-generator.com
 
-0.0.0.0	target.net.finam.ru
-
 0.0.0.0	track.idtargeting.com
 
 0.0.0.0	jadcenter.com
 
 0.0.0.0	s300.meetrics.net
-
-0.0.0.0	wh.motorpresse-statistik.de
-
-0.0.0.0	js.smi2.ru
 
 0.0.0.0	target.smi2.net
 
@@ -9650,19 +9588,13 @@
 
 0.0.0.0	eu-sonar.sociomantic.com
 
-0.0.0.0	www.stats4free.de
-
 0.0.0.0	ads.videofen.com
-
-0.0.0.0	wmapp.wiredminds.de
 
 
 
 0.0.0.0	coin-hive.com
 
 0.0.0.0	dc56.s290.meetrics.net
-
-0.0.0.0	ad10.play3.de
 
 
 
@@ -9672,15 +9604,9 @@
 
 0.0.0.0	de1.frosmo.com
 
-0.0.0.0	www.sitecounter.be
-
 0.0.0.0	afx.tagcdn.com
 
 0.0.0.0	pix.tagcdn.com
-
-0.0.0.0	www.weitclick.de
-
-0.0.0.0	wm-goldenclick.ru
 
 
 
@@ -9740,29 +9666,9 @@
 
 
 
-0.0.0.0	get.mirando.de
-
-
-
 0.0.0.0	r.refinedads.com
 
 
-
-0.0.0.0	limg.adspirit.de
-
-
-
-0.0.0.0	taz.adspirit.de
-
-0.0.0.0	urban.adspirit.de
-
-
-
-0.0.0.0	admention.adspirit.de
-
-0.0.0.0	adx.adspirit.de
-
-0.0.0.0	lidlretargeting.adspirit.de
 
 0.0.0.0	ruemedia.adspirit.net
 
@@ -9806,17 +9712,7 @@
 
 
 
-0.0.0.0	folkd.put.omnimon.de
-
 0.0.0.0	openx.omniton.net
-
-
-
-0.0.0.0	cdn.adspirit.de
-
-
-
-0.0.0.0	ad4mat.de
 
 
 
@@ -10005,8 +9901,6 @@
 
 
 0.0.0.0	ads.artsopolis.com
-
-0.0.0.0	www.logging.to
 
 
 
@@ -11494,8 +11388,6 @@
 
 0.0.0.0	pixel.solvemedia.com
 
-0.0.0.0	fms2.pointroll.speedera.net
-
 0.0.0.0	ad-cdn.technoratimedia.com
 
 0.0.0.0	demoq.use-trade.com
@@ -12558,19 +12450,11 @@
 
 
 
-0.0.0.0	codead.impresionesweb.com
-
-0.0.0.0	codenew.impresionesweb.com
-
 0.0.0.0	gad.impresionesweb.com
 
 
 
-0.0.0.0	ad.impresionesweb.com
-
 0.0.0.0	alt.impresionesweb.com
-
-0.0.0.0	code.impresionesweb.com
 
 0.0.0.0	gb.impresionesweb.com
 
@@ -12698,8 +12582,6 @@
 
 0.0.0.0	inm.affinitymatrix.com
 
-0.0.0.0	cdn.chitika.net
-
 0.0.0.0	adn.fusionads.net
 
 0.0.0.0	cdn.petametrics.com
@@ -12743,8 +12625,6 @@
 0.0.0.0	in-cdn.effectivemeasure.net
 
 
-
-0.0.0.0	scripts.chitika.net
 
 0.0.0.0	rtbcdn.doubleverify.com
 
@@ -15531,10 +15411,6 @@
 0.0.0.0	std.o.webmd.com
 
 0.0.0.0	metrics.which.co.uk
-
-0.0.0.0	metrics.windowsitpro.com
-
-0.0.0.0	metrics.winsupersite.com
 
 0.0.0.0	stats2.wmagazine.com
 
@@ -19268,10 +19144,6 @@
 
 0.0.0.0	rpt.footlocker.com
 
-0.0.0.0	ww62.hsn.com
-
-0.0.0.0	1901.nordstrom.com
-
 0.0.0.0	www25.victoriassecret.com
 
 
@@ -20879,8 +20751,6 @@
 0.0.0.0	tracking.m6r.eu
 
 
-
-0.0.0.0	network.adsmarket.com
 
 0.0.0.0	z.blogads.com
 

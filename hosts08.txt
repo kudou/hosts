@@ -1,3 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
 0.0.0.0	101order.com
@@ -329,7 +343,6 @@
 0.0.0.0	admized.com
 0.0.0.0	admob.com
 0.0.0.0	admonitor.com
-0.0.0.0	admotion.com.ar
 0.0.0.0	adn.lrb.co.uk
 0.0.0.0	adnet.asahi.com
 0.0.0.0	adnet.biz
@@ -1276,7 +1289,6 @@
 0.0.0.0	blogherads.com
 0.0.0.0	blogtoplist.se
 0.0.0.0	blogtopsites.com
-0.0.0.0	blueadvertise.com
 0.0.0.0	blueconic.com
 0.0.0.0	blueconic.net
 0.0.0.0	bluekai.com
@@ -2193,7 +2205,10 @@
 0.0.0.0	log.logrocket.io
 0.0.0.0	log.pinterest.com
 0.0.0.0	logger.snackly.co
+0.0.0.0	logs.datadoghq.com
+0.0.0.0	logs.datadoghq.eu
 0.0.0.0	logs.roku.com
+0.0.0.0	logs.spilgames.com
 0.0.0.0	logsss.com
 0.0.0.0	logua.com
 0.0.0.0	longinglettuce.com
