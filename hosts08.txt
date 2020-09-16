@@ -1,17 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
 0.0.0.0	101order.com
@@ -3141,6 +3127,7 @@
 0.0.0.0	tapjoy.com
 0.0.0.0	tappx.com
 0.0.0.0	targad.de
+0.0.0.0	target.microsoft.com
 0.0.0.0	targeting.nzme.arcpublishing.com
 0.0.0.0	targetingnow.com
 0.0.0.0	targetnet.com
