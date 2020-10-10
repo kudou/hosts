@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 1-cl0ud.com
 1-creative-1.com
 1000mercis.com
@@ -29,6 +20,7 @@
 247realmedia.com
 247realmedia.org
 254a.com
+296f6d066d2d677acb6808a4679e79638fc7a4db9d511f33a0c245d8.com
 2nyan.org
 2o7.net
 2znp09oa.com
@@ -50,6 +42,7 @@
 65twenty.com
 778669.com
 7eer.net
+8617ebae48a9676d9988f72e4f1f84f7e5681d28bfefb7fb34a6f2a4.com
 8m5sew59gr.bid
 95095.com
 9nl.com
@@ -512,6 +505,7 @@ ayads.co
 ayc0zsm69431gfebd.xyz
 azalead.com
 azera-s014.com
+b86d4006e465f5ef74e4438b0cb802605e5c7993ac0002a876149c70.com
 bae5tracker.com
 bam-x.com
 bannerflow.com
@@ -1614,6 +1608,7 @@ metrics.plex.tv
 metrics.postoffice.co.uk
 metrics.raptr.com
 metrics.royalmail.com
+metrics.three.co.uk
 metricswindow.com
 metrigo.com
 mfadsrvr.com
@@ -12856,8 +12851,10 @@ smetrics.cnn.com
 smetrics.corus.ca
 smetrics.elsevier.com
 smetrics.mcafee.com
+smetrics.redhat.com
 smetrics.sky.com
 smetrics.tesco.com
+smetrics.three.co.uk
 smetrics.timeout.com
 smetrics.vodafone.co.uk
 smrk.io

@@ -2197,6 +2197,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	east.05tz2e9.com
 0.0.0.0	efreedom.net
 0.0.0.0	emergingupdates.com
+0.0.0.0	en.btc-trader-app.club
 0.0.0.0	en.likefever.org
 0.0.0.0	enterprise.telesat.com.co
 0.0.0.0	enteryouremail.net
@@ -2229,6 +2230,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	filezilla.fr
 0.0.0.0	filosvybfimpsv.ru.gg
 0.0.0.0	filter.mediacpc.com
+0.0.0.0	find-your-profithere11.com
 0.0.0.0	firefox-updater.com
 0.0.0.0	firefox.net-secure-update.icu
 0.0.0.0	fndsdaytings.com
@@ -2266,6 +2268,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	greeninst.com
 0.0.0.0	greenshot.fr
 0.0.0.0	grooveshark.fr
+0.0.0.0	guisuaphical.work
 0.0.0.0	gyros.es
 0.0.0.0	h1317070.stratoserver.net
 0.0.0.0	h9tkd.rdtk.io
@@ -2422,6 +2425,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	marketgameland.com
 0.0.0.0	massage-v-almaty.kz
 0.0.0.0	maxi4.firstvds.ru
+0.0.0.0	mbabovuler.club
 0.0.0.0	mbi3.kuicr.kyoto-u.ac.jp
 0.0.0.0	mcd-su-2.mos.ru
 0.0.0.0	media-match.com
@@ -2944,6 +2948,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	www.greenshot.fr
 0.0.0.0	www.grooveshark.fr
 0.0.0.0	www.grouphappy.com
+0.0.0.0	www.gt-365.com
 0.0.0.0	www.hajoopteg.com
 0.0.0.0	www.hakerzy.net
 0.0.0.0	www.hallaert.online
@@ -7140,6 +7145,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	beacons.helium.com
 0.0.0.0	beap.gemini.yahoo.com
 0.0.0.0	bedach.stream
+0.0.0.0	beifibpola.work
 0.0.0.0	bell.adcentriconline.com
 0.0.0.0	benimreklam.com
 0.0.0.0	benrie.stream
@@ -7161,6 +7167,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bfast.com
 0.0.0.0	bgrel.bonedmilfs.com
 0.0.0.0	bhclicks.com
+0.0.0.0	bicoinsprofit.com
 0.0.0.0	bid.contextweb.com
 0.0.0.0	bid.openx.net
 0.0.0.0	bid.underdog.media
@@ -11297,6 +11304,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ujvilagtudat.blogspot.hu
 0.0.0.0	uk-ads.openx.net
 0.0.0.0	uk.adserver.yahoo.com
+0.0.0.0	uk.bitcoinfreedom-appl.t500track42.com
 0.0.0.0	uktc.ijento.com
 0.0.0.0	uleadstrk.com
 0.0.0.0	ulic.baidu.com
