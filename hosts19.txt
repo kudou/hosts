@@ -1364,6 +1364,7 @@ instinctiveads.com
 integrousmarketing.com
 intelli-direct.com
 intelligencefocus.com
+intellimize.co
 intellitxt.com
 intenta.io
 intentiq.com
@@ -1451,6 +1452,7 @@ leya.tech
 lfstmedia.com
 lgsmartad.com
 liadm.com
+libertystmedia.com
 librato.com
 licasd.com
 liftdna.com
@@ -1493,6 +1495,7 @@ log.zoom.us
 logger.dailymotion.com
 logger.foxitcloud.com
 logger.unsplash.com
+logger.zcoup.com
 loggly.com
 loggly.net
 logmatic.io
@@ -12847,6 +12850,7 @@ smartology.net
 smartstream.tv
 smct.co
 smetrics.barclays.co.uk
+smetrics.bestbuy.com
 smetrics.cnn.com
 smetrics.corus.ca
 smetrics.elsevier.com
@@ -12923,6 +12927,7 @@ startup.mobile.webvisor.com
 startup.mobile.yandex.net
 stat.alibaba.com
 stat.dealtime.com
+stat.domainrecover.com
 stat.swedbank.se
 statcounter.com
 static.ads-twitter.com
@@ -12937,6 +12942,7 @@ stats.glb.paypal.com
 stats.iobit.com
 stats.jobs.bg
 stats.kaltura.com
+stats.kollective.app
 stats.l.doubleclick.net
 stats.merriam-webster.com
 stats.newsweek.com
@@ -13095,6 +13101,7 @@ track.flexlinkspro.com
 track.freecallinc.com
 track.ft.com
 track.juno.com
+track.ktplay.com
 track.lexico.com
 track.mypcbackup.com
 track.news.bg
@@ -13116,6 +13123,7 @@ track.sublytics-5db9e5dd1b2c2.com
 track.sublytics-5db9fa0b5700f.com
 track.sublytics-5df8eec4bca66.com
 track.thesaurus.com
+track.toggl.com
 track.untd.com
 track.us.org
 track.wikibuy.com
@@ -13366,6 +13374,7 @@ wup.browser.qq.com
 wup.imtt.qq.com
 wwwpromoter.com
 wywy.com
+x-mediate.com
 xclicks.net
 xct32.net
 xct33.net

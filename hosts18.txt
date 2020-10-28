@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 2track.info
 59cn7.com
 7hor9gul4s.com
@@ -25,6 +16,7 @@ amptylogick.com
 analyticspage.tools
 api-spotify.net
 appmakedev.xyz
+apprefaculty.pro
 appslinker.net
 appsource.cool
 ashleyrnadison.com
@@ -260,6 +252,7 @@ oyi9f1kbaj.com
 pageanalytics.space
 pagescr.cool
 painlesses.com
+passtechusa.com
 patithatspartal.pro
 paybackall.com
 pbterra.com
@@ -285,6 +278,7 @@ promappdev.com
 promclickapp.biz
 promlinkdev.com
 promo-bc.com
+propu.sh
 protesidenext.com
 proudflex.org
 proxdevcool.com
