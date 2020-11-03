@@ -3453,7 +3453,6 @@
 0.0.0.0	rubiconproject.com-v1.edgekey.net
 0.0.0.0	video-ads.rubiconproject.com-v1.edgekey.net
 0.0.0.0	v6analytics.htmedia.in.edgekey.net
-0.0.0.0	intel11.edgekey.net
 0.0.0.0	akstat.io.edgekey.net
 0.0.0.0	wildcard46.akstat.io.edgekey.net
 0.0.0.0	dable.io.edgekey.net

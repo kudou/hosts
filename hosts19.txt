@@ -8,6 +8,7 @@
 10cms.com
 123-tracker.com
 123count.com
+152media.com
 1s3h4f7sl.com
 200summit.com
 2020mustang.com
@@ -47,6 +48,8 @@
 95095.com
 9nl.com
 9nl.org
+9qovcur0guk3.com
+a-mo.net
 a.mobify.com
 a1webstats.com
 a2dfp.net
@@ -98,6 +101,7 @@ adbutler-tachyon.com
 adbutter.net
 adc-srv.net
 adcash.com
+adcashimg.xyz
 adcentriconline.com
 adclick.stuff.co.nz
 adclk.co
@@ -261,6 +265,7 @@ adtng.com
 adtoma.com
 adtomafusion.net
 adtopia.club
+adtracker.network
 adtrackir1.co.uk
 adtrue.com
 adtruth.com
@@ -664,6 +669,7 @@ ccemails.com
 ccmp.eu
 cdn-mxpnl.com
 cdn-net.com
+cdn4ads.com
 cdnh3.net
 cdxr53.com
 cedexis-radar.net
@@ -908,6 +914,7 @@ deployads.com
 device-metrics-us.amazon.com
 deviceidshare.twitch.tv
 devnxs.net
+dexpredict.com
 diamondeal.click
 dianomi.com
 digidip.net
@@ -1338,6 +1345,7 @@ improveads.fi
 improving.duckduckgo.com
 imrworldwide.com
 imshopping.com
+in-page-push.com
 in.mydirtyhobby.de
 incoming.telemetry.mozilla.org
 indexww.com
@@ -1527,6 +1535,7 @@ m6r.eu
 madisonlogic.com
 magnetmail.net
 magreprints.com
+mahimeta.com
 mailadvertising.co.uk
 mailchimp.com
 mailerlite.com
@@ -12460,6 +12469,7 @@ popcash.net
 popcon.ubuntu.com
 popmonetize.com
 popmyads.com
+populationparts.com
 postrelease.com
 postroller.com
 postup.com
@@ -12605,6 +12615,7 @@ revdepo.com
 revealytics.com
 revenue-tracker.com
 revenue.com
+revenuehit.xyz
 revenuehits.com
 revive.workmedia.pt
 revjet.com
@@ -12615,10 +12626,12 @@ rfihub.net
 rhombusads.com
 rhtag.com
 rhythmxchange.com
+richaudience.com
 richmedia.cz
 richmetrics.com
 richrelevance.com
 rightmoveanalytics.co.uk
+rilelogicbuy.com
 ringringmedia.com
 rivne.space
 rkdms.com
@@ -13043,6 +13056,7 @@ technorail.com
 technorati.com
 technoratimedia.com
 techtarget.com
+tekblue.net
 telemetry-dce.gfe.nvidia.com
 telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
@@ -13076,6 +13090,7 @@ thepornsurvey.com
 theresulter.com
 thescv.team
 thetacdn.net
+thisiswaldo.com
 thrillingos.herokuapp.com
 thrtle.com
 tidaltv.com
@@ -13182,6 +13197,7 @@ trk.informationweek.com
 trk.justanswer.com
 trk.pinterest.com
 trk2.pinterest.com
+trkad.network
 trkme.net
 trkn.us
 tru.am
