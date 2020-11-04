@@ -409,6 +409,7 @@ analytics.mercadolibre.com.ve
 analytics.mercadolivre.com.br
 analytics.mercadopago.com
 analytics.mlstatic.com
+analytics.mobile.walmart.com
 analytics.motionarray.com
 analytics.nerdonthestreet.com
 analytics.nike.com
@@ -949,6 +950,7 @@ dohi.se
 domdex.com
 dotandad.com
 dotomi.com
+doubleclick.net
 doubleclickbygoogle.com
 doublepimp.com
 doublepimpssl.com
@@ -1388,6 +1390,7 @@ intercom.io
 invitemedia.com
 invoc.us
 ioam.de
+iotcplatform.com
 ipccdn.co.uk
 ipinfo.io
 ipredictive.com
@@ -1419,6 +1422,7 @@ justpremium.com
 justuno.com
 jwpltx.com
 k-analytix.com
+kalay.net.cn
 kaloo.ga
 kalooga.com
 kameleoon.com
@@ -1437,7 +1441,10 @@ kimcurlrvsms.com
 kinaninglerophe.info
 kiosked.com
 kissmetrics.com
+klaviyo.com
+klclick1.com
 klick2contact.com
+kochava.com
 komoona.com
 kontera.com
 korrelate.net
@@ -1456,6 +1463,7 @@ leadformix.com
 leadid.com
 leadid.net
 leadinfo.net
+leady.com
 leanplum.com
 legolas-media.com
 leiki.com
@@ -12858,6 +12866,7 @@ sjremetrics.java.com
 skiftmedia.pt
 skimresources.com
 skyhookwireless.com
+skyword.com
 sli-spark.com
 slimcutmedia.com
 smaato.com
@@ -13062,6 +13071,7 @@ telemetry-experiment.cdn.mozilla.net
 telemetry-in.battle.net
 telemetry.allrecipes.com
 telemetry.api.2kcoretech.online
+telemetry.api.playstation.com
 telemetry.api.swiftkey.com
 telemetry.art19.com
 telemetry.battle.net
@@ -13453,7 +13463,6 @@ ziffdavisinternational.com
 zkcdn.net
 znaptag.com
 zoomanalytics.co
-zopim.com
 zotabox.com
 zqtk.net
 zsj18.com
