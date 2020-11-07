@@ -1188,6 +1188,7 @@
 0.0.0.0	banners.adultfriendfinder.com
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
+0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.bol.com.br
 0.0.0.0	banners.cams.com
 0.0.0.0	banners.clubseventeen.com
@@ -1202,6 +1203,7 @@
 0.0.0.0	banners.isoftmarketing.com
 0.0.0.0	banners.linkbuddies.com
 0.0.0.0	banners.passion.com
+0.0.0.0	banners.payserve.com
 0.0.0.0	banners.resultonline.com
 0.0.0.0	banners.sys-con.com
 0.0.0.0	banners.thomsonlocal.com
@@ -1765,6 +1767,7 @@
 0.0.0.0	farethief.com
 0.0.0.0	farmergoldfish.com
 0.0.0.0	fascinatedfeather.com
+0.0.0.0	fast-redirecting.com
 0.0.0.0	fastclick.com
 0.0.0.0	fastclick.com.edgesuite.net
 0.0.0.0	fastclick.net
@@ -2195,6 +2198,7 @@
 0.0.0.0	lizardslaugh.com
 0.0.0.0	lkqd.com
 0.0.0.0	loading321.com
+0.0.0.0	locked4.com
 0.0.0.0	lockerdome.com
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
@@ -2533,6 +2537,7 @@
 0.0.0.0	owebmoney.ru
 0.0.0.0	owlsr.us
 0.0.0.0	owneriq.net
+0.0.0.0	ox1.shopcool.com.tw
 0.0.0.0	oxado.com
 0.0.0.0	oxcash.com
 0.0.0.0	oxen.hillcountrytexas.com
@@ -2563,7 +2568,6 @@
 0.0.0.0	passion-4.net
 0.0.0.0	paycounter.com
 0.0.0.0	paypopup.com
-0.0.0.0	payserve.com
 0.0.0.0	pbnet.ru
 0.0.0.0	pbterra.com
 0.0.0.0	pcash.imlive.com
@@ -2737,7 +2741,6 @@
 0.0.0.0	railwayreason.com
 0.0.0.0	rampidads.com
 0.0.0.0	rank-master.com
-0.0.0.0	rankchamp.de
 0.0.0.0	ranking-charts.de
 0.0.0.0	ranking-hits.de
 0.0.0.0	ranking-links.de
@@ -3281,6 +3284,7 @@
 0.0.0.0	tradedoubler.com
 0.0.0.0	trading-rtbg.com
 0.0.0.0	traffic-exchange.com
+0.0.0.0	traffic-redirecting.com
 0.0.0.0	traffic.focuusing.com
 0.0.0.0	trafficfactory.biz
 0.0.0.0	trafficforce.com
