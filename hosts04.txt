@@ -6897,7 +6897,6 @@
 0.0.0.0	pubnative.info
 0.0.0.0	pubnative.net
 0.0.0.0	api.pubnative.net
-0.0.0.0	rebtelsdk.pubnub.com
 0.0.0.0	rta.pubocean.com
 0.0.0.0	puhtml.com
 0.0.0.0	app.pulsatehq.com
@@ -8159,6 +8158,9 @@
 0.0.0.0	analytics.tactilews.com
 0.0.0.0	analytics-eu.tactilews.com
 0.0.0.0	analytics-staging.tactilews.com
+0.0.0.0	cdn.tagcommander.com
+0.0.0.0	serverside4285.tagcommander.com
+0.0.0.0	serverside4285.tagcommander.com
 0.0.0.0	s.tagsrvcs.com
 0.0.0.0	static.tagsrvcs.com
 0.0.0.0	static.tagsrvcs.com
