@@ -408,6 +408,7 @@ analytics.mercadolibre.com.uy
 analytics.mercadolibre.com.ve
 analytics.mercadolivre.com.br
 analytics.mercadopago.com
+analytics.mkini.xyz
 analytics.mlstatic.com
 analytics.mobile.walmart.com
 analytics.motionarray.com
@@ -553,6 +554,7 @@ betterinstaller.com
 betweendigital.com
 bevyup.com
 bidgear.com
+bidmyqps.xyz
 bidr.io
 bidswitch.net
 bidtheatre.com
@@ -885,7 +887,6 @@ d3ohfm6v3473ou.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 da-ads.com
 dakic-ia-300.com
-danuoyi.alicdn.com
 dapxl.com
 dart.l.doubleclick.net
 dartsearch.net
