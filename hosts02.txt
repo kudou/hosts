@@ -2111,7 +2111,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ca8g5.win
 0.0.0.0	cablyshaw.com
 0.0.0.0	cafecoc.com
-0.0.0.0	cahoots.com
 0.0.0.0	callawaypos.com
 0.0.0.0	callbling.com
 0.0.0.0	cambonanza.com
