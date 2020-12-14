@@ -122,6 +122,7 @@ filehippo-filehippo.com
 filehorse.com
 flexylincks.com
 fmnetwork.nl
+forwardrb.bid
 forwrdnow.com
 foundfax.com
 freecontent.bid
@@ -223,7 +224,6 @@ mailguardonline.net
 makefailed.com
 makesource.cool
 mapsgalaxy.com
-meextffcon.com
 metrext.com
 mikiloise.org
 mikkymax.com
@@ -368,7 +368,6 @@ ulukaris.com
 uniquecaptcha.com
 untsorce.cool
 vabesaura.com
-vadalonnsotun.com
 vibeclimate.com
 vid-adblocker.com
 video-adblock.com

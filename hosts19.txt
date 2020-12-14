@@ -31,7 +31,6 @@
 3lift.com
 45.gs
 4dsply.com
-4nabs.com
 4seeresults.com
 51.la
 51yes.com
@@ -51,13 +50,14 @@ a-mo.net
 a.mobify.com
 a1webstats.com
 a2dfp.net
-a60b4ddd0c257fb3f1bb059bcbc42862.com
 a8bt.com
 a9.com
 aamapi.com
 aamsitecertifier.com
 abmr.net
 abtasty.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
 acceptableserver.com
 acexedge.com
 active-agent.com
@@ -306,7 +306,9 @@ affiliatewindow.com
 affinity.com
 affrh2022.com
 afftrack.com
+afftrack.pro
 afh32lkjwe.net
+aftv-serving.bid
 agentanalytics.com
 agil1.biz
 agil1.info
@@ -708,7 +710,6 @@ clientsend.com
 clinch.co
 clixgalore.com
 clixmetrix.com
-clk1011.com
 clk1013.com
 clkads.com
 clkbid.com
@@ -720,7 +721,6 @@ clkpback3.com
 clkrev.com
 clksite.com
 closealert.com
-cloud-9751.com
 cloud.ca.com
 cluodlfare.com
 cm.gy
@@ -797,6 +797,8 @@ cookiesv2.publiekeomroep.nl
 corp.aol.com
 corporate-ir.net
 counciladvertising.net
+count-us.rudo.video
+count.rudo.video
 countess.twitch.tv
 coveritlive.com
 cp1.news.com.au
@@ -851,7 +853,6 @@ customer.io
 customize.cz
 custora.com
 cxense.com
-d09.no
 d15cjcet1djbmv.cloudfront.net
 d1g3gvqfdsvkse.cloudfront.net
 d2jjzw81hqbuqv.cloudfront.net
@@ -868,6 +869,7 @@ dartsearch.net
 data-analytics.top
 data-eroadvertising.com
 data.coremetrics.com
+data.mistat.intl.xiaomi.com
 data.mistat.xiaomi.com
 databreakers.com
 datacaciques.com
@@ -899,6 +901,7 @@ digitalanalytix.net
 digitalanalytixmp.net
 digitaldoughnut.com
 digitaldoughnut.email
+digitalproserver.com
 digitalreflectionpanel.com
 digitalreflectionpanel.net
 digitalwindow.com
@@ -906,6 +909,7 @@ digitru.st
 direct-aws-a1.com
 direct-azr-78.com
 directrev.com
+discovery.rudo.video
 displaymarketplace.com
 disqusads.com
 divvit.com
@@ -1083,6 +1087,7 @@ eyeota.com
 eyeota.net
 eyereturn.com
 eyeviewads.com
+ezodn.com
 ezoic.net
 face3media.com
 facetz.net
@@ -1105,6 +1110,7 @@ final-aws-01.com
 final-azr-01.com
 firebaseio.com
 firebaselogging.googleapis.com
+fitanalytics.com
 fits.me
 flagcounter.com
 flashtalking.com
@@ -1226,6 +1232,8 @@ gwallet.com
 gwallet.net
 hackers.lv
 hanapinmarketing.com
+hand.bid
+handbid.com
 happyfoxchat.com
 heapanalytics.com
 heartbeat.dm.origin.com
@@ -1257,7 +1265,6 @@ hsadspixel.net
 hscta.net
 hskwq.com
 hsleadflows.net
-hsms02.com
 hsms03.com
 hsms04.com
 hsms06.com
@@ -1500,6 +1507,7 @@ lyrishq.net
 lyrislabs.com
 lyrislm.com
 lytics.io
+m2.ai
 m6r.eu
 madisonlogic.com
 magic1.info
@@ -1585,6 +1593,7 @@ metric.ipv6test.net
 metrics.aftonbladet.se
 metrics.allrecipes.co.uk
 metrics.argos.co.uk
+metrics.asos.com
 metrics.cbc.ca
 metrics.corus.ca
 metrics.foxnews.com
@@ -12490,7 +12499,6 @@ mobpals.com
 mobpartner.com
 mobpartner.mobi
 mobring.co
-mobutrafsrcms.com
 mobytrks.com
 mocean.mobi
 moengage.com
@@ -12568,6 +12576,7 @@ netseer.com
 netshelter.net
 networkadvertising.org
 newrelic.com
+newrrb.bid
 newscred.com
 newsinc.com
 nex8.net
@@ -12614,6 +12623,7 @@ ofnsv69.com
 ogl.primorske.si
 ojrq.net
 olapic.com
+oldrrb.bid
 om.au
 omessage.com
 ometria.com
@@ -12817,6 +12827,7 @@ proformics.com
 projectwonderful.com
 propellerads.com
 propellerclick.com
+proxyclick.com
 prscripts.com
 ps7894.com
 pshtrk.com
@@ -12830,6 +12841,7 @@ pszyzxh.org
 ptengine.com
 ptmind.com
 pubexchange.com
+pubguru.com
 publicidade.jn.pt
 pubmatic.com
 pubmine.com
@@ -13037,6 +13049,7 @@ schibsted.se
 scorecardresearch.com
 scoutanalytics.net
 sdad.guru
+sdkconfig.ad.intl.xiaomi.com
 sdsjweb.com
 se-core-pipe.com
 sea-nov-1.com
@@ -13188,6 +13201,7 @@ sli-spark.com
 slimcutmedia.com
 smaato.com
 smaato.net
+smart.bid
 smartadserver.com
 smartclip.net
 smarterclick.co.uk
@@ -13199,14 +13213,21 @@ smetrics.3monoamines.com
 smetrics.aaamidatlantic.com
 smetrics.alainmikli.com
 smetrics.americanairlines.be
+smetrics.americanairlines.cl
+smetrics.americanairlines.de
+smetrics.americanairlines.hu
 smetrics.americanairlines.jp
 smetrics.amitiza.com
 smetrics.ansys.com
 smetrics.apolloplatform.com
+smetrics.argos.co.uk
 smetrics.barclays.co.uk
 smetrics.bbva.com.co
+smetrics.bbva.es
 smetrics.bbvanet.com.co
 smetrics.bestbuy.com
+smetrics.binarystew.com
+smetrics.biosimilarsbyboehringer.com
 smetrics.blockchain-linkdrive.cf
 smetrics.boehringer-ingelheim.cn
 smetrics.boehringer-ingelheim.com.au
@@ -13216,12 +13237,14 @@ smetrics.boehringer-interactief.nl
 smetrics.boehringer-interaktiv.de
 smetrics.boezemfibrilleren.nl
 smetrics.cartoonnetwork.ca
+smetrics.cisco.com
 smetrics.cnn.com
 smetrics.coinbene.plus
 smetrics.corus.ca
 smetrics.desparasitaatumascota.es
 smetrics.disneychannel.ca
 smetrics.disneylachaine.ca
+smetrics.eastdane.com
 smetrics.elsevier.com
 smetrics.faceipf.com
 smetrics.forthedriven.com
@@ -13235,26 +13258,35 @@ smetrics.frontline.fr
 smetrics.frontlinecanegatto.it
 smetrics.getturbotax.com
 smetrics.global.jcb
+smetrics.globalmedcomms.com
 smetrics.globalnews.ca
+smetrics.groundsguys.com
 smetrics.hjerteflimmer.dk
 smetrics.investec.com
 smetrics.jewsonpartnershipsolutions.com
+smetrics.krugerseed.com
 smetrics.lasexta.com
 smetrics.mcafee.com
 smetrics.mrelectric.com
 smetrics.mrrooter.ca
 smetrics.mutua.es
+smetrics.mutuateayuda.es
 smetrics.myhome.ie
 smetrics.ondacero.es
 smetrics.otel.com
+smetrics.otsuka-us.com
 smetrics.quickenloans.org
 smetrics.rainbowintl.com
 smetrics.redhat.com
 smetrics.regionstest.com
 smetrics.respimat.com
 smetrics.santandree.xyz
+smetrics.shopbop.com
 smetrics.sky.com
 smetrics.sony.com.sg
+smetrics.sony.hu
+smetrics.southaustralia.com
+smetrics.stoneseed.com
 smetrics.switch2t-mobile.com
 smetrics.t-mobilesavings.com
 smetrics.teletoon.com
@@ -13467,6 +13499,7 @@ telemetry.urs.microsoft.com
 telize.com
 tellapart.com
 tellme.com
+tend.io
 terraclicks.com
 testanalytics.net
 testdata.coremetrics.com
@@ -13536,6 +13569,7 @@ track.sublytics-5db9fa0b5700f.com
 track.sublytics-5df8eec4bca66.com
 track.sublytics-5f85c1cfb6a39.com
 track.sublytics-5faedd0b88cec.com
+track.sublytics-5fbd3e32d31c2.com
 track.thesaurus.com
 track.untd.com
 track.us.org
@@ -13591,6 +13625,7 @@ trk2.pinterest.com
 trkad.network
 trkme.net
 trkn.us
+trkshark.cc
 tru.am
 truehits.in.th
 truehits.net
