@@ -355,6 +355,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics.163.com
 analytics.amakings.com
 analytics.archive.org
+analytics.bluemosh.com
 analytics.brave.com
 analytics.businessinsider.com
 analytics.ccs.mcafee.com
@@ -1308,6 +1309,7 @@ imitrk4.com
 imitrk5.com
 impact-ad.com
 impact-ad.jp
+impact.com
 impactradius-event.com
 impactradius.com
 impdesk.com
@@ -13237,10 +13239,12 @@ smetrics.boehringer-interactief.nl
 smetrics.boehringer-interaktiv.de
 smetrics.boezemfibrilleren.nl
 smetrics.cartoonnetwork.ca
+smetrics.casio.info
 smetrics.cisco.com
 smetrics.cnn.com
 smetrics.coinbene.plus
 smetrics.corus.ca
+smetrics.danchuangglobal.com
 smetrics.desparasitaatumascota.es
 smetrics.disneychannel.ca
 smetrics.disneylachaine.ca
@@ -13267,9 +13271,12 @@ smetrics.jewsonpartnershipsolutions.com
 smetrics.krugerseed.com
 smetrics.lasexta.com
 smetrics.mcafee.com
+smetrics.miles-and-more.com
+smetrics.mosquitojoe.com
 smetrics.mrelectric.com
 smetrics.mrrooter.ca
 smetrics.mutua.es
+smetrics.mutuactivos.com
 smetrics.mutuateayuda.es
 smetrics.myhome.ie
 smetrics.ondacero.es
@@ -13299,6 +13306,7 @@ smetrics.vikingline.ax
 smetrics.vikingline.ru
 smetrics.vodafone.co.uk
 smetrics.wilsonniblett.com
+smetrics.windowgenie.com
 smetrics.yahoodictionary.hk
 smetrics.ytv.com
 smrk.io
@@ -13393,6 +13401,7 @@ stats.paypal.com
 stats.qnapclub.eu
 stats.redditmedia.com
 stats.royalbank.com
+stats.rs-online.com
 stats.ryzeo.com
 stats.searchanise.com
 stats.unity3d.com
