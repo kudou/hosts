@@ -8,6 +8,7 @@
 123-tracker.com
 123count.com
 152media.com
+1e3af2bf58df83b8e9e1973f2dcadf72b4c7da97efe420ffcd138616.com
 1s3h4f7sl.com
 200summit.com
 2020mustang.com
@@ -297,7 +298,6 @@ adzhub.com
 adzip.co
 aegdigitalgroup.com
 aerserv.com
-aetna.com
 affec.tv
 affhit.com
 affilbox.cz
@@ -457,6 +457,7 @@ appnexus.com
 appnexus.net
 appnexuscloud.com
 appround.biz
+appsflyer.com
 appsmonitoring.com
 apptimize.com
 appuniverseapplication.com
@@ -473,7 +474,6 @@ atgsvcs.com
 ati-host.net
 atl-6-ga.com
 atomz.com
-attraqt.com
 atwola.com
 audienceinsights.net
 audienceiq.com
@@ -633,6 +633,7 @@ c.afekv.com
 c1exchange.com
 c3t-system-err.club
 c3tag.com
+c6671581dda7a5be963b9104bf94a1be28a5379983eb8083ca54e9f3.com
 cadreon.com
 campaignmonitor.com
 canddi.com
@@ -1282,6 +1283,7 @@ hxtrack.com
 i-transactads.com
 i10c.net
 iadvize.com
+iamtelemetrycollector.microsoft.com
 iasds01.com
 ib-ibi.com
 ibillboard.com
@@ -12604,6 +12606,7 @@ notificationmessaging.com
 nowinteract.com
 npario-inc.net
 npario.com
+npttech.com
 nr-data.net
 nster.net
 nt.vc
@@ -12819,6 +12822,7 @@ prijspakkertje.nl
 prijspakkertjes.nl
 priority-static-api.nkstatic.com
 privacy.aol.com
+privatestats.whatsapp.net
 prnx.net
 pro-market.net
 prod-telemetry.paradox-interactive.com
@@ -13213,6 +13217,9 @@ smartstream.tv
 smct.co
 smetrics.3monoamines.com
 smetrics.aaamidatlantic.com
+smetrics.aavacations.com
+smetrics.aem.playstation.com
+smetrics.aireserv.ca
 smetrics.alainmikli.com
 smetrics.americanairlines.be
 smetrics.americanairlines.cl
@@ -13248,9 +13255,11 @@ smetrics.danchuangglobal.com
 smetrics.desparasitaatumascota.es
 smetrics.disneychannel.ca
 smetrics.disneylachaine.ca
+smetrics.dryerventwizard.com
 smetrics.eastdane.com
 smetrics.elsevier.com
 smetrics.faceipf.com
+smetrics.fivestarpainting.com
 smetrics.forthedriven.com
 smetrics.foxnews.com
 smetrics.frontline.com.ar
@@ -13270,10 +13279,17 @@ smetrics.investec.com
 smetrics.jewsonpartnershipsolutions.com
 smetrics.krugerseed.com
 smetrics.lasexta.com
+smetrics.lunglife.com
+smetrics.marriottvacationclub.com
 smetrics.mcafee.com
 smetrics.miles-and-more.com
+smetrics.mollymaid.com
 smetrics.mosquitojoe.com
+smetrics.mrappliance.ca
+smetrics.mrappliance.com
 smetrics.mrelectric.com
+smetrics.mrhandyman.ca
+smetrics.mrhandyman.com
 smetrics.mrrooter.ca
 smetrics.mutua.es
 smetrics.mutuactivos.com
@@ -13282,6 +13298,7 @@ smetrics.myhome.ie
 smetrics.ondacero.es
 smetrics.otel.com
 smetrics.otsuka-us.com
+smetrics.portlandglass.com
 smetrics.quickenloans.org
 smetrics.rainbowintl.com
 smetrics.redhat.com
@@ -13290,6 +13307,7 @@ smetrics.respimat.com
 smetrics.santandree.xyz
 smetrics.shopbop.com
 smetrics.sky.com
+smetrics.sony.com.br
 smetrics.sony.com.sg
 smetrics.sony.hu
 smetrics.southaustralia.com
@@ -13777,6 +13795,7 @@ waudit.cz
 wayin.com
 wbtrk.net
 we-stats.com
+wearehearken.com
 web-01-gbl.com
 web-metrica.yandex.ru
 webanalytics2.ovh.net
