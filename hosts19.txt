@@ -417,6 +417,7 @@ analytics.mkini.xyz
 analytics.mlstatic.com
 analytics.mobile.walmart.com
 analytics.motionarray.com
+analytics.move.ru
 analytics.nike.com
 analytics.openelec.tv
 analytics.pinterest.com
@@ -450,6 +451,7 @@ analyticsmsp.com
 analyticspixel.microsoft.com
 and.co.uk
 andmlb.kshwtj.com
+android-stat.acestream.net
 angorch-cdr7.com
 anm.co.uk
 anrdoezrs.net
@@ -954,6 +956,7 @@ docalytics.com
 dohi.se
 domdex.com
 dotandad.com
+dotmetrics.net
 dotomi.com
 doubleclick.net
 doubleclickbygoogle.com
@@ -1307,6 +1310,7 @@ hsms06.com
 hsms07.com
 hsms08.com
 hsstatic.net
+html5-ads.vk-apps.com
 httptrack.com
 hubapi.com
 hubspot.com
@@ -1361,6 +1365,7 @@ indpcr1.com
 industrybrains.com
 infernotions.com
 infinity-tracking.net
+influxdata.com
 info.kugou.com
 infolinks.com
 ingest.sentry.io
@@ -1636,7 +1641,10 @@ metrics.allrecipes.co.uk
 metrics.asos.com
 metrics.cbc.ca
 metrics.corus.ca
+metrics.dt.hicloud.com
+metrics.ebay.com
 metrics.foxnews.com
+metrics.g.ebay.com
 metrics.hackerrank.com
 metrics.ikea.com
 metrics.marksandspencer.com
@@ -12929,6 +12937,7 @@ qifann.com
 qingcdn.com
 qmerce.com
 qoe-1.yottaa.net
+qos-api.ott.yandex.net
 qservz.com
 qualtrics.com
 quantcast.com
@@ -13072,6 +13081,7 @@ salesforce.com
 salesmanago.pl
 samsungads.com
 sas15k01.com
+sas53netbynet.visualon.info
 sascdn.com
 saymedia.com
 sayu.co.uk
@@ -13242,6 +13252,7 @@ smetrics.americanairlines.cl
 smetrics.americanairlines.com
 smetrics.americanairlines.de
 smetrics.americanairlines.hu
+smetrics.americanairlines.ie
 smetrics.americanairlines.in
 smetrics.americanairlines.jp
 smetrics.americancentury.com
@@ -13460,6 +13471,7 @@ smetrics.ernestjones.co.uk
 smetrics.esignal.com
 smetrics.etcanada.com
 smetrics.etihad.com
+smetrics.eurocardbyinvitation.dk
 smetrics.eurowings.com
 smetrics.eversource.com
 smetrics.express.com
@@ -13676,6 +13688,7 @@ smetrics.maxxia.com.au
 smetrics.mbna.ca
 smetrics.mcafee.com
 smetrics.mcdonalds.com
+smetrics.medinfo.rs
 smetrics.memberdeals.com
 smetrics.mercola.com
 smetrics.meteomedia.com
@@ -13726,6 +13739,8 @@ smetrics.nabtrade.com.au
 smetrics.nadaguides.com
 smetrics.napacanada.com
 smetrics.napaonline.com
+smetrics.napaprolink.ca
+smetrics.napaprolink.com
 smetrics.nascar.com
 smetrics.nationalbusinessfurniture.com
 smetrics.nationaltrust.org.uk
@@ -13800,6 +13815,7 @@ smetrics.pharmaintelligence.informa.com
 smetrics.pkdinfo.com
 smetrics.plumbenefits.com
 smetrics.plymouthrock.com
+smetrics.policies.kpmg
 smetrics.politico.com
 smetrics.politicopro.com
 smetrics.portlandglass.com
@@ -13994,6 +14010,7 @@ smetrics.tommybahama.com
 smetrics.toofab.com
 smetrics.totalwine.com
 smetrics.toyota.com
+smetrics.traction.com
 smetrics.tractorsupply.com
 smetrics.traderonline.com
 smetrics.traegergrills.com
@@ -14041,6 +14058,8 @@ smetrics.vonageforhome.com
 smetrics.vsemirnyjbank.org
 smetrics.vueling.com
 smetrics.vw.com
+smetrics.vwfs.de
+smetrics.vwfs.it
 smetrics.walgreens.com
 smetrics.waseda-ac.co.jp
 smetrics.waters.com
@@ -14075,6 +14094,7 @@ smetrics.yahoodictionary.hk
 smetrics.ybs.co.uk
 smetrics.yellow.com.au
 smetrics.yellowpages.com.au
+smetrics.yourheartyourdecision.com
 smetrics.ytv.com
 smetrics.zales.com
 smetrics.zalesoutlet.com

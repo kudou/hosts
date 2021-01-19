@@ -82,6 +82,7 @@
 0.0.0.0	acuityplatform.com
 0.0.0.0	ad-balancer.at
 0.0.0.0	ad-balancer.net
+0.0.0.0	ad-cupid.com
 0.0.0.0	ad-delivery.net
 0.0.0.0	ad-pay.de
 0.0.0.0	ad-rotator.com
@@ -122,7 +123,6 @@
 0.0.0.0	ad.flurry.com
 0.0.0.0	ad.foxnetworks.com
 0.0.0.0	ad.freecity.de
-0.0.0.0	ad.gate24.ch
 0.0.0.0	ad.grafika.cz
 0.0.0.0	ad.gt
 0.0.0.0	ad.hbv.de
@@ -207,6 +207,7 @@
 0.0.0.0	adap.tv
 0.0.0.0	adapt.tv
 0.0.0.0	adaranth.com
+0.0.0.0	adbilty.me
 0.0.0.0	adblade.com
 0.0.0.0	adblade.org
 0.0.0.0	adblockanalytics.com
@@ -831,7 +832,6 @@
 0.0.0.0	adserver.sanomawsoy.fi
 0.0.0.0	adserver.sciflicks.com
 0.0.0.0	adserver.sharewareonline.com
-0.0.0.0	adserver.spankaway.com
 0.0.0.0	adserver.theonering.net
 0.0.0.0	adserver.trojaner-info.de
 0.0.0.0	adserver.twitpic.com
@@ -853,6 +853,7 @@
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
 0.0.0.0	adsfac.us
+0.0.0.0	adsfactor.net
 0.0.0.0	adsfeed.brabys.com
 0.0.0.0	adside.com
 0.0.0.0	adsiduous.com
@@ -1012,6 +1013,7 @@
 0.0.0.0	aistat.net
 0.0.0.0	ak0gsh40.com
 0.0.0.0	aktrack.pubmatic.com
+0.0.0.0	alchemist.go2cloud.org
 0.0.0.0	alclick.com
 0.0.0.0	alenty.com
 0.0.0.0	alert.com.mt
@@ -1095,6 +1097,7 @@
 0.0.0.0	at-adserver.alltop.com
 0.0.0.0	atdmt.com
 0.0.0.0	athena-ads.wikia.com
+0.0.0.0	ato.mx
 0.0.0.0	attractiveafternoon.com
 0.0.0.0	attribution.report
 0.0.0.0	attributiontracker.com
@@ -1164,7 +1167,6 @@
 0.0.0.0	bannerads.de
 0.0.0.0	bannerboxes.com
 0.0.0.0	bannercommunity.de
-0.0.0.0	bannerconnect.com
 0.0.0.0	bannerconnect.net
 0.0.0.0	bannergrabber.internet.gr
 0.0.0.0	bannerimage.com
@@ -1176,7 +1178,6 @@
 0.0.0.0	banners.adultfriendfinder.com
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
-0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.bol.com.br
 0.0.0.0	banners.cams.com
 0.0.0.0	banners.clubseventeen.com
@@ -2070,6 +2071,7 @@
 0.0.0.0	iyfnzgb.com
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
+0.0.0.0	jaizouji.com
 0.0.0.0	jauchuwa.net
 0.0.0.0	jcount.com
 0.0.0.0	jdoqocy.com
@@ -2189,6 +2191,7 @@
 0.0.0.0	log.btopenworld.com
 0.0.0.0	log.logrocket.io
 0.0.0.0	log.pinterest.com
+0.0.0.0	log.videocampaign.co
 0.0.0.0	logger.snackly.co
 0.0.0.0	logs.datadoghq.com
 0.0.0.0	logs.datadoghq.eu
@@ -3053,6 +3056,7 @@
 0.0.0.0	stats.hyperinzerce.cz
 0.0.0.0	stats.merriam-webster.com
 0.0.0.0	stats.mirrorfootball.co.uk
+0.0.0.0	stats.nextgen-email.com
 0.0.0.0	stats.olark.com
 0.0.0.0	stats.pusher.com
 0.0.0.0	stats.rdphv.net
@@ -3235,6 +3239,7 @@
 0.0.0.0	track.hexcan.com
 0.0.0.0	track.mailerlite.com
 0.0.0.0	track.nuxues.com
+0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tkbo.com
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.undressingpics.work
@@ -3333,6 +3338,7 @@
 0.0.0.0	turboadv.com
 0.0.0.0	turn.com
 0.0.0.0	tvmtracker.com
+0.0.0.0	twittad.com
 0.0.0.0	twyn.com
 0.0.0.0	tynt.com
 0.0.0.0	typicalteeth.com
@@ -3406,6 +3412,7 @@
 0.0.0.0	visitpath.com
 0.0.0.0	visual-pagerank.fr
 0.0.0.0	visualrevenue.com
+0.0.0.0	vivads.net
 0.0.0.0	vivtracking.com
 0.0.0.0	vmmpxl.com
 0.0.0.0	voicefive.com
@@ -3504,6 +3511,7 @@
 0.0.0.0	xad.com
 0.0.0.0	xapads.com
 0.0.0.0	xchange.ro
+0.0.0.0	xcsypkknp.com
 0.0.0.0	xertive.com
 0.0.0.0	xfreeservice.com
 0.0.0.0	xg4ken.com
