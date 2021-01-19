@@ -205,6 +205,7 @@ ads.citymagazine.si
 ads.ebay.com
 ads.gold
 ads.hearstmags.com
+ads.ign.com
 ads.linkedin.com
 ads.mindfactory.de
 ads.msn.com
@@ -459,9 +460,21 @@ ans.mlb.com
 answerscloud.com
 anyclip.com
 apester.com
+api-analytics-cn.huami.com
+api-analytics-de.huami.com
+api-analytics-in.huami.com
+api-analytics-ru.huami.com
+api-analytics-us.huami.com
 api.b2c.com
 api.mobula.sdk.duapps.com
 apn.co.nz
+app-analytics-cn.huami.com
+app-analytics-de.huami.com
+app-analytics-in.huami.com
+app-analytics-ru.huami.com
+app-analytics-sg.huami.com
+app-analytics-us.huami.com
+app-analytics.huami.com
 app-analytics.snapchat.com
 app-measurement.com
 app.link
@@ -561,6 +574,7 @@ betrad.com
 betterinstaller.com
 betweendigital.com
 bevyup.com
+bid.glass
 bidgear.com
 bidmyqps.xyz
 bidr.io
@@ -919,6 +933,7 @@ demandjump.com
 demdex.com
 demdex.net
 deployads.com
+detmir-stats.ru
 device-metrics-us.amazon.com
 deviceidshare.twitch.tv
 devnxs.net
@@ -1386,6 +1401,7 @@ insnw.net
 inspectlet.com
 instartlogic.com
 instinctiveads.com
+intake-analytics.wikimedia.org
 integrousmarketing.com
 intelli-direct.com
 intelligencefocus.com
@@ -1510,6 +1526,7 @@ liveperson.net
 livepromotools.com
 liverail.com
 liveramp.com
+livetracker.rfe.pangea-cms.com
 liwio.com
 lkqd.com
 lkqd.net
@@ -1553,6 +1570,7 @@ lyrishq.net
 lyrislabs.com
 lyrislm.com
 lytics.io
+m-counter.ru
 m2.ai
 m6r.eu
 madisonlogic.com
@@ -14358,6 +14376,7 @@ track.sublytics-5df8eec4bca66.com
 track.sublytics-5faedd0b88cec.com
 track.sublytics-5fbd3e32d31c2.com
 track.thesaurus.com
+track.tproger.ru
 track.untd.com
 track.us.org
 track.wikibuy.com
@@ -14367,7 +14386,9 @@ trackcmp.net
 trackedlink.net
 tracker-api.my.com
 tracker2.itzmx.com
+trackerhqu.com
 trackerrysrv.com
+tracking-receiver.prod-general.stocard-backend.com
 tracking.cmjump.com.au
 tracking.epicgames.com
 tracking.intl.miui.com
