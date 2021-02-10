@@ -180,7 +180,6 @@
 0.0.0.0	ad.xmovies8.si
 0.0.0.0	ad.xrea.com
 0.0.0.0	ad.yadro.ru
-0.0.0.0	ad.yourmedia.com
 0.0.0.0	ad.zanox.com
 0.0.0.0	ad0.bigmir.net
 0.0.0.0	ad01.mediacorpsingapore.com
@@ -1053,6 +1052,7 @@
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.myfinance.com
 0.0.0.0	analytics.mytvzion.pro
+0.0.0.0	analytics.ostr.io
 0.0.0.0	analytics.phando.com
 0.0.0.0	analytics.picsart.com
 0.0.0.0	analytics.poolshool.com
@@ -1169,7 +1169,6 @@
 0.0.0.0	banner10.zetasystem.dk
 0.0.0.0	bannerads.de
 0.0.0.0	bannerboxes.com
-0.0.0.0	bannercommunity.de
 0.0.0.0	bannerconnect.com
 0.0.0.0	bannerconnect.net
 0.0.0.0	bannergrabber.internet.gr
@@ -1629,6 +1628,7 @@
 0.0.0.0	domainsponsor.com
 0.0.0.0	domainsteam.de
 0.0.0.0	domdex.com
+0.0.0.0	dotmetrics.net
 0.0.0.0	doubleclick.com
 0.0.0.0	doubleclick.de
 0.0.0.0	doubleclick.net
@@ -1947,7 +1947,6 @@
 0.0.0.0	hittail.com
 0.0.0.0	hlok.qertewrt.com
 0.0.0.0	hocgeese.com
-0.0.0.0	hollandbusinessadvertising.nl
 0.0.0.0	homepageking.de
 0.0.0.0	honeygoldfish.com
 0.0.0.0	honorablehall.com
@@ -2520,7 +2519,6 @@
 0.0.0.0	optmnstr.com
 0.0.0.0	optmstr.com
 0.0.0.0	optnmstr.com
-0.0.0.0	ostr.io
 0.0.0.0	ota.cartrawler.com
 0.0.0.0	otto-images.developershed.com
 0.0.0.0	ouh3igaeb.com
@@ -3428,7 +3426,6 @@
 0.0.0.0	voodoo-ads.io
 0.0.0.0	vpon.com
 0.0.0.0	vrs.cz
-0.0.0.0	vrtzcontextualads.com
 0.0.0.0	vs.tucows.com
 0.0.0.0	vtracy.de
 0.0.0.0	vungle.com
@@ -3441,6 +3438,7 @@
 0.0.0.0	wateryvan.com
 0.0.0.0	wd-track.de
 0.0.0.0	wdads.sx.atl.publicus.com
+0.0.0.0	wearbasin.com
 0.0.0.0	web-redirecting.com
 0.0.0.0	web-stat.com
 0.0.0.0	web.informer.com
