@@ -107,11 +107,7 @@
 0.0.0.0	pingapi.accengage.com
 0.0.0.0	api.accengage.net
 0.0.0.0	daraz-by.accengage.net
-0.0.0.0	accesstrade.com.vn
-0.0.0.0	fast.accesstrade.com.vn
-0.0.0.0	accesstrade.vn
 0.0.0.0	ad.accesstrade.vn
-0.0.0.0	click.accesstrade.vn
 0.0.0.0	cv.accesstrade.vn
 0.0.0.0	partner.accesstrade.vn
 0.0.0.0	service-api.accesstrade.vn
@@ -8443,6 +8439,10 @@
 0.0.0.0	ads.triongames.com
 0.0.0.0	tracking.trnox.com
 0.0.0.0	beacon.tru.am
+0.0.0.0	ads5.truecaller.com
+0.0.0.0	ads5-noneu.truecaller.com
+0.0.0.0	ads-router-noneu.truecaller.com
+127.0.0.0	batchlogging4.truecaller.com
 0.0.0.0	pushid-noneu.truecaller.com
 0.0.0.0	choices.trustarc.com
 0.0.0.0	consent.trustarc.com
