@@ -2064,6 +2064,7 @@
 0.0.0.0	iyfnzgb.com
 0.0.0.0	j93557g.com
 0.0.0.0	jadeitite.com
+0.0.0.0	jads.co
 0.0.0.0	jaizouji.com
 0.0.0.0	jauchuwa.net
 0.0.0.0	jcount.com
