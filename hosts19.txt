@@ -516,7 +516,6 @@ apptracker.gamedock.io
 appuniverseapplication.com
 apxlv.com
 aqcxa.com
-arc.msn.com
 arcpublishing.com
 astutemetrics.com
 atdmt.com
@@ -714,7 +713,6 @@ cedexis.com
 celtra.com
 central-core-7.com
 centralcore7.com
-ceros.com
 certona.net
 cetrk.com
 chaintraffic.com
@@ -953,6 +951,7 @@ digitaldoughnut.email
 digitalproserver.com
 digitalreflectionpanel.com
 digitalreflectionpanel.net
+digitaltarget.ru
 digitalwindow.com
 digitru.st
 direct-aws-a1.com
@@ -1083,6 +1082,7 @@ emltrk.com
 emxdgt.com
 en25.com
 enecto.com
+engage.wixapps.net
 engagesciences.com
 engageya.com
 ensighten.com
@@ -1465,6 +1465,7 @@ kooappslogs.com
 korrelate.net
 krxd.net
 ksmobile.com
+labaz.vip
 ladycash.ru
 lanistaads.com
 lcprd1.samsungcloudsolution.net
@@ -12684,6 +12685,7 @@ npario-inc.net
 npario.com
 npttech.com
 nr-data.net
+ns1p.net
 nster.net
 nt.vc
 ntpcpc58w1.ru
@@ -12896,7 +12898,6 @@ preroller.com
 pricespider.com
 prijspakkertje.nl
 prijspakkertjes.nl
-priority-static-api.nkstatic.com
 privacy.aol.com
 privatestats.whatsapp.net
 prmutv.co
@@ -13170,7 +13171,6 @@ sg-living.co.jp
 shareaholic.com
 sharethis.com
 sharethrough.com
-shifen.com
 shinystat.com
 shop2market.com
 shoppingshadow.com
@@ -13240,7 +13240,6 @@ simpleanalytics.io
 simpleanalyticscdn.com
 simpleheatmaps.com
 simplereach.com
-sinaimg.cn
 site24x7rum.com
 siteheart.com
 siteimprove.com
@@ -13275,23 +13274,17 @@ smetrics.10play.com.au
 smetrics.1800contacts.com
 smetrics.24hourfitness.com
 smetrics.28degreescard.com.au
-smetrics.360dx.com
 smetrics.3m.com
 smetrics.3m.com.cn
-smetrics.3mdigital.cn
-smetrics.3monoamines.com
 smetrics.48.ie
 smetrics.7eleven.com.au
 smetrics.aa.com
-smetrics.aaamidatlantic.com
 smetrics.aainsurance.co.nz
 smetrics.aami.com.au
 smetrics.aarp.org
-smetrics.aavacations.com
 smetrics.abbott
 smetrics.abbvie.com
 smetrics.abercrombie.com
-smetrics.accredohealth.com
 smetrics.active.com
 smetrics.activecommunities.com
 smetrics.aem.playstation.com
@@ -13303,31 +13296,15 @@ smetrics.aircanada.com
 smetrics.aireserv.ca
 smetrics.aireserv.com
 smetrics.ajinomoto.co.jp
-smetrics.alainmikli.com
 smetrics.allegion.com
 smetrics.allianzlife.com
 smetrics.allstate.com
-smetrics.alltomfrontline.se
 smetrics.ally.com
-smetrics.altomfrontline.dk
-smetrics.american-airlines.nl
-smetrics.americanairlines.be
-smetrics.americanairlines.cl
-smetrics.americanairlines.com
-smetrics.americanairlines.com.au
-smetrics.americanairlines.de
-smetrics.americanairlines.hu
-smetrics.americanairlines.ie
-smetrics.americanairlines.in
-smetrics.americanairlines.it
-smetrics.americanairlines.jp
 smetrics.americancentury.com
 smetrics.amfam.com
 smetrics.amica.com
-smetrics.amitiza.com
 smetrics.ancestry.com
 smetrics.angara.com
-smetrics.animalhealthacademy.com.au
 smetrics.anixter.com
 smetrics.anntaylor.com
 smetrics.ansible.com
@@ -13346,7 +13323,6 @@ smetrics.atomic.com
 smetrics.att.com
 smetrics.au.com
 smetrics.audi.co.uk
-smetrics.audifinancialservices.nl
 smetrics.autodesk.com
 smetrics.automobilemag.com
 smetrics.autonews.com
@@ -13364,13 +13340,11 @@ smetrics.bankaustria.at
 smetrics.bankia.es
 smetrics.bankinter.com
 smetrics.bankofmelbourne.com.au
-smetrics.barandblock.co.uk
 smetrics.barcainnovationhub.com
 smetrics.barclays.co.uk
 smetrics.bbva.com.ar
 smetrics.bbva.com.co
 smetrics.bbva.es
-smetrics.bbva.it
 smetrics.bbvanet.com.co
 smetrics.bbvausa.com
 smetrics.bcbsm.com
@@ -14305,6 +14279,8 @@ startup.mobile.yandex.net
 stat.alibaba.com
 stat.dealtime.com
 stat.domainrecover.com
+stat.media
+stat.mixi.media
 stat.swedbank.se
 statcounter.com
 static.ads-twitter.com
@@ -14338,7 +14314,7 @@ stats.royalbank.com
 stats.rs-online.com
 stats.ryzeo.com
 stats.searchanise.com
-stats.stackexchange.com
+stats.shell-tips.com
 stats.unity3d.com
 stats.vashurok.ru
 stats.videodelivery.net
@@ -14356,6 +14332,8 @@ statuscake.com
 steelhousemedia.com
 steepto.com
 stickyadstv.com
+storemetrics.pixelbits.io
+stores-counters.wix.com
 stormiq.com
 storygize.net
 storymedia.se
@@ -14501,6 +14479,7 @@ track.libii.cn
 track.news.bg
 track.oasis.magictavern.com
 track.pmosvc.io
+track.searchiq.co
 track.sublytics-5bb3bd7244788.com
 track.sublytics-5be5edecc10bf.com
 track.sublytics-5c671946c725e.com
@@ -14508,7 +14487,6 @@ track.sublytics-5caf966ded053.com
 track.sublytics-5cffe909e69e6.com
 track.sublytics-5d24d6515d46a.com
 track.sublytics-5d6fc61ecbaab.com
-track.sublytics-5d6fcf0a813fd.com
 track.sublytics-5dae180ba29aa.com
 track.sublytics-5db9e5dd1b2c2.com
 track.sublytics-5db9fa0b5700f.com
@@ -14533,6 +14511,7 @@ tracker.tutotoons.com
 trackerb.tutotoons.com
 trackerhqu.com
 trackerrysrv.com
+tracking.atreemo.com
 tracking.aviasales.ru
 tracking.cmjump.com.au
 tracking.epicgames.com
@@ -14653,6 +14632,7 @@ userreport.com
 userzoom.com
 utarget.ru
 v6lvs.com
+va-endpoint.com
 vacaneedasap.com
 valassisdigital.io
 vcmedia.vn
@@ -14689,6 +14669,7 @@ vidver.to
 vidverto.io
 vidyard.com
 viglink.com
+vihub.ru
 vilynx.com
 vindicosuite.com
 viqeo.tv
@@ -14711,6 +14692,7 @@ vortex.data.microsoft.com
 vppgamingnetwork.com
 vserv.mobi
 vungle.com
+vuukle.com
 vvbox.cz
 vwdservices.com
 vyd5aaalwd.ru
@@ -14761,6 +14743,7 @@ wisepops.com
 wistia.com
 wistia.net
 wmgroup.us
+wogaa.sg
 woopic.com
 woopra.com
 worldtable.co
