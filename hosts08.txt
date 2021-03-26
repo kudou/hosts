@@ -1062,6 +1062,7 @@
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
 0.0.0.0	api.intensifier.de
+0.0.0.0	api.kameleoon.com
 0.0.0.0	apolloprogram.io
 0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	app.pendo.io
@@ -1540,6 +1541,7 @@
 0.0.0.0	curtaincows.com
 0.0.0.0	custom.plausible.io
 0.0.0.0	customad.cnn.com
+0.0.0.0	customers.kameleoon.com
 0.0.0.0	cutecushion.com
 0.0.0.0	cuteturkey.com
 0.0.0.0	cxense.com
@@ -2081,7 +2083,7 @@
 0.0.0.0	justrelevant.com
 0.0.0.0	justuno.com
 0.0.0.0	k.iinfo.cz
-0.0.0.0	kameleoon.com
+0.0.0.0	kameleoon.eu
 0.0.0.0	kanoodle.com
 0.0.0.0	kargo.com
 0.0.0.0	karonty.com
@@ -3037,6 +3039,7 @@
 0.0.0.0	static.a-ads.com
 0.0.0.0	static.fmpub.net
 0.0.0.0	static.itrack.it
+0.0.0.0	static.kameleoon.com
 0.0.0.0	staticads.btopenworld.com
 0.0.0.0	statistik-gallup.net
 0.0.0.0	statm.the-adult-company.com
