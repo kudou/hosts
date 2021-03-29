@@ -9,7 +9,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11959-TYO	1616981441	3330966763</p>
+<p>Details:	cache-ams21043-AMS	1617068147	282119870</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11959-TYO	1616981443	3330991276</p>
+<p>Details:	cache-ams21043-AMS	1617068148	282123564</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +41,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11959-TYO	1616981447	3331019342</p>
+<p>Details:	cache-ams21043-AMS	1617068150	282130000</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
