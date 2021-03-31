@@ -11590,7 +11590,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	support.sweepstakes.com
 0.0.0.0	suprama.online
 0.0.0.0	supremeadsonline.com
-0.0.0.0	sur
 0.0.0.0	suresafe1.adsovo.com
 0.0.0.0	surfacecharo.info
 0.0.0.0	surfindave.com
