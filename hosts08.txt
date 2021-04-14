@@ -1372,6 +1372,7 @@
 0.0.0.0	chinsnakes.com
 0.0.0.0	chitika.net
 0.0.0.0	cision.com
+0.0.0.0	citrusad.net
 0.0.0.0	cityads.telus.net
 0.0.0.0	cj.com
 0.0.0.0	cjbmanagement.com
@@ -1961,7 +1962,6 @@
 0.0.0.0	hyperbanner.net
 0.0.0.0	hypertracker.com
 0.0.0.0	hyprmx.com
-0.0.0.0	hyros.com
 0.0.0.0	hystericalhelp.com
 0.0.0.0	i-clicks.net
 0.0.0.0	i-i.lt
@@ -3262,11 +3262,13 @@
 0.0.0.0	tracking.5-47737-bi.co.uk
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.gajmp.com
+0.0.0.0	tracking.hyros.com
 0.0.0.0	tracking.ibxlink.com
 0.0.0.0	tracking.internetstores.de
 0.0.0.0	tracking.intl.miui.com
 0.0.0.0	tracking.jiffyworld.com
 0.0.0.0	tracking.lenddom.com
+0.0.0.0	tracking.markethero.io
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.olx-st.com
 0.0.0.0	tracking.orixa-media.com
