@@ -1434,6 +1434,7 @@
 0.0.0.0	clk1015.com
 0.0.0.0	clkrev.com
 0.0.0.0	clksite.com
+0.0.0.0	clktrx.com
 0.0.0.0	cloisteredhydrant.com
 0.0.0.0	cloudcoins.biz
 0.0.0.0	clrstm.com
@@ -2382,6 +2383,7 @@
 0.0.0.0	mystat.pl
 0.0.0.0	mysteriousmonth.com
 0.0.0.0	mytop-in.net
+0.0.0.0	mytrackingservers.com
 0.0.0.0	myvisualiq.net
 0.0.0.0	n69.com
 0.0.0.0	naj.sk
