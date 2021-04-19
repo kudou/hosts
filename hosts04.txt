@@ -3511,8 +3511,6 @@
 0.0.0.0	fastapi.net
 0.0.0.0	mparticle.map.fastly.net
 0.0.0.0	sonar-iad.xx.fbcdn.net
-0.0.0.0	video-dfw5-1.xx.fbcdn.net
-0.0.0.0	video-dfw5-2.xx.fbcdn.net
 0.0.0.0	affiliate.fc2.com
 0.0.0.0	aimg.fc2.com
 0.0.0.0	enrichmentservices.fccinteractive.com
@@ -6707,10 +6705,7 @@
 0.0.0.0	hal9000.redintelligence.net
 0.0.0.0	redirectpopads.com
 0.0.0.0	api.redshell.io
-0.0.0.0	redtram.com
 0.0.0.0	ads.reembed.com
-0.0.0.0	registeridm.com
-0.0.0.0	regmedia.co.uk
 0.0.0.0	adserver.reklamstore.com
 0.0.0.0	adimg.rekmob.com
 0.0.0.0	ads.rekmob.com
