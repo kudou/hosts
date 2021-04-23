@@ -2232,9 +2232,6 @@
 0.0.0.0	other.chartboosts.com
 0.0.0.0	remain.chartboosts.com
 0.0.0.0	smetrics.chrysler.com
-0.0.0.0	chtbl.com
-0.0.0.0	ext.chtbl.com
-0.0.0.0	web.chtbl.com
 0.0.0.0	jp.cinarra.com
 0.0.0.0	3ppa.jp.cinarra.com
 0.0.0.0	dps.jp.cinarra.com
@@ -5119,9 +5116,6 @@
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	si.bingads.microsoft.com
-0.0.0.0	mobile.events.data.microsoft.com
-0.0.0.0	self.events.data.microsoft.com
-0.0.0.0	vortex.data.microsoft.com
 0.0.0.0	adtrack1.midasplayer.com
 0.0.0.0	client.midosoo.com
 0.0.0.0	minimob.com
@@ -7200,8 +7194,6 @@
 0.0.0.0	i.smartnews-ads.com
 0.0.0.0	thumbnail.smartnews-ads.com
 0.0.0.0	ads.smartstream.tv
-0.0.0.0	cdn.smassets.net
-0.0.0.0	prod.smassets.net
 0.0.0.0	abort-count.smbeat.jp
 0.0.0.0	api.smbeat.jp
 0.0.0.0	control.smbeat.jp
@@ -7979,7 +7971,6 @@
 0.0.0.0	trfmxt.com
 0.0.0.0	trialpay.com
 0.0.0.0	ads.triongames.com
-0.0.0.0	midrollmedia.mc.tritondigital.com
 0.0.0.0	tracking.trnox.com
 0.0.0.0	tracking-3-9f58.trnox.com
 0.0.0.0	trcakingapp.trnox.com
@@ -7991,6 +7982,8 @@
 0.0.0.0	consent.trustarc.com
 0.0.0.0	preferences.trustarc.com
 0.0.0.0	choices.truste.com
+0.0.0.0	cdn.tsyndicate.com
+0.0.0.0	lcdn.tsyndicate.com
 0.0.0.0	gateway.ttpsdk.info
 0.0.0.0	promo-images.ttpsdk.info
 0.0.0.0	ttplugins.ttpsdk.info
@@ -8541,6 +8534,7 @@
 0.0.0.0	events.xg4ken.com
 0.0.0.0	resources.xg4ken.com
 0.0.0.0	services.xg4ken.com
+0.0.0.0	collector.xhamster.com
 0.0.0.0	api.ad.xiaomi.com
 0.0.0.0	log.ad.xiaomi.com
 0.0.0.0	sdkconfig.ad.xiaomi.com
