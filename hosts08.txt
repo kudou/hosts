@@ -334,6 +334,7 @@
 0.0.0.0	adnetworkperformance.com
 0.0.0.0	adnews.maddog2000.de
 0.0.0.0	adnium.com
+0.0.0.0	adnxs-simple.com
 0.0.0.0	adnxs.com
 0.0.0.0	adocean.pl
 0.0.0.0	adonspot.com
