@@ -9,7 +9,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mia11320-MIA	1619832899	1760038963</p>
+<p>Details:	cache-lcy19270-LCY	1619919275	4203483858</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mia11320-MIA	1619832901	1760067618</p>
+<p>Details:	cache-lcy19270-LCY	1619919276	4203491279</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +41,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mia11320-MIA	1619832905	1760106919</p>
+<p>Details:	cache-lcy19270-LCY	1619919278	4203498472</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
