@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>  <rss version="2.0"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-      >
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
 
   <channel>
     <title>kudo</title>
-    <atom:link href="https://raw.githubusercontent.com/kudou/hosts/master/feed" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/kudou/hosts/master/feed" rel="self" type="application/rss+xml"/>
     <link>https://raw.githubusercontent.com/kudou/hosts/master/feed</link>
     <description>hosts改变生活</description>
     <pubDate>Tue, 11 May 2021 15:36:46 +0000</pubDate>
@@ -31,7 +25,7 @@
       <comments>https://torcheck.xenobite.eu/#comments</comments>
       <pubDate>Mon, 10 May 2021 17:19:46 +0000</pubDate>
       <dc:creator>X-Force</dc:creator>
-      <guid isPermaLink="false">https://raw.githubusercontent.com/kudou/hosts/master/feed/?p=5371</guid>
+      <guid isPermaLink="false">https://torcheck.xenobite.eu/</guid>
       <description><![CDATA[<p align="center"><a href="https://torcheck.xenobite.eu/"></a></p><p>在如今的<strong>短视频</strong>时代，很多人都想要<strong>快速地制作大量视频</strong>。但一般制作一个视频还得要花上不少时间的，而借助 AI 人工智能则可以帮你简化制作过程，大幅提高视频产出。</p><p>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</p>]]></description>      <wfw:commentRss>https://torcheck.xenobite.eu//feed</wfw:commentRss>
           </item>
@@ -41,7 +35,7 @@
 <comments>https://check.torproject.org/#comments</comments>
 <pubDate>Mon, 10 May 2021 17:19:46 +0000</pubDate>
 <dc:creator>X-Force</dc:creator>
-<guid isPermaLink="false">https://raw.githubusercontent.com/kudou/hosts/master/feed/?p=5371</guid>
+<guid isPermaLink="false">https://check.torproject.org/</guid>
 <description><![CDATA[<p align="center"><a href="https://check.torproject.org/"></a></p><p>在如今的<strong>短视频</strong>时代，很多人都想要<strong>快速地制作大量视频</strong>。但一般制作一个视频还得要花上不少时间的，而借助 AI 人工智能则可以帮你简化制作过程，大幅提高视频产出。</p><p>
 &nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</p>]]></description>      <wfw:commentRss>https://check.torproject.org//feed</wfw:commentRss>
 </item>      </channel>
