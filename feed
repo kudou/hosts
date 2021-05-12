@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>iYouPort</title>
+	<atom:link href="https://raw.githubusercontent.com/kudou/hosts/master/hosts" rel="self" type="application/rss+xml" />
+	<link>https://raw.githubusercontent.com/kudou/hosts/master/hosts</link>
+	<description>fuck it is you</description>
+	<lastBuildDate>Tue, 11 May 2021 05:04:04 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod> yearly	</sy:updatePeriod>
+	<sy:updateFrequency> 1	</sy:updateFrequency>
+
+<site xmlns="com-wordpress:feed-additions:1">161182987</site>
+		<item>
+		<title>ip check</title>
+		<link>https://torcheck.xenobite.eu/</link>
+		<dc:creator><![CDATA[Gabriel Fornard]]></dc:creator></item>
+		<item>
+		<title>school ip check</title>
+		<link>https://torcheck.xenobite.eu/</link>
+		<dc:creator><![CDATA[Gabriel Fornard]]></dc:creator></item>
+		</channel>
+</rss>
