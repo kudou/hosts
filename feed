@@ -1,33 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+<?xml version="1.0" encoding="UTF-8"?>  <rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+      >
 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
-	>
+  <channel>
+    <title>kudo</title>
+    <atom:link href="https://raw.githubusercontent.com/kudou/hosts/master/feed" rel="self" type="application/rss+xml" />
+    <link>https://raw.githubusercontent.com/kudou/hosts/master/feed</link>
+    <description>hosts改变生活</description>
+    <pubDate>Tue, 11 May 2021 15:36:46 +0000</pubDate>
+    <language>zh-CN</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <generator>https://wordpress.org/?v=5.7.1</generator>
 
-<channel>
-	<title>iYouPort</title>
-	<atom:link href="https://raw.githubusercontent.com/kudou/hosts/master/hosts" rel="self" type="application/rss+xml" />
-	<link>https://raw.githubusercontent.com/kudou/hosts/master/hosts</link>
-	<description>fuck it is you</description>
-	<lastBuildDate>Tue, 11 May 2021 05:04:04 +0000</lastBuildDate>
-	<language>zh-CN</language>
-	<sy:updatePeriod> yearly	</sy:updatePeriod>
-	<sy:updateFrequency> 1	</sy:updateFrequency>
-
-<site xmlns="com-wordpress:feed-additions:1">161182987</site>
-		<item>
-		<title>ip check</title>
-		<link>https://torcheck.xenobite.eu/</link>
-		<dc:creator><![CDATA[Gabriel Fornard]]></dc:creator></item>
-		<item>
-		<title>school ip check</title>
-		<link>https://torcheck.xenobite.eu/</link>
-		<dc:creator><![CDATA[Gabriel Fornard]]></dc:creator></item>
-		</channel>
-</rss>
+<image>
+  <url>https://avatars.githubusercontent.com/u/1533543</url>
+  <title>kudo</title>
+  <link>https://raw.githubusercontent.com/kudou/hosts/master/feed</link>
+  <width>32</width>
+  <height>32</height>
+</image>
+        <item>
+            <title>eu ip</title>
+      <link>https://torcheck.xenobite.eu/</link>
+      <comments>https://torcheck.xenobite.eu/#comments</comments>
+      <pubDate>Mon, 10 May 2021 17:19:46 +0000</pubDate>
+      <dc:creator>X-Force</dc:creator>
+      <guid isPermaLink="false">https://raw.githubusercontent.com/kudou/hosts/master/feed/?p=5371</guid>
+      <description><![CDATA[<p align="center"><a href="https://torcheck.xenobite.eu/"></a></p><p>在如今的<strong>短视频</strong>时代，很多人都想要<strong>快速地制作大量视频</strong>。但一般制作一个视频还得要花上不少时间的，而借助 AI 人工智能则可以帮你简化制作过程，大幅提高视频产出。</p><p>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</p>]]></description>      <wfw:commentRss>https://torcheck.xenobite.eu//feed</wfw:commentRss>
+          </item>
+        <item>
+<title>offical ip</title>
+<link>https://check.torproject.org/</link>
+<comments>https://check.torproject.org/#comments</comments>
+<pubDate>Mon, 10 May 2021 17:19:46 +0000</pubDate>
+<dc:creator>X-Force</dc:creator>
+<guid isPermaLink="false">https://raw.githubusercontent.com/kudou/hosts/master/feed/?p=5371</guid>
+<description><![CDATA[<p align="center"><a href="https://check.torproject.org/"></a></p><p>在如今的<strong>短视频</strong>时代，很多人都想要<strong>快速地制作大量视频</strong>。但一般制作一个视频还得要花上不少时间的，而借助 AI 人工智能则可以帮你简化制作过程，大幅提高视频产出。</p><p>
+&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</p>]]></description>      <wfw:commentRss>https://check.torproject.org//feed</wfw:commentRss>
+</item>      </channel>
+  </rss>
