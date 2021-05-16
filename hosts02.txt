@@ -2861,6 +2861,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	viowyf.khaiafi.com
 0.0.0.0	vip.fortunatetime.xyz
 0.0.0.0	virus-notice.com
+0.0.0.0	vitemadose.fr
 0.0.0.0	vlc.de
 0.0.0.0	voyager1.telesat.com.co
 0.0.0.0	vxiframe.biz
