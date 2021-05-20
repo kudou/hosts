@@ -2063,6 +2063,7 @@
 0.0.0.0	intelliads.com
 0.0.0.0	intelligenceadx.com
 0.0.0.0	intellitxt.com
+0.0.0.0	intentsify.io
 0.0.0.0	interactive.forthnet.gr
 0.0.0.0	intergi.com
 0.0.0.0	internetfuel.com
@@ -2156,6 +2157,7 @@
 0.0.0.0	lemmatechnologies.com
 0.0.0.0	lettucelimit.com
 0.0.0.0	levelrate.de
+0.0.0.0	lever-analytics.com
 0.0.0.0	lfeeder.com
 0.0.0.0	lfstmedia.com
 0.0.0.0	li.alibris.com
@@ -2817,6 +2819,7 @@
 0.0.0.0	remistrainew.club
 0.0.0.0	remox.com
 0.0.0.0	republika.onet.pl
+0.0.0.0	resalag.com
 0.0.0.0	research.de.com
 0.0.0.0	resolutekey.com
 0.0.0.0	resonantbrush.com
