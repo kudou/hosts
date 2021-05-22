@@ -1012,6 +1012,7 @@
 0.0.0.0	alclick.com
 0.0.0.0	alenty.com
 0.0.0.0	alert.com.mt
+0.0.0.0	alertafterthought.com
 0.0.0.0	alexa-sitestats.s3.amazonaws.com
 0.0.0.0	alexametrics.com
 0.0.0.0	algorix.co
@@ -1344,6 +1345,7 @@
 0.0.0.0	carambo.la
 0.0.0.0	carbonads.com
 0.0.0.0	carbonads.net
+0.0.0.0	caringcast.com
 0.0.0.0	casalemedia.com
 0.0.0.0	casalmedia.com
 0.0.0.0	cash4members.com
@@ -1961,6 +1963,7 @@
 0.0.0.0	hlok.qertewrt.com
 0.0.0.0	hocgeese.com
 0.0.0.0	hollps.win
+0.0.0.0	homelycrown.com
 0.0.0.0	homepageking.de
 0.0.0.0	honeygoldfish.com
 0.0.0.0	honorablehall.com
@@ -2386,6 +2389,7 @@
 0.0.0.0	mtrcs.samba.tv
 0.0.0.0	mtree.com
 0.0.0.0	munchkin.marketo.net
+0.0.0.0	mundanepollution.com
 0.0.0.0	musiccounter.ru
 0.0.0.0	muwmedia.com
 0.0.0.0	mxptint.net
