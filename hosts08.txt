@@ -1131,7 +1131,6 @@
 0.0.0.0	axiomaticalley.com
 0.0.0.0	axonix.com
 0.0.0.0	aztracking.net
-0.0.0.0	b-1st.com
 0.0.0.0	ba.afl.rakuten.co.jp
 0.0.0.0	babs.tv2.dk
 0.0.0.0	backbeatmedia.com
@@ -1475,6 +1474,7 @@
 0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	commonswing.com
+0.0.0.0	communications.melitaltd.com
 0.0.0.0	compactbanner.com
 0.0.0.0	completecabbage.com
 0.0.0.0	complextoad.com
@@ -1739,6 +1739,8 @@
 0.0.0.0	eusta.de
 0.0.0.0	evadav.com
 0.0.0.0	evadavdsp.pro
+0.0.0.0	events-eu.freshsuccess.com
+0.0.0.0	events-us.freshsuccess.com
 0.0.0.0	everestads.net
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
@@ -1838,7 +1840,6 @@
 0.0.0.0	freewebcounter.com
 0.0.0.0	freewheel.com
 0.0.0.0	freewheel.tv
-0.0.0.0	freshworks.com
 0.0.0.0	frightenedpotato.com
 0.0.0.0	frtyj.com
 0.0.0.0	frtyk.com
@@ -2033,7 +2034,6 @@
 0.0.0.0	improvedigital.com
 0.0.0.0	impulsehands.com
 0.0.0.0	imrworldwide.com
-0.0.0.0	inaccused.com
 0.0.0.0	incentaclick.com
 0.0.0.0	inclk.com
 0.0.0.0	incognitosearches.com
@@ -2119,6 +2119,7 @@
 0.0.0.0	keymedia.hu
 0.0.0.0	kindads.com
 0.0.0.0	kissmetrics.com
+0.0.0.0	klaviyo.com
 0.0.0.0	klclick.com
 0.0.0.0	klclick1.com
 0.0.0.0	kliks.nl
@@ -2187,7 +2188,6 @@
 0.0.0.0	lightcushion.com
 0.0.0.0	lightspeedcash.com
 0.0.0.0	lijit.com
-0.0.0.0	line.jzs001.cn
 0.0.0.0	link-booster.de
 0.0.0.0	link4ads.com
 0.0.0.0	linkadd.de
@@ -2205,6 +2205,7 @@
 0.0.0.0	litix.io
 0.0.0.0	liveadexchanger.com
 0.0.0.0	liveintent.com
+0.0.0.0	livelylaugh.com
 0.0.0.0	liverail.com
 0.0.0.0	lizardslaugh.com
 0.0.0.0	lkqd.com
@@ -3374,6 +3375,7 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trix.net
+0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.enemy-adult-scared-there.xyz
 0.0.0.0	trk.pinterest.com
