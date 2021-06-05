@@ -9,7 +9,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4025-HHN	1622700527	992069073</p>
+<p>Details:	cache-bma1625-BMA	1622873621	3955631321</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4025-HHN	1622700529	992085651</p>
+<p>Details:	cache-bma1625-BMA	1622873623	3955635426</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +41,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4025-HHN	1622700532	992108123</p>
+<p>Details:	cache-bma1625-BMA	1622873625	3955642675</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>

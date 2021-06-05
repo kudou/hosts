@@ -53,8 +53,6 @@ aa-metrics.jalan.net
 aamapi.com
 aamsitecertifier.com
 aanbiedingfan.eu
-aanbiedingloket.eu
-aanbiedingnu.eu
 aanbiedingtop.eu
 aanbiedingzon.eu
 aanqylta.com
@@ -218,6 +216,7 @@ ads-d.viber.com
 ads.asccommunications.com
 ads.aws.viber.com
 ads.bid
+ads.brandadvance.co.uk
 ads.brave.com
 ads.cdn.viber.com
 ads.chaturbate.com
@@ -302,7 +301,6 @@ advcake.com
 adventive.com
 adventori.com
 adversal.com
-advertise.pro
 advertise.ru
 advertiserurl.com
 advertising.amazon.co.uk
@@ -372,6 +370,7 @@ amptrack.dailymail.co.uk
 amptrack.thisismoney.co.uk
 analysing.email
 analytics-api.dvdfab.cn
+analytics-api.samsunghealthcn.com
 analytics-cdn.sykescottages.co.uk
 analytics-egain.com
 analytics-static.ugc.bazaarvoice.com
@@ -445,6 +444,7 @@ analytics.mlstatic.com
 analytics.mobile.walmart.com
 analytics.motionarray.com
 analytics.move.ru
+analytics.ngs.ru
 analytics.nike.com
 analytics.ninjakiwi.com
 analytics.ovh.com
@@ -462,6 +462,7 @@ analytics.routemehome.org
 analytics.samsungknox.com
 analytics.sapo.pt
 analytics.schoolwires.com
+analytics.sem-track.com
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -536,6 +537,7 @@ appnexus.net
 appnexuscloud.com
 appsflyer.com
 appsmonitoring.com
+appstat.petafuel.net
 apptimize.com
 apptracker.gamedock.io
 appuniverseapplication.com
@@ -807,6 +809,7 @@ clicktale.net
 clicktracks.com
 clicktripz.com
 client-event-reporter.twitch.tv
+client-telemetry.roblox.com
 clientsend.com
 clinch.co
 clixgalore.com
@@ -818,6 +821,7 @@ clkfeed.com
 clkmon.com
 clkpback3.com
 clkrev.com
+clksite.com
 clksite.com
 closealert.com
 cluodlfare.com
@@ -909,6 +913,7 @@ cqcounter.com
 cquotient.com
 crashdump.spotify.com
 crashlytics.com
+crashlyticsreports-pa.googleapis.com
 crazyegg.com
 crealytics.com
 createsend.click
@@ -1312,7 +1317,6 @@ ghostery.com
 gigaonclick.com
 girlbuffalo.com
 gixioanalytics.com
-gleam.io
 glimr.io
 glispa.com
 globalemedia.net
@@ -1323,7 +1327,6 @@ goadservices.com
 goatcounter.com
 godatafeed.com
 goedeaanbieding.eu
-gogoedkoop.eu
 golittretre.info
 gooanalytics.com
 google-analytics.com
@@ -1395,6 +1398,7 @@ himediads.com
 histats.com
 hit.skrz.cz
 hitbox.com
+hitslink.com
 hkv06j2p7pof.com
 hlserve.com
 hockeyapp.net
@@ -1486,6 +1490,7 @@ inskinad.com
 inskinmedia.com
 insnw.net
 inspectlet.com
+instabug.com
 instana.io
 instartlogic.com
 instinctiveads.com
@@ -2872,6 +2877,7 @@ mkt10868.com
 mkt10869.com
 mkt1087.com
 mkt10871.com
+mkt10872.com
 mkt10874.com
 mkt10875.com
 mkt10876.com
@@ -2903,13 +2909,24 @@ mkt1091.com
 mkt10911.com
 mkt10913.com
 mkt10914.com
+mkt10915.com
 mkt10919.com
 mkt1092.com
 mkt10920.com
 mkt10922.com
+mkt10924.com
+mkt10925.com
+mkt10927.com
+mkt10929.com
 mkt1093.com
 mkt10930.com
+mkt10936.com
+mkt10938.com
+mkt10939.com
 mkt1094.com
+mkt10940.com
+mkt10944.com
+mkt10945.com
 mkt1095.com
 mkt1096.com
 mkt1097.com
@@ -12910,7 +12927,6 @@ onclickperformance.com
 onclicktop.com
 onedmp.com
 onefeed.co.uk
-onemarketnetwork.com
 onesignal.com
 onestat.com
 onetag-sys.com
@@ -13027,6 +13043,7 @@ piwikpro.com
 pixanalytics.pixnet.net
 pixanalytics2.pixnet.net
 pixel-static.spotify.com
+pixel.ad
 pixel.bild.de
 pixel.ex.co
 pixel.facebook.com
@@ -13083,7 +13100,6 @@ ppjol.net
 prebid.org
 preroller.com
 pricespider.com
-prijsbonus.eu
 prijspakkertje.nl
 privacy.aol.com
 privacymanager.io
@@ -13478,6 +13494,7 @@ smetrics.3m.com.cn
 smetrics.48.ie
 smetrics.7eleven.com.au
 smetrics.aa.com
+smetrics.aaa.com
 smetrics.aainsurance.co.nz
 smetrics.aami.com.au
 smetrics.aarp.org
@@ -13549,7 +13566,9 @@ smetrics.barclays.co.uk
 smetrics.bbva.com.ar
 smetrics.bbva.com.co
 smetrics.bbva.es
+smetrics.bbva.pe
 smetrics.bbvanet.com.co
+smetrics.bbvanetcash.pe
 smetrics.bbvausa.com
 smetrics.bcbsm.com
 smetrics.bcbsnc.com
@@ -13559,6 +13578,7 @@ smetrics.bedbathandbeyond.ca
 smetrics.bedbathandbeyond.com
 smetrics.belairdirect.com
 smetrics.belk.com
+smetrics.beneplace.com
 smetrics.bestbuy.com
 smetrics.bestegg.com
 smetrics.bestinver.es
@@ -13636,6 +13656,7 @@ smetrics.citibank.com.ph
 smetrics.citibank.com.sg
 smetrics.citibank.com.tw
 smetrics.citibank.com.vn
+smetrics.citibank.pl
 smetrics.citizensbank.com
 smetrics.cloudera.com
 smetrics.cnn.com
@@ -13675,6 +13696,7 @@ smetrics.currys.co.uk
 smetrics.cytivalifesciences.com
 smetrics.darty.com
 smetrics.deakin.edu.au
+smetrics.default.com
 smetrics.dekalbasgrowdeltapine.com
 smetrics.delta.com
 smetrics.deltacargo.com
@@ -13807,6 +13829,7 @@ smetrics.hypedc.com
 smetrics.hyundaiusa.com
 smetrics.i-law.com
 smetrics.ibfd.org
+smetrics.ice.gov
 smetrics.ifc.org
 smetrics.ig.ca
 smetrics.ikea.com
@@ -13969,7 +13992,6 @@ smetrics.newark.com
 smetrics.newbalance.com
 smetrics.newfoundlandgrocerystores.ca
 smetrics.newport.com
-smetrics.nexgard.com.au
 smetrics.nexgardbrasil.com.br
 smetrics.nexgardfordogs.com
 smetrics.nexmo.com
@@ -13989,6 +14011,7 @@ smetrics.nycgo.com
 smetrics.nykaa.com
 smetrics.nykaafashion.com
 smetrics.nyulangone.org
+smetrics.o2online.de
 smetrics.oakley.com
 smetrics.officechairs.com
 smetrics.officeworks.com.au
@@ -14095,13 +14118,13 @@ smetrics.sap.com
 smetrics.sasktel.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
+smetrics.savewithsrpbiz.com
 smetrics.saxobank.com
 smetrics.sbisec.co.jp
 smetrics.sbs.com.au
 smetrics.sce.com
 smetrics.schwans.com
 smetrics.sdcvisit.com
-smetrics.seat-auto.pl
 smetrics.seat.co.uk
 smetrics.seat.com
 smetrics.seat.pl
@@ -14120,7 +14143,6 @@ smetrics.sharecare.com
 smetrics.sharekhan.com
 smetrics.shell.co.uk
 smetrics.shellenergy.co.uk
-smetrics.shihang.org
 smetrics.shinseibank.com
 smetrics.sho.com
 smetrics.shopbop.com
@@ -14137,7 +14159,6 @@ smetrics.skipton.co.uk
 smetrics.sky.com
 smetrics.sky.it
 smetrics.skype.com
-smetrics.slcmanagement.com
 smetrics.sleepnumber.com
 smetrics.sling.com
 smetrics.smartmove.us
@@ -14145,6 +14166,7 @@ smetrics.smbcnikko.co.jp
 smetrics.softwareag.com
 smetrics.solarwinds.com
 smetrics.solinst.com
+smetrics.sony.co.id
 smetrics.sony.jp
 smetrics.sothebys.com
 smetrics.sourceesb.com
@@ -14161,6 +14183,7 @@ smetrics.staplesadvantage.com
 smetrics.starhub.com
 smetrics.startribune.com
 smetrics.statefarm.com
+smetrics.statestreet.com
 smetrics.statnews.com
 smetrics.stgeorge.com.au
 smetrics.striderite.com
@@ -14180,6 +14203,7 @@ smetrics.synopsys.com
 smetrics.t-mobile.com
 smetrics.t-mobilemoney.com
 smetrics.talbots.com
+smetrics.tcs.com
 smetrics.td.com
 smetrics.tdc.dk
 smetrics.te.com
@@ -14219,7 +14243,6 @@ smetrics.traderonline.com
 smetrics.traegergrills.com
 smetrics.travelchannel.com
 smetrics.travelmoneyonline.co.uk
-smetrics.treehousetv.com
 smetrics.trilliumhealthplan.com
 smetrics.tryg.dk
 smetrics.trygghansa.se
@@ -14229,7 +14252,6 @@ smetrics.tv2.dk
 smetrics.tyro.com
 smetrics.ubi.com
 smetrics.uhc.com
-smetrics.uncommonegfrmutations.com
 smetrics.unipolsai.it
 smetrics.uol.com.br
 smetrics.ups.com
@@ -14242,6 +14264,7 @@ smetrics.vero.com.au
 smetrics.viceroyhotelsandresorts.com
 smetrics.viega.com
 smetrics.viega.de
+smetrics.viega.us
 smetrics.virginatlantic.com
 smetrics.virginmedia.com
 smetrics.virginmediabusiness.co.uk
@@ -14398,6 +14421,7 @@ stats.kaltura.com
 stats.kollective.app
 stats.ksearchnet.com
 stats.merriam-webster.com
+stats.mos.ru
 stats.newsweek.com
 stats.nextcloud.com
 stats.paypal.com
@@ -14408,6 +14432,7 @@ stats.rs-online.com
 stats.ryzeo.com
 stats.searchanise.com
 stats.shell-tips.com
+stats.thomasvitale.com
 stats.ttit.de
 stats.unity3d.com
 stats.vashurok.ru
@@ -14439,7 +14464,6 @@ streamrail.net
 streamsend.com
 strikead.com
 struq.com
-stuntwarenhuis.eu
 styleszelife.com
 sub2tech.com
 sublimeskinz.com
@@ -14455,8 +14479,6 @@ supenchoun.eu
 superaanbodkiosk.eu
 superactiedag.eu
 superads.cn
-superkortinghulp.eu
-superkortingsnel.eu
 superkortingtips.eu
 superkortingzone.eu
 superonclick.com
@@ -14587,6 +14609,7 @@ topdealalert.eu
 topkortingcentrale.eu
 topperactie.eu
 totaalvoordelig.eu
+totentacruelor.com
 touchcommerce.com
 touchstoneresearch.com
 tp88trk.com
@@ -14713,6 +14736,7 @@ trychameleon.com
 tsyndicate.com
 ttauri.tomshardware.com
 ttgtmedia.com
+ttnrd.com
 ttxm.co.uk
 tubemogul.com
 tumri.net
