@@ -3,13 +3,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	first	byte	timeout</title>
+<title>503	Request	timedout</title>
 </head>
 <body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
+<h1>Error	503	Request	timedout</h1>
+<p>Request	timedout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-fra19145-FRA	1623132948	3060057427</p>
+<p>Details:	cache-tyo11981-TYO	1623305411	1613365531</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-fra19145-FRA	1623133071	3060682814</p>
+<p>Details:	cache-tyo11981-TYO	1623305535	1613925199</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -35,13 +35,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	first	byte	timeout</title>
+<title>503	Backend	unavailable,	connection	timeout</title>
 </head>
 <body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-fra19145-FRA	1623133196	3061324190</p>
+<p>Details:	cache-tyo11981-TYO	1623305628	1614601204</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
