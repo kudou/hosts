@@ -9,7 +9,7 @@
 <h1>Error	503	Request	timedout</h1>
 <p>Request	timedout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11981-TYO	1623305411	1613365531</p>
+<p>Details:	cache-lcy19239-LCY	1623391820	852180655</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11981-TYO	1623305535	1613925199</p>
+<p>Details:	cache-lcy19239-LCY	1623391944	852714474</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -35,13 +35,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	Backend	unavailable,	connection	timeout</title>
+<title>503	first	byte	timeout</title>
 </head>
 <body>
-<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
-<p>Backend	unavailable,	connection	timeout</p>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-tyo11981-TYO	1623305628	1614601204</p>
+<p>Details:	cache-lcy19239-LCY	1623392069	853362096</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>

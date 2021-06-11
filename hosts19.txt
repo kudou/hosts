@@ -2631,6 +2631,7 @@
 0.0.0.0	pixel.watch
 0.0.0.0	pixel.yabidos.com
 0.0.0.0	placed.com
+0.0.0.0	plausibleio.workers.dev
 0.0.0.0	play4traffic.com
 0.0.0.0	playhaven.com
 0.0.0.0	pleasantpump.com
