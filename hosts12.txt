@@ -3,13 +3,29 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
+<title>503	first	byte	timeout</title>
+</head>
+<body>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-bma1673-BMA	1623910786	3297576385</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
 <title>503	Backend	unavailable,	connection	timeout</title>
 </head>
 <body>
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1630-BMA	1623824073	2346592515</p>
+<p>Details:	cache-bma1673-BMA	1623910835	3297929536</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -19,29 +35,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	first	byte	timeout</title>
+<title>503	Backend	unavailable,	connection	timeout</title>
 </head>
 <body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1674-BMA	1623824135	3680306106</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	first	byte	timeout</title>
-</head>
-<body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1630-BMA	1623824260	2346943093</p>
+<p>Details:	cache-bma1673-BMA	1623910880	3298074683</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
