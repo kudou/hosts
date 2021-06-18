@@ -1195,7 +1195,6 @@
 0.0.0.0	ds-aksb-a.akamaihd.net
 0.0.0.0	inmobisdk-a.akamaihd.net
 0.0.0.0	middycdn-a.akamaihd.net
-0.0.0.0	snappytvpoc-vh.akamaihd.net
 0.0.0.0	supersonicads-a.akamaihd.net
 0.0.0.0	cdn-guile.akamaized.net
 0.0.0.0	appsflyer.com.akamaized.net
@@ -4338,8 +4337,6 @@
 0.0.0.0	spell.itim.vn
 0.0.0.0	fc.itmedia.co.jp
 0.0.0.0	ip.itracker360.com
-0.0.0.0	cdn.iubenda.com
-0.0.0.0	hits-i.iubenda.com
 0.0.0.0	itm.ivitrack.com
 0.0.0.0	matching.ivitrack.com
 0.0.0.0	api.ivymobile.com
