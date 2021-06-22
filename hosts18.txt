@@ -53,7 +53,6 @@ aamapi.com
 aamsitecertifier.com
 aanbiedingfan.eu
 aanbiedingtop.eu
-aanbiedingzon.eu
 aanqylta.com
 ablebodiedcool.com
 abmr.net
@@ -1199,7 +1198,6 @@ expendituredefeated.com
 exponential.com
 extole.com
 extole.io
-extraactiesnel.eu
 extreemleukedeal.eu
 extreemleukesteals.eu
 extreme-dm.com
@@ -1214,7 +1212,6 @@ ezodn.com
 ezoic.net
 face3media.com
 facetz.net
-fairsharelabs.com
 fallingfalcon.com
 fancybar.net
 fastly-insights.com
@@ -1272,7 +1269,6 @@ fyre.co
 g2afse.com
 gadspms.com
 gadspmz.com
-gainedcluerelief.com
 gall-tarquin.com
 gallup.eset.com
 gamned.com
@@ -2893,6 +2889,7 @@ mkt10911.com
 mkt10913.com
 mkt10914.com
 mkt10915.com
+mkt10916.com
 mkt10917.com
 mkt10919.com
 mkt1092.com
@@ -2912,7 +2909,9 @@ mkt10940.com
 mkt10944.com
 mkt10945.com
 mkt1095.com
+mkt10957.com
 mkt1096.com
+mkt10961.com
 mkt1097.com
 mkt1098.com
 mkt1099.com
@@ -4896,6 +4895,7 @@ mkt2896.com
 mkt2897.com
 mkt2898.com
 mkt2899.com
+mkt29.com
 mkt290.com
 mkt2900.com
 mkt2901.com
@@ -12794,7 +12794,6 @@ mystat-in.net
 myswitchads.com
 mythings.com
 myvisualiq.net
-myx.cz
 myxheat.com
 n-core-pipe.com
 n214adserv.com
@@ -12943,7 +12942,6 @@ openxenterprise.org
 ophan.co.uk
 opinionbar.com
 opinionsquare.com
-oplkv.com
 oprechtvoordeligeproducten.eu
 optilead.co.uk
 optimizely.com
@@ -13050,7 +13048,6 @@ pixeltracksys.io
 pixelunion.net
 pixfuture.net
 pixiedust.buzzfeed.com
-pkiconcurlms.com
 pkrchp001.com
 placed.com
 playbuzz.com
@@ -13229,7 +13226,6 @@ report-metrics.essentials3.net
 res-x.com
 research-int.com
 research-int.se
-researchad.com
 researchresults.com
 reson8.com
 resorsedroblet.pro
@@ -13485,6 +13481,7 @@ smetrics.abanca.com
 smetrics.abbott
 smetrics.abbvie.com
 smetrics.abercrombie.com
+smetrics.accaglobal.com
 smetrics.act4yourheart.com
 smetrics.active.com
 smetrics.activecommunities.com
@@ -13521,6 +13518,7 @@ smetrics.argos.ie
 smetrics.ariba.com
 smetrics.army.mod.uk
 smetrics.as.com
+smetrics.ascentric.co.uk
 smetrics.aservoequihaler.com
 smetrics.atlanticsuperstore.ca
 smetrics.atomic.com
@@ -13549,9 +13547,12 @@ smetrics.barclays.co.uk
 smetrics.bbva.com.ar
 smetrics.bbva.com.co
 smetrics.bbva.es
+smetrics.bbva.mx
 smetrics.bbva.pe
 smetrics.bbvanet.com.co
+smetrics.bbvanet.com.mx
 smetrics.bbvanetcash.pe
+smetrics.bbvaseguros.mx
 smetrics.bbvausa.com
 smetrics.bcbsm.com
 smetrics.bcbsnc.com
@@ -13789,6 +13790,7 @@ smetrics.hbr.org
 smetrics.hbs.edu
 smetrics.hbsp.harvard.edu
 smetrics.hctra.org
+smetrics.hdfcbank.com
 smetrics.healthengine.com.au
 smetrics.healthnetcalifornia.com
 smetrics.healthpartners.com
@@ -13816,6 +13818,7 @@ smetrics.ice.gov
 smetrics.ifc.org
 smetrics.ig.ca
 smetrics.ikea.com
+smetrics.illinois.gov
 smetrics.illumina.com
 smetrics.ilovematlab.cn
 smetrics.ilsole24ore.com
@@ -14371,7 +14374,6 @@ spyvisit.com
 srvntrk.com
 srvpub.com
 ssacdn.com
-sspintrafmsmt.com
 ssw.live.com
 startup.mobile.webvisor.com
 startup.mobile.yandex.net
@@ -14458,10 +14460,7 @@ sumologic.com
 sumome.com
 supenchoun.eu
 superaanbodkiosk.eu
-superactiedag.eu
 superads.cn
-superkortingtips.eu
-superkortingzone.eu
 superonclick.com
 supersonic.com
 supersonicads.com
@@ -14629,7 +14628,6 @@ track.sublytics-6047af68d60b9.com
 track.thesaurus.com
 track.tproger.ru
 track.untd.com
-track.us.org
 track.wikibuy.com
 trackad.cz
 trackadm.com
@@ -14669,7 +14667,6 @@ tradefxads.com
 tradetracker.net
 tradplus.com
 tradplusad.com
-traffic.jackpot247.com
 traffic.ru
 trafficbot.uk
 trafficfabrik.com

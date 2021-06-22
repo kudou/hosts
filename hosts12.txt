@@ -9,40 +9,10 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4082-HHN	1623996743	2113914450</p>
+<p>Details:	cache-hhn4058-HHN	1624342240	3405351633</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
 </html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	Request	timedout</title>
-</head>
-<body>
-<h1>Error	503	Request	timedout</h1>
-<p>Request	timedout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4082-HHN	1623996857	2114589897</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	first	byte	timeout</title>
-</head>
-<body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4082-HHN	1623996982	2115228327</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
+Timed	out	while	waiting	on	cache-hhn4058-HHN
+Timed	out	while	waiting	on	cache-hhn4058-HHN
