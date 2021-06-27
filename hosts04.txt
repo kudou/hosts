@@ -3511,6 +3511,7 @@
 0.0.0.0	partner.googleadservices.com
 0.0.0.0	www.googleadservices.com
 0.0.0.0	static.googleadsserving.cn
+0.0.0.0	androidtvwatsonfe-pa.googleapis.com
 0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	ade.googlesyndication.com
 0.0.0.0	buttons.googlesyndication.com
@@ -3542,6 +3543,7 @@
 0.0.0.0	static.gridsumdissector.com
 0.0.0.0	api.growthbeat.com
 0.0.0.0	api.growthpush.com
+0.0.0.0	hearst.gscontxt.net
 0.0.0.0	phar.gu-web.net
 0.0.0.0	guardianapps.co.uk
 0.0.0.0	nextgen.guardianapps.co.uk
@@ -3790,6 +3792,7 @@
 0.0.0.0	uaid-linkage.imrworldwide.com
 0.0.0.0	imwx.com
 0.0.0.0	trk.in25app.com
+0.0.0.0	t.indeed.com
 0.0.0.0	update.indexww.com
 0.0.0.0	s.update.indexww.com
 0.0.0.0	t.update.indexww.com
@@ -4300,6 +4303,7 @@
 0.0.0.0	impression-europe.liftoff.io
 0.0.0.0	a.ligatus.com
 0.0.0.0	a-ssl.ligatus.com
+0.0.0.0	www.lightboxcdn.com
 0.0.0.0	ap.lijit.com
 0.0.0.0	pba.aws.lijit.com
 0.0.0.0	ce.lijit.com
@@ -5321,6 +5325,7 @@
 0.0.0.0	synad3.nuffnang.com.my
 0.0.0.0	als-svc.nytimes.com
 0.0.0.0	meter-svc.nytimes.com
+0.0.0.0	a.et.nytimes.com
 0.0.0.0	cdn.o333o.com
 0.0.0.0	consent.cmp.oath.com
 0.0.0.0	service.cmp.oath.com
@@ -5400,6 +5405,7 @@
 0.0.0.0	h.online-metrix.net
 0.0.0.0	h-ebay.online-metrix.net
 0.0.0.0	h-fidelity.online-metrix.net
+0.0.0.0	h-sdk.online-metrix.net
 0.0.0.0	h-signifyd.online-metrix.net
 0.0.0.0	h-tdcanada.online-metrix.net
 0.0.0.0	h6.online-metrix.net
@@ -6903,7 +6909,6 @@
 0.0.0.0	ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0	analytics-wildtangent-yfdbl8gzl.stackpathdns.com
 0.0.0.0	beacons-wxm0dh1cst4.stackpathdns.com
-0.0.0.0	hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0	sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
 0.0.0.0	alkutbay.starbolt.io
 0.0.0.0	dmp.starbolt.io
@@ -7925,6 +7930,7 @@
 0.0.0.0	i.w55c.net
 0.0.0.0	tags.w55c.net
 0.0.0.0	smetrics.walgreens.com
+0.0.0.0	drfdisvc.walmart.com
 0.0.0.0	analytics.mobile.walmart.com
 0.0.0.0	wapstart.ru
 0.0.0.0	cdn.watchingthat.net

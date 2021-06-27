@@ -7,7 +7,6 @@
 123count.com
 152media.com
 1s3h4f7sl.com
-200summit.com
 2020mustang.com
 206ads.com
 207.net
@@ -67,7 +66,6 @@ acexedge.com
 actiedag.eu
 actiesopleukedingen.eu
 active-agent.com
-active-trk7.com
 activeconversion.com
 actressact.com
 acuityplatform.com
@@ -400,10 +398,10 @@ analytics.functionofbeauty.com
 analytics.gandi.net
 analytics.generalmills.com
 analytics.getshogun.com
+analytics.ghostery.com
 analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
-analytics.innersplendornews.com
 analytics.jibecdn.com
 analytics.kaltura.com
 analytics.khmerload.com
@@ -948,7 +946,6 @@ da-ads.com
 dagelijksprofiteren.eu
 dagellijksprofiteren.eu
 dapxl.com
-dashingperfect.com
 data-analytics.top
 data-eroadvertising.com
 data.coremetrics.com
@@ -1045,14 +1042,12 @@ drift.com
 dsf4t5jfds34j.com
 dsply.com
 dtc-330d.com
-dtc-v6t.com
 dthvdr9.com
 dtrck.net
 dtscout.com
 dtsince.com
 duba.com
 duba.net
-duespainkiller.com
 dumedia.ru
 dwin1.com
 dwin2.com
@@ -1242,7 +1237,6 @@ focuusing.com
 followistic.com
 fomo.com
 footprintpredict.com
-force.com
 forensiq.com
 foresee.com
 foreseeresults.com
@@ -1426,7 +1420,6 @@ img-taboola.com
 imglnke.com
 imiclk.com
 imitrk1.com
-imitrk3.com
 imonomy.com
 impact-ad.com
 impact-ad.jp
@@ -1443,7 +1436,6 @@ in-page-push.com
 in.mydirtyhobby.de
 incoming-telemetry.thunderbird.net
 incoming.telemetry.mozilla.org
-indecisionremittance.com
 indexexchange.com
 indexww.com
 indpcr1.com
@@ -1491,7 +1483,6 @@ intradealtjes.com
 invitemedia.com
 invoc.us
 ioam.de
-ipccdn.co.uk
 ipinfo.io
 ipredictive.com
 iprom.net
@@ -1721,7 +1712,6 @@ mediaforge.com
 mediaiqdigital.com
 medialytics.com
 mediamond.it
-medianexusnetwork.com
 mediaplex.com
 mediative.ca
 mediative.com
@@ -2894,10 +2884,12 @@ mkt10917.com
 mkt10919.com
 mkt1092.com
 mkt10920.com
+mkt10921.com
 mkt10922.com
 mkt10924.com
 mkt10925.com
 mkt10927.com
+mkt10928.com
 mkt10929.com
 mkt1093.com
 mkt10930.com
@@ -2908,11 +2900,18 @@ mkt1094.com
 mkt10940.com
 mkt10944.com
 mkt10945.com
+mkt10946.com
 mkt1095.com
+mkt10953.com
+mkt10956.com
 mkt10957.com
 mkt1096.com
+mkt10960.com
 mkt10961.com
+mkt10964.com
+mkt10966.com
 mkt1097.com
+mkt10972.com
 mkt1098.com
 mkt1099.com
 mkt110.com
@@ -12841,7 +12840,6 @@ ninthdecimal.com
 nl00.net
 nl02.net
 nl03.net
-nmgcdn.com
 nmp1.com
 nobeta.com.br
 nosto.com
@@ -13780,6 +13778,7 @@ smetrics.greenflag.com
 smetrics.groundsguys.com
 smetrics.grundfos.com
 smetrics.gshock.com
+smetrics.guaranteedrate.com
 smetrics.ha.com
 smetrics.hagerty.co.uk
 smetrics.harborfreight.com
@@ -14267,8 +14266,6 @@ smetrics.vodafone.in
 smetrics.vogue-eyewear.com
 smetrics.vonage.com
 smetrics.vonageforhome.com
-smetrics.vrst.com
-smetrics.vsemirnyjbank.org
 smetrics.vueling.com
 smetrics.vw.com
 smetrics.vwfs-service-plans.io
@@ -14591,7 +14588,6 @@ touchstoneresearch.com
 tp88trk.com
 tqlkg.com
 tqn.com
-track-mv.com
 track-srv.com
 track.aliexpress.com
 track.cpa.iqoption.com
