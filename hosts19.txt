@@ -609,6 +609,7 @@
 0.0.0.0	ads.outpersonals.com
 0.0.0.0	ads.oxyshop.cz
 0.0.0.0	ads.passion.com
+0.0.0.0	ads.paymonex.net
 0.0.0.0	ads.pennet.com
 0.0.0.0	ads.pexi.nl
 0.0.0.0	ads.pfl.ua
@@ -1709,6 +1710,7 @@
 0.0.0.0	energeticladybug.com
 0.0.0.0	engage.dnsfilter.com
 0.0.0.0	engage.webshrinker.com
+0.0.0.0	engage.windows.com
 0.0.0.0	engagebdr.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	enginenetwork.com
@@ -2947,6 +2949,7 @@
 0.0.0.0	sexinyourcity.com
 0.0.0.0	sexlist.com
 0.0.0.0	sextracker.com
+0.0.0.0	shakegoldfish.com
 0.0.0.0	shakesea.com
 0.0.0.0	shakesuggestion.com
 0.0.0.0	shakytaste.com

@@ -1,16 +1,31 @@
-Timed	out	while	waiting	on	cache-hhn4077-HHN
 <?xml	version="1.0"	encoding="utf-8"?>
 <!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	first	byte	timeout</title>
+<title>503	Backend	unavailable,	connection	timeout</title>
 </head>
 <body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4077-HHN	1624947738	661494479</p>
+<p>Details:	cache-tyo11963-TYO	1625206184	2438595023</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	Backend	unavailable,	connection	timeout</title>
+</head>
+<body>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-tyo11963-TYO	1625206243	2438852708</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -26,7 +41,7 @@ Timed	out	while	waiting	on	cache-hhn4077-HHN
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4077-HHN	1624947862	662156371</p>
+<p>Details:	cache-tyo11963-TYO	1625206368	2439196343</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
