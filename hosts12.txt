@@ -1,3 +1,4 @@
+Timed	out	while	waiting	on	cache-hhn4077-HHN
 <?xml	version="1.0"	encoding="utf-8"?>
 <!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -9,7 +10,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-yul12826-YUL	1624774211	1928946240</p>
+<p>Details:	cache-hhn4077-HHN	1624947738	661494479</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,23 +26,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-yul12826-YUL	1624774272	1929246855</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	first	byte	timeout</title>
-</head>
-<body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-yul12826-YUL	1624774336	1929564600</p>
+<p>Details:	cache-hhn4077-HHN	1624947862	662156371</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
