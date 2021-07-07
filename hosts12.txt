@@ -9,7 +9,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1646-BMA	1625552117	3316553238</p>
+<p>Details:	cache-yul12826-YUL	1625638248	2048571511</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1646-BMA	1625552240	3316935136</p>
+<p>Details:	cache-yul12823-YUL	1625638371	902473580</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +41,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-bma1646-BMA	1625552365	3317312201</p>
+<p>Details:	cache-yul12826-YUL	1625638434	2049589006</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
