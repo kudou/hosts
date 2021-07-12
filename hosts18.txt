@@ -53,7 +53,6 @@ aamsitecertifier.com
 aanbiedingfan.eu
 aanbiedingtop.eu
 aanqylta.com
-ablebodiedcool.com
 abmr.net
 absoluutdeleukedeal.eu
 absoluutdeleukstedeals.eu
@@ -595,7 +594,6 @@ beacons5.gvt2.com
 beacons5.gvt3.com
 beacons6.gvt3.com
 beaconsinspace.com
-beastlyaccomplished.com
 bedspursueclueless.com
 beemray.com
 begun.ru
@@ -921,8 +919,6 @@ crowdignite.com
 crsspxl.com
 crtracklink.com
 crwdcntrl.net
-cspbuilder.info
-ctasnet.com
 cten10010.com
 ctnsnet.com
 cuebiq.com
@@ -952,7 +948,6 @@ datatracking.ru
 datawrapper.de
 daxapi.com
 daydot.agency
-dbrtkwaa81.com
 dc-storm.com
 de.coremetrics.com
 de17a.com
@@ -973,7 +968,6 @@ demdex.net
 denetsuk.com
 deployads.com
 depreciatewide.com
-deterindependentblocked.com
 detmir-stats.ru
 devaccess.easy4ipcloud.com
 device-metrics-us.amazon.com
@@ -994,7 +988,6 @@ digitalreflectionpanel.net
 digitaltarget.ru
 digitalwindow.com
 digitru.st
-dilateneedybeyond.com
 direct-aws-a1.com
 direct-azr-78.com
 directrev.com
@@ -1099,7 +1092,6 @@ elkedageendeal.eu
 elkedageengoededeal.eu
 elkedagietsleuks.eu
 elkedagietsnieuws.eu
-ellard.net
 eloq.fiducial.fr
 eloqua-tracking.unity3d.com
 eloqua-trackings.unity.com
@@ -1178,7 +1170,6 @@ exitbee.com
 exoclick.com
 exosrv.com
 exoticads.com
-expendituredefeated.com
 exponential.com
 extole.com
 extole.io
@@ -1457,10 +1448,8 @@ instinctiveads.com
 insurads.com
 intake-analytics.wikimedia.org
 intelli-direct.com
-intelligencefocus.com
 intellimize.co
 intellitxt.com
-intenta.io
 intentiq.com
 intentmedia.net
 interclick.com
@@ -1608,7 +1597,6 @@ log.pinterest.com
 log.quora.com
 log.spotify.com
 log.strm.yandex.ru
-log.testing.amap.com
 log.video.taobao.com
 log.zoom.us
 log16-platform-ycru.tiktokv.com
@@ -2852,6 +2840,7 @@ mkt10894.com
 mkt10895.com
 mkt10896.com
 mkt10898.com
+mkt10899.com
 mkt109.com
 mkt1090.com
 mkt10900.com
@@ -2892,7 +2881,10 @@ mkt10946.com
 mkt10948.com
 mkt10949.com
 mkt1095.com
+mkt10950.com
+mkt10951.com
 mkt10953.com
+mkt10954.com
 mkt10955.com
 mkt10956.com
 mkt10957.com
@@ -12839,7 +12831,6 @@ notsy.io
 noughttrustthreshold.com
 nowinteract.com
 npario-inc.net
-npario.com
 npttech.com
 nr-data.net
 ns1p.net
@@ -12859,12 +12850,10 @@ nyctrl32.com
 nyltx.com
 oclaserver.com
 oclasrv.com
-octonet.com
 octotracker-clients.net
 oering.eu
 offerstrack.net
 offerwall-adnative.com
-officemart.ru
 ofnsv69.com
 ogl.primorske.si
 ojrq.net
@@ -12909,7 +12898,6 @@ online-metrix.net
 onlinedealies.com
 onlinesalespro.com
 onscroll.com
-onstate.co.uk
 onthe.io
 ontoplist.com
 ontraport.com
@@ -13267,7 +13255,6 @@ route.to
 routecdn.com
 royapp.com
 rqtrk.eu
-rsvpgenius.com
 rtbidder.net
 rtmark.net
 rts.mobula.sdk.duapps.com
@@ -13722,6 +13709,7 @@ smetrics.eu5salesforce.com
 smetrics.europafm.com
 smetrics.eurowings.com
 smetrics.eversource.com
+smetrics.evrysdi-hcp.com
 smetrics.express.com
 smetrics.ey.com
 smetrics.farnell.com
@@ -13739,6 +13727,7 @@ smetrics.finishline.com
 smetrics.finning.com
 smetrics.fivestarpainting.com
 smetrics.flagstar.com
+smetrics.fnac.ch
 smetrics.fnac.com
 smetrics.fnac.es
 smetrics.fnac.pt
@@ -13755,6 +13744,7 @@ smetrics.gatesnotes.com
 smetrics.gcimetrics.com
 smetrics.gehealthcare.com
 smetrics.gemvisa.com.au
+smetrics.genentechhemophilia.com
 smetrics.genomeweb.com
 smetrics.gilotrifhcp.com
 smetrics.gio.com.au
@@ -13764,6 +13754,7 @@ smetrics.global.nba.com
 smetrics.globalnews.ca
 smetrics.globe.com.ph
 smetrics.globecard.dk
+smetrics.glyxambi.com
 smetrics.goindigo.in
 smetrics.golfgalaxy.com
 smetrics.gomastercard.com.au
@@ -13792,6 +13783,7 @@ smetrics.healthpartners.com
 smetrics.heartgard.com
 smetrics.heathrow.com
 smetrics.heathrowexpress.com
+smetrics.hemlibra.com
 smetrics.herbalife.com
 smetrics.hillrom.com
 smetrics.hmhco.com
@@ -14303,6 +14295,7 @@ smetrics.xn--sanandrbnk-wmb07gh39y.com
 smetrics.xn--sananerbank-4ob92i.com
 smetrics.xn--sananerbnk-zkb34hh39y.com
 smetrics.xn--santandrcbank-vzb.com
+smetrics.xn--yourbanksantandr-1dc.com
 smetrics.xn--yoursantanrbank-u5b6h.com
 smetrics.yaencontre.com
 smetrics.ybs.co.uk
@@ -14438,7 +14431,6 @@ storemetrics.pixelbits.io
 stores-counters.wix.com
 stormiq.com
 storygize.net
-storymedia.se
 strands.com
 streameye.net
 streamrail.com
@@ -14580,7 +14572,6 @@ tnctrx.com
 tns-counter.ru
 tns-cs.net
 tochdeleuksteshops.eu
-toluna-analytics.com
 topactieformule.eu
 topaz-analytics.com
 topclickguru.com
