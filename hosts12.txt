@@ -1,3 +1,4 @@
+Timed	out	while	waiting	on	cache-ams21042-AMS
 <?xml	version="1.0"	encoding="utf-8"?>
 <!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -9,7 +10,7 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-osl6521-OSL	1626243269	3751584053</p>
+<p>Details:	cache-ams21042-AMS	1626589047	3806265270</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -19,29 +20,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	first	byte	timeout</title>
+<title>503	Backend	unavailable,	connection	timeout</title>
 </head>
 <body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-osl6521-OSL	1626243394	3751790624</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	first	byte	timeout</title>
-</head>
-<body>
-<h1>Error	503	first	byte	timeout</h1>
-<p>first	byte	timeout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-osl6521-OSL	1626243519	3752332497</p>
+<p>Details:	cache-ams21042-AMS	1626589141	3806797218</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
