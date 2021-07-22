@@ -1,3 +1,33 @@
-Timed	out	while	waiting	on	cache-ams21022-AMS
-Timed	out	while	waiting	on	cache-ams21022-AMS
-Timed	out	while	waiting	on	cache-ams21022-AMS
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	Backend	unavailable,	connection	timeout</title>
+</head>
+<body>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-ams21043-AMS	1626934234	2563133411</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
+Timed	out	while	waiting	on	cache-ams21047-AMS
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	Backend	unavailable,	connection	timeout</title>
+</head>
+<body>
+<h1>Error	503	Backend	unavailable,	connection	timeout</h1>
+<p>Backend	unavailable,	connection	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-ams21043-AMS	1626934415	2563851496</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
