@@ -475,7 +475,6 @@ analytics.zxz.su
 analyticsmsp.com
 analyticspixel.microsoft.com
 and.co.uk
-anderskadootje.eu
 andmlb.kshwtj.com
 android-stat.acestream.net
 androidlog.ws.pho.to
@@ -952,7 +951,6 @@ dc-storm.com
 de.coremetrics.com
 de17a.com
 deallsvinder.eu
-dealtjesonlines.eu
 dealvandeweek.eu
 decenthat.com
 decibelinsight.com
@@ -1391,7 +1389,6 @@ idgpublishing.com
 idio.co
 idqqimg.com
 idvert.cz
-iframes.us
 ig0nr8hhhb.com
 igodigital.com
 iiad.com
@@ -2890,23 +2887,32 @@ mkt10954.com
 mkt10955.com
 mkt10956.com
 mkt10957.com
+mkt10958.com
 mkt10959.com
 mkt1096.com
 mkt10960.com
 mkt10961.com
 mkt10963.com
 mkt10964.com
+mkt10965.com
 mkt10966.com
+mkt10967.com
 mkt10969.com
 mkt1097.com
 mkt10972.com
 mkt10974.com
 mkt10975.com
+mkt10976.com
 mkt10978.com
 mkt1098.com
+mkt10980.com
 mkt10981.com
 mkt10982.com
+mkt10983.com
+mkt10984.com
+mkt10985.com
 mkt10986.com
+mkt10989.com
 mkt1099.com
 mkt10991.com
 mkt110.com
@@ -13475,7 +13481,6 @@ smetrics.aetn.com
 smetrics.aetnamedicare.com
 smetrics.aia.com
 smetrics.airbank.cz
-smetrics.airbnb.hk
 smetrics.aircanada.com
 smetrics.aireserv.com
 smetrics.ajinomoto.co.jp
@@ -13504,7 +13509,6 @@ smetrics.argos.ie
 smetrics.ariba.com
 smetrics.army.mod.uk
 smetrics.as.com
-smetrics.ascentric.co.uk
 smetrics.atlanticsuperstore.ca
 smetrics.atomic.com
 smetrics.atresplayer.com
@@ -13581,6 +13585,7 @@ smetrics.cahealthwellness.com
 smetrics.calvinklein.us
 smetrics.capitalone.com
 smetrics.carfax.com
+smetrics.carolinacompletehealth.com
 smetrics.carphonewarehouse.com
 smetrics.cars.com
 smetrics.carters.com
@@ -13701,7 +13706,6 @@ smetrics.ernestjones.co.uk
 smetrics.esignal.com
 smetrics.etcanada.com
 smetrics.etihad.com
-smetrics.eu5salesforce.com
 smetrics.europafm.com
 smetrics.eurowings.com
 smetrics.eversource.com
@@ -13973,7 +13977,6 @@ smetrics.nowtv.com
 smetrics.nowtv.it
 smetrics.nvidia.com
 smetrics.nyandcompany.com
-smetrics.nycgo.com
 smetrics.nykaa.com
 smetrics.nykaafashion.com
 smetrics.nyulangone.org
@@ -14134,8 +14137,6 @@ smetrics.smbcnikko.co.jp
 smetrics.softwareag.com
 smetrics.solarwinds.com
 smetrics.solinst.com
-smetrics.sony.co.id
-smetrics.sony.com.ar
 smetrics.sony.jp
 smetrics.sothebys.com
 smetrics.sourceesb.com
@@ -14284,6 +14285,7 @@ smetrics.wyndhamhotels.com
 smetrics.xn--yourbanksanandr-p8b07k.com
 smetrics.xn--yourbanksantandr-1dc.com
 smetrics.xn--yourbanksantanr-y5b0l.com
+smetrics.xn--yourbanksantner-x5b8679j.com
 smetrics.xn--yoursantanrbank-u5b6h.com
 smetrics.yaencontre.com
 smetrics.ybs.co.uk
@@ -14320,7 +14322,6 @@ sophus3.com
 sortable.com
 sovrn.com
 spaceio.xyz
-spannersalesman.com
 sparkflow.net
 speciaalvoordeeltje.eu
 speciallyspecifiedsandwich.com
@@ -14448,6 +14449,7 @@ superonclick.com
 supersonic.com
 supersonicads.com
 supervoordeelshopper.eu
+supplyframe.com
 supportmetrics.apple.com
 survata.com
 survata.net
