@@ -1042,6 +1042,7 @@
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.dnsfilter.com
+0.0.0.0	analytics.emarketer.com
 0.0.0.0	analytics.ext.go-tellm.com
 0.0.0.0	analytics.fkz.re
 0.0.0.0	analytics.google.com
@@ -1078,6 +1079,7 @@
 0.0.0.0	anuncios.edicaoms.com.br
 0.0.0.0	anxiousapples.com
 0.0.0.0	apathetictheory.com
+0.0.0.0	api.amplitude.com
 0.0.0.0	api.intensifier.de
 0.0.0.0	api.kameleoon.com
 0.0.0.0	apolloprogram.io
@@ -1702,7 +1704,6 @@
 0.0.0.0	elitetoplist.com
 0.0.0.0	elthamely.com
 0.0.0.0	em1.yoursantander.co.uk
-0.0.0.0	emarketer.com
 0.0.0.0	emebo.com
 0.0.0.0	emebo.io
 0.0.0.0	emerse.com
