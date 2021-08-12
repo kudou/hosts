@@ -352,6 +352,7 @@
 0.0.0.0	adplus.co.id
 0.0.0.0	adplxmd.com
 0.0.0.0	adprofits.ru
+0.0.0.0	adpushup.com
 0.0.0.0	adrazzi.com
 0.0.0.0	adreactor.com
 0.0.0.0	adreclaim.com
@@ -2905,6 +2906,7 @@
 0.0.0.0	scarcesign.com
 0.0.0.0	scatteredheat.com
 0.0.0.0	scintillatingscissors.com
+0.0.0.0	scintillatingsilver.com
 0.0.0.0	scintillatingspace.com
 0.0.0.0	scoobyads.com
 0.0.0.0	scopelight.com

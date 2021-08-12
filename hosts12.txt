@@ -9,7 +9,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mxp6951-MXP	1628489762	2855826020</p>
+<p>Details:	cache-fra19173-FRA	1628748754	1792476727</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mxp6951-MXP	1628489885	2856173612</p>
+<p>Details:	cache-fra19173-FRA	1628748877	1793122039</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -35,13 +35,13 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
 <head>
-<title>503	Request	timedout</title>
+<title>503	first	byte	timeout</title>
 </head>
 <body>
-<h1>Error	503	Request	timedout</h1>
-<p>Request	timedout</p>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-mxp6951-MXP	1628489991	2856531566</p>
+<p>Details:	cache-fra19173-FRA	1628749002	1793769178</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
