@@ -172,7 +172,6 @@
 0.0.0.0	ad.usatoday.com
 0.0.0.0	ad.virtual-nights.com
 0.0.0.0	ad.wavu.hu
-0.0.0.0	ad.way.cz
 0.0.0.0	ad.weatherbug.com
 0.0.0.0	ad.wsod.com
 0.0.0.0	ad.wz.cz
@@ -434,7 +433,6 @@
 0.0.0.0	ads.cheabit.com
 0.0.0.0	ads.citymagazine.si
 0.0.0.0	ads.clasificadox.com
-0.0.0.0	ads.clearchannel.com
 0.0.0.0	ads.co.com
 0.0.0.0	ads.colombiaonline.com
 0.0.0.0	ads.com.com
@@ -753,7 +751,6 @@
 0.0.0.0	ads3.contentabc.com
 0.0.0.0	ads3.gamecity.net
 0.0.0.0	ads3.virtual-nights.com
-0.0.0.0	ads4.clearchannel.com
 0.0.0.0	ads4.gamecity.net
 0.0.0.0	ads4.virtual-nights.com
 0.0.0.0	ads4homes.com
@@ -2424,6 +2421,7 @@
 0.0.0.0	naradxb.com
 0.0.0.0	nastydollars.com
 0.0.0.0	nativeroll.tv
+0.0.0.0	naturalbid.com
 0.0.0.0	navegg.com
 0.0.0.0	navigator.io
 0.0.0.0	navrcholu.cz
@@ -2650,6 +2648,7 @@
 0.0.0.0	popupmoney.com
 0.0.0.0	popupnation.com
 0.0.0.0	popuptraffic.com
+0.0.0.0	porngraph.com
 0.0.0.0	porntrack.com
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
@@ -3434,7 +3433,6 @@
 0.0.0.0	valueclick.com
 0.0.0.0	valueclickmedia.com
 0.0.0.0	valuecommerce.com
-0.0.0.0	valuesponsor.com
 0.0.0.0	vanfireworks.com
 0.0.0.0	variablefitness.com
 0.0.0.0	vcommission.com
@@ -3470,7 +3468,6 @@
 0.0.0.0	visualrevenue.com
 0.0.0.0	vivads.net
 0.0.0.0	vivtracking.com
-0.0.0.0	vmmpxl.com
 0.0.0.0	voicefive.com
 0.0.0.0	voicevegetable.com
 0.0.0.0	voluum.com
