@@ -5273,7 +5273,6 @@
 0.0.0.0	lciapi.ninthdecimal.com
 0.0.0.0	rtb.ninthdecimal.com
 0.0.0.0	log4x.nixcdn.com
-0.0.0.0	lrc.nct.nixcdn.com
 0.0.0.0	stc-nas.nixcdn.com
 0.0.0.0	nmcdn.us
 0.0.0.0	dev.nodle.io
@@ -5768,9 +5767,6 @@
 0.0.0.0	api.optmstr.com
 0.0.0.0	a.optnmnstr.com
 0.0.0.0	a.optnmstr.com
-0.0.0.0	static.ordergroove.com
-0.0.0.0	consent.api.osano.com
-0.0.0.0	cmp.osano.com
 0.0.0.0	otherlevels.com
 0.0.0.0	api.otherlevels.com
 0.0.0.0	cdn.otherlevels.com

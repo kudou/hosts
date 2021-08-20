@@ -1472,6 +1472,8 @@
 0.0.0.0	coin-hive.com
 0.0.0.0	coinhive.com
 0.0.0.0	cointraffic.io
+0.0.0.0	collector-dev.cdp-dev.cnn.com
+0.0.0.0	collector.cdp.cnn.com
 0.0.0.0	colonize.com
 0.0.0.0	comclick.com
 0.0.0.0	comfortablecheese.com
@@ -3615,6 +3617,7 @@
 0.0.0.0	zenzuu.com
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zeusclicks.com
+0.0.0.0	zion-telemetry.api.cnn.io
 0.0.0.0	zlp6s.pw
 0.0.0.0	zm232.com
 0.0.0.0	zmedia.com
