@@ -9,23 +9,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-lcy19260-LCY	1629785759	1506843666</p>
-<hr>
-<p>Varnish	cache	server</p>
-</body>
-</html>
-<?xml	version="1.0"	encoding="utf-8"?>
-<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-<title>503	Request	timedout</title>
-</head>
-<body>
-<h1>Error	503	Request	timedout</h1>
-<p>Request	timedout</p>
-<h3>Guru	Mediation:</h3>
-<p>Details:	cache-lcy19260-LCY	1629785874	1507415573</p>
+<p>Details:	cache-mad22031-MAD	1629872140	2041228527</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +25,23 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-lcy19260-LCY	1629785998	1507960248</p>
+<p>Details:	cache-mad22031-MAD	1629872263	2041663735</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	first	byte	timeout</title>
+</head>
+<body>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-mad22031-MAD	1629872388	2042111534</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
