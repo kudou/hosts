@@ -9,7 +9,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4076-HHN	1629699348	2264943065</p>
+<p>Details:	cache-lcy19260-LCY	1629785759	1506843666</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -25,7 +25,7 @@
 <h1>Error	503	Request	timedout</h1>
 <p>Request	timedout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4076-HHN	1629699441	2265664030</p>
+<p>Details:	cache-lcy19260-LCY	1629785874	1507415573</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
@@ -41,7 +41,7 @@
 <h1>Error	503	first	byte	timeout</h1>
 <p>first	byte	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-hhn4076-HHN	1629699567	2266212802</p>
+<p>Details:	cache-lcy19260-LCY	1629785998	1507960248</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>

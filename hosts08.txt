@@ -1579,9 +1579,11 @@
 0.0.0.0	dacdn.visualwebsiteoptimizer.com
 0.0.0.0	dacdn.vwo.com
 0.0.0.0	dakic-ia-300.com
+0.0.0.0	damageddistance.com
 0.0.0.0	damdoor.com
 0.0.0.0	dancemistake.com
 0.0.0.0	dapper.net
+0.0.0.0	dapperfloor.com
 0.0.0.0	dashbida.com
 0.0.0.0	dashingdirt.com
 0.0.0.0	dashingsweater.com
@@ -3129,6 +3131,7 @@
 0.0.0.0	sugarcurtain.com
 0.0.0.0	sugoicounter.com
 0.0.0.0	sulkybutter.com
+0.0.0.0	sulkycook.com
 0.0.0.0	summerhamster.com
 0.0.0.0	summerobject.com
 0.0.0.0	sumo.com
