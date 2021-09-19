@@ -9,10 +9,40 @@
 <h1>Error	503	Backend	unavailable,	connection	timeout</h1>
 <p>Backend	unavailable,	connection	timeout</p>
 <h3>Guru	Mediation:</h3>
-<p>Details:	cache-ams21043-AMS	1630563276	3982864866</p>
+<p>Details:	cache-yul12826-YUL	1630736025	3607241384</p>
 <hr>
 <p>Varnish	cache	server</p>
 </body>
 </html>
-Timed	out	while	waiting	on	cache-ams21034-AMS
-Timed	out	while	waiting	on	cache-ams21034-AMS
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	first	byte	timeout</title>
+</head>
+<body>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-yul12826-YUL	1630736150	3607424605</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>
+<?xml	version="1.0"	encoding="utf-8"?>
+<!DOCTYPE	html	PUBLIC	"-//W3C//DTD	XHTML	1.0	Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>503	first	byte	timeout</title>
+</head>
+<body>
+<h1>Error	503	first	byte	timeout</h1>
+<p>first	byte	timeout</p>
+<h3>Guru	Mediation:</h3>
+<p>Details:	cache-yul12827-YUL	1630736212	58110461</p>
+<hr>
+<p>Varnish	cache	server</p>
+</body>
+</html>

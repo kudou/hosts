@@ -1,4 +1,3 @@
-0.0.0.0	1-1ads.com
 0.0.0.0	101com.com
 0.0.0.0	101order.com
 0.0.0.0	123freeavatars.com
@@ -68,6 +67,7 @@
 0.0.0.0	absentstream.com
 0.0.0.0	absoluteclickscom.com
 0.0.0.0	absorbingband.com
+0.0.0.0	abstractedauthority.com
 0.0.0.0	absurdwater.com
 0.0.0.0	abtasty.com
 0.0.0.0	abz.com
@@ -133,8 +133,6 @@
 0.0.0.0	ad.infoseek.com
 0.0.0.0	ad.intl.xiaomi.com
 0.0.0.0	ad.jacotei.com.br
-0.0.0.0	ad.jamba.net
-0.0.0.0	ad.jamster.co.uk
 0.0.0.0	ad.jetsoftware.com
 0.0.0.0	ad.keenspace.com
 0.0.0.0	ad.liveinternet.ru
@@ -155,7 +153,6 @@
 0.0.0.0	ad.preferances.com
 0.0.0.0	ad.profiwin.de
 0.0.0.0	ad.prv.pl
-0.0.0.0	ad.reunion.com
 0.0.0.0	ad.sensismediasmart.com.au
 0.0.0.0	ad.simflight.com
 0.0.0.0	ad.simgames.net
@@ -336,6 +333,7 @@
 0.0.0.0	adnxs.com
 0.0.0.0	adocean.pl
 0.0.0.0	adonspot.com
+0.0.0.0	adoptum.net
 0.0.0.0	adoric-om.com
 0.0.0.0	adorigin.com
 0.0.0.0	adotmob.com
@@ -689,7 +687,6 @@
 0.0.0.0	ads.verticalresponse.com
 0.0.0.0	ads.vgchartz.com
 0.0.0.0	ads.videosz.com
-0.0.0.0	ads.viksaffiliates.com
 0.0.0.0	ads.virtual-nights.com
 0.0.0.0	ads.virtuopolitan.com
 0.0.0.0	ads.vnumedia.com
@@ -801,7 +798,6 @@
 0.0.0.0	adserver.janes.com
 0.0.0.0	adserver.lecool.com
 0.0.0.0	adserver.libero.it
-0.0.0.0	adserver.madeby.ws
 0.0.0.0	adserver.mobi
 0.0.0.0	adserver.msmb.biz
 0.0.0.0	adserver.news.com.au
@@ -1011,6 +1007,7 @@
 0.0.0.0	alipromo.com
 0.0.0.0	all4spy.com
 0.0.0.0	allosponsor.com
+0.0.0.0	aloofmetal.com
 0.0.0.0	aloofvest.com
 0.0.0.0	alphonso.tv
 0.0.0.0	als-svc.nytimes.com
@@ -1128,6 +1125,7 @@
 0.0.0.0	axonix.com
 0.0.0.0	ay.delivery
 0.0.0.0	aztracking.net
+0.0.0.0	b-s.tercept.com
 0.0.0.0	ba.afl.rakuten.co.jp
 0.0.0.0	backbeatmedia.com
 0.0.0.0	balloontexture.com
@@ -1310,6 +1308,7 @@
 0.0.0.0	broadboundary.com
 0.0.0.0	broadcastbed.com
 0.0.0.0	broaddoor.com
+0.0.0.0	broadstreetads.com
 0.0.0.0	browser-http-intake.logs.datadoghq.com
 0.0.0.0	browser-http-intake.logs.datadoghq.eu
 0.0.0.0	bs.yandex.ru
@@ -1364,7 +1363,6 @@
 0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdn.panelbear.com
 0.0.0.0	cdn.segment.com
-0.0.0.0	cecash.com
 0.0.0.0	cedato.com
 0.0.0.0	celtra.com
 0.0.0.0	centerpointmedia.com
@@ -1449,6 +1447,7 @@
 0.0.0.0	clksite.com
 0.0.0.0	clktrx.com
 0.0.0.0	cloisteredhydrant.com
+0.0.0.0	closedcows.com
 0.0.0.0	cloudcoins.biz
 0.0.0.0	cloudflareinsights.com
 0.0.0.0	clrstm.com
@@ -1655,6 +1654,7 @@
 0.0.0.0	doubtfulrainstorm.com
 0.0.0.0	downloadr.xyz
 0.0.0.0	dpbolvw.net
+0.0.0.0	dpgawov.com
 0.0.0.0	dpu.samsungelectronics.com
 0.0.0.0	dq95d35.com
 0.0.0.0	drabsize.com
@@ -1697,6 +1697,7 @@
 0.0.0.0	elitetoplist.com
 0.0.0.0	elthamely.com
 0.0.0.0	em1.yoursantander.co.uk
+0.0.0.0	emanog.com
 0.0.0.0	emebo.com
 0.0.0.0	emebo.io
 0.0.0.0	emerse.com
@@ -1751,6 +1752,7 @@
 0.0.0.0	evergage.com
 0.0.0.0	eversales.space
 0.0.0.0	evyy.net
+0.0.0.0	exanae.com
 0.0.0.0	exchange-it.com
 0.0.0.0	exchangead.com
 0.0.0.0	exchangeclicksonline.com
@@ -1969,7 +1971,6 @@
 0.0.0.0	hittail.com
 0.0.0.0	hlok.qertewrt.com
 0.0.0.0	hocgeese.com
-0.0.0.0	hollps.win
 0.0.0.0	homelycrown.com
 0.0.0.0	homepageking.de
 0.0.0.0	honeygoldfish.com
@@ -1997,6 +1998,7 @@
 0.0.0.0	hyperbanner.net
 0.0.0.0	hypertracker.com
 0.0.0.0	hyprmx.com
+0.0.0.0	hystericalcloth.com
 0.0.0.0	hystericalhelp.com
 0.0.0.0	i-clicks.net
 0.0.0.0	i-i.lt
@@ -2016,6 +2018,7 @@
 0.0.0.0	ientrymail.com
 0.0.0.0	iesnare.com
 0.0.0.0	ifa.tube8live.com
+0.0.0.0	ihogaetw.com
 0.0.0.0	ilbanner.com
 0.0.0.0	ilead.itrack.it
 0.0.0.0	illfatedsnail.com
@@ -2415,6 +2418,7 @@
 0.0.0.0	myvisualiq.net
 0.0.0.0	n69.com
 0.0.0.0	naj.sk
+0.0.0.0	nappyattack.com
 0.0.0.0	naradxb.com
 0.0.0.0	nastydollars.com
 0.0.0.0	nativeroll.tv
@@ -2503,7 +2507,9 @@
 0.0.0.0	onaudience.com
 0.0.0.0	onclasrv.com
 0.0.0.0	onclickads.net
+0.0.0.0	onctus.com
 0.0.0.0	oneandonlynetwork.com
+0.0.0.0	onenag.com
 0.0.0.0	onenetworkdirect.com
 0.0.0.0	onestat.com
 0.0.0.0	onestatfree.com
@@ -2543,7 +2549,6 @@
 0.0.0.0	optnmstr.com
 0.0.0.0	ota.cartrawler.com
 0.0.0.0	otto-images.developershed.com
-0.0.0.0	ouh3igaeb.com
 0.0.0.0	outbrain.com
 0.0.0.0	overconfidentfood.com
 0.0.0.0	overture.com
@@ -2570,6 +2575,7 @@
 0.0.0.0	panickypancake.com
 0.0.0.0	paradoxfactor.com
 0.0.0.0	parchedangle.com
+0.0.0.0	parchedsofa.com
 0.0.0.0	parketsy.pro
 0.0.0.0	parsely.com
 0.0.0.0	parsimoniouspolice.com
@@ -2688,6 +2694,7 @@
 0.0.0.0	propellerads.com
 0.0.0.0	propellerclick.com
 0.0.0.0	proper.io
+0.0.0.0	props.id
 0.0.0.0	prosper.on-line-casino.ca
 0.0.0.0	protectcrev.com
 0.0.0.0	protectsubrev.com
@@ -2934,6 +2941,7 @@
 0.0.0.0	serv0.com
 0.0.0.0	servads.net
 0.0.0.0	servadsdisrupt.com
+0.0.0.0	serve.tercept.com
 0.0.0.0	servedby-buysellads.com
 0.0.0.0	servedbyadbutler.com
 0.0.0.0	servedbyopenx.com
@@ -3042,6 +3050,7 @@
 0.0.0.0	sponsorads.de
 0.0.0.0	sponsorpro.de
 0.0.0.0	sponsors.thoughtsmedia.com
+0.0.0.0	spookysleet.com
 0.0.0.0	sportsad.net
 0.0.0.0	spot.fitness.com
 0.0.0.0	spotlessstamp.com
@@ -3126,6 +3135,7 @@
 0.0.0.0	strivesidewalk.com
 0.0.0.0	structurerod.com
 0.0.0.0	stupendoussleet.com
+0.0.0.0	stupendoussnow.com
 0.0.0.0	subscribe.hearstmags.com
 0.0.0.0	succeedscene.com
 0.0.0.0	suddensidewalk.com
@@ -3207,7 +3217,6 @@
 0.0.0.0	telemetry.v.dropbox.com
 0.0.0.0	temelio.com
 0.0.0.0	tendertest.com
-0.0.0.0	tercept.com
 0.0.0.0	terriblethumb.com
 0.0.0.0	text-link-ads.com
 0.0.0.0	textad.sexsearch.com
@@ -3239,6 +3248,7 @@
 0.0.0.0	tidaltv.com
 0.0.0.0	tidint.pro
 0.0.0.0	tinybar.com
+0.0.0.0	tinytendency.com
 0.0.0.0	tiresomethunder.com
 0.0.0.0	tkbo.com
 0.0.0.0	tls.telemetry.swe.quicinc.com
@@ -3320,7 +3330,6 @@
 0.0.0.0	tracking.internetstores.de
 0.0.0.0	tracking.intl.miui.com
 0.0.0.0	tracking.jiffyworld.com
-0.0.0.0	tracking.lenddom.com
 0.0.0.0	tracking.markethero.io
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.olx-st.com
@@ -3403,6 +3412,7 @@
 0.0.0.0	udncoeln.com
 0.0.0.0	uib.ff.avast.com
 0.0.0.0	ukbanners.com
+0.0.0.0	ukoffzeh.com
 0.0.0.0	ultimateclixx.com
 0.0.0.0	ultramercial.com
 0.0.0.0	ultraoranges.com
@@ -3417,9 +3427,11 @@
 0.0.0.0	unwieldyhealth.com
 0.0.0.0	unwrittenspot.com
 0.0.0.0	upu.samsungelectronics.com
+0.0.0.0	uramog.com
 0.0.0.0	urlcash.net
 0.0.0.0	urldata.net
 0.0.0.0	us.a1.yimg.com
+0.0.0.0	user-shield-check.com
 0.0.0.0	userreplay.com
 0.0.0.0	userreplay.net
 0.0.0.0	usherprayer.com
@@ -3471,6 +3483,7 @@
 0.0.0.0	visualrevenue.com
 0.0.0.0	vivads.net
 0.0.0.0	vivtracking.com
+0.0.0.0	vmmpxl.com
 0.0.0.0	voicefive.com
 0.0.0.0	voicevegetable.com
 0.0.0.0	voluum.com
@@ -3601,6 +3614,7 @@
 0.0.0.0	yldbt.com
 0.0.0.0	ymetrica1.com
 0.0.0.0	yoggrt.com
+0.0.0.0	youradexchange.com
 0.0.0.0	ypu.samsungelectronics.com
 0.0.0.0	z3dmbpl6309s.com
 0.0.0.0	z5x.net
